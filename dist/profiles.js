@@ -5640,5 +5640,1705 @@ window.FISH_PROFILES = {
         "url": "https://fishdb.sinica.edu.tw/mobi/species.php?id=383133"
       }
     ]
+  },
+  "sp_pseudorasbora_parva": {
+    "range": "原生于东亚，从西伯利亚的阿穆尔河到中国珠江流域；已被引入欧洲和亚洲其他地区，部分地区报告了生态影响。",
+    "size": "FishBase 收录的最大全长为 12.5 厘米，常见全长约 8 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体型小，口小而上位，下颌稍向上翘。",
+      "体色偏灰银，体侧鳞片后缘色深。"
+    ],
+    "reproduction": "在静水或极缓流处产卵，雄鱼守护附着在物体上的卵。",
+    "behavior": "适应多种水体，常成群活动；引入地区的种群会取食其他鱼类的卵，被视为入侵风险。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Pseudorasbora parva",
+        "url": "https://www.fishbase.se/summary/Pseudorasbora-parva.html"
+      }
+    ]
+  },
+  "sp_rhodeus_amarus": {
+    "range": "原生于中欧和东欧至小亚细亚北部，涉及北海、波罗的海南部、黑海、里海和爱琴海等水系。",
+    "size": "FishBase 收录的最大全长为 11.2 厘米，常见全长约 5 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体小而侧扁，体高较大。",
+      "繁殖期雄鱼体色鲜艳，雌鱼长有伸出体外的产卵管。"
+    ],
+    "reproduction": "雌鱼用产卵管把卵产入淡水蚌的鳃腔，幼鱼在蚌体内发育一段时间后才离开。",
+    "behavior": "成群生活在水草之间；繁殖依赖双壳类，淡水蚌减少会影响种群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Rhodeus amarus",
+        "url": "https://www.fishbase.se/summary/Rhodeus-amarus.html"
+      }
+    ]
+  },
+  "sp_squaliobarbus_curriculus": {
+    "range": "东亚，见于中国和越南；朝鲜西部和俄罗斯阿穆尔河水系也有记录。",
+    "size": "FishBase 收录的最大全长为 48.8 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "眼的上缘带有红色，因此得名“赤眼”。",
+      "体长而略呈圆筒形，鳞片较大。"
+    ],
+    "reproduction": "",
+    "behavior": "生活在江河中，也见于与干流相连的湖泊。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Squaliobarbus curriculus",
+        "url": "https://www.fishbase.se/summary/Squaliobarbus-curriculus.html"
+      }
+    ]
+  },
+  "sp_culter_alburnus": {
+    "range": "东亚，从蒙古的呼伦湖、鄂嫩河与克鲁伦河水系，经阿穆尔河到红河水系，并见于台湾和海南。",
+    "size": "FishBase 收录的最大叉长为 92.8 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体侧扁而细长，口上位，下颌向上翘起。",
+      "腹鳍基部到肛门之间有明显的腹棱。"
+    ],
+    "reproduction": "",
+    "behavior": "常在水体中上层追逐小鱼，是重要的淡水渔获与垂钓对象。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Culter alburnus",
+        "url": "https://www.fishbase.se/summary/Culter-alburnus.html"
+      }
+    ]
+  },
+  "sp_labeo_rohita": {
+    "range": "原产南亚的巴基斯坦、印度、孟加拉国、缅甸和尼泊尔的河流；因养殖已广泛引入各地。",
+    "size": "FishBase 收录的最大全长为 200 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "吻钝而圆，口位于吻的下方，下唇边缘明显。",
+      "背部青灰，体侧银白，鳞片较大。"
+    ],
+    "reproduction": "雨季随洪水进入被淹没的河段产卵；雌鱼怀卵量可达数十万至两百多万粒。",
+    "behavior": "白天活动，通常单独行动，偶尔会掘穴。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Labeo rohita",
+        "url": "https://www.fishbase.se/summary/Labeo-rohita.html"
+      }
+    ]
+  },
+  "sp_labeo_catla": {
+    "range": "原产巴基斯坦、印度、孟加拉国、尼泊尔和缅甸，已被引入其他地区养殖。",
+    "size": "FishBase 收录的最大全长为 182 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "头部宽大，吻钝，口大而上翘。",
+      "体色银灰，体较高，背部隆起。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼在河流中繁殖，也能在湖泊与养殖水体中生长。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Labeo catla",
+        "url": "https://www.fishbase.se/summary/Labeo-catla.html"
+      }
+    ]
+  },
+  "sp_barbonymus_schwanefeldii": {
+    "range": "东南亚，湄公河与湄南河流域、马来半岛、苏门答腊和婆罗洲。",
+    "size": "FishBase 收录的最大标准体长为 35 厘米，常见标准体长约 20 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体高而侧扁，银色体表带有金属光泽。",
+      "尾鳍呈红色，边缘带黑色。"
+    ],
+    "reproduction": "",
+    "behavior": "成群活动，既是东南亚的食用鱼，也常见于观赏鱼市场。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Barbonymus schwanefeldii",
+        "url": "https://www.fishbase.se/summary/Barbonymus-schwanefeldii.html"
+      }
+    ]
+  },
+  "sp_pterygoplichthys_pardalis": {
+    "range": "原产南美亚马孙河流域；因观赏鱼贸易被引入多个国家和地区，成为入侵种。",
+    "size": "FishBase 收录的最大全长为 57.8 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "口呈吸盘状，位于头部腹面，身体覆盖骨板。",
+      "背鳍高耸，腹面带有网状或豹纹状的深色花纹。"
+    ],
+    "reproduction": "",
+    "behavior": "能兼用空气呼吸，在低氧水体中也能存活，因此在引入地较难控制。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Pterygoplichthys pardalis",
+        "url": "https://www.fishbase.se/summary/Pterygoplichthys-pardalis.html"
+      }
+    ]
+  },
+  "sp_synodontis_nigriventris": {
+    "range": "非洲刚果河中游流域，包括马莱博湖（斯坦利池）及开赛河、乌班吉河水系。",
+    "size": "FishBase 收录的最大全长为 9.6 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "游泳时常腹部朝上。",
+      "体小，有三对须，体色带有不规则的深浅斑纹。"
+    ],
+    "reproduction": "",
+    "behavior": "常倒游到水面取食，也会倒挂在水草或石块下方。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Synodontis nigriventris",
+        "url": "https://www.fishbase.se/summary/Synodontis-nigriventris.html"
+      }
+    ]
+  },
+  "sp_phractocephalus_hemioliopterus": {
+    "range": "南美洲亚马孙河与奥里诺科河流域；曾被引入美国佛罗里达，但没有建立种群。",
+    "size": "FishBase 收录的最大全长为 135 厘米，常见全长约 60 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "尾鳍红橙色，与深色身体对比明显。",
+      "头部宽扁，覆有骨质头盾，有三对长须。"
+    ],
+    "reproduction": "",
+    "behavior": "大型底栖鲶鱼，因其醒目的外形而为观赏鱼爱好者所知。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Phractocephalus hemioliopterus",
+        "url": "https://www.fishbase.se/summary/Phractocephalus-hemioliopterus.html"
+      }
+    ]
+  },
+  "sp_colossoma_macropomum": {
+    "range": "原产亚马孙与奥里诺科流域；养殖种群广泛分布于南美洲。",
+    "size": "FishBase 收录的最大全长为 108 厘米，常见全长约 70 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体高而侧扁，牙齿呈臼状，能压碎坚硬的种子。",
+      "背鳍后方有一个小的脂鳍。"
+    ],
+    "reproduction": "",
+    "behavior": "通常单独活动，会随洪水进入泛滥森林觅食；是南美重要的养殖鱼类。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Colossoma macropomum",
+        "url": "https://www.fishbase.se/summary/Colossoma-macropomum.html"
+      }
+    ]
+  },
+  "sp_oryzias_latipes": {
+    "range": "东亚，见于日本、朝鲜半岛、中国和越南。",
+    "size": "FishBase 收录的最大标准体长为 4 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体小，眼大，背鳍位置靠近尾部。",
+      "口上位；雄鱼的臀鳍比雌鱼更长。"
+    ],
+    "reproduction": "雌鱼产卵后，卵团会短暂附着在腹部，随后被挂到水草上。",
+    "behavior": "常在水面附近成群活动，能耐受较宽的温度与盐度范围，是常见的实验动物。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Oryzias latipes",
+        "url": "https://www.fishbase.se/summary/Oryzias-latipes.html"
+      }
+    ]
+  },
+  "sp_poecilia_latipinna": {
+    "range": "北美东南部，从北卡罗来纳州开普菲尔河流域到墨西哥韦拉克鲁斯；已被引入许多国家。",
+    "size": "FishBase 收录的最大全长为 15 厘米，常见全长约 3.4 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "雄鱼背鳍宽大呈帆状，求偶时会展开。",
+      "体侧常有成排的深色小点，色彩因品系而异。"
+    ],
+    "reproduction": "卵胎生，雌鱼直接产下幼鱼。",
+    "behavior": "耐盐，常见于潮汐沟渠与半咸水运河。",
+    "lookalike": "雄鱼背鳍宽大如帆，可与近缘的黑玛丽（Poecilia sphenops）区分。",
+    "sources": [
+      {
+        "label": "FishBase · Poecilia latipinna",
+        "url": "https://www.fishbase.se/summary/Poecilia-latipinna.html"
+      }
+    ]
+  },
+  "sp_macropodus_opercularis": {
+    "range": "中国长江流域以南、海南岛、台湾和越南北部；已被引入热带和亚热带的许多地区。",
+    "size": "FishBase 收录的最大标准体长为 6.7 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "尾鳍分叉，上下叶的尖端延长。",
+      "体侧有红蓝相间的横纹，鳃盖后缘有深色斑。"
+    ],
+    "reproduction": "雄鱼吐泡沫筑巢，卵产在泡沫中并由雄鱼守护。",
+    "behavior": "具迷鳃器官，是专性空气呼吸鱼；雄鱼有领地行为。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Macropodus opercularis",
+        "url": "https://www.fishbase.se/summary/Macropodus-opercularis.html"
+      }
+    ]
+  },
+  "sp_anabas_testudineus": {
+    "range": "亚洲，从印度到华莱士线的大部分地区，包括中国。",
+    "size": "FishBase 收录的最大全长为 25 厘米，常见全长约 12.5 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "鳃盖边缘有锯齿状的棘，能在陆地上辅助爬行。",
+      "体色多为灰褐，尾柄基部常有一个暗斑。"
+    ],
+    "reproduction": "",
+    "behavior": "是专性空气呼吸鱼；水体干涸或恶化时可离水，经陆地迁往新水体。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Anabas testudineus",
+        "url": "https://www.fishbase.se/summary/Anabas-testudineus.html"
+      }
+    ]
+  },
+  "sp_morone_saxatilis": {
+    "range": "西大西洋，从加拿大圣劳伦斯河到美国路易斯安那州的庞恰特雷恩湖，南至佛罗里达州。",
+    "size": "FishBase 收录的最大全长为 200 厘米，常见全长约 120 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体侧有七八条纵向的深色细条纹。",
+      "背部橄榄至蓝绿色，腹部银白，有两个分开的背鳍。"
+    ],
+    "reproduction": "",
+    "behavior": "春季成鱼会进入河流产卵；部分种群被限制在内陆水体中。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Morone saxatilis",
+        "url": "https://www.fishbase.se/summary/Morone-saxatilis.html"
+      }
+    ]
+  },
+  "sp_perca_flavescens": {
+    "range": "北美，从新斯科舍到西北地区的麦肯齐河流域，向南到俄亥俄、伊利诺伊和内布拉斯加等地。",
+    "size": "FishBase 收录的最大全长为 50 厘米，常见全长约 19.1 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体侧黄绿色，有六到八条宽阔的深色竖带。",
+      "两个背鳍分开，腹鳍与臀鳍常带橙黄色。"
+    ],
+    "reproduction": "",
+    "behavior": "春季常在近岸成群活动，也能耐受半咸水和盐湖。",
+    "lookalike": "与欧亚的河鲈（Perca fluviatilis）同属且外形相似，但分布在北美。",
+    "sources": [
+      {
+        "label": "FishBase · Perca flavescens",
+        "url": "https://www.fishbase.se/summary/Perca-flavescens.html"
+      }
+    ]
+  },
+  "sp_osphronemus_goramy": {
+    "range": "可能原产于苏门答腊、婆罗洲、爪哇、马来半岛、泰国和中南半岛的湄公河流域；因养殖已被引入多个国家。",
+    "size": "FishBase 收录的最大标准体长为 70 厘米，常见标准体长约 45 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体高侧扁，成鱼前额隆起，吻部突出。",
+      "腹鳍特化为细长的丝状，用来探测周围。"
+    ],
+    "reproduction": "雄鱼用植物碎屑筑巢并守护卵和幼鱼。",
+    "behavior": "具迷鳃器官，可呼吸空气；是东南亚常见的养殖食用鱼。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Osphronemus goramy",
+        "url": "https://www.fishbase.se/summary/Osphronemus-goramy.html"
+      }
+    ]
+  },
+  "sp_trachinotus_blochii": {
+    "range": "印度—太平洋，从红海、东非到马绍尔群岛和萨摩亚，北至日本南部，南至澳大利亚。",
+    "size": "FishBase 收录的最大叉长为 110 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体呈卵圆形，侧扁，银白色。",
+      "背鳍与臀鳍前部呈镰刀状，尾鳍深叉。"
+    ],
+    "reproduction": "",
+    "behavior": "幼鱼成小群，成鱼多单独活动；是东亚沿海重要的养殖鱼类。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Trachinotus blochii",
+        "url": "https://www.fishbase.se/summary/Trachinotus-blochii.html"
+      }
+    ]
+  },
+  "sp_channa_maculata": {
+    "range": "东亚，包括日本、中国南部、越南、台湾和菲律宾。",
+    "size": "FishBase 收录的最大标准体长为 26.6 厘米，常见标准体长约 11 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体呈圆筒形，头部扁平似蛇，体侧有深色的不规则斑块。",
+      "背鳍和臀鳍很长，尾鳍圆形。"
+    ],
+    "reproduction": "",
+    "behavior": "是专性空气呼吸鱼；在稻田中也有养殖记录。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Channa maculata",
+        "url": "https://www.fishbase.se/summary/Channa-maculata.html"
+      }
+    ]
+  },
+  "sp_lutjanus_argentimaculatus": {
+    "range": "印度—西太平洋，从东非到萨摩亚与莱恩群岛，北至琉球群岛，南至澳大利亚。",
+    "size": "FishBase 收录的最大全长为 150 厘米，常见全长约 80 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体色多呈暗红或棕红，成鱼体侧鳞片轮廓较淡。",
+      "背鳍连续，前部有棘，尾鳍近截形。"
+    ],
+    "reproduction": "",
+    "behavior": "耐盐范围宽，幼鱼在河口生长，成鱼常在礁区成群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Lutjanus argentimaculatus",
+        "url": "https://www.fishbase.se/summary/Lutjanus-argentimaculatus.html"
+      }
+    ]
+  },
+  "sp_sciaenops_ocellatus": {
+    "range": "西大西洋，从美国马萨诸塞州到墨西哥北部，包括佛罗里达南部。",
+    "size": "FishBase 收录的最大全长为 155 厘米，常见全长约 100 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "尾柄上方常有一个或多个黑色眼斑。",
+      "体呈铜红至银色，背部较深，颏部没有须。"
+    ],
+    "reproduction": "",
+    "behavior": "幼鱼多在河口，成鱼可到外海；在近岸浪区很常见，是垂钓与养殖对象。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Sciaenops ocellatus",
+        "url": "https://www.fishbase.se/summary/Sciaenops-ocellatus.html"
+      }
+    ]
+  },
+  "sp_scatophagus_argus": {
+    "range": "印度—太平洋，从科威特到斐济，北至日本南部，南至新喀里多尼亚。",
+    "size": "FishBase 收录的最大全长为 45 厘米，常见全长约 20 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体呈圆盘形，高而侧扁，体侧布有大小不一的深色圆斑。",
+      "背鳍、臀鳍和腹鳍的棘锋利，处理时需小心。"
+    ],
+    "reproduction": "",
+    "behavior": "常见于红树林和河口，幼鱼会随潮汐进入河流下游。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Scatophagus argus",
+        "url": "https://www.fishbase.se/summary/Scatophagus-argus.html"
+      }
+    ]
+  },
+  "sp_toxotes_jaculatrix": {
+    "range": "亚洲和大洋洲，从印度向东到菲律宾，南至印度尼西亚、瓦努阿图、所罗门群岛、巴布亚新几内亚和澳大利亚北部。",
+    "size": "FishBase 收录的最大全长为 30 厘米，常见全长约 20 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体侧有数条深色竖斑，背鳍位置靠后。",
+      "口大而上位，眼大，利于观察水面上方。"
+    ],
+    "reproduction": "",
+    "behavior": "常成小群，会向水面上方的昆虫喷水，把猎物击落后取食。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Toxotes jaculatrix",
+        "url": "https://www.fishbase.se/summary/Toxotes-jaculatrix.html"
+      }
+    ]
+  },
+  "sp_platax_orbicularis": {
+    "range": "印度—太平洋，从红海、东非和波斯湾到图阿莫图群岛，北至日本南部，南至澳大利亚北部和新喀里多尼亚。",
+    "size": "FishBase 收录的最大全长为 60 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "身体近圆形、极侧扁，背鳍和臀鳍高耸。",
+      "幼鱼深色并仿佛枯叶，成鱼银灰带暗色横带。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼单独或成小群，偶尔聚成大群；幼鱼躲藏在红树林中。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Platax orbicularis",
+        "url": "https://www.fishbase.se/summary/Platax-orbicularis.html"
+      }
+    ]
+  },
+  "sp_cheilinus_undulatus": {
+    "range": "印度—太平洋，从红海到南非和图阿莫图群岛，北至琉球群岛，南至新喀里多尼亚。",
+    "size": "FishBase 收录的最大标准体长为 229 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "成鱼额部隆起，形成突出的前额。",
+      "唇厚，头部有蜿蜒的深色条纹，体色蓝绿。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼多单独活动；受捕捞压力影响，已被列为濒危物种。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Cheilinus undulatus",
+        "url": "https://www.fishbase.se/summary/Cheilinus-undulatus.html"
+      }
+    ]
+  },
+  "sp_epibulus_insidiator": {
+    "range": "印度—太平洋，从红海到南非，东至夏威夷和图阿莫图群岛，北至日本南部，南至新喀里多尼亚。",
+    "size": "FishBase 收录的最大标准体长为 54 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "口可向前高度伸出成管状，用来突袭猎物。",
+      "体色因个体而异，常见黄色或褐色的色型。"
+    ],
+    "reproduction": "",
+    "behavior": "多独居；可随漂浮的叶子漂流迁移。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Epibulus insidiator",
+        "url": "https://www.fishbase.se/summary/Epibulus-insidiator.html"
+      }
+    ]
+  },
+  "sp_scarus_ghobban": {
+    "range": "印度—太平洋，从南非阿尔戈阿湾和红海到拉帕岛、杜西岛，北至日本南部，南至澳大利亚；东太平洋也有分布。",
+    "size": "FishBase 收录的最大全长为 75 厘米，常见全长约 30 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体呈绿灰色，体侧鳞片上有蓝色线条或斑点。",
+      "牙齿愈合成板，像鸟喙。"
+    ],
+    "reproduction": "",
+    "behavior": "常独居，有时小群活动；雌雄体色不同。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Scarus ghobban",
+        "url": "https://www.fishbase.se/summary/Scarus-ghobban.html"
+      }
+    ]
+  },
+  "sp_acanthurus_triostegus": {
+    "range": "印度—太平洋大部分海域（阿拉伯半岛周边除外），东太平洋从加利福尼亚湾到巴拿马。",
+    "size": "FishBase 收录的最大全长为 27 厘米，常见全长约 17 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体侧有多条垂直的黑色细横带，底色浅黄绿。",
+      "尾柄两侧各有一枚可竖起的小棘。"
+    ],
+    "reproduction": "",
+    "behavior": "偶尔成群觅食，大群可在浅礁上同时刮食藻类。",
+    "lookalike": "豆娘鱼类（如五带豆娘鱼）也有黑色横带，但本种尾柄有可竖起的棘。",
+    "sources": [
+      {
+        "label": "FishBase · Acanthurus triostegus",
+        "url": "https://www.fishbase.se/summary/Acanthurus-triostegus.html"
+      }
+    ]
+  },
+  "sp_naso_unicornis": {
+    "range": "印度—太平洋，从红海、东非到夏威夷、马克萨斯和图阿莫图群岛，北至日本南部，南至豪勋爵岛和拉帕岛。",
+    "size": "FishBase 收录的最大叉长为 70 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "成鱼额部常有向前突出的角状隆起。",
+      "尾柄两侧各有两枚固定的骨质板。"
+    ],
+    "reproduction": "",
+    "behavior": "常小群活动，有时独居；多在白天觅食。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Naso unicornis",
+        "url": "https://www.fishbase.se/summary/Naso-unicornis.html"
+      }
+    ]
+  },
+  "sp_acanthurus_coeruleus": {
+    "range": "西大西洋，从美国纽约、百慕大到墨西哥湾和巴西；东大西洋有阿森松岛的记录。",
+    "size": "FishBase 收录的最大全长为 39 厘米，常见全长约 25 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "成鱼体呈蓝色，幼鱼为鲜黄色。",
+      "尾柄两侧各有一枚可竖起的小棘。"
+    ],
+    "reproduction": "",
+    "behavior": "常成小群、白天活动；在巴西费尔南多—迪诺罗尼亚群岛，幼鱼曾与其他刺尾鱼一同设立清洁站。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Acanthurus coeruleus",
+        "url": "https://www.fishbase.se/summary/Acanthurus-coeruleus.html"
+      }
+    ]
+  },
+  "sp_pomacentrus_coelestis": {
+    "range": "东印度洋至西中太平洋，从斯里兰卡到莱恩群岛与图阿莫图群岛，北至日本南部，南至罗利浅滩和豪勋爵岛。",
+    "size": "FishBase 收录的最大全长为 9 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体呈亮蓝色，腹部和尾部带黄色。",
+      "体型小，为雀鲷科常见的卵圆形。"
+    ],
+    "reproduction": "",
+    "behavior": "幼鱼常在软珊瑚间成群；成鱼小群活动，或在合适的礁段聚成大群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Pomacentrus coelestis",
+        "url": "https://www.fishbase.se/summary/Pomacentrus-coelestis.html"
+      }
+    ]
+  },
+  "sp_abudefduf_vaigiensis": {
+    "range": "印度—太平洋，从红海、东非到莱恩群岛与图阿莫图群岛，北至日本南部，南至澳大利亚；新西兰岛屿湾也有记录。",
+    "size": "FishBase 收录的最大全长为 20 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体侧有五条竖直的暗色横带。",
+      "背部偏黄绿，腹部颜色浅。"
+    ],
+    "reproduction": "",
+    "behavior": "常在中层水域成群觅食，也在岩石间守护巢卵。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Abudefduf vaigiensis",
+        "url": "https://www.fishbase.se/summary/Abudefduf-vaigiensis.html"
+      }
+    ]
+  },
+  "sp_amphiprion_biaculeatus": {
+    "range": "印度—西太平洋，包括印度、缅甸、泰国、马来西亚、印度尼西亚、菲律宾、新几内亚、所罗门群岛、瓦努阿图和澳大利亚。",
+    "size": "FishBase 收录的最大全长为 17 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体色深红，体侧有一条白色竖带。",
+      "脸颊有向后的小棘。"
+    ],
+    "reproduction": "产卵于海葵附近的基底上，雄鱼守护卵。",
+    "behavior": "成对生活，雌鱼比雄鱼大得多，与大型海葵共生。",
+    "lookalike": "其他小丑鱼多呈橙色，本种红色更深并带有颊棘。",
+    "sources": [
+      {
+        "label": "FishBase · Amphiprion biaculeatus",
+        "url": "https://www.fishbase.se/summary/Amphiprion-biaculeatus.html"
+      }
+    ]
+  },
+  "sp_chaetodon_ephippium": {
+    "range": "印度—太平洋，从斯里兰卡与科科斯（基林）群岛到夏威夷、马克萨斯和图阿莫图群岛，北至日本南部，南至罗利浅滩和新南威尔士。",
+    "size": "FishBase 收录的最大全长为 30 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体后上方有一大块黑色鞍状斑，边缘为白色。",
+      "体前部灰蓝，体后和腹部带黄色。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼多成对，幼鱼独居且常在近岸。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Chaetodon ephippium",
+        "url": "https://www.fishbase.se/summary/Chaetodon-ephippium.html"
+      }
+    ]
+  },
+  "sp_forcipiger_flavissimus": {
+    "range": "印度—太平洋，从东非和红海到夏威夷和复活节岛，北至日本南部，南至豪勋爵岛；东太平洋从下加利福尼亚到巴拿马。",
+    "size": "FishBase 收录的最大全长为 22 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "吻部细长，像一把镊子，体色鲜黄。",
+      "头部上半偏深色，下半偏银白。"
+    ],
+    "reproduction": "",
+    "behavior": "单独或小群活动，成鱼常成对。",
+    "lookalike": "近缘的长吻镊口鱼（Forcipiger longirostris）吻部更长。",
+    "sources": [
+      {
+        "label": "FishBase · Forcipiger flavissimus",
+        "url": "https://www.fishbase.se/summary/Forcipiger-flavissimus.html"
+      }
+    ]
+  },
+  "sp_pygoplites_diacanthus": {
+    "range": "印度—太平洋，从红海、东非到图阿莫图群岛，北至琉球和小笠原群岛，南至大堡礁和新喀里多尼亚。",
+    "size": "FishBase 收录的最大标准体长为 25 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体侧有多条橙色与蓝白相间的弧形斜纹。",
+      "尾鳍鲜黄。"
+    ],
+    "reproduction": "",
+    "behavior": "单独、成对或偶尔成群；对环境变化敏感，在水族箱中很少能长期存活。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Pygoplites diacanthus",
+        "url": "https://www.fishbase.se/summary/Pygoplites-diacanthus.html"
+      }
+    ]
+  },
+  "sp_holacanthus_ciliaris": {
+    "range": "西大西洋，从美国佛罗里达与墨西哥湾到巴西，另见于圣保罗岩礁。",
+    "size": "FishBase 收录的最大全长为 45 厘米，常见全长约 30 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "额头有一块被蓝色圈起的“皇冠”斑。",
+      "体呈蓝绿，鳞片边缘橙黄，尾鳍黄色。"
+    ],
+    "reproduction": "",
+    "behavior": "通常单独或成对活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Holacanthus ciliaris",
+        "url": "https://www.fishbase.se/summary/Holacanthus-ciliaris.html"
+      }
+    ]
+  },
+  "sp_epinephelus_lanceolatus": {
+    "range": "印度—太平洋，从红海和南非阿尔戈阿湾向东到夏威夷和皮特凯恩群岛，北至日本南部，南至澳大利亚。",
+    "size": "FishBase 收录的最大全长为 270 厘米，常见全长约 190 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体型粗壮，头大，成鱼褐色并带不规则暗斑。",
+      "幼鱼为黄色与黑色相间的大块色斑。"
+    ],
+    "reproduction": "",
+    "behavior": "是珊瑚礁中最大的硬骨鱼；幼鱼隐蔽在礁中，成鱼常见于洞穴、沉船和浅水。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Epinephelus lanceolatus",
+        "url": "https://www.fishbase.se/summary/Epinephelus-lanceolatus.html"
+      }
+    ]
+  },
+  "sp_plectropomus_leopardus": {
+    "range": "西太平洋，从西澳大利亚向东到加罗林群岛和斐济，从日本南部到澳大利亚昆士兰。",
+    "size": "FishBase 收录的最大标准体长为 120 厘米，常见标准体长约 35 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体色多为红色至橙红，布满蓝色小斑点。",
+      "鳃盖骨边缘有小棘。"
+    ],
+    "reproduction": "",
+    "behavior": "单独活动，夜间躲在岩礁下；是重要的活鱼贸易鱼类。",
+    "lookalike": "该属有多个相似物种，常被误认。",
+    "sources": [
+      {
+        "label": "FishBase · Plectropomus leopardus",
+        "url": "https://www.fishbase.se/summary/Plectropomus-leopardus.html"
+      }
+    ]
+  },
+  "sp_cephalopholis_argus": {
+    "range": "印度—太平洋，从红海到南非德班，向东到法属波利尼西亚。",
+    "size": "FishBase 收录的最大全长为 60 厘米，常见全长约 40 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体呈深棕，布满带蓝色边缘的黑色圆斑。",
+      "体侧常有数条较淡的竖带；背鳍有九枚硬棘。"
+    ],
+    "reproduction": "",
+    "behavior": "较常见；成鱼栖于各种珊瑚环境，幼鱼偏爱浅水保护的珊瑚丛。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Cephalopholis argus",
+        "url": "https://www.fishbase.se/summary/Cephalopholis-argus.html"
+      }
+    ]
+  },
+  "sp_epinephelus_akaara": {
+    "range": "西北太平洋，包括中国南部、台湾、东海、朝鲜半岛和日本南部。",
+    "size": "FishBase 收录的最大全长为 58 厘米，常见全长约 30 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体侧布满橙红至红褐色的小斑点。",
+      "体侧有若干条模糊的暗色横带。"
+    ],
+    "reproduction": "",
+    "behavior": "栖息在岩礁区；是备受欢迎的食用鱼，常见于香港的活鱼市场。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Epinephelus akaara",
+        "url": "https://www.fishbase.se/summary/Epinephelus-akaara.html"
+      }
+    ]
+  },
+  "sp_periophthalmus_modestus": {
+    "range": "西北太平洋，从越南北部向北到朝鲜半岛和日本南部。",
+    "size": "FishBase 收录的最大标准体长为 15.3 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "眼睛突出于头顶，彼此靠近。",
+      "胸鳍基部强壮，像“臂”一样撑起身体在泥上跳跃。"
+    ],
+    "reproduction": "",
+    "behavior": "能长时间离水，在潮池与空气之间往返；保持皮肤湿润即可呼吸空气。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Periophthalmus modestus",
+        "url": "https://www.fishbase.se/summary/Periophthalmus-modestus.html"
+      }
+    ]
+  },
+  "sp_thunnus_orientalis": {
+    "range": "北太平洋，从阿拉斯加湾到加利福尼亚南部与下加利福尼亚，另从鄂霍次克海南部的萨哈林岛到菲律宾北部。",
+    "size": "FishBase 收录的最大叉长为 300 厘米，常见叉长约 200 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体呈纺锤形，背部深蓝，腹部银白。",
+      "第二背鳍与臀鳍后方有一列小鳍，尾柄两侧有龙骨突。"
+    ],
+    "reproduction": "",
+    "behavior": "按体型成群，会长距离迁徙，夏季沿下加利福尼亚海岸向北移动。",
+    "lookalike": "与大西洋蓝鳍金枪鱼（Thunnus thynnus）近缘，两者曾被视为同一物种。",
+    "sources": [
+      {
+        "label": "FishBase · Thunnus orientalis",
+        "url": "https://www.fishbase.se/summary/Thunnus-orientalis.html"
+      }
+    ]
+  },
+  "sp_scomberomorus_commerson": {
+    "range": "红海和南非向东到东南亚，北至中国和日本，南至澳大利亚东南部和斐济；也已通过苏伊士运河进入地中海东部。",
+    "size": "FishBase 收录的最大叉长为 240 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体细长侧扁，体侧有许多垂直的灰色波纹。",
+      "第二背鳍和臀鳍后方有小鳍，尾鳍深叉。"
+    ],
+    "reproduction": "",
+    "behavior": "常单独或小群巡游，是印度—太平洋的重要经济鱼类。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Scomberomorus commerson",
+        "url": "https://www.fishbase.se/summary/Scomberomorus-commerson.html"
+      }
+    ]
+  },
+  "sp_pseudanthias_squamipinnis": {
+    "range": "印度—西太平洋，从红海和南非纳塔尔到纽埃，北至日本，南至澳大利亚。",
+    "size": "FishBase 收录的最大全长为 15 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "雄鱼橙红带紫，背鳍第三棘延长成丝状。",
+      "雌鱼和幼鱼为金橙色，体型较小。"
+    ],
+    "reproduction": "",
+    "behavior": "形成大群；是雌性先熟的雌雄同体鱼，雄鱼有领地并带领雌鱼群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Pseudanthias squamipinnis",
+        "url": "https://www.fishbase.se/summary/Pseudanthias-squamipinnis.html"
+      }
+    ]
+  },
+  "sp_boleophthalmus_pectinirostris": {
+    "range": "西北太平洋，中国、朝鲜半岛、日本和台湾。",
+    "size": "FishBase 收录的最大全长为 17.5 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "眼睛高高突起，像潜望镜。",
+      "胸鳍基部有肌肉柄，能支撑身体在泥面上移动。"
+    ],
+    "reproduction": "",
+    "behavior": "是两栖的空气呼吸鱼，在潮池与空气之间往返。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Boleophthalmus pectinirostris",
+        "url": "https://www.fishbase.se/summary/Boleophthalmus-pectinirostris.html"
+      }
+    ]
+  },
+  "sp_thunnus_alalunga": {
+    "range": "热带和温带的各大洋，包括地中海，但在赤道北纬10度至南纬10度之间不到表层。",
+    "size": "FishBase 收录的最大叉长为 140 厘米，常见叉长约 100 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "胸鳍极长，可延伸到第二背鳍之后。",
+      "体呈纺锤形，尾鳍后缘带白边。"
+    ],
+    "reproduction": "",
+    "behavior": "游泳速度快，会长距离迁徙；是罐头业的重要原料。",
+    "lookalike": "与黄鳍金枪鱼等相比，本种胸鳍更长。",
+    "sources": [
+      {
+        "label": "FishBase · Thunnus alalunga",
+        "url": "https://www.fishbase.se/summary/Thunnus-alalunga.html"
+      }
+    ]
+  },
+  "sp_acanthocybium_solandri": {
+    "range": "大西洋、印度洋和太平洋的热带和亚热带水域，包括加勒比海与地中海。",
+    "size": "FishBase 收录的最大全长为 250 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "身体细长呈鱼雷形，体侧有数十条垂直的蓝色细纹。",
+      "吻长，上下颌有锋利的牙。"
+    ],
+    "reproduction": "",
+    "behavior": "常单独或松散成小群，不像其他金枪鱼那样紧密集群；是知名的游钓鱼种。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Acanthocybium solandri",
+        "url": "https://www.fishbase.se/summary/Acanthocybium-solandri.html"
+      }
+    ]
+  },
+  "sp_konosirus_punctatus": {
+    "range": "西北太平洋沿岸，从日本、符拉迪沃斯托克附近海域到中国渤海、黄海、东海和台湾岛、香港一带。",
+    "size": "FishBase 收录的最大全长为 32 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体侧肩部后方有一个黑色圆斑，其后常有一列小黑点。",
+      "背鳍最后一条鳍条延长成丝状。"
+    ],
+    "reproduction": "",
+    "behavior": "近岸成群，繁殖季节进入较浅的半咸水；每年可能多次产卵。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Konosirus punctatus",
+        "url": "https://www.fishbase.se/summary/Konosirus-punctatus.html"
+      }
+    ]
+  },
+  "sp_ilisha_elongata": {
+    "range": "印度—西太平洋，向北到东海、朝鲜半岛和日本南部沿岸。",
+    "size": "FishBase 收录的最大全长为 60 厘米，常见全长约 30 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体侧扁，腹缘有锯齿状的棱鳞。",
+      "口上翘，下颌突出，体银白。"
+    ],
+    "reproduction": "",
+    "behavior": "暖水性鱼类，冷年份不会到达分布区北部；在中医中也有药用记录。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Ilisha elongata",
+        "url": "https://www.fishbase.se/summary/Ilisha-elongata.html"
+      }
+    ]
+  },
+  "sp_megalops_cyprinoides": {
+    "range": "印度—太平洋，从波斯湾、红海和南非纳塔尔到社会群岛，北至朝鲜半岛南部，南至澳大利亚。",
+    "size": "FishBase 收录的最大全长为 150 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体呈银色，背鳍最后一条鳍条延长成丝状。",
+      "口大，下颌突出，下颌之间有骨质喉板。"
+    ],
+    "reproduction": "",
+    "behavior": "能用鳔呼吸空气；耐受的盐度和pH范围很宽。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Megalops cyprinoides",
+        "url": "https://www.fishbase.se/summary/Megalops-cyprinoides.html"
+      }
+    ]
+  },
+  "sp_megalops_atlanticus": {
+    "range": "大西洋，西大西洋从加拿大新斯科舍和百慕大到巴西，包括墨西哥湾与加勒比海；东大西洋从毛里塔尼亚到安哥拉。",
+    "size": "FishBase 收录的最大全长为 250 厘米，常见全长约 130 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体覆大而银亮的鳞片。",
+      "背鳍最后一条鳍条延长成丝状，下颌突出。"
+    ],
+    "reproduction": "",
+    "behavior": "能用鳔呼吸空气；大群可在同一地点出现多年。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Megalops atlanticus",
+        "url": "https://www.fishbase.se/summary/Megalops-atlanticus.html"
+      }
+    ]
+  },
+  "sp_chanos_chanos": {
+    "range": "印度—西太平洋，从南非到红海，向东到夏威夷和马克萨斯群岛，北至日本；东太平洋从加利福尼亚到加拉帕戈斯。",
+    "size": "FishBase 收录的最大标准体长为 180 厘米，常见标准体长约 100 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体呈流线型，银色，侧扁。",
+      "眼被透明的脂眼睑覆盖，尾鳍深叉。"
+    ],
+    "reproduction": "",
+    "behavior": "常成群活动；在东南亚和台湾是重要的养殖鱼类，称“虱目鱼”。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Chanos chanos",
+        "url": "https://www.fishbase.se/summary/Chanos-chanos.html"
+      }
+    ]
+  },
+  "sp_brachymystax_lenok": {
+    "range": "亚洲，西伯利亚、朝鲜半岛和中国北部。",
+    "size": "FishBase 收录的最大全长为 70 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "鳞片很细小，体侧有稀疏的小斑点。",
+      "体呈长梭形，背部青褐，腹部偏银白。"
+    ],
+    "reproduction": "",
+    "behavior": "生长缓慢，终生生活在淡水中，不入海。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Brachymystax lenok",
+        "url": "https://www.fishbase.se/summary/Brachymystax-lenok.html"
+      }
+    ]
+  },
+  "sp_oncorhynchus_masou": {
+    "range": "西北太平洋，以日本及邻近海域为主。",
+    "size": "FishBase 收录的最大全长为 79 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "幼鱼体侧有椭圆形的幼鱼斑。",
+      "成鱼体银白，繁殖期体色变深并出现婚姻色。"
+    ],
+    "reproduction": "",
+    "behavior": "河流型常占据领地；洄游型顺流而下，在咸淡水区短暂停留后入海。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Oncorhynchus masou",
+        "url": "https://www.fishbase.se/summary/Oncorhynchus-masou.html"
+      }
+    ]
+  },
+  "sp_oncorhynchus_keta": {
+    "range": "北太平洋，从朝鲜、日本、鄂霍次克海和白令海到阿拉斯加北极海岸，南至美国加利福尼亚圣迭戈。",
+    "size": "FishBase 收录的最大叉长为 100 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "繁殖期的雄鱼体侧出现紫红至绿色的婚姻色带。",
+      "背部没有显著的黑色大斑点。"
+    ],
+    "reproduction": "",
+    "behavior": "幼鱼在河口成群，随后入海；成鱼回到河流产卵。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Oncorhynchus keta",
+        "url": "https://www.fishbase.se/summary/Oncorhynchus-keta.html"
+      }
+    ]
+  },
+  "sp_salmo_trutta": {
+    "range": "欧洲和亚洲，从西班牙到俄罗斯，涉及大西洋、北海、白海和波罗的海水系；已被引入许多国家。",
+    "size": "FishBase 收录的最大标准体长为 140 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体侧有黑色与红色的斑点，常带浅色晕环。",
+      "尾鳍近截形，几乎没有明显的叉。"
+    ],
+    "reproduction": "",
+    "behavior": "在淡水生活1到5年后，部分个体入海；湖泊种群洄游到支流产卵。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Salmo trutta",
+        "url": "https://www.fishbase.se/summary/Salmo-trutta.html"
+      }
+    ]
+  },
+  "sp_gadus_chalcogrammus": {
+    "range": "东北大西洋、北极至北太平洋，从挪威、斯瓦尔巴向东到拉普捷夫海、朝鲜半岛南部和波弗特海，南至美国加利福尼亚。",
+    "size": "FishBase 收录的最大全长为 91 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "背部有三个背鳍，臀鳍有两个。",
+      "下颌稍突出，颏须极小或缺失。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼多栖息近底，但会做昼夜垂直移动；是世界上渔获量最大的鱼种之一。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Gadus chalcogrammus",
+        "url": "https://www.fishbase.se/summary/Gadus-chalcogrammus.html"
+      }
+    ]
+  },
+  "sp_plecoglossus_altivelis": {
+    "range": "西北太平洋，从日本北海道西部到朝鲜半岛、台湾和中国。",
+    "size": "FishBase 收录的最大全长为 70 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体细长，口大，口角延伸到眼的下方。",
+      "背鳍后方有一个小的脂鳍。"
+    ],
+    "reproduction": "秋季在河流下游的砾石河床产卵，仔鱼随后顺流入海。",
+    "behavior": "一般只活一年；成鱼春季上溯河流。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Plecoglossus altivelis",
+        "url": "https://www.fishbase.se/summary/Plecoglossus-altivelis.html"
+      }
+    ]
+  },
+  "sp_gadus_macrocephalus": {
+    "range": "北太平洋，从日本海和黄海北部经鄂霍次克海、白令海，到美国加利福尼亚沿岸。",
+    "size": "FishBase 收录的最大全长为 119 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "有三个背鳍和两个臀鳍，颏部有一条须。",
+      "头大，上颌稍长于下颌，体色灰褐并带斑点。"
+    ],
+    "reproduction": "",
+    "behavior": "成群活动，是不挑食的捕食者，主要生活在大陆架上。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Gadus macrocephalus",
+        "url": "https://www.fishbase.se/summary/Gadus-macrocephalus.html"
+      }
+    ]
+  },
+  "sp_diodon_hystrix": {
+    "range": "环热带分布，包括东太平洋、西大西洋（含百慕大）和东大西洋。",
+    "size": "FishBase 收录的最大全长为 91 厘米，常见全长约 40 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "全身布满可竖起的长棘，体表有密集的黑色小斑点。",
+      "眼大，牙齿愈合成喙状。"
+    ],
+    "reproduction": "",
+    "behavior": "夜行性；幼鱼在大洋表层漂流，成鱼底栖。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Diodon hystrix",
+        "url": "https://www.fishbase.se/summary/Diodon-hystrix.html"
+      }
+    ]
+  },
+  "sp_pseudopleuronectes_americanus": {
+    "range": "西大西洋，从加拿大拉布拉多到美国佐治亚州。",
+    "size": "FishBase 收录的最大全长为 64 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "两眼位于身体右侧，体色呈红褐到橄榄色。",
+      "口小，尾柄较宽，尾鳍圆而近截形。"
+    ],
+    "reproduction": "分批产卵。",
+    "behavior": "栖息于底部，多在白天觅食。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Pseudopleuronectes americanus",
+        "url": "https://www.fishbase.se/summary/Pseudopleuronectes-americanus.html"
+      }
+    ]
+  },
+  "sp_pseudobalistes_fuscus": {
+    "range": "印度—太平洋，从红海、东非经澳大利亚北部到社会群岛，北至日本南部。",
+    "size": "FishBase 收录的最大全长为 55 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体色深蓝褐，身体与鳍上有浅色细点和细线。",
+      "第一背鳍有三枚棘，眼位于头部上方。"
+    ],
+    "reproduction": "",
+    "behavior": "幼鱼多在近岸的碎石礁或小块礁上；成鱼较少见，常在较深处。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Pseudobalistes fuscus",
+        "url": "https://www.fishbase.se/summary/Pseudobalistes-fuscus.html"
+      }
+    ]
+  },
+  "sp_aluterus_scriptus": {
+    "range": "环热带分布。",
+    "size": "FishBase 收录的最大全长为 110 厘米，常见全长约 55 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "身体长而侧扁，背部有一枚细长的棘。",
+      "体表布满蓝色线条和小斑点，尾鳍大而圆。"
+    ],
+    "reproduction": "",
+    "behavior": "幼鱼可随漂浮藻类在外海漂流很久；成鱼多在较深的礁区。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Aluterus scriptus",
+        "url": "https://www.fishbase.se/summary/Aluterus-scriptus.html"
+      }
+    ]
+  },
+  "sp_lactoria_cornuta": {
+    "range": "印度—太平洋，从红海、东非到马克萨斯和图阿莫图群岛，北至日本南部，南至豪勋爵岛。",
+    "size": "FishBase 收录的最大全长为 46 厘米，常见全长约 40 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "身体包在坚硬的箱形骨甲内，头顶有一对长角。",
+      "臀部后方还有一对向后的长刺。"
+    ],
+    "reproduction": "",
+    "behavior": "游得较慢，主要靠鳍小幅摆动；受到惊吓时皮肤能分泌毒素。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Lactoria cornuta",
+        "url": "https://www.fishbase.se/summary/Lactoria-cornuta.html"
+      }
+    ]
+  },
+  "sp_hippocampus_abdominalis": {
+    "range": "西南太平洋，澳大利亚和新西兰。",
+    "size": "FishBase 收录的最大体长为 35 厘米，常见体长约 18 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "身体直立，头部像马，吻管细长；大型个体肚子明显突出。",
+      "体表有环状骨板，没有腹鳍与尾鳍，尾部可缠绕。"
+    ],
+    "reproduction": "雄鱼把卵携带在腹部的育儿袋中。",
+    "behavior": "夜行性，常静止在海藻间；幼体随漂浮海藻扩散。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Hippocampus abdominalis",
+        "url": "https://www.fishbase.se/summary/Hippocampus-abdominalis.html"
+      }
+    ]
+  },
+  "sp_phycodurus_eques": {
+    "range": "东印度洋，为澳大利亚南部特有。",
+    "size": "FishBase 收录的最大全长为 35 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "身体前后布满叶片状的皮瓣，伪装成海藻。",
+      "吻管细长，体色黄褐，没有腹鳍。"
+    ],
+    "reproduction": "雄鱼把卵携带在尾部腹面的育儿区。",
+    "behavior": "靠背鳍与胸鳍的细微摆动缓慢移动，拟态极为出色。",
+    "lookalike": "草海龙（Phyllopteryx taeniolatus）的叶状附肢较少，体色偏橙红。",
+    "sources": [
+      {
+        "label": "FishBase · Phycodurus eques",
+        "url": "https://www.fishbase.se/summary/Phycodurus-eques.html"
+      }
+    ]
+  },
+  "sp_syngnathus_acus": {
+    "range": "东大西洋，从挪威、不列颠群岛向南到西非；也见于地中海。",
+    "size": "FishBase 收录的最大全长为 50 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "身体细长呈棒状，被环状骨板包裹，吻管很长。",
+      "没有腹鳍。"
+    ],
+    "reproduction": "雄鱼把卵携带在腹部的育儿区。",
+    "behavior": "活动于浅海海藻与海草丛，能在较深处出现。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Syngnathus acus",
+        "url": "https://www.fishbase.se/summary/Syngnathus-acus.html"
+      }
+    ]
+  },
+  "sp_dendrochirus_zebra": {
+    "range": "印度—西太平洋，从红海和东非到萨摩亚，北至日本南部和小笠原群岛，南至澳大利亚与豪勋爵岛。",
+    "size": "FishBase 收录的最大标准体长为 25 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "胸鳍宽大呈扇形，鳍膜上有深色条纹。",
+      "背鳍有强棘，体侧红褐与白色的横纹相间。"
+    ],
+    "reproduction": "",
+    "behavior": "夜间较活跃；鳍棘有毒，被刺会剧痛。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Dendrochirus zebra",
+        "url": "https://www.fishbase.se/summary/Dendrochirus-zebra.html"
+      }
+    ]
+  },
+  "sp_pterois_miles": {
+    "range": "印度洋，从波斯湾、红海到南非，东至苏门答腊；已扩散到地中海东部。",
+    "size": "FishBase 收录的最大全长为 43 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体侧有红褐与白色的竖直条纹，鳍棘细长。",
+      "胸鳍宽大呈羽状展开。"
+    ],
+    "reproduction": "",
+    "behavior": "鳍棘毒性强，可能引起严重中毒。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Pterois miles",
+        "url": "https://www.fishbase.se/summary/Pterois-miles.html"
+      }
+    ]
+  },
+  "sp_synanceia_verrucosa": {
+    "range": "印度—太平洋，从红海、东非到法属波利尼西亚，北至琉球和小笠原群岛，南至澳大利亚昆士兰。",
+    "size": "FishBase 收录的最大标准体长为 40 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体表疣状，颜色和形态像一块覆盖着藻类的岩石。",
+      "背部有十三根粗大的毒棘，眼小而位于头顶。"
+    ],
+    "reproduction": "",
+    "behavior": "独居；是分布最广的石头鱼，背棘的毒液很强，误踩极危险。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Synanceia verrucosa",
+        "url": "https://www.fishbase.se/summary/Synanceia-verrucosa.html"
+      }
+    ]
+  },
+  "sp_phyllopteryx_taeniolatus": {
+    "range": "东印度洋，澳大利亚南部，从西澳大利亚南部到新南威尔士和塔斯马尼亚。",
+    "size": "FishBase 收录的最大全长为 46 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "身体有叶片状的附肢，但数量比叶形海龙少。",
+      "体色橙红到黄褐，带有淡紫色或黄色的细纹。"
+    ],
+    "reproduction": "雄鱼把卵粘附在尾部下方的育儿区。",
+    "behavior": "常在海藻和礁石之间缓慢移动，依靠拟态隐蔽。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Phyllopteryx taeniolatus",
+        "url": "https://www.fishbase.se/summary/Phyllopteryx-taeniolatus.html"
+      }
+    ]
+  },
+  "sp_sebastiscus_marmoratus": {
+    "range": "西太平洋，从日本北海道南部到菲律宾。",
+    "size": "FishBase 收录的最大全长为 36.2 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "头大，头部与体侧多刺棘，体色红褐，带大理石状斑纹。",
+      "背鳍有强棘，鳃盖有棘。"
+    ],
+    "reproduction": "胎生，雌鱼直接产下幼鱼。",
+    "behavior": "鳍棘基部有毒腺，处理时需小心；在日本有养殖。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Sebastiscus marmoratus",
+        "url": "https://www.fishbase.se/summary/Sebastiscus-marmoratus.html"
+      }
+    ]
+  },
+  "sp_odonus_niger": {
+    "range": "印度—太平洋，从红海、东非经澳大利亚北部到莱恩、马克萨斯和社会群岛，北至日本南部。",
+    "size": "FishBase 收录的最大全长为 50 厘米，常见全长约 30 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体呈深蓝紫色，尾鳍深叉，上下叶尖端延长。",
+      "牙齿呈红色，脸部有蓝色线条。"
+    ],
+    "reproduction": "",
+    "behavior": "常成群，在水流强的外礁中层觅食。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Odonus niger",
+        "url": "https://www.fishbase.se/summary/Odonus-niger.html"
+      }
+    ]
+  },
+  "sp_hexagrammos_otakii": {
+    "range": "西北太平洋，日本、朝鲜半岛南部到黄海，以及俄罗斯滨海边疆区沿岸。",
+    "size": "FishBase 收录的最大全长为 57 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体侧有多条平行的侧线，是六线鱼类的共同特征。",
+      "体色黄褐，带有不规则的暗色斑块。"
+    ],
+    "reproduction": "10月到12月繁殖，卵块附着在小石头上，由雄鱼守护。",
+    "behavior": "在日本有养殖；常在人工鱼礁附近出现。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Hexagrammos otakii",
+        "url": "https://www.fishbase.se/summary/Hexagrammos-otakii.html"
+      }
+    ]
+  },
+  "sp_anoplopoma_fimbria": {
+    "range": "北太平洋，从堪察加和阿拉斯加白令海沿岸到日本南部，以及墨西哥下加利福尼亚中部。",
+    "size": "FishBase 收录的最大全长为 120 厘米，常见全长约 80 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "身体呈深灰至黑色，有两个分开的背鳍。",
+      "体长而侧扁，吻短，眼大。"
+    ],
+    "reproduction": "",
+    "behavior": "一般局限于某片海域，但有些幼鱼可以在六七年里迁移超过3000公里。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Anoplopoma fimbria",
+        "url": "https://www.fishbase.se/summary/Anoplopoma-fimbria.html"
+      }
+    ]
+  },
+  "sp_orectolobus_maculatus": {
+    "range": "东印度洋，澳大利亚南部，从西澳大利亚到昆士兰南部；日本和南海的记录需要确认。",
+    "size": "FishBase 收录的最大全长为 320 厘米，常见全长约 180 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "身体扁平，皮肤上有精细的斑纹和圆形的鞍状斑。",
+      "口周围有分枝状的皮须。"
+    ],
+    "reproduction": "卵胎生。",
+    "behavior": "身体与礁石几乎融为一体；曾观察到它在潮池之间的岩脊上爬行。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Orectolobus maculatus",
+        "url": "https://www.fishbase.se/summary/Orectolobus-maculatus.html"
+      }
+    ]
+  },
+  "sp_aulostomus_chinensis": {
+    "range": "印度—太平洋，从东非到夏威夷和复活节岛，北至日本南部，南至豪勋爵岛；东太平洋也有分布。",
+    "size": "FishBase 收录的最大全长为 80 厘米，常见全长约 60 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "身体细长似烟管，吻部很长，口在吻的末端。",
+      "下颌有一条短须，体色可变化。"
+    ],
+    "reproduction": "",
+    "behavior": "游动缓慢，依靠隐蔽和拟态；常头朝下悬停在珊瑚或海扇旁等候猎物。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Aulostomus chinensis",
+        "url": "https://www.fishbase.se/summary/Aulostomus-chinensis.html"
+      }
+    ]
+  },
+  "sp_glaucostegus_typus": {
+    "range": "印度—西太平洋，从泰国到新几内亚和所罗门群岛，南至澳大利亚；南亚的记录需要确认。",
+    "size": "FishBase 收录的最大全长为 270 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "前半身扁平似鳐，后半身粗壮如鲨，吻长而钝尖。",
+      "两个背鳍位置靠后，鳃孔在腹面。"
+    ],
+    "reproduction": "",
+    "behavior": "因渔业混捕和鱼翅贸易，已被列为极危物种。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Glaucostegus typus",
+        "url": "https://www.fishbase.se/summary/Glaucostegus-typus.html"
+      }
+    ]
+  },
+  "sp_callorhinchus_milii": {
+    "range": "西南太平洋，澳大利亚南部和新西兰。",
+    "size": "FishBase 收录的最大全长为 125 厘米，常见全长约 75 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "吻部长出一个向下弯曲的肉质突起。",
+      "身体光滑，鳃孔外有皮膜覆盖，只露出一个鳃裂。"
+    ],
+    "reproduction": "产卵，卵被角质壳包裹。",
+    "behavior": "春季迁入河口与浅湾繁殖。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Callorhinchus milii",
+        "url": "https://www.fishbase.se/summary/Callorhinchus-milii.html"
+      }
+    ]
+  },
+  "sp_potamotrygon_motoro": {
+    "range": "南美洲，乌拉圭、巴拉那—巴拉圭、奥里诺科和亚马孙河流域。",
+    "size": "FishBase 收录的最大盘宽为 50 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "身体呈圆盘形，背部灰褐，布满带深色边缘的橙色圆斑。",
+      "尾部有毒刺。"
+    ],
+    "reproduction": "胎生。",
+    "behavior": "尾刺的刺伤极痛，应避免触碰。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Potamotrygon motoro",
+        "url": "https://www.fishbase.se/summary/Potamotrygon-motoro.html"
+      }
+    ]
+  },
+  "sp_hexanchus_griseus": {
+    "range": "遍及全球温带至热带的深海，分布不连续。",
+    "size": "FishBase 收录的最大全长为 600 厘米，常见全长约 300 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "每侧有六个鳃裂（多数鲨类只有五个）。",
+      "只有一个背鳍，位置靠后，体色灰褐。"
+    ],
+    "reproduction": "卵胎生。",
+    "behavior": "白天多停留在深水，夜间可上升到浅水觅食；幼体可见于近岸。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Hexanchus griseus",
+        "url": "https://www.fishbase.se/summary/Hexanchus-griseus.html"
+      }
+    ]
+  },
+  "sp_somniosus_microcephalus": {
+    "range": "北大西洋，从美国和加拿大到格陵兰，从葡萄牙到巴伦支海和东西伯利亚海；遗传研究提示其分布范围可能需要重新评估。",
+    "size": "FishBase 收录的最大全长为 427 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体型粗壮，吻短而圆钝，背鳍小，没有臀鳍。",
+      "体色灰褐，眼睛常有寄生桡足类附着。"
+    ],
+    "reproduction": "",
+    "behavior": "游动很慢，生活在冷水中；研究估计其寿命可达数百年。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Somniosus microcephalus",
+        "url": "https://www.fishbase.se/summary/Somniosus-microcephalus.html"
+      }
+    ]
+  },
+  "sp_chlamydoselachus_anguineus": {
+    "range": "分布广但零星：西印度洋的南非沿岸，西太平洋从日本到新西兰，东太平洋从加利福尼亚到智利北部，以及东大西洋。",
+    "size": "FishBase 收录的最大全长为 200 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "身体细长如鳗，有六对鳃裂，第一对在喉部相连。",
+      "口位于吻端，牙齿呈三叉形。"
+    ],
+    "reproduction": "卵胎生，每胎2到10尾。",
+    "behavior": "较罕见的原始鲨类，偶尔会在表层被捕获。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Chlamydoselachus anguineus",
+        "url": "https://www.fishbase.se/summary/Chlamydoselachus-anguineus.html"
+      }
+    ]
+  },
+  "sp_acipenser_baerii": {
+    "range": "亚洲西伯利亚，鄂毕河、额尔齐斯河、叶尼塞河、勒拿河、科雷马河等水系以及贝加尔湖。",
+    "size": "FishBase 收录的最大全长为 200 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体侧有五行骨板，吻短而钝。",
+      "口在腹面，吻下方有四条须。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼主要生活在淡水，有些个体会到河口；性成熟很晚，雄鱼约9至29岁。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Acipenser baerii",
+        "url": "https://www.fishbase.se/summary/Acipenser-baerii.html"
+      }
+    ]
+  },
+  "sp_lepisosteus_oculatus": {
+    "range": "北美，从伊利湖与密歇根湖南部经密西西比河流域到墨西哥湾沿岸水系。",
+    "size": "FishBase 收录的最大全长为 150 厘米，常见全长约 100 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "长吻似鳄，头部和吻端有深色圆点。",
+      "身体覆盖菱形的硬鳞，体表有深色斑点。"
+    ],
+    "reproduction": "",
+    "behavior": "可用鳔辅助呼吸空气；偶尔进入半咸水。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Lepisosteus oculatus",
+        "url": "https://www.fishbase.se/summary/Lepisosteus-oculatus.html"
+      }
+    ]
+  },
+  "sp_scaphirhynchus_platorynchus": {
+    "range": "北美，美国密西西比河流域从宾夕法尼亚西部到蒙大拿，南至路易斯安那；莫比尔湾水系和里奥格兰德上游也有分布。",
+    "size": "FishBase 收录的最大全长为 108 厘米，常见全长约 72 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "吻部宽扁，像一把铲子。",
+      "尾柄细长，覆有骨板。"
+    ],
+    "reproduction": "",
+    "behavior": "底栖，常在流水中的砂砾与泥混合底质上活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Scaphirhynchus platorynchus",
+        "url": "https://www.fishbase.se/summary/Scaphirhynchus-platorynchus.html"
+      }
+    ]
+  },
+  "sp_gnathonemus_petersii": {
+    "range": "非洲，从尼日尔河到刚果河流域，在刚果盆地分布广泛；坦噶尼喀湖亦有报道。",
+    "size": "FishBase 收录的最大标准体长为 35 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "下颌向前延伸成象鼻状的肉质突起。",
+      "体色深褐，体后部常有浅色环带。"
+    ],
+    "reproduction": "",
+    "behavior": "能产生并感知微弱电场，用于导航和通讯；对同类较具攻击性。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Gnathonemus petersii",
+        "url": "https://www.fishbase.se/summary/Gnathonemus-petersii.html"
+      }
+    ]
+  },
+  "sp_pantodon_buchholzi": {
+    "range": "西非和中非，尼日利亚、乍得湖、喀麦隆、奥果韦河、刚果河盆地和赞比西河上游。",
+    "size": "FishBase 收录的最大全长为 11.9 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "胸鳍宽大，展开像翅膀；背鳍位置靠后。",
+      "口上位，吻部扁平，常浮在水面。"
+    ],
+    "reproduction": "",
+    "behavior": "能跃出水面捕食；是专性空气呼吸鱼。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Pantodon buchholzi",
+        "url": "https://www.fishbase.se/summary/Pantodon-buchholzi.html"
+      }
+    ]
+  },
+  "sp_heteroconger_hassi": {
+    "range": "印度—太平洋，从红海、东非到社会群岛，北至琉球和小笠原群岛，南至澳大利亚西北部和新喀里多尼亚，密克罗尼西亚各地。",
+    "size": "FishBase 收录的最大全长为 45 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "身体细长，白底上有黑色斑点，像一根立在沙里的细管。",
+      "头部圆润，眼大。"
+    ],
+    "reproduction": "",
+    "behavior": "成百上千的个体聚成群落，一靠近就缩回洞中。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Heteroconger hassi",
+        "url": "https://www.fishbase.se/summary/Heteroconger-hassi.html"
+      }
+    ]
+  },
+  "sp_monocentris_japonica": {
+    "range": "印度—西太平洋，从红海、留尼汪、马达加斯加和南非到日本、台湾、中国、新喀里多尼亚和澳大利亚。",
+    "size": "FishBase 收录的最大全长为 17 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体表覆盖大而坚硬的鳞片，排列像松球。",
+      "下颌附近有发光器官。"
+    ],
+    "reproduction": "",
+    "behavior": "成群生活；常在公共水族馆展出。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Monocentris japonica",
+        "url": "https://www.fishbase.se/summary/Monocentris-japonica.html"
+      }
+    ]
+  },
+  "sp_oplegnathus_fasciatus": {
+    "range": "西北太平洋，日本、朝鲜半岛和台湾；夏威夷与地中海也有记录。",
+    "size": "FishBase 收录的最大全长为 80 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体侧有七条黑色宽横带，幼鱼最清晰。",
+      "口小，牙齿愈合成鸟喙状。"
+    ],
+    "reproduction": "",
+    "behavior": "幼鱼与漂浮海藻相伴。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Oplegnathus fasciatus",
+        "url": "https://www.fishbase.se/summary/Oplegnathus-fasciatus.html"
+      }
+    ]
+  },
+  "sp_sillago_sihama": {
+    "range": "印度—西太平洋，从红海南部、南非纳塔尔到日本，向南至澳大利亚；新喀里多尼亚也有记录。",
+    "size": "FishBase 收录的最大标准体长为 31 厘米，常见标准体长约 20 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体细长，近圆筒形，银白色，背部略带浅褐。",
+      "吻尖，口小，有两个分开的背鳍。"
+    ],
+    "reproduction": "",
+    "behavior": "成群活动，受惊时会潜入沙中。",
+    "lookalike": "日本曾把此名误用于日本鱚（Sillago japonica），两者需要区分。",
+    "sources": [
+      {
+        "label": "FishBase · Sillago sihama",
+        "url": "https://www.fishbase.se/summary/Sillago-sihama.html"
+      }
+    ]
+  },
+  "sp_bolbometopon_muricatum": {
+    "range": "印度—太平洋，从红海、东非到萨摩亚和莱恩群岛，北至八重山群岛和威克岛，南至大堡礁和新喀里多尼亚。",
+    "size": "FishBase 收录的最大全长为 130 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "成鱼前额高高隆起，形成突出的“额头”。",
+      "体大，体色蓝绿，口由愈合的牙板组成。"
+    ],
+    "reproduction": "",
+    "behavior": "夜晚在洞穴或沉船中“睡觉”，白天常小群觅食。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Bolbometopon muricatum",
+        "url": "https://www.fishbase.se/summary/Bolbometopon-muricatum.html"
+      }
+    ]
+  },
+  "sp_acanthopagrus_schlegelii": {
+    "range": "西北太平洋，日本北海道南部到朝鲜半岛南部，以及中国中北部沿海和台湾；琉球群岛没有分布。",
+    "size": "FishBase 收录的最大标准体长为 50 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体色银灰偏黑，体高较大。",
+      "背鳍连续，前部有强棘。"
+    ],
+    "reproduction": "春夏季产卵。",
+    "behavior": "常见于近岸礁区和河口，是沿海垂钓的重要对象。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Acanthopagrus schlegelii",
+        "url": "https://www.fishbase.se/summary/Acanthopagrus-schlegelii.html"
+      }
+    ]
+  },
+  "sp_carassius_carassius": {
+    "range": "欧亚大陆，北海、波罗的海、白海、巴伦支海、黑海和里海流域，向东到科累马河，向西到莱茵河。",
+    "size": "FishBase 收录的最大全长为 64 厘米，常见全长约 15 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "体高而侧扁，背部深橄榄色，体侧偏金黄。",
+      "背鳍基部长，口角没有须。"
+    ],
+    "reproduction": "",
+    "behavior": "能在低氧和高温中生存，旱季或冬季会钻进泥里。",
+    "lookalike": "没有口须，可与鲤区分。",
+    "sources": [
+      {
+        "label": "FishBase · Carassius carassius",
+        "url": "https://www.fishbase.se/summary/Carassius-carassius.html"
+      }
+    ]
+  },
+  "sp_thymallus_arcticus": {
+    "range": "北美，从哈得孙湾到阿拉斯加的北极水系，向南至艾伯塔省中部；密苏里河上游也有分布。",
+    "size": "FishBase 收录的最大全长为 76 厘米，常见全长约 34.3 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "背鳍高大呈旗帜状，带有紫蓝色的斑点。",
+      "体呈银灰色，体侧有少量黑点。"
+    ],
+    "reproduction": "",
+    "behavior": "形成数量中等的鱼群；繁殖时进入多石小溪。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Thymallus arcticus",
+        "url": "https://www.fishbase.se/summary/Thymallus-arcticus.html"
+      }
+    ]
+  },
+  "sp_coilia_nasus": {
+    "range": "西北太平洋，从广州向北到日本有明海，包括整个黄海和朝鲜半岛西岸。",
+    "size": "FishBase 收录的最大全长为 41 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "身体侧扁，向后逐渐变细，尾部延长成刀状。",
+      "口大，上颌延伸到鳃盖之后，臀鳍很长并与尾鳍相连。"
+    ],
+    "reproduction": "",
+    "behavior": "春季成群溯河产卵；资源衰退，长江流域已实行禁捕。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Coilia nasus",
+        "url": "https://www.fishbase.se/summary/Coilia-nasus.html"
+      }
+    ]
+  },
+  "sp_cyclopterus_lumpus": {
+    "range": "北大西洋，西大西洋从加拿大努纳武特、哈得孙湾到美国新泽西，东大西洋从巴伦支海、冰岛、格陵兰到西班牙。",
+    "size": "FishBase 收录的最大全长为 61 厘米；最大记录不代表常见体型。",
+    "recognition": [
+      "身体圆胖，腹鳍特化为吸盘。",
+      "体表有排列的骨质疣突，体色灰绿至蓝灰。"
+    ],
+    "reproduction": "雄鱼守护附着在岩石上的卵团。",
+    "behavior": "多独居，有回游性；一年中在较深与较浅的海域间迁移。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Cyclopterus lumpus",
+        "url": "https://www.fishbase.se/summary/Cyclopterus-lumpus.html"
+      }
+    ]
   }
 };

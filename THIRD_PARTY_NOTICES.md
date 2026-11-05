@@ -6,7 +6,7 @@ The MIT grant covers original interface code and original documentation only. It
 
 ## 照片 / Photographs
 
-全部 274 条图片记录保存在 [`dist/photos-data.js`](dist/photos-data.js) 与 [`dist/assets/photos.json`](dist/assets/photos.json)。可阅读的完整清单见 [PHOTO_CREDITS.md](docs/PHOTO_CREDITS.md)。每条记录包含作者、原始页面、许可证及已知的修改说明。网页档案也展示这些信息。
+全部 374 条图片记录保存在 [`dist/photos-data.js`](dist/photos-data.js) 与 [`dist/assets/photos.json`](dist/assets/photos.json)。可阅读的完整清单见 [PHOTO_CREDITS.md](docs/PHOTO_CREDITS.md)。每条记录包含作者、原始页面、许可证及已知的修改说明。网页档案也展示这些信息。
 
 Each photograph retains its own license. Preserve the author, source, license link and modification notice when redistributing it. Some licenses require attribution or share-alike terms. Review the original image page for the governing terms and any updates.
 

@@ -8515,5 +8515,3110 @@ window.FISH_TAXONOMY = {
       "name": "点纹斑竹鲨"
     },
     "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=277833"
+  },
+  "sp_pseudorasbora_parva": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲤形目",
+      "latin": "Cypriniformes"
+    },
+    "family": {
+      "name": "鲤科",
+      "latin": "Cyprinidae"
+    },
+    "genus": {
+      "name": "麦穗鱼属",
+      "latin": "Pseudorasbora"
+    },
+    "species": {
+      "name": "麦穗鱼",
+      "latin": "Pseudorasbora parva"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=465541"
+  },
+  "sp_rhodeus_amarus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲤形目",
+      "latin": "Cypriniformes"
+    },
+    "family": {
+      "name": "鲤科",
+      "latin": "Cyprinidae"
+    },
+    "genus": {
+      "name": "鳑鲏属",
+      "latin": "Rhodeus"
+    },
+    "species": {
+      "name": "欧洲鳑鲏",
+      "latin": "Rhodeus amarus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=154331"
+  },
+  "sp_squaliobarbus_curriculus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲤形目",
+      "latin": "Cypriniformes"
+    },
+    "family": {
+      "name": "鲤科",
+      "latin": "Cyprinidae"
+    },
+    "genus": {
+      "name": "赤眼鳟属",
+      "latin": "Squaliobarbus"
+    },
+    "species": {
+      "name": "赤眼鳟",
+      "latin": "Squaliobarbus curriculus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1026703"
+  },
+  "sp_culter_alburnus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲤形目",
+      "latin": "Cypriniformes"
+    },
+    "family": {
+      "name": "鲤科",
+      "latin": "Cyprinidae"
+    },
+    "genus": {
+      "name": "鲌属",
+      "latin": "Culter"
+    },
+    "species": {
+      "name": "翘嘴鲌",
+      "latin": "Culter alburnus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1021471"
+  },
+  "sp_labeo_rohita": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲤形目",
+      "latin": "Cypriniformes"
+    },
+    "family": {
+      "name": "鲤科",
+      "latin": "Cyprinidae"
+    },
+    "genus": {
+      "name": "野鲮属",
+      "latin": "Labeo"
+    },
+    "species": {
+      "name": "露斯塔野鲮",
+      "latin": "Labeo rohita"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=281240"
+  },
+  "sp_labeo_catla": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲤形目",
+      "latin": "Cypriniformes"
+    },
+    "family": {
+      "name": "鲤科",
+      "latin": "Cyprinidae"
+    },
+    "genus": {
+      "name": "野鲮属",
+      "latin": "Labeo"
+    },
+    "species": {
+      "name": "卡特拉鲃",
+      "latin": "Labeo catla"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1605292"
+  },
+  "sp_barbonymus_schwanefeldii": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲤形目",
+      "latin": "Cypriniformes"
+    },
+    "family": {
+      "name": "鲤科",
+      "latin": "Cyprinidae"
+    },
+    "genus": {
+      "name": "高体鲃属",
+      "latin": "Barbonymus"
+    },
+    "species": {
+      "name": "施氏高体鲃",
+      "latin": "Barbonymus schwanefeldii"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1021642"
+  },
+  "sp_pterygoplichthys_pardalis": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲇形目",
+      "latin": "Siluriformes"
+    },
+    "family": {
+      "name": "骨甲鲶科",
+      "latin": "Loricariidae"
+    },
+    "genus": {
+      "name": "翼甲鲶属",
+      "latin": "Pterygoplichthys"
+    },
+    "species": {
+      "name": "豹纹翼甲鲶",
+      "latin": "Pterygoplichthys pardalis"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1021550"
+  },
+  "sp_synodontis_nigriventris": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲇形目",
+      "latin": "Siluriformes"
+    },
+    "family": {
+      "name": "倒立鲶科",
+      "latin": "Mochokidae"
+    },
+    "genus": {
+      "name": "歧须鮠属",
+      "latin": "Synodontis"
+    },
+    "species": {
+      "name": "倒立鲶",
+      "latin": "Synodontis nigriventris"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1015139"
+  },
+  "sp_phractocephalus_hemioliopterus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲇形目",
+      "latin": "Siluriformes"
+    },
+    "family": {
+      "name": "长须鲶科",
+      "latin": "Pimelodidae"
+    },
+    "genus": {
+      "name": "红尾鲶属",
+      "latin": "Phractocephalus"
+    },
+    "species": {
+      "name": "红尾鲶",
+      "latin": "Phractocephalus hemioliopterus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1026980"
+  },
+  "sp_colossoma_macropomum": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "脂鲤目",
+      "latin": "Characiformes"
+    },
+    "family": {
+      "name": "锯脂鲤科",
+      "latin": "Serrasalmidae"
+    },
+    "genus": {
+      "name": "巨脂鲤属",
+      "latin": "Colossoma"
+    },
+    "species": {
+      "name": "大盖巨脂鲤",
+      "latin": "Colossoma macropomum"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1020122"
+  },
+  "sp_oryzias_latipes": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "颌针鱼目",
+      "latin": "Beloniformes"
+    },
+    "family": {
+      "name": "怪颌鳉科",
+      "latin": "Adrianichthyidae"
+    },
+    "genus": {
+      "name": "青鳉属",
+      "latin": "Oryzias"
+    },
+    "species": {
+      "name": "青鳉",
+      "latin": "Oryzias latipes"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=281941"
+  },
+  "sp_poecilia_latipinna": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲤齿目",
+      "latin": "Cyprinodontiformes"
+    },
+    "family": {
+      "name": "花鳉科",
+      "latin": "Poeciliidae"
+    },
+    "genus": {
+      "name": "花鳉属",
+      "latin": "Poecilia"
+    },
+    "species": {
+      "name": "茉莉花鳉",
+      "latin": "Poecilia latipinna"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=275348"
+  },
+  "sp_macropodus_opercularis": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "攀鲈目",
+      "latin": "Anabantiformes"
+    },
+    "family": {
+      "name": "丝足鲈科",
+      "latin": "Osphronemidae"
+    },
+    "genus": {
+      "name": "斗鱼属",
+      "latin": "Macropodus"
+    },
+    "species": {
+      "name": "叉尾斗鱼",
+      "latin": "Macropodus opercularis"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1016961"
+  },
+  "sp_anabas_testudineus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "攀鲈目",
+      "latin": "Anabantiformes"
+    },
+    "family": {
+      "name": "攀鲈科",
+      "latin": "Anabantidae"
+    },
+    "genus": {
+      "name": "攀鲈属",
+      "latin": "Anabas"
+    },
+    "species": {
+      "name": "攀鲈",
+      "latin": "Anabas testudineus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=279597"
+  },
+  "sp_morone_saxatilis": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "狼鲈目",
+      "latin": "Moroniformes"
+    },
+    "family": {
+      "name": "狼鲈科",
+      "latin": "Moronidae"
+    },
+    "genus": {
+      "name": "狼鲈属",
+      "latin": "Morone"
+    },
+    "species": {
+      "name": "条纹鲈",
+      "latin": "Morone saxatilis"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=151179"
+  },
+  "sp_perca_flavescens": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲈形目",
+      "latin": "Perciformes"
+    },
+    "family": {
+      "name": "鲈科",
+      "latin": "Percidae"
+    },
+    "genus": {
+      "name": "Perca属",
+      "latin": "Perca"
+    },
+    "species": {
+      "name": "黄鲈",
+      "latin": "Perca flavescens"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=275313"
+  },
+  "sp_osphronemus_goramy": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "攀鲈目",
+      "latin": "Anabantiformes"
+    },
+    "family": {
+      "name": "丝足鲈科",
+      "latin": "Osphronemidae"
+    },
+    "genus": {
+      "name": "丝足鲈属",
+      "latin": "Osphronemus"
+    },
+    "species": {
+      "name": "大丝足鲈",
+      "latin": "Osphronemus goramy"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=281942"
+  },
+  "sp_trachinotus_blochii": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲹形目",
+      "latin": "Carangiformes"
+    },
+    "family": {
+      "name": "鲹科",
+      "latin": "Carangidae"
+    },
+    "genus": {
+      "name": "鲳鲹属",
+      "latin": "Trachinotus"
+    },
+    "species": {
+      "name": "布氏鲳鲹",
+      "latin": "Trachinotus blochii"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=151169"
+  },
+  "sp_channa_maculata": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "攀鲈目",
+      "latin": "Anabantiformes"
+    },
+    "family": {
+      "name": "鳢科",
+      "latin": "Channidae"
+    },
+    "genus": {
+      "name": "鳢属",
+      "latin": "Channa"
+    },
+    "species": {
+      "name": "斑鳢",
+      "latin": "Channa maculata"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=743356"
+  },
+  "sp_lutjanus_argentimaculatus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "目级归属未定",
+      "latin": "Eupercaria incertae sedis1"
+    },
+    "family": {
+      "name": "笛鲷科",
+      "latin": "Lutjanidae"
+    },
+    "genus": {
+      "name": "笛鲷属",
+      "latin": "Lutjanus"
+    },
+    "species": {
+      "name": "紫红笛鲷",
+      "latin": "Lutjanus argentimaculatus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=218498",
+    "note": "WoRMS 将真鲈系内目级归属未定的占位项（Eupercaria incertae sedis1）置于 Order 栏；此处不将其虚构为已命名的目。"
+  },
+  "sp_sciaenops_ocellatus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "目级归属未定",
+      "latin": "Eupercaria incertae sedis1"
+    },
+    "family": {
+      "name": "石首鱼科",
+      "latin": "Sciaenidae"
+    },
+    "genus": {
+      "name": "拟石首鱼属",
+      "latin": "Sciaenops"
+    },
+    "species": {
+      "name": "眼斑拟石首鱼",
+      "latin": "Sciaenops ocellatus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=159335",
+    "note": "WoRMS 将真鲈系内目级归属未定的占位项（Eupercaria incertae sedis1）置于 Order 栏；此处不将其虚构为已命名的目。"
+  },
+  "sp_scatophagus_argus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "大眼鲷目",
+      "latin": "Priacanthiformes"
+    },
+    "family": {
+      "name": "金钱鱼科",
+      "latin": "Scatophagidae"
+    },
+    "genus": {
+      "name": "金钱鱼属",
+      "latin": "Scatophagus"
+    },
+    "species": {
+      "name": "金钱鱼",
+      "latin": "Scatophagus argus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=276970"
+  },
+  "sp_toxotes_jaculatrix": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲹形目",
+      "latin": "Carangiformes"
+    },
+    "family": {
+      "name": "射水鱼科",
+      "latin": "Toxotidae"
+    },
+    "genus": {
+      "name": "射水鱼属",
+      "latin": "Toxotes"
+    },
+    "species": {
+      "name": "射水鱼",
+      "latin": "Toxotes jaculatrix"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=283021"
+  },
+  "sp_platax_orbicularis": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "白鲳目",
+      "latin": "Ephippiformes"
+    },
+    "family": {
+      "name": "白鲳科",
+      "latin": "Ephippidae"
+    },
+    "genus": {
+      "name": "燕鱼属",
+      "latin": "Platax"
+    },
+    "species": {
+      "name": "圆眼燕鱼",
+      "latin": "Platax orbicularis"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=218711"
+  },
+  "sp_cheilinus_undulatus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "隆头鱼目",
+      "latin": "Labriformes"
+    },
+    "family": {
+      "name": "隆头鱼科",
+      "latin": "Labridae"
+    },
+    "genus": {
+      "name": "唇鱼属",
+      "latin": "Cheilinus"
+    },
+    "species": {
+      "name": "波纹唇鱼",
+      "latin": "Cheilinus undulatus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=218945"
+  },
+  "sp_epibulus_insidiator": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "隆头鱼目",
+      "latin": "Labriformes"
+    },
+    "family": {
+      "name": "隆头鱼科",
+      "latin": "Labridae"
+    },
+    "genus": {
+      "name": "伸口鱼属",
+      "latin": "Epibulus"
+    },
+    "species": {
+      "name": "伸口鱼",
+      "latin": "Epibulus insidiator"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=218972"
+  },
+  "sp_scarus_ghobban": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "隆头鱼目",
+      "latin": "Labriformes"
+    },
+    "family": {
+      "name": "隆头鱼科",
+      "latin": "Labridae"
+    },
+    "genus": {
+      "name": "鹦嘴鱼属",
+      "latin": "Scarus"
+    },
+    "species": {
+      "name": "青点鹦嘴鱼",
+      "latin": "Scarus ghobban"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=219127"
+  },
+  "sp_acanthurus_triostegus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "刺尾鲷目",
+      "latin": "Acanthuriformes"
+    },
+    "family": {
+      "name": "刺尾鱼科",
+      "latin": "Acanthuridae"
+    },
+    "genus": {
+      "name": "Acanthurus属",
+      "latin": "Acanthurus"
+    },
+    "species": {
+      "name": "横带刺尾鱼",
+      "latin": "Acanthurus triostegus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=219630"
+  },
+  "sp_naso_unicornis": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "刺尾鲷目",
+      "latin": "Acanthuriformes"
+    },
+    "family": {
+      "name": "刺尾鱼科",
+      "latin": "Acanthuridae"
+    },
+    "genus": {
+      "name": "鼻鱼属",
+      "latin": "Naso"
+    },
+    "species": {
+      "name": "单角鼻鱼",
+      "latin": "Naso unicornis"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=219668"
+  },
+  "sp_acanthurus_coeruleus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "刺尾鲷目",
+      "latin": "Acanthuriformes"
+    },
+    "family": {
+      "name": "刺尾鱼科",
+      "latin": "Acanthuridae"
+    },
+    "genus": {
+      "name": "Acanthurus属",
+      "latin": "Acanthurus"
+    },
+    "species": {
+      "name": "蓝刺尾鱼",
+      "latin": "Acanthurus coeruleus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=159581"
+  },
+  "sp_pomacentrus_coelestis": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "目级归属未定",
+      "latin": "Ovalentaria incertae sedis"
+    },
+    "family": {
+      "name": "雀鲷科",
+      "latin": "Pomacentridae"
+    },
+    "genus": {
+      "name": "雀鲷属",
+      "latin": "Pomacentrus"
+    },
+    "species": {
+      "name": "霓虹雀鲷",
+      "latin": "Pomacentrus coelestis"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=277145",
+    "note": "WoRMS 将卵附系内目级归属未定的占位项（Ovalentaria incertae sedis）置于 Order 栏；此处不将其虚构为已命名的目。"
+  },
+  "sp_abudefduf_vaigiensis": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "目级归属未定",
+      "latin": "Ovalentaria incertae sedis"
+    },
+    "family": {
+      "name": "雀鲷科",
+      "latin": "Pomacentridae"
+    },
+    "genus": {
+      "name": "豆娘鱼属",
+      "latin": "Abudefduf"
+    },
+    "species": {
+      "name": "五带豆娘鱼",
+      "latin": "Abudefduf vaigiensis"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=212879",
+    "note": "WoRMS 将卵附系内目级归属未定的占位项（Ovalentaria incertae sedis）置于 Order 栏；此处不将其虚构为已命名的目。"
+  },
+  "sp_amphiprion_biaculeatus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "目级归属未定",
+      "latin": "Ovalentaria incertae sedis"
+    },
+    "family": {
+      "name": "雀鲷科",
+      "latin": "Pomacentridae"
+    },
+    "genus": {
+      "name": "双锯鱼属",
+      "latin": "Amphiprion"
+    },
+    "species": {
+      "name": "棘颊海葵鱼",
+      "latin": "Amphiprion biaculeatus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1605249",
+    "note": "WoRMS 将卵附系内目级归属未定的占位项（Ovalentaria incertae sedis）置于 Order 栏；此处不将其虚构为已命名的目。"
+  },
+  "sp_chaetodon_ephippium": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "蝴蝶鱼目",
+      "latin": "Chaetodontiformes"
+    },
+    "family": {
+      "name": "蝴蝶鱼科",
+      "latin": "Chaetodontidae"
+    },
+    "genus": {
+      "name": "蝴蝶鱼属",
+      "latin": "Chaetodon"
+    },
+    "species": {
+      "name": "鞍斑蝴蝶鱼",
+      "latin": "Chaetodon ephippium"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=273335"
+  },
+  "sp_forcipiger_flavissimus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "蝴蝶鱼目",
+      "latin": "Chaetodontiformes"
+    },
+    "family": {
+      "name": "蝴蝶鱼科",
+      "latin": "Chaetodontidae"
+    },
+    "genus": {
+      "name": "镊口鱼属",
+      "latin": "Forcipiger"
+    },
+    "species": {
+      "name": "黄镊口鱼",
+      "latin": "Forcipiger flavissimus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=218760"
+  },
+  "sp_pygoplites_diacanthus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "蝴蝶鱼目",
+      "latin": "Chaetodontiformes"
+    },
+    "family": {
+      "name": "盖刺鱼科",
+      "latin": "Pomacanthidae"
+    },
+    "genus": {
+      "name": "甲尻鱼属",
+      "latin": "Pygoplites"
+    },
+    "species": {
+      "name": "双棘甲尻鱼",
+      "latin": "Pygoplites diacanthus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=211773"
+  },
+  "sp_holacanthus_ciliaris": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "蝴蝶鱼目",
+      "latin": "Chaetodontiformes"
+    },
+    "family": {
+      "name": "盖刺鱼科",
+      "latin": "Pomacanthidae"
+    },
+    "genus": {
+      "name": "刺蝶鱼属",
+      "latin": "Holacanthus"
+    },
+    "species": {
+      "name": "额斑刺蝶鱼",
+      "latin": "Holacanthus ciliaris"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=276012"
+  },
+  "sp_epinephelus_lanceolatus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲈形目",
+      "latin": "Perciformes"
+    },
+    "family": {
+      "name": "石斑鱼科",
+      "latin": "Epinephelidae"
+    },
+    "genus": {
+      "name": "石斑鱼属",
+      "latin": "Epinephelus"
+    },
+    "species": {
+      "name": "鞍带石斑鱼",
+      "latin": "Epinephelus lanceolatus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=218224"
+  },
+  "sp_plectropomus_leopardus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲈形目",
+      "latin": "Perciformes"
+    },
+    "family": {
+      "name": "石斑鱼科",
+      "latin": "Epinephelidae"
+    },
+    "genus": {
+      "name": "鳃棘鲈属",
+      "latin": "Plectropomus"
+    },
+    "species": {
+      "name": "豹纹鳃棘鲈",
+      "latin": "Plectropomus leopardus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=218261"
+  },
+  "sp_cephalopholis_argus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲈形目",
+      "latin": "Perciformes"
+    },
+    "family": {
+      "name": "石斑鱼科",
+      "latin": "Epinephelidae"
+    },
+    "genus": {
+      "name": "九棘鲈属",
+      "latin": "Cephalopholis"
+    },
+    "species": {
+      "name": "斑点九棘鲈",
+      "latin": "Cephalopholis argus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=218174"
+  },
+  "sp_epinephelus_akaara": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲈形目",
+      "latin": "Perciformes"
+    },
+    "family": {
+      "name": "石斑鱼科",
+      "latin": "Epinephelidae"
+    },
+    "genus": {
+      "name": "石斑鱼属",
+      "latin": "Epinephelus"
+    },
+    "species": {
+      "name": "赤点石斑鱼",
+      "latin": "Epinephelus akaara"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=273833"
+  },
+  "sp_periophthalmus_modestus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "虾虎鱼目",
+      "latin": "Gobiiformes"
+    },
+    "family": {
+      "name": "背眼虾虎鱼科",
+      "latin": "Oxudercidae"
+    },
+    "genus": {
+      "name": "弹涂鱼属",
+      "latin": "Periophthalmus"
+    },
+    "species": {
+      "name": "弹涂鱼",
+      "latin": "Periophthalmus modestus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=209267"
+  },
+  "sp_thunnus_orientalis": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲭形目",
+      "latin": "Scombriformes"
+    },
+    "family": {
+      "name": "鲭科",
+      "latin": "Scombridae"
+    },
+    "genus": {
+      "name": "金枪鱼属",
+      "latin": "Thunnus"
+    },
+    "species": {
+      "name": "太平洋蓝鳍金枪鱼",
+      "latin": "Thunnus orientalis"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=273823"
+  },
+  "sp_scomberomorus_commerson": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲭形目",
+      "latin": "Scombriformes"
+    },
+    "family": {
+      "name": "鲭科",
+      "latin": "Scombridae"
+    },
+    "genus": {
+      "name": "Scomberomorus属",
+      "latin": "Scomberomorus"
+    },
+    "species": {
+      "name": "康氏马鲛",
+      "latin": "Scomberomorus commerson"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=127024"
+  },
+  "sp_pseudanthias_squamipinnis": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲈形目",
+      "latin": "Perciformes"
+    },
+    "family": {
+      "name": "花鮨科",
+      "latin": "Anthiadidae"
+    },
+    "genus": {
+      "name": "拟花鮨属",
+      "latin": "Pseudanthias"
+    },
+    "species": {
+      "name": "丝鳍拟花鮨",
+      "latin": "Pseudanthias squamipinnis"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=218278"
+  },
+  "sp_boleophthalmus_pectinirostris": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "虾虎鱼目",
+      "latin": "Gobiiformes"
+    },
+    "family": {
+      "name": "背眼虾虎鱼科",
+      "latin": "Oxudercidae"
+    },
+    "genus": {
+      "name": "大弹涂鱼属",
+      "latin": "Boleophthalmus"
+    },
+    "species": {
+      "name": "大弹涂鱼",
+      "latin": "Boleophthalmus pectinirostris"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=279926"
+  },
+  "sp_thunnus_alalunga": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲭形目",
+      "latin": "Scombriformes"
+    },
+    "family": {
+      "name": "鲭科",
+      "latin": "Scombridae"
+    },
+    "genus": {
+      "name": "金枪鱼属",
+      "latin": "Thunnus"
+    },
+    "species": {
+      "name": "长鳍金枪鱼",
+      "latin": "Thunnus alalunga"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=127026"
+  },
+  "sp_acanthocybium_solandri": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲭形目",
+      "latin": "Scombriformes"
+    },
+    "family": {
+      "name": "鲭科",
+      "latin": "Scombridae"
+    },
+    "genus": {
+      "name": "刺鲅属",
+      "latin": "Acanthocybium"
+    },
+    "species": {
+      "name": "刺鲅",
+      "latin": "Acanthocybium solandri"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=127014"
+  },
+  "sp_konosirus_punctatus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲱形目",
+      "latin": "Clupeiformes"
+    },
+    "family": {
+      "name": "鰶科",
+      "latin": "Dorosomatidae"
+    },
+    "genus": {
+      "name": "斑鰶属",
+      "latin": "Konosirus"
+    },
+    "species": {
+      "name": "窝斑鰶",
+      "latin": "Konosirus punctatus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=281225"
+  },
+  "sp_ilisha_elongata": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲱形目",
+      "latin": "Clupeiformes"
+    },
+    "family": {
+      "name": "锯腹鳓科",
+      "latin": "Pristigasteridae"
+    },
+    "genus": {
+      "name": "鳓属",
+      "latin": "Ilisha"
+    },
+    "species": {
+      "name": "鳓",
+      "latin": "Ilisha elongata"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=281160"
+  },
+  "sp_megalops_cyprinoides": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "海鲢目",
+      "latin": "Elopiformes"
+    },
+    "family": {
+      "name": "大海鲢科",
+      "latin": "Megalopidae"
+    },
+    "genus": {
+      "name": "大海鲢属",
+      "latin": "Megalops"
+    },
+    "species": {
+      "name": "大海鲢",
+      "latin": "Megalops cyprinoides"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=212253"
+  },
+  "sp_megalops_atlanticus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "海鲢目",
+      "latin": "Elopiformes"
+    },
+    "family": {
+      "name": "大海鲢科",
+      "latin": "Megalopidae"
+    },
+    "genus": {
+      "name": "大海鲢属",
+      "latin": "Megalops"
+    },
+    "species": {
+      "name": "大西洋大海鲢",
+      "latin": "Megalops atlanticus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=126430"
+  },
+  "sp_chanos_chanos": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鼠鱚目",
+      "latin": "Gonorynchiformes"
+    },
+    "family": {
+      "name": "虱目鱼科",
+      "latin": "Chanidae"
+    },
+    "genus": {
+      "name": "遮目鱼属",
+      "latin": "Chanos"
+    },
+    "species": {
+      "name": "遮目鱼",
+      "latin": "Chanos chanos"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=217625"
+  },
+  "sp_brachymystax_lenok": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲑形目",
+      "latin": "Salmoniformes"
+    },
+    "family": {
+      "name": "鲑科",
+      "latin": "Salmonidae"
+    },
+    "genus": {
+      "name": "细鳞鲑属",
+      "latin": "Brachymystax"
+    },
+    "species": {
+      "name": "细鳞鲑",
+      "latin": "Brachymystax lenok"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1026966"
+  },
+  "sp_oncorhynchus_masou": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲑形目",
+      "latin": "Salmoniformes"
+    },
+    "family": {
+      "name": "鲑科",
+      "latin": "Salmonidae"
+    },
+    "genus": {
+      "name": "钩吻鲑属",
+      "latin": "Oncorhynchus"
+    },
+    "species": {
+      "name": "马苏大麻哈鱼",
+      "latin": "Oncorhynchus masou"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=293637"
+  },
+  "sp_oncorhynchus_keta": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲑形目",
+      "latin": "Salmoniformes"
+    },
+    "family": {
+      "name": "鲑科",
+      "latin": "Salmonidae"
+    },
+    "genus": {
+      "name": "钩吻鲑属",
+      "latin": "Oncorhynchus"
+    },
+    "species": {
+      "name": "大麻哈鱼",
+      "latin": "Oncorhynchus keta"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=127183"
+  },
+  "sp_salmo_trutta": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲑形目",
+      "latin": "Salmoniformes"
+    },
+    "family": {
+      "name": "鲑科",
+      "latin": "Salmonidae"
+    },
+    "genus": {
+      "name": "鳟属",
+      "latin": "Salmo"
+    },
+    "species": {
+      "name": "褐鳟",
+      "latin": "Salmo trutta"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=127187"
+  },
+  "sp_gadus_chalcogrammus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鳕形目",
+      "latin": "Gadiformes"
+    },
+    "family": {
+      "name": "鳕科",
+      "latin": "Gadidae"
+    },
+    "genus": {
+      "name": "鳕属",
+      "latin": "Gadus"
+    },
+    "species": {
+      "name": "黄线狭鳕",
+      "latin": "Gadus chalcogrammus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=300735"
+  },
+  "sp_plecoglossus_altivelis": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "胡瓜鱼目",
+      "latin": "Osmeriformes"
+    },
+    "family": {
+      "name": "香鱼科",
+      "latin": "Plecoglossidae"
+    },
+    "genus": {
+      "name": "香鱼属",
+      "latin": "Plecoglossus"
+    },
+    "species": {
+      "name": "香鱼",
+      "latin": "Plecoglossus altivelis"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=293715"
+  },
+  "sp_gadus_macrocephalus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鳕形目",
+      "latin": "Gadiformes"
+    },
+    "family": {
+      "name": "鳕科",
+      "latin": "Gadidae"
+    },
+    "genus": {
+      "name": "鳕属",
+      "latin": "Gadus"
+    },
+    "species": {
+      "name": "大头鳕",
+      "latin": "Gadus macrocephalus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=254538"
+  },
+  "sp_diodon_hystrix": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲀形目",
+      "latin": "Tetraodontiformes"
+    },
+    "family": {
+      "name": "二齿鲀科",
+      "latin": "Diodontidae"
+    },
+    "genus": {
+      "name": "二齿鲀属",
+      "latin": "Diodon"
+    },
+    "species": {
+      "name": "密斑刺鲀",
+      "latin": "Diodon hystrix"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=127403"
+  },
+  "sp_pseudopleuronectes_americanus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲽形目",
+      "latin": "Pleuronectiformes"
+    },
+    "family": {
+      "name": "鲽科",
+      "latin": "Pleuronectidae"
+    },
+    "genus": {
+      "name": "拟鲽属",
+      "latin": "Pseudopleuronectes"
+    },
+    "species": {
+      "name": "美洲拟鲽",
+      "latin": "Pseudopleuronectes americanus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=158885"
+  },
+  "sp_pseudobalistes_fuscus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲀形目",
+      "latin": "Tetraodontiformes"
+    },
+    "family": {
+      "name": "鳞鲀科",
+      "latin": "Balistidae"
+    },
+    "genus": {
+      "name": "副鳞鲀属",
+      "latin": "Pseudobalistes"
+    },
+    "species": {
+      "name": "褐副鳞鲀",
+      "latin": "Pseudobalistes fuscus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=219885"
+  },
+  "sp_aluterus_scriptus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲀形目",
+      "latin": "Tetraodontiformes"
+    },
+    "family": {
+      "name": "单棘鲀科",
+      "latin": "Monacanthidae"
+    },
+    "genus": {
+      "name": "革单棘鲀属",
+      "latin": "Aluterus"
+    },
+    "species": {
+      "name": "拟态革鲀",
+      "latin": "Aluterus scriptus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=159491"
+  },
+  "sp_lactoria_cornuta": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲀形目",
+      "latin": "Tetraodontiformes"
+    },
+    "family": {
+      "name": "箱鲀科",
+      "latin": "Ostraciidae"
+    },
+    "genus": {
+      "name": "角箱鲀属",
+      "latin": "Lactoria"
+    },
+    "species": {
+      "name": "角箱鲀",
+      "latin": "Lactoria cornuta"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=219904"
+  },
+  "sp_hippocampus_abdominalis": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "海龙目",
+      "latin": "Syngnathiformes"
+    },
+    "family": {
+      "name": "海龙科",
+      "latin": "Syngnathidae"
+    },
+    "genus": {
+      "name": "海马属",
+      "latin": "Hippocampus"
+    },
+    "species": {
+      "name": "膨腹海马",
+      "latin": "Hippocampus abdominalis"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=275182"
+  },
+  "sp_phycodurus_eques": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "海龙目",
+      "latin": "Syngnathiformes"
+    },
+    "family": {
+      "name": "海龙科",
+      "latin": "Syngnathidae"
+    },
+    "genus": {
+      "name": "枝叶海龙属",
+      "latin": "Phycodurus"
+    },
+    "species": {
+      "name": "叶形海龙",
+      "latin": "Phycodurus eques"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=282248"
+  },
+  "sp_syngnathus_acus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "海龙目",
+      "latin": "Syngnathiformes"
+    },
+    "family": {
+      "name": "海龙科",
+      "latin": "Syngnathidae"
+    },
+    "genus": {
+      "name": "海龙属",
+      "latin": "Syngnathus"
+    },
+    "species": {
+      "name": "尖海龙",
+      "latin": "Syngnathus acus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=127387"
+  },
+  "sp_dendrochirus_zebra": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲈形目",
+      "latin": "Perciformes"
+    },
+    "family": {
+      "name": "鲉科",
+      "latin": "Scorpaenidae"
+    },
+    "genus": {
+      "name": "短鳍蓑鲉属",
+      "latin": "Dendrochirus"
+    },
+    "species": {
+      "name": "斑马短鳍蓑鲉",
+      "latin": "Dendrochirus zebra"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=218053"
+  },
+  "sp_pterois_miles": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲈形目",
+      "latin": "Perciformes"
+    },
+    "family": {
+      "name": "鲉科",
+      "latin": "Scorpaenidae"
+    },
+    "genus": {
+      "name": "Pterois属",
+      "latin": "Pterois"
+    },
+    "species": {
+      "name": "斑鳍蓑鲉",
+      "latin": "Pterois miles"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=218077"
+  },
+  "sp_synanceia_verrucosa": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲈形目",
+      "latin": "Perciformes"
+    },
+    "family": {
+      "name": "毒鲉科",
+      "latin": "Synanceiidae"
+    },
+    "genus": {
+      "name": "毒鲉属",
+      "latin": "Synanceia"
+    },
+    "species": {
+      "name": "玫瑰毒鲉",
+      "latin": "Synanceia verrucosa"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=215627"
+  },
+  "sp_phyllopteryx_taeniolatus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "海龙目",
+      "latin": "Syngnathiformes"
+    },
+    "family": {
+      "name": "海龙科",
+      "latin": "Syngnathidae"
+    },
+    "genus": {
+      "name": "草海龙属",
+      "latin": "Phyllopteryx"
+    },
+    "species": {
+      "name": "草海龙",
+      "latin": "Phyllopteryx taeniolatus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=282254"
+  },
+  "sp_sebastiscus_marmoratus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲈形目",
+      "latin": "Perciformes"
+    },
+    "family": {
+      "name": "平鲉科",
+      "latin": "Sebastidae"
+    },
+    "genus": {
+      "name": "菖鲉属",
+      "latin": "Sebastiscus"
+    },
+    "species": {
+      "name": "褐菖鲉",
+      "latin": "Sebastiscus marmoratus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=282738"
+  },
+  "sp_odonus_niger": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲀形目",
+      "latin": "Tetraodontiformes"
+    },
+    "family": {
+      "name": "鳞鲀科",
+      "latin": "Balistidae"
+    },
+    "genus": {
+      "name": "红牙鳞鲀属",
+      "latin": "Odonus"
+    },
+    "species": {
+      "name": "红牙鳞鲀",
+      "latin": "Odonus niger"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=219883"
+  },
+  "sp_hexagrammos_otakii": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲈形目",
+      "latin": "Perciformes"
+    },
+    "family": {
+      "name": "六线鱼科",
+      "latin": "Hexagrammidae"
+    },
+    "genus": {
+      "name": "六线鱼属",
+      "latin": "Hexagrammos"
+    },
+    "species": {
+      "name": "大泷六线鱼",
+      "latin": "Hexagrammos otakii"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=279411"
+  },
+  "sp_anoplopoma_fimbria": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲈形目",
+      "latin": "Perciformes"
+    },
+    "family": {
+      "name": "裸盖鱼科",
+      "latin": "Anoplopomatidae"
+    },
+    "genus": {
+      "name": "裸盖鱼属",
+      "latin": "Anoplopoma"
+    },
+    "species": {
+      "name": "裸盖鱼",
+      "latin": "Anoplopoma fimbria"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=159463"
+  },
+  "sp_orectolobus_maculatus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "板鳃纲",
+      "latin": "Elasmobranchii"
+    },
+    "order": {
+      "name": "须鲨目",
+      "latin": "Orectolobiformes"
+    },
+    "family": {
+      "name": "须鲨科",
+      "latin": "Orectolobidae"
+    },
+    "genus": {
+      "name": "须鲨属",
+      "latin": "Orectolobus"
+    },
+    "species": {
+      "name": "斑纹须鲨",
+      "latin": "Orectolobus maculatus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=281931"
+  },
+  "sp_aulostomus_chinensis": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "海龙目",
+      "latin": "Syngnathiformes"
+    },
+    "family": {
+      "name": "管口鱼科",
+      "latin": "Aulostomidae"
+    },
+    "genus": {
+      "name": "管口鱼属",
+      "latin": "Aulostomus"
+    },
+    "species": {
+      "name": "中华管口鱼",
+      "latin": "Aulostomus chinensis"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=217964"
+  },
+  "sp_glaucostegus_typus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "板鳃纲",
+      "latin": "Elasmobranchii"
+    },
+    "order": {
+      "name": "犁头鳐目",
+      "latin": "Rhinopristiformes"
+    },
+    "family": {
+      "name": "蓝吻犁头鳐科",
+      "latin": "Glaucostegidae"
+    },
+    "genus": {
+      "name": "蓝吻犁头鳐属",
+      "latin": "Glaucostegus"
+    },
+    "species": {
+      "name": "蓝吻犁头鳐",
+      "latin": "Glaucostegus typus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=280875"
+  },
+  "sp_callorhinchus_milii": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "全头纲",
+      "latin": "Holocephali"
+    },
+    "order": {
+      "name": "银鲛目",
+      "latin": "Chimaeriformes"
+    },
+    "family": {
+      "name": "叶吻银鲛科",
+      "latin": "Callorhinchidae"
+    },
+    "genus": {
+      "name": "叶吻银鲛属",
+      "latin": "Callorhinchus"
+    },
+    "species": {
+      "name": "澳洲叶吻银鲛",
+      "latin": "Callorhinchus milii"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=278469"
+  },
+  "sp_potamotrygon_motoro": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "板鳃纲",
+      "latin": "Elasmobranchii"
+    },
+    "order": {
+      "name": "鲼形目",
+      "latin": "Myliobatiformes"
+    },
+    "family": {
+      "name": "江魟科",
+      "latin": "Potamotrygonidae"
+    },
+    "genus": {
+      "name": "江魟属",
+      "latin": "Potamotrygon"
+    },
+    "species": {
+      "name": "珍珠魟",
+      "latin": "Potamotrygon motoro"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=882142"
+  },
+  "sp_hexanchus_griseus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "板鳃纲",
+      "latin": "Elasmobranchii"
+    },
+    "order": {
+      "name": "六鳃鲨目",
+      "latin": "Hexanchiformes"
+    },
+    "family": {
+      "name": "六鳃鲨科",
+      "latin": "Hexanchidae"
+    },
+    "genus": {
+      "name": "六鳃鲨属",
+      "latin": "Hexanchus"
+    },
+    "species": {
+      "name": "灰六鳃鲨",
+      "latin": "Hexanchus griseus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=105833"
+  },
+  "sp_somniosus_microcephalus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "板鳃纲",
+      "latin": "Elasmobranchii"
+    },
+    "order": {
+      "name": "角鲨目",
+      "latin": "Squaliformes"
+    },
+    "family": {
+      "name": "睡鲨科",
+      "latin": "Somniosidae"
+    },
+    "genus": {
+      "name": "睡鲨属",
+      "latin": "Somniosus"
+    },
+    "species": {
+      "name": "格陵兰睡鲨",
+      "latin": "Somniosus microcephalus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=105919"
+  },
+  "sp_chlamydoselachus_anguineus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "板鳃纲",
+      "latin": "Elasmobranchii"
+    },
+    "order": {
+      "name": "六鳃鲨目",
+      "latin": "Hexanchiformes"
+    },
+    "family": {
+      "name": "皱鳃鲨科",
+      "latin": "Chlamydoselachidae"
+    },
+    "genus": {
+      "name": "皱鳃鲨属",
+      "latin": "Chlamydoselachus"
+    },
+    "species": {
+      "name": "皱鳃鲨",
+      "latin": "Chlamydoselachus anguineus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=105831"
+  },
+  "sp_acipenser_baerii": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "软骨硬鳞鱼纲",
+      "latin": "Chondrostei"
+    },
+    "order": {
+      "name": "鲟形目",
+      "latin": "Acipenseriformes"
+    },
+    "family": {
+      "name": "鲟科",
+      "latin": "Acipenseridae"
+    },
+    "genus": {
+      "name": "鲟属",
+      "latin": "Acipenser"
+    },
+    "species": {
+      "name": "西伯利亚鲟",
+      "latin": "Acipenser baerii"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=233942"
+  },
+  "sp_lepisosteus_oculatus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "全骨鱼纲",
+      "latin": "Holostei"
+    },
+    "order": {
+      "name": "雀鳝目",
+      "latin": "Lepisosteiformes"
+    },
+    "family": {
+      "name": "雀鳝科",
+      "latin": "Lepisosteidae"
+    },
+    "genus": {
+      "name": "雀鳝属",
+      "latin": "Lepisosteus"
+    },
+    "species": {
+      "name": "斑点雀鳝",
+      "latin": "Lepisosteus oculatus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=275402"
+  },
+  "sp_scaphirhynchus_platorynchus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "软骨硬鳞鱼纲",
+      "latin": "Chondrostei"
+    },
+    "order": {
+      "name": "鲟形目",
+      "latin": "Acipenseriformes"
+    },
+    "family": {
+      "name": "鲟科",
+      "latin": "Acipenseridae"
+    },
+    "genus": {
+      "name": "铲鲟属",
+      "latin": "Scaphirhynchus"
+    },
+    "species": {
+      "name": "铲鼻鲟",
+      "latin": "Scaphirhynchus platorynchus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1022840"
+  },
+  "sp_gnathonemus_petersii": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "骨舌鱼目",
+      "latin": "Osteoglossiformes"
+    },
+    "family": {
+      "name": "象鼻鱼科",
+      "latin": "Mormyridae"
+    },
+    "genus": {
+      "name": "锥颌象鼻鱼属",
+      "latin": "Gnathonemus"
+    },
+    "species": {
+      "name": "彼得斯象鼻鱼",
+      "latin": "Gnathonemus petersii"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1015207"
+  },
+  "sp_pantodon_buchholzi": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "骨舌鱼目",
+      "latin": "Osteoglossiformes"
+    },
+    "family": {
+      "name": "齿蝶鱼科",
+      "latin": "Pantodontidae"
+    },
+    "genus": {
+      "name": "齿蝶鱼属",
+      "latin": "Pantodon"
+    },
+    "species": {
+      "name": "齿蝶鱼",
+      "latin": "Pantodon buchholzi"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1019063"
+  },
+  "sp_heteroconger_hassi": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鳗鲡目",
+      "latin": "Anguilliformes"
+    },
+    "family": {
+      "name": "糯鳗科",
+      "latin": "Congridae"
+    },
+    "genus": {
+      "name": "异康吉鳗属",
+      "latin": "Heteroconger"
+    },
+    "species": {
+      "name": "哈氏异康吉鳗",
+      "latin": "Heteroconger hassi"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=217552"
+  },
+  "sp_monocentris_japonica": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "燧鲷目",
+      "latin": "Trachichthyiformes"
+    },
+    "family": {
+      "name": "松球鱼科",
+      "latin": "Monocentridae"
+    },
+    "genus": {
+      "name": "松球鱼属",
+      "latin": "Monocentris"
+    },
+    "species": {
+      "name": "日本松球鱼",
+      "latin": "Monocentris japonica"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=221357"
+  },
+  "sp_oplegnathus_fasciatus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "太阳鱼目",
+      "latin": "Centrarchiformes"
+    },
+    "family": {
+      "name": "石鲷科",
+      "latin": "Oplegnathidae"
+    },
+    "genus": {
+      "name": "石鲷属",
+      "latin": "Oplegnathus"
+    },
+    "species": {
+      "name": "条石鲷",
+      "latin": "Oplegnathus fasciatus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=277892"
+  },
+  "sp_sillago_sihama": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "狼鲈目",
+      "latin": "Moroniformes"
+    },
+    "family": {
+      "name": "鱚科",
+      "latin": "Sillaginidae"
+    },
+    "genus": {
+      "name": "鱚属",
+      "latin": "Sillago"
+    },
+    "species": {
+      "name": "多鳞鱚",
+      "latin": "Sillago sihama"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=127046"
+  },
+  "sp_bolbometopon_muricatum": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "隆头鱼目",
+      "latin": "Labriformes"
+    },
+    "family": {
+      "name": "隆头鱼科",
+      "latin": "Labridae"
+    },
+    "genus": {
+      "name": "隆头鹦嘴鱼属",
+      "latin": "Bolbometopon"
+    },
+    "species": {
+      "name": "隆头鹦嘴鱼",
+      "latin": "Bolbometopon muricatum"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=219074"
+  },
+  "sp_acanthopagrus_schlegelii": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲷形目",
+      "latin": "Spariformes"
+    },
+    "family": {
+      "name": "鲷科",
+      "latin": "Sparidae"
+    },
+    "genus": {
+      "name": "棘鲷属",
+      "latin": "Acanthopagrus"
+    },
+    "species": {
+      "name": "黑棘鲷",
+      "latin": "Acanthopagrus schlegelii"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=293534"
+  },
+  "sp_carassius_carassius": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲤形目",
+      "latin": "Cypriniformes"
+    },
+    "family": {
+      "name": "鲤科",
+      "latin": "Cyprinidae"
+    },
+    "genus": {
+      "name": "鲫属",
+      "latin": "Carassius"
+    },
+    "species": {
+      "name": "黑鲫",
+      "latin": "Carassius carassius"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=154297"
+  },
+  "sp_thymallus_arcticus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲑形目",
+      "latin": "Salmoniformes"
+    },
+    "family": {
+      "name": "鲑科",
+      "latin": "Salmonidae"
+    },
+    "genus": {
+      "name": "茴鱼属",
+      "latin": "Thymallus"
+    },
+    "species": {
+      "name": "北极茴鱼",
+      "latin": "Thymallus arcticus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=254571"
+  },
+  "sp_coilia_nasus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲱形目",
+      "latin": "Clupeiformes"
+    },
+    "family": {
+      "name": "鳀科",
+      "latin": "Engraulidae"
+    },
+    "genus": {
+      "name": "鲚属",
+      "latin": "Coilia"
+    },
+    "species": {
+      "name": "刀鲚",
+      "latin": "Coilia nasus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=279083"
+  },
+  "sp_cyclopterus_lumpus": {
+    "kingdom": {
+      "name": "动物界",
+      "latin": "Animalia"
+    },
+    "phylum": {
+      "name": "脊索动物门",
+      "latin": "Chordata"
+    },
+    "class": {
+      "name": "真骨鱼纲",
+      "latin": "Teleostei"
+    },
+    "order": {
+      "name": "鲈形目",
+      "latin": "Perciformes"
+    },
+    "family": {
+      "name": "圆鳍鱼科",
+      "latin": "Cyclopteridae"
+    },
+    "genus": {
+      "name": "圆鳍鱼属",
+      "latin": "Cyclopterus"
+    },
+    "species": {
+      "name": "圆鳍鱼",
+      "latin": "Cyclopterus lumpus"
+    },
+    "source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=127214"
   }
 };

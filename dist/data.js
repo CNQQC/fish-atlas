@@ -6718,5 +6718,2511 @@ window.FISH_DATA = [
       "点纹斑竹鲨"
     ],
     "source": "https://www.fishbase.se/summary/Chiloscyllium-punctatum.html"
+  },
+  {
+    "id": "sp_pseudorasbora_parva",
+    "name": "麦穗鱼",
+    "latin": "Pseudorasbora parva",
+    "aliases": "topmouth gudgeon 罗汉鱼 麦穗",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "水草丰富的小型水道、池塘和小湖泊，也见于流速缓慢的水体。",
+    "feature": "体型小，口小而上位，下颌稍向上翘。体色偏灰银，体侧鳞片后缘色深。",
+    "diet": "小型昆虫、鱼卵和小鱼，也取食植物性物质。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲤形目",
+      "鲤科",
+      "麦穗鱼属",
+      "麦穗鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Pseudorasbora-parva.html"
+  },
+  {
+    "id": "sp_rhodeus_amarus",
+    "name": "欧洲鳑鲏",
+    "latin": "Rhodeus amarus",
+    "aliases": "European bitterling 欧洲苦鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "植被茂密的静水或缓流水体，如池塘、运河、河湾和牛轭湖，且需要有淡水蚌类。",
+    "feature": "体小而侧扁，体高较大。繁殖期雄鱼体色鲜艳，雌鱼长有伸出体外的产卵管。",
+    "diet": "主要取食藻类、碎屑和小型无脊椎动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲤形目",
+      "鲤科",
+      "鳑鲏属",
+      "欧洲鳑鲏"
+    ],
+    "source": "https://www.fishbase.se/summary/Rhodeus-amarus.html"
+  },
+  {
+    "id": "sp_squaliobarbus_curriculus",
+    "name": "赤眼鳟",
+    "latin": "Squaliobarbus curriculus",
+    "aliases": "barbel chub 红眼鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "江河及与之相通的水域，中下层均可见到。",
+    "feature": "眼的上缘带有红色，因此得名“赤眼”。体长而略呈圆筒形，鳞片较大。",
+    "diet": "杂食，常取食水草、藻类和有机碎屑。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲤形目",
+      "鲤科",
+      "赤眼鳟属",
+      "赤眼鳟"
+    ],
+    "source": "https://www.fishbase.se/summary/Squaliobarbus-curriculus.html"
+  },
+  {
+    "id": "sp_culter_alburnus",
+    "name": "翘嘴鲌",
+    "latin": "Culter alburnus",
+    "aliases": "topmouth culter 翘嘴红鲌 白鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "江河和水草丛生的泛滥平原湖泊。",
+    "feature": "体侧扁而细长，口上位，下颌向上翘起。腹鳍基部到肛门之间有明显的腹棱。",
+    "diet": "肉食性，主要取食小型鱼类和虾。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲤形目",
+      "鲤科",
+      "鲌属",
+      "翘嘴鲌"
+    ],
+    "source": "https://www.fishbase.se/summary/Culter-alburnus.html"
+  },
+  {
+    "id": "sp_labeo_rohita",
+    "name": "露斯塔野鲮",
+    "latin": "Labeo rohita",
+    "aliases": "rohu 罗虎鱼 罗非野鲮",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "河流、水库和养殖池塘的中下层水域。",
+    "feature": "吻钝而圆，口位于吻的下方，下唇边缘明显。背部青灰，体侧银白，鳞片较大。",
+    "diet": "植食性或偏植食性，以水生植物、藻类和碎屑为主。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲤形目",
+      "鲤科",
+      "野鲮属",
+      "露斯塔野鲮"
+    ],
+    "source": "https://www.fishbase.se/summary/Labeo-rohita.html"
+  },
+  {
+    "id": "sp_labeo_catla",
+    "name": "卡特拉鲃",
+    "latin": "Labeo catla",
+    "aliases": "catla 印度鲤",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "河流、湖泊和养殖池塘。",
+    "feature": "头部宽大，吻钝，口大而上翘。体色银灰，体较高，背部隆起。",
+    "diet": "在水体表层和中层取食，杂食；幼鱼取食昆虫、碎屑和浮游植物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲤形目",
+      "鲤科",
+      "野鲮属",
+      "卡特拉鲃"
+    ],
+    "source": "https://www.fishbase.se/summary/Labeo-catla.html"
+  },
+  {
+    "id": "sp_barbonymus_schwanefeldii",
+    "name": "施氏高体鲃",
+    "latin": "Barbonymus schwanefeldii",
+    "aliases": "tinfoil barb 红尾银板鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "江河、溪流、运河和沟渠；成鱼栖于中大型河流，也会进入被淹没的田地。",
+    "feature": "体高而侧扁，银色体表带有金属光泽。尾鳍呈红色，边缘带黑色。",
+    "diet": "主要取食水生植物，也吃果实和小型动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲤形目",
+      "鲤科",
+      "高体鲃属",
+      "施氏高体鲃"
+    ],
+    "source": "https://www.fishbase.se/summary/Barbonymus-schwanefeldii.html"
+  },
+  {
+    "id": "sp_pterygoplichthys_pardalis",
+    "name": "豹纹翼甲鲶",
+    "latin": "Pterygoplichthys pardalis",
+    "aliases": "leopard pleco 清道夫 琵琶鼠鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "原产亚马孙河流域的河流与静水，多活动于底层。",
+    "feature": "口呈吸盘状，位于头部腹面，身体覆盖骨板。背鳍高耸，腹面带有网状或豹纹状的深色花纹。",
+    "diet": "刮食藻类和有机碎屑为主。",
+    "myth": "“清道夫”只是俗称：它们不会把鱼缸“清理干净”，体型还可能长到约半米。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲇形目",
+      "骨甲鲶科",
+      "翼甲鲶属",
+      "豹纹翼甲鲶"
+    ],
+    "source": "https://www.fishbase.se/summary/Pterygoplichthys-pardalis.html"
+  },
+  {
+    "id": "sp_synodontis_nigriventris",
+    "name": "倒立鲶",
+    "latin": "Synodontis nigriventris",
+    "aliases": "upside-down catfish 倒游猫 黑腹歧须鮠",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "刚果河中游流域的河流，多在水底有石块与水草的地方。",
+    "feature": "游泳时常腹部朝上。体小，有三对须，体色带有不规则的深浅斑纹。",
+    "diet": "夜间取食昆虫、甲壳动物和植物性食物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲇形目",
+      "倒立鲶科",
+      "歧须鮠属",
+      "倒立鲶"
+    ],
+    "source": "https://www.fishbase.se/summary/Synodontis-nigriventris.html"
+  },
+  {
+    "id": "sp_phractocephalus_hemioliopterus",
+    "name": "红尾鲶",
+    "latin": "Phractocephalus hemioliopterus",
+    "aliases": "redtail catfish 红尾猫 红尾护头鲿",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "亚马孙河与奥里诺科河流域的底层水域。",
+    "feature": "尾鳍红橙色，与深色身体对比明显。头部宽扁，覆有骨质头盾，有三对长须。",
+    "diet": "成鱼取食鱼类、螃蟹和果实。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲇形目",
+      "长须鲶科",
+      "红尾鲶属",
+      "红尾鲶"
+    ],
+    "source": "https://www.fishbase.se/summary/Phractocephalus-hemioliopterus.html"
+  },
+  {
+    "id": "sp_colossoma_macropomum",
+    "name": "大盖巨脂鲤",
+    "latin": "Colossoma macropomum",
+    "aliases": "tambaqui 巨脂鲤 黑 pacu",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "亚马孙与奥里诺科流域的江河，雨季会进入泛滥森林。",
+    "feature": "体高而侧扁，牙齿呈臼状，能压碎坚硬的种子。背鳍后方有一个小的脂鳍。",
+    "diet": "杂食；成鱼在雨季淹没的森林中取食果实和种子，也吃浮游动物、昆虫和螺类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "脂鲤目",
+      "锯脂鲤科",
+      "巨脂鲤属",
+      "大盖巨脂鲤"
+    ],
+    "source": "https://www.fishbase.se/summary/Colossoma-macropomum.html"
+  },
+  {
+    "id": "sp_oryzias_latipes",
+    "name": "青鳉",
+    "latin": "Oryzias latipes",
+    "aliases": "Japanese medaka 日本青鳉 青鱂",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "稻田、池塘、沼泽和平原上的缓流小溪，也见于低地的半咸水域。",
+    "feature": "体小，眼大，背鳍位置靠近尾部。口上位；雄鱼的臀鳍比雌鱼更长。",
+    "diet": "浮游动物、昆虫幼虫和其他小型水生动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "颌针鱼目",
+      "怪颌鳉科",
+      "青鳉属",
+      "青鳉"
+    ],
+    "source": "https://www.fishbase.se/summary/Oryzias-latipes.html"
+  },
+  {
+    "id": "sp_poecilia_latipinna",
+    "name": "茉莉花鳉",
+    "latin": "Poecilia latipinna",
+    "aliases": "sailfin molly 帆鳍玛丽 帆鳍花鳉",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh",
+      "marine"
+    ],
+    "habitat": "温暖的静水或缓流水体，如沟渠、池塘和沿岸水域，也见于半咸水和海水。",
+    "feature": "雄鱼背鳍宽大呈帆状，求偶时会展开。体侧常有成排的深色小点，色彩因品系而异。",
+    "diet": "藻类、碎屑和小型无脊椎动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲤齿目",
+      "花鳉科",
+      "花鳉属",
+      "茉莉花鳉"
+    ],
+    "source": "https://www.fishbase.se/summary/Poecilia-latipinna.html"
+  },
+  {
+    "id": "sp_macropodus_opercularis",
+    "name": "叉尾斗鱼",
+    "latin": "Macropodus opercularis",
+    "aliases": "paradise fish 盖斑斗鱼 天堂鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "低地河湾、溪流、稻田与灌溉渠，可在低氧的静水中生存。",
+    "feature": "尾鳍分叉，上下叶的尖端延长。体侧有红蓝相间的横纹，鳃盖后缘有深色斑。",
+    "diet": "取食昆虫、小型甲壳动物等水生无脊椎动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "攀鲈目",
+      "丝足鲈科",
+      "斗鱼属",
+      "叉尾斗鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Macropodus-opercularis.html"
+  },
+  {
+    "id": "sp_anabas_testudineus",
+    "name": "攀鲈",
+    "latin": "Anabas testudineus",
+    "aliases": "climbing perch 爬树鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "运河、湖泊、池塘、沼泽和河口，也见于被淹的稻田等静水。",
+    "feature": "鳃盖边缘有锯齿状的棘，能在陆地上辅助爬行。体色多为灰褐，尾柄基部常有一个暗斑。",
+    "diet": "杂食，取食昆虫、虾蟹、小鱼和植物。",
+    "myth": "“爬树鱼”之名夸大了它的能力：它能离水爬行，但并不以爬树为生。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "攀鲈目",
+      "攀鲈科",
+      "攀鲈属",
+      "攀鲈"
+    ],
+    "source": "https://www.fishbase.se/summary/Anabas-testudineus.html"
+  },
+  {
+    "id": "sp_morone_saxatilis",
+    "name": "条纹鲈",
+    "latin": "Morone saxatilis",
+    "aliases": "striped bass 条纹狼鲈 银花鲈",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "近岸海湾和河口，春季进入河流；部分种群完全生活在淡水水库。",
+    "feature": "体侧有七八条纵向的深色细条纹。背部橄榄至蓝绿色，腹部银白，有两个分开的背鳍。",
+    "diet": "凶猛的机会主义捕食者，取食鱼类和虾蟹等甲壳动物；幼体取食浮游动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "狼鲈目",
+      "狼鲈科",
+      "狼鲈属",
+      "条纹鲈"
+    ],
+    "source": "https://www.fishbase.se/summary/Morone-saxatilis.html"
+  },
+  {
+    "id": "sp_perca_flavescens",
+    "name": "黄鲈",
+    "latin": "Perca flavescens",
+    "aliases": "yellow perch 黄金鲈",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "湖泊、池塘和河流，常见于植被丰富、水质清澈的近岸水域。",
+    "feature": "体侧黄绿色，有六到八条宽阔的深色竖带。两个背鳍分开，腹鳍与臀鳍常带橙黄色。",
+    "diet": "幼体取食浮游动物；成鱼取食昆虫幼虫、较大的无脊椎动物和鱼类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲈形目",
+      "鲈科",
+      "Perca属",
+      "黄鲈"
+    ],
+    "source": "https://www.fishbase.se/summary/Perca-flavescens.html"
+  },
+  {
+    "id": "sp_osphronemus_goramy",
+    "name": "大丝足鲈",
+    "latin": "Osphronemus goramy",
+    "aliases": "giant gourami 长丝鲈",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "沼泽、湖泊和江河中植被丰富之处，也进入被淹没的森林。",
+    "feature": "体高侧扁，成鱼前额隆起，吻部突出。腹鳍特化为细长的丝状，用来探测周围。",
+    "diet": "杂食，既吃植物也吃昆虫等小型动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "攀鲈目",
+      "丝足鲈科",
+      "丝足鲈属",
+      "大丝足鲈"
+    ],
+    "source": "https://www.fishbase.se/summary/Osphronemus-goramy.html"
+  },
+  {
+    "id": "sp_trachinotus_blochii",
+    "name": "布氏鲳鲹",
+    "latin": "Trachinotus blochii",
+    "aliases": "snubnose pompano 金鲳 红鳍鲳鲹",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "沙质海岸、河口附近的海湾和近海礁区，幼鱼偏爱浅滩。",
+    "feature": "体呈卵圆形，侧扁，银白色。背鳍与臀鳍前部呈镰刀状，尾鳍深叉。",
+    "diet": "主要取食沙栖的软体动物和甲壳动物。",
+    "myth": "市场上的“金鲳”常指本种，与鲳科的银鲳不是一类。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲹形目",
+      "鲹科",
+      "鲳鲹属",
+      "布氏鲳鲹"
+    ],
+    "source": "https://www.fishbase.se/summary/Trachinotus-blochii.html"
+  },
+  {
+    "id": "sp_channa_maculata",
+    "name": "斑鳢",
+    "latin": "Channa maculata",
+    "aliases": "blotched snakehead 鳢鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "河流、池塘和湖泊的泥底、多水草水域。",
+    "feature": "体呈圆筒形，头部扁平似蛇，体侧有深色的不规则斑块。背鳍和臀鳍很长，尾鳍圆形。",
+    "diet": "甲壳动物、大型昆虫、蛙和鱼类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "攀鲈目",
+      "鳢科",
+      "鳢属",
+      "斑鳢"
+    ],
+    "source": "https://www.fishbase.se/summary/Channa-maculata.html"
+  },
+  {
+    "id": "sp_lutjanus_argentimaculatus",
+    "name": "紫红笛鲷",
+    "latin": "Lutjanus argentimaculatus",
+    "aliases": "mangrove red snapper 红友 红鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "幼鱼与亚成鱼见于红树林河口、潮溪和河流下游；成鱼多在珊瑚礁，也可至较深礁区。",
+    "feature": "体色多呈暗红或棕红，成鱼体侧鳞片轮廓较淡。背鳍连续，前部有棘，尾鳍近截形。",
+    "diet": "以鱼类和甲壳动物为主。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "目级归属未定",
+      "笛鲷科",
+      "笛鲷属",
+      "紫红笛鲷"
+    ],
+    "source": "https://www.fishbase.se/summary/Lutjanus-argentimaculatus.html"
+  },
+  {
+    "id": "sp_sciaenops_ocellatus",
+    "name": "眼斑拟石首鱼",
+    "latin": "Sciaenops ocellatus",
+    "aliases": "red drum 美国红鱼 红鼓鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "沿岸沙质或泥沙底的浅海、河口和近岸浪区。",
+    "feature": "尾柄上方常有一个或多个黑色眼斑。体呈铜红至银色，背部较深，颏部没有须。",
+    "diet": "甲壳动物、软体动物和鱼类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "目级归属未定",
+      "石首鱼科",
+      "拟石首鱼属",
+      "眼斑拟石首鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Sciaenops-ocellatus.html"
+  },
+  {
+    "id": "sp_scatophagus_argus",
+    "name": "金钱鱼",
+    "latin": "Scatophagus argus",
+    "aliases": "spotted scat 金鼓鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine",
+      "fresh"
+    ],
+    "habitat": "港湾、河口、红树林以及河流下游的浅水区。",
+    "feature": "体呈圆盘形，高而侧扁，体侧布有大小不一的深色圆斑。背鳍、臀鳍和腹鳍的棘锋利，处理时需小心。",
+    "diet": "蠕虫、甲壳动物、昆虫和植物性物质。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "大眼鲷目",
+      "金钱鱼科",
+      "金钱鱼属",
+      "金钱鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Scatophagus-argus.html"
+  },
+  {
+    "id": "sp_toxotes_jaculatrix",
+    "name": "射水鱼",
+    "latin": "Toxotes jaculatrix",
+    "aliases": "banded archerfish 高射水鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine",
+      "fresh"
+    ],
+    "habitat": "红树林河口，也深入河流和小溪，常在悬垂的植被下方。",
+    "feature": "体侧有数条深色竖斑，背鳍位置靠后。口大而上位，眼大，利于观察水面上方。",
+    "diet": "在水面取食漂浮物和昆虫，也会喷水击落水边的猎物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲹形目",
+      "射水鱼科",
+      "射水鱼属",
+      "射水鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Toxotes-jaculatrix.html"
+  },
+  {
+    "id": "sp_platax_orbicularis",
+    "name": "圆眼燕鱼",
+    "latin": "Platax orbicularis",
+    "aliases": "orbicular batfish 圆燕鱼 圆蝙蝠鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "浅而受保护的沿岸水域直至稍深的泥沙质区，也见于沉船；幼鱼常在红树林。",
+    "feature": "身体近圆形、极侧扁，背鳍和臀鳍高耸。幼鱼深色并仿佛枯叶，成鱼银灰带暗色横带。",
+    "diet": "杂食，取食藻类、浮游动物和小型无脊椎动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "白鲳目",
+      "白鲳科",
+      "燕鱼属",
+      "圆眼燕鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Platax-orbicularis.html"
+  },
+  {
+    "id": "sp_cheilinus_undulatus",
+    "name": "波纹唇鱼",
+    "latin": "Cheilinus undulatus",
+    "aliases": "humphead wrasse 苏眉 拿破仑鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "珊瑚礁外坡、水道和泻湖礁区。",
+    "feature": "成鱼额部隆起，形成突出的前额。唇厚，头部有蜿蜒的深色条纹，体色蓝绿。",
+    "diet": "取食软体动物、鱼类、海胆和甲壳动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "隆头鱼目",
+      "隆头鱼科",
+      "唇鱼属",
+      "波纹唇鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Cheilinus-undulatus.html"
+  },
+  {
+    "id": "sp_epibulus_insidiator",
+    "name": "伸口鱼",
+    "latin": "Epibulus insidiator",
+    "aliases": "sling-jaw wrasse 弹弓隆头鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "珊瑚丰富的泻湖礁和外礁。",
+    "feature": "口可向前高度伸出成管状，用来突袭猎物。体色因个体而异，常见黄色或褐色的色型。",
+    "diet": "取食栖居于珊瑚间的小型甲壳动物和鱼类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "隆头鱼目",
+      "隆头鱼科",
+      "伸口鱼属",
+      "伸口鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Epibulus-insidiator.html"
+  },
+  {
+    "id": "sp_scarus_ghobban",
+    "name": "青点鹦嘴鱼",
+    "latin": "Scarus ghobban",
+    "aliases": "blue-barred parrotfish 青鹦嘴鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "泻湖礁与外礁，斜坡和陡坡上都可见。",
+    "feature": "体呈绿灰色，体侧鳞片上有蓝色线条或斑点。牙齿愈合成板，像鸟喙。",
+    "diet": "刮食珊瑚礁岩石上的藻类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "隆头鱼目",
+      "隆头鱼科",
+      "鹦嘴鱼属",
+      "青点鹦嘴鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Scarus-ghobban.html"
+  },
+  {
+    "id": "sp_acanthurus_triostegus",
+    "name": "横带刺尾鱼",
+    "latin": "Acanthurus triostegus",
+    "aliases": "convict surgeonfish 条纹倒吊",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "泻湖与外礁的硬质底；幼鱼多在潮池。",
+    "feature": "体侧有多条垂直的黑色细横带，底色浅黄绿。尾柄两侧各有一枚可竖起的小棘。",
+    "diet": "以岩石上的丝状藻类为主。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "刺尾鲷目",
+      "刺尾鱼科",
+      "Acanthurus属",
+      "横带刺尾鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Acanthurus-triostegus.html"
+  },
+  {
+    "id": "sp_naso_unicornis",
+    "name": "单角鼻鱼",
+    "latin": "Naso unicornis",
+    "aliases": "bluespine unicornfish 短吻鼻鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "水流较强的礁区水道、泻湖礁与外礁。",
+    "feature": "成鱼额部常有向前突出的角状隆起。尾柄两侧各有两枚固定的骨质板。",
+    "diet": "主要取食褐藻，如马尾藻。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "刺尾鲷目",
+      "刺尾鱼科",
+      "鼻鱼属",
+      "单角鼻鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Naso-unicornis.html"
+  },
+  {
+    "id": "sp_acanthurus_coeruleus",
+    "name": "蓝刺尾鱼",
+    "latin": "Acanthurus coeruleus",
+    "aliases": "Atlantic blue tang 蓝倒吊",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "珊瑚礁，也见于近岸的草丛和岩石区。",
+    "feature": "成鱼体呈蓝色，幼鱼为鲜黄色。尾柄两侧各有一枚可竖起的小棘。",
+    "diet": "完全以藻类为食。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "刺尾鲷目",
+      "刺尾鱼科",
+      "Acanthurus属",
+      "蓝刺尾鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Acanthurus-coeruleus.html"
+  },
+  {
+    "id": "sp_pomacentrus_coelestis",
+    "name": "霓虹雀鲷",
+    "latin": "Pomacentrus coelestis",
+    "aliases": "neon damselfish",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "泻湖和外礁，靠近底部的碎石区。",
+    "feature": "体呈亮蓝色，腹部和尾部带黄色。体型小，为雀鲷科常见的卵圆形。",
+    "diet": "主要取食浮游动物，也吃少量底栖藻类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "目级归属未定",
+      "雀鲷科",
+      "雀鲷属",
+      "霓虹雀鲷"
+    ],
+    "source": "https://www.fishbase.se/summary/Pomacentrus-coelestis.html"
+  },
+  {
+    "id": "sp_abudefduf_vaigiensis",
+    "name": "五带豆娘鱼",
+    "latin": "Abudefduf vaigiensis",
+    "aliases": "Indo-Pacific sergeant 条纹豆娘鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "外礁坡上缘和近岸岩礁；幼鱼与漂浮海藻相伴。",
+    "feature": "体侧有五条竖直的暗色横带。背部偏黄绿，腹部颜色浅。",
+    "diet": "取食浮游动物、底栖藻类和小型无脊椎动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "目级归属未定",
+      "雀鲷科",
+      "豆娘鱼属",
+      "五带豆娘鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Abudefduf-vaigiensis.html"
+  },
+  {
+    "id": "sp_amphiprion_biaculeatus",
+    "name": "棘颊海葵鱼",
+    "latin": "Amphiprion biaculeatus",
+    "aliases": "maroon clownfish 棘颊雀鲷 红小丑",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "泻湖与外礁，主要在受保护的沿岸水域，与海葵共生。",
+    "feature": "体色深红，体侧有一条白色竖带。脸颊有向后的小棘。",
+    "diet": "主要取食浮游动物和底栖藻类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "目级归属未定",
+      "雀鲷科",
+      "双锯鱼属",
+      "棘颊海葵鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Amphiprion-biaculeatus.html"
+  },
+  {
+    "id": "sp_chaetodon_ephippium",
+    "name": "鞍斑蝴蝶鱼",
+    "latin": "Chaetodon ephippium",
+    "aliases": "saddled butterflyfish 鞍背蝴蝶鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "珊瑚丰富、水质清澈的泻湖与外礁，水深多不超过约30米。",
+    "feature": "体后上方有一大块黑色鞍状斑，边缘为白色。体前部灰蓝，体后和腹部带黄色。",
+    "diet": "取食丝状藻类、小型无脊椎动物和珊瑚虫。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "蝴蝶鱼目",
+      "蝴蝶鱼科",
+      "蝴蝶鱼属",
+      "鞍斑蝴蝶鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Chaetodon-ephippium.html"
+  },
+  {
+    "id": "sp_forcipiger_flavissimus",
+    "name": "黄镊口鱼",
+    "latin": "Forcipiger flavissimus",
+    "aliases": "yellow longnose butterflyfish 长吻蝴蝶鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "外礁和泻湖礁，水深可达约145米。",
+    "feature": "吻部细长，像一把镊子，体色鲜黄。头部上半偏深色，下半偏银白。",
+    "diet": "取食水螅、鱼卵和小型甲壳动物等多种动物性饵料，用长吻伸入缝隙觅食。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "蝴蝶鱼目",
+      "蝴蝶鱼科",
+      "镊口鱼属",
+      "黄镊口鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Forcipiger-flavissimus.html"
+  },
+  {
+    "id": "sp_pygoplites_diacanthus",
+    "name": "双棘甲尻鱼",
+    "latin": "Pygoplites diacanthus",
+    "aliases": "regal angelfish 皇后神仙鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "珊瑚丰富的泻湖礁与外礁，常在洞穴附近。",
+    "feature": "体侧有多条橙色与蓝白相间的弧形斜纹。尾鳍鲜黄。",
+    "diet": "取食海绵和被囊动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "蝴蝶鱼目",
+      "盖刺鱼科",
+      "甲尻鱼属",
+      "双棘甲尻鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Pygoplites-diacanthus.html"
+  },
+  {
+    "id": "sp_holacanthus_ciliaris",
+    "name": "额斑刺蝶鱼",
+    "latin": "Holacanthus ciliaris",
+    "aliases": "queen angelfish 女王神仙鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "珊瑚礁，常在海扇和软珊瑚丛间穿行。",
+    "feature": "额头有一块被蓝色圈起的“皇冠”斑。体呈蓝绿，鳞片边缘橙黄，尾鳍黄色。",
+    "diet": "几乎完全取食海绵，另有少量藻类和被囊动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "蝴蝶鱼目",
+      "盖刺鱼科",
+      "刺蝶鱼属",
+      "额斑刺蝶鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Holacanthus-ciliaris.html"
+  },
+  {
+    "id": "sp_epinephelus_lanceolatus",
+    "name": "鞍带石斑鱼",
+    "latin": "Epinephelus lanceolatus",
+    "aliases": "giant grouper 龙胆石斑",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "珊瑚礁、洞穴和沉船附近，也见于河口。",
+    "feature": "体型粗壮，头大，成鱼褐色并带不规则暗斑。幼鱼为黄色与黑色相间的大块色斑。",
+    "diet": "取食鱼类和甲壳动物，如龙虾和螃蟹。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲈形目",
+      "石斑鱼科",
+      "石斑鱼属",
+      "鞍带石斑鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Epinephelus-lanceolatus.html"
+  },
+  {
+    "id": "sp_plectropomus_leopardus",
+    "name": "豹纹鳃棘鲈",
+    "latin": "Plectropomus leopardus",
+    "aliases": "leopard coralgrouper 东星斑",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "珊瑚丰富的泻湖礁和中陆架礁区。",
+    "feature": "体色多为红色至橙红，布满蓝色小斑点。鳃盖骨边缘有小棘。",
+    "diet": "成鱼主要捕食鱼类；幼鱼取食甲壳动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲈形目",
+      "石斑鱼科",
+      "鳃棘鲈属",
+      "豹纹鳃棘鲈"
+    ],
+    "source": "https://www.fishbase.se/summary/Plectropomus-leopardus.html"
+  },
+  {
+    "id": "sp_cephalopholis_argus",
+    "name": "斑点九棘鲈",
+    "latin": "Cephalopholis argus",
+    "aliases": "peacock hind 青星九棘鲈",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "泻湖和外礁，从潮池到至少40米深，偏爱1至10米的礁区。",
+    "feature": "体呈深棕，布满带蓝色边缘的黑色圆斑。体侧常有数条较淡的竖带；背鳍有九枚硬棘。",
+    "diet": "捕食小型鱼类和甲壳动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲈形目",
+      "石斑鱼科",
+      "九棘鲈属",
+      "斑点九棘鲈"
+    ],
+    "source": "https://www.fishbase.se/summary/Cephalopholis-argus.html"
+  },
+  {
+    "id": "sp_epinephelus_akaara",
+    "name": "赤点石斑鱼",
+    "latin": "Epinephelus akaara",
+    "aliases": "Hong Kong grouper 红斑",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "岩礁区，水深至少到55米；幼鱼多在10米以浅。",
+    "feature": "体侧布满橙红至红褐色的小斑点。体侧有若干条模糊的暗色横带。",
+    "diet": "以鱼类和甲壳动物为主。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲈形目",
+      "石斑鱼科",
+      "石斑鱼属",
+      "赤点石斑鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Epinephelus-akaara.html"
+  },
+  {
+    "id": "sp_periophthalmus_modestus",
+    "name": "弹涂鱼",
+    "latin": "Periophthalmus modestus",
+    "aliases": "shuttles hoppfish 跳跳鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "潮间带平坦、没有植被的泥滩，也见于河口。",
+    "feature": "眼睛突出于头顶，彼此靠近。胸鳍基部强壮，像“臂”一样撑起身体在泥上跳跃。",
+    "diet": "取食小型无脊椎动物，如甲壳动物和昆虫。",
+    "myth": "弹涂鱼是鱼，不是两栖动物。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "虾虎鱼目",
+      "背眼虾虎鱼科",
+      "弹涂鱼属",
+      "弹涂鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Periophthalmus-modestus.html"
+  },
+  {
+    "id": "sp_thunnus_orientalis",
+    "name": "太平洋蓝鳍金枪鱼",
+    "latin": "Thunnus orientalis",
+    "aliases": "Pacific bluefin tuna 太平洋黑鮪",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "大洋表层，但在特定季节会靠近海岸；能适应较大的温度范围。",
+    "feature": "体呈纺锤形，背部深蓝，腹部银白。第二背鳍与臀鳍后方有一列小鳍，尾柄两侧有龙骨突。",
+    "diet": "捕食鱼类、鱿鱼和甲壳动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲭形目",
+      "鲭科",
+      "金枪鱼属",
+      "太平洋蓝鳍金枪鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Thunnus-orientalis.html"
+  },
+  {
+    "id": "sp_scomberomorus_commerson",
+    "name": "康氏马鲛",
+    "latin": "Scomberomorus commerson",
+    "aliases": "narrow-barred Spanish mackerel 康氏马加鰆",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "大陆架边缘到浅海沿岸，常见于浑浊、低盐度水域和礁区外缘。",
+    "feature": "体细长侧扁，体侧有许多垂直的灰色波纹。第二背鳍和臀鳍后方有小鳍，尾鳍深叉。",
+    "diet": "主要捕食鳀、鲱等小型鱼类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲭形目",
+      "鲭科",
+      "Scomberomorus属",
+      "康氏马鲛"
+    ],
+    "source": "https://www.fishbase.se/summary/Scomberomorus-commerson.html"
+  },
+  {
+    "id": "sp_pseudanthias_squamipinnis",
+    "name": "丝鳍拟花鮨",
+    "latin": "Pseudanthias squamipinnis",
+    "aliases": "sea goldie 金花鲈",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "清澈泻湖、水道或外礁坡上，珊瑚丘与块礁的上方。",
+    "feature": "雄鱼橙红带紫，背鳍第三棘延长成丝状。雌鱼和幼鱼为金橙色，体型较小。",
+    "diet": "取食浮游动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲈形目",
+      "花鮨科",
+      "拟花鮨属",
+      "丝鳍拟花鮨"
+    ],
+    "source": "https://www.fishbase.se/summary/Pseudanthias-squamipinnis.html"
+  },
+  {
+    "id": "sp_boleophthalmus_pectinirostris",
+    "name": "大弹涂鱼",
+    "latin": "Boleophthalmus pectinirostris",
+    "aliases": "great blue-spotted mudskipper 跳跳鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "潮间带泥滩，退潮后在泥面上活动，涨潮时躲进洞里。",
+    "feature": "眼睛高高突起，像潜望镜。胸鳍基部有肌肉柄，能支撑身体在泥面上移动。",
+    "diet": "主要刮食泥面上的硅藻等微藻。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "虾虎鱼目",
+      "背眼虾虎鱼科",
+      "大弹涂鱼属",
+      "大弹涂鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Boleophthalmus-pectinirostris.html"
+  },
+  {
+    "id": "sp_thunnus_alalunga",
+    "name": "长鳍金枪鱼",
+    "latin": "Thunnus alalunga",
+    "aliases": "albacore 长鳍鮪",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "大洋上层至中层，偏温暖的表层水。",
+    "feature": "胸鳍极长，可延伸到第二背鳍之后。体呈纺锤形，尾鳍后缘带白边。",
+    "diet": "捕食鱼类、甲壳动物和头足类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲭形目",
+      "鲭科",
+      "金枪鱼属",
+      "长鳍金枪鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Thunnus-alalunga.html"
+  },
+  {
+    "id": "sp_acanthocybium_solandri",
+    "name": "刺鲅",
+    "latin": "Acanthocybium solandri",
+    "aliases": "wahoo 沙氏刺鲅",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "大洋表层，通常在水深12米以内。",
+    "feature": "身体细长呈鱼雷形，体侧有数十条垂直的蓝色细纹。吻长，上下颌有锋利的牙。",
+    "diet": "捕食鱼类和鱿鱼。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲭形目",
+      "鲭科",
+      "刺鲅属",
+      "刺鲅"
+    ],
+    "source": "https://www.fishbase.se/summary/Acanthocybium-solandri.html"
+  },
+  {
+    "id": "sp_konosirus_punctatus",
+    "name": "窝斑鰶",
+    "latin": "Konosirus punctatus",
+    "aliases": "dotted gizzard shad 斑鰶",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "近岸海域和海湾，繁殖季迁入较浅的半咸水。",
+    "feature": "体侧肩部后方有一个黑色圆斑，其后常有一列小黑点。背鳍最后一条鳍条延长成丝状。",
+    "diet": "以浮游生物和细小碎屑为食。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲱形目",
+      "鰶科",
+      "斑鰶属",
+      "窝斑鰶"
+    ],
+    "source": "https://www.fishbase.se/summary/Konosirus-punctatus.html"
+  },
+  {
+    "id": "sp_ilisha_elongata",
+    "name": "鳓",
+    "latin": "Ilisha elongata",
+    "aliases": "slender shad 长鳓 曹白鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "近岸浅海，可进入河口，也见于半封闭的海区。",
+    "feature": "体侧扁，腹缘有锯齿状的棱鳞。口上翘，下颌突出，体银白。",
+    "diet": "主要取食浮游动物和小型鱼类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲱形目",
+      "锯腹鳓科",
+      "鳓属",
+      "鳓"
+    ],
+    "source": "https://www.fishbase.se/summary/Ilisha-elongata.html"
+  },
+  {
+    "id": "sp_megalops_cyprinoides",
+    "name": "大海鲢",
+    "latin": "Megalops cyprinoides",
+    "aliases": "Indo-Pacific tarpon 印度太平洋大海鲢",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine",
+      "fresh"
+    ],
+    "habitat": "成鱼多在海中；幼鱼生活在河口、内湾和红树林，也可进入河流、湖泊和沼泽。",
+    "feature": "体呈银色，背鳍最后一条鳍条延长成丝状。口大，下颌突出，下颌之间有骨质喉板。",
+    "diet": "取食鱼类和甲壳动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "海鲢目",
+      "大海鲢科",
+      "大海鲢属",
+      "大海鲢"
+    ],
+    "source": "https://www.fishbase.se/summary/Megalops-cyprinoides.html"
+  },
+  {
+    "id": "sp_megalops_atlanticus",
+    "name": "大西洋大海鲢",
+    "latin": "Megalops atlanticus",
+    "aliases": "tarpon 大西洋海鲢",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine",
+      "fresh"
+    ],
+    "habitat": "沿岸海域、海湾、河口、红树林潟湖和河流。",
+    "feature": "体覆大而银亮的鳞片。背鳍最后一条鳍条延长成丝状，下颌突出。",
+    "diet": "捕食鱼类和甲壳动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "海鲢目",
+      "大海鲢科",
+      "大海鲢属",
+      "大西洋大海鲢"
+    ],
+    "source": "https://www.fishbase.se/summary/Megalops-atlanticus.html"
+  },
+  {
+    "id": "sp_chanos_chanos",
+    "name": "遮目鱼",
+    "latin": "Chanos chanos",
+    "aliases": "milkfish 虱目鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine",
+      "fresh"
+    ],
+    "habitat": "近岸海域和浅海湾，也进入河口，偶尔上溯到淡水小溪。",
+    "feature": "体呈流线型，银色，侧扁。眼被透明的脂眼睑覆盖，尾鳍深叉。",
+    "diet": "取食藻类、浮游生物和小型无脊椎动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鼠鱚目",
+      "虱目鱼科",
+      "遮目鱼属",
+      "遮目鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Chanos-chanos.html"
+  },
+  {
+    "id": "sp_brachymystax_lenok",
+    "name": "细鳞鲑",
+    "latin": "Brachymystax lenok",
+    "aliases": "lenok 细鳞鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "冷水河流；夏季寻找深而冷的水域，冬末可在冰下活动。",
+    "feature": "鳞片很细小，体侧有稀疏的小斑点。体呈长梭形，背部青褐，腹部偏银白。",
+    "diet": "取食昆虫的幼虫与成虫、端足类、小鱼、蛙，也吃小型哺乳动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲑形目",
+      "鲑科",
+      "细鳞鲑属",
+      "细鳞鲑"
+    ],
+    "source": "https://www.fishbase.se/summary/Brachymystax-lenok.html"
+  },
+  {
+    "id": "sp_oncorhynchus_masou",
+    "name": "马苏大麻哈鱼",
+    "latin": "Oncorhynchus masou",
+    "aliases": "masu salmon 马苏鲑 樱鳟",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "溪流上游和河口；洄游型个体会入海。",
+    "feature": "幼鱼体侧有椭圆形的幼鱼斑。成鱼体银白，繁殖期体色变深并出现婚姻色。",
+    "diet": "河流型主要吃昆虫，也吃甲壳动物和小鱼；海洋型取食鱼类等。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲑形目",
+      "鲑科",
+      "钩吻鲑属",
+      "马苏大麻哈鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Oncorhynchus-masou.html"
+  },
+  {
+    "id": "sp_oncorhynchus_keta",
+    "name": "大麻哈鱼",
+    "latin": "Oncorhynchus keta",
+    "aliases": "chum salmon 大马哈鱼 秋鲑",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "幼年和成年期分别生活在河流与沿岸海域；成年后洄游到出生河流产卵。",
+    "feature": "繁殖期的雄鱼体侧出现紫红至绿色的婚姻色带。背部没有显著的黑色大斑点。",
+    "diet": "取食桡足类、被囊动物和磷虾，也吃翼足类和鱼类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲑形目",
+      "鲑科",
+      "钩吻鲑属",
+      "大麻哈鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Oncorhynchus-keta.html"
+  },
+  {
+    "id": "sp_salmo_trutta",
+    "name": "褐鳟",
+    "latin": "Salmo trutta",
+    "aliases": "brown trout 河鳟 海鳟",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "溪流、河流、池塘和湖泊，也有降海型种群。",
+    "feature": "体侧有黑色与红色的斑点，常带浅色晕环。尾鳍近截形，几乎没有明显的叉。",
+    "diet": "取食昆虫、甲壳动物、软体动物和小型鱼类；大个体更偏肉食。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲑形目",
+      "鲑科",
+      "鳟属",
+      "褐鳟"
+    ],
+    "source": "https://www.fishbase.se/summary/Salmo-trutta.html"
+  },
+  {
+    "id": "sp_gadus_chalcogrammus",
+    "name": "黄线狭鳕",
+    "latin": "Gadus chalcogrammus",
+    "aliases": "Alaska pollock 狭鳕 明太鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "大陆架和斜坡的近底层至上层，水深0到1280米，常见于30至590米。",
+    "feature": "背部有三个背鳍，臀鳍有两个。下颌稍突出，颏须极小或缺失。",
+    "diet": "主要取食磷虾，也吃浮游动物和幼鱼。",
+    "myth": "市场上的“明太鱼”常指本种，与大西洋鳕不是同一种。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鳕形目",
+      "鳕科",
+      "鳕属",
+      "黄线狭鳕"
+    ],
+    "source": "https://www.fishbase.se/summary/Gadus-chalcogrammus.html"
+  },
+  {
+    "id": "sp_plecoglossus_altivelis",
+    "name": "香鱼",
+    "latin": "Plecoglossus altivelis",
+    "aliases": "ayu sweetfish 香鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "河流和湖泊，偏爱清澈的河水，从上游到河口都可见到。",
+    "feature": "体细长，口大，口角延伸到眼的下方。背鳍后方有一个小的脂鳍。",
+    "diet": "成鱼在河中刮食岩石上的藻类；入海的幼鱼取食浮游动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "胡瓜鱼目",
+      "香鱼科",
+      "香鱼属",
+      "香鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Plecoglossus-altivelis.html"
+  },
+  {
+    "id": "sp_gadus_macrocephalus",
+    "name": "大头鳕",
+    "latin": "Gadus macrocephalus",
+    "aliases": "Pacific cod 太平洋鳕",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "大陆架和上陆坡，通常在100至400米深处。",
+    "feature": "有三个背鳍和两个臀鳍，颏部有一条须。头大，上颌稍长于下颌，体色灰褐并带斑点。",
+    "diet": "幼鱼取食桡足类；成鱼取食鱼类、章鱼和大型底栖动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鳕形目",
+      "鳕科",
+      "鳕属",
+      "大头鳕"
+    ],
+    "source": "https://www.fishbase.se/summary/Gadus-macrocephalus.html"
+  },
+  {
+    "id": "sp_diodon_hystrix",
+    "name": "密斑刺鲀",
+    "latin": "Diodon hystrix",
+    "aliases": "spotted porcupinefish 密斑二齿鲀",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "泻湖与外礁，常躲在洞穴和礁缝中。",
+    "feature": "全身布满可竖起的长棘，体表有密集的黑色小斑点。眼大，牙齿愈合成喙状。",
+    "diet": "取食海胆、螺类和寄居蟹等硬壳无脊椎动物。",
+    "myth": "刺鲀膨胀并不是“炸毛”：它靠吞入水（或空气）让身体变大。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲀形目",
+      "二齿鲀科",
+      "二齿鲀属",
+      "密斑刺鲀"
+    ],
+    "source": "https://www.fishbase.se/summary/Diodon-hystrix.html"
+  },
+  {
+    "id": "sp_pseudopleuronectes_americanus",
+    "name": "美洲拟鲽",
+    "latin": "Pseudopleuronectes americanus",
+    "aliases": "winter flounder 冬季比目鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "泥质到较硬的海底，水深可至约140米。",
+    "feature": "两眼位于身体右侧，体色呈红褐到橄榄色。口小，尾柄较宽，尾鳍圆而近截形。",
+    "diet": "白天觅食，取食底栖生物，如虾、端足类、蟹、海胆和螺。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲽形目",
+      "鲽科",
+      "拟鲽属",
+      "美洲拟鲽"
+    ],
+    "source": "https://www.fishbase.se/summary/Pseudopleuronectes-americanus.html"
+  },
+  {
+    "id": "sp_pseudobalistes_fuscus",
+    "name": "褐副鳞鲀",
+    "latin": "Pseudobalistes fuscus",
+    "aliases": "blue triggerfish 黄边副鳞鲀",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "清澈的浅泻湖和外礁，偏爱靠近礁块的沙地；也见于较深的礁区与沉船。",
+    "feature": "体色深蓝褐，身体与鳍上有浅色细点和细线。第一背鳍有三枚棘，眼位于头部上方。",
+    "diet": "取食底栖无脊椎动物，如甲壳动物、软体动物和海胆。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲀形目",
+      "鳞鲀科",
+      "副鳞鲀属",
+      "褐副鳞鲀"
+    ],
+    "source": "https://www.fishbase.se/summary/Pseudobalistes-fuscus.html"
+  },
+  {
+    "id": "sp_aluterus_scriptus",
+    "name": "拟态革鲀",
+    "latin": "Aluterus scriptus",
+    "aliases": "scrawled filefish 长尾革单棘鲀",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "泻湖与外礁，成鱼常见于深外坡或礁壁。",
+    "feature": "身体长而侧扁，背部有一枚细长的棘。体表布满蓝色线条和小斑点，尾鳍大而圆。",
+    "diet": "取食藻类、海草、水螅和小型无脊椎动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲀形目",
+      "单棘鲀科",
+      "革单棘鲀属",
+      "拟态革鲀"
+    ],
+    "source": "https://www.fishbase.se/summary/Aluterus-scriptus.html"
+  },
+  {
+    "id": "sp_lactoria_cornuta",
+    "name": "角箱鲀",
+    "latin": "Lactoria cornuta",
+    "aliases": "longhorn cowfish 长角箱鲀",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "沿岸泥沙质的浅水湾、港口和河口，也见于海藻丛与礁区。",
+    "feature": "身体包在坚硬的箱形骨甲内，头顶有一对长角。臀部后方还有一对向后的长刺。",
+    "diet": "取食底栖无脊椎动物，如蠕虫、甲壳动物和软体动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲀形目",
+      "箱鲀科",
+      "角箱鲀属",
+      "角箱鲀"
+    ],
+    "source": "https://www.fishbase.se/summary/Lactoria-cornuta.html"
+  },
+  {
+    "id": "sp_hippocampus_abdominalis",
+    "name": "膨腹海马",
+    "latin": "Hippocampus abdominalis",
+    "aliases": "big-belly seahorse 大腹海马",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "岩石潮池、海草与海藻丛，也见于较深处。",
+    "feature": "身体直立，头部像马，吻管细长；大型个体肚子明显突出。体表有环状骨板，没有腹鳍与尾鳍，尾部可缠绕。",
+    "diet": "取食桡足类、端足类等小型甲壳动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "海龙目",
+      "海龙科",
+      "海马属",
+      "膨腹海马"
+    ],
+    "source": "https://www.fishbase.se/summary/Hippocampus-abdominalis.html"
+  },
+  {
+    "id": "sp_phycodurus_eques",
+    "name": "叶形海龙",
+    "latin": "Phycodurus eques",
+    "aliases": "leafy seadragon 叶海龙",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "澳大利亚南部的海藻礁、沙地与礁石边缘。",
+    "feature": "身体前后布满叶片状的皮瓣，伪装成海藻。吻管细长，体色黄褐，没有腹鳍。",
+    "diet": "以糠虾等小型甲壳动物为食。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "海龙目",
+      "海龙科",
+      "枝叶海龙属",
+      "叶形海龙"
+    ],
+    "source": "https://www.fishbase.se/summary/Phycodurus-eques.html"
+  },
+  {
+    "id": "sp_syngnathus_acus",
+    "name": "尖海龙",
+    "latin": "Syngnathus acus",
+    "aliases": "greater pipefish 大海龙",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "沿岸和河口的沙底、泥底或岩石底，常在海藻和大叶藻之间。",
+    "feature": "身体细长呈棒状，被环状骨板包裹，吻管很长。没有腹鳍。",
+    "diet": "主要取食小型甲壳动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "海龙目",
+      "海龙科",
+      "海龙属",
+      "尖海龙"
+    ],
+    "source": "https://www.fishbase.se/summary/Syngnathus-acus.html"
+  },
+  {
+    "id": "sp_dendrochirus_zebra",
+    "name": "斑马短鳍蓑鲉",
+    "latin": "Dendrochirus zebra",
+    "aliases": "zebra lionfish",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "珊瑚、碎石或岩石底的礁坪、泻湖和洞穴。",
+    "feature": "胸鳍宽大呈扇形，鳍膜上有深色条纹。背鳍有强棘，体侧红褐与白色的横纹相间。",
+    "diet": "捕食小型鱼类和甲壳动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲈形目",
+      "鲉科",
+      "短鳍蓑鲉属",
+      "斑马短鳍蓑鲉"
+    ],
+    "source": "https://www.fishbase.se/summary/Dendrochirus-zebra.html"
+  },
+  {
+    "id": "sp_pterois_miles",
+    "name": "斑鳍蓑鲉",
+    "latin": "Pterois miles",
+    "aliases": "devil firefish 魔鬼蓑鲉",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "沿岸水域，泥质底和礁区，最浅可至0米。",
+    "feature": "体侧有红褐与白色的竖直条纹，鳍棘细长。胸鳍宽大呈羽状展开。",
+    "diet": "捕食小鱼和甲壳动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲈形目",
+      "鲉科",
+      "Pterois属",
+      "斑鳍蓑鲉"
+    ],
+    "source": "https://www.fishbase.se/summary/Pterois-miles.html"
+  },
+  {
+    "id": "sp_synanceia_verrucosa",
+    "name": "玫瑰毒鲉",
+    "latin": "Synanceia verrucosa",
+    "aliases": "reef stonefish 石头鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "礁坪与浅泻湖的沙质或碎石底，退潮后的小水坑里也可见。",
+    "feature": "体表疣状，颜色和形态像一块覆盖着藻类的岩石。背部有十三根粗大的毒棘，眼小而位于头顶。",
+    "diet": "埋伏捕食鱼类和甲壳动物。",
+    "myth": "石头鱼并不主动攻击人，伤人多发生在被误踩时。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲈形目",
+      "毒鲉科",
+      "毒鲉属",
+      "玫瑰毒鲉"
+    ],
+    "source": "https://www.fishbase.se/summary/Synanceia-verrucosa.html"
+  },
+  {
+    "id": "sp_phyllopteryx_taeniolatus",
+    "name": "草海龙",
+    "latin": "Phyllopteryx taeniolatus",
+    "aliases": "weedy seadragon",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "从潮间带到约50米深的海藻丛和礁区。",
+    "feature": "身体有叶片状的附肢，但数量比叶形海龙少。体色橙红到黄褐，带有淡紫色或黄色的细纹。",
+    "diet": "吸食糠虾及其他小型甲壳动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "海龙目",
+      "海龙科",
+      "草海龙属",
+      "草海龙"
+    ],
+    "source": "https://www.fishbase.se/summary/Phyllopteryx-taeniolatus.html"
+  },
+  {
+    "id": "sp_sebastiscus_marmoratus",
+    "name": "褐菖鲉",
+    "latin": "Sebastiscus marmoratus",
+    "aliases": "marbled rockfish 石狗公",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "近岸的岩礁底。",
+    "feature": "头大，头部与体侧多刺棘，体色红褐，带大理石状斑纹。背鳍有强棘，鳃盖有棘。",
+    "diet": "捕食小鱼、虾蟹等。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲈形目",
+      "平鲉科",
+      "菖鲉属",
+      "褐菖鲉"
+    ],
+    "source": "https://www.fishbase.se/summary/Sebastiscus-marmoratus.html"
+  },
+  {
+    "id": "sp_odonus_niger",
+    "name": "红牙鳞鲀",
+    "latin": "Odonus niger",
+    "aliases": "redtoothed triggerfish",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "水流较强的礁区水道和外礁斜坡，常聚成群。",
+    "feature": "体呈深蓝紫色，尾鳍深叉，上下叶尖端延长。牙齿呈红色，脸部有蓝色线条。",
+    "diet": "取食浮游动物和海绵。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲀形目",
+      "鳞鲀科",
+      "红牙鳞鲀属",
+      "红牙鳞鲀"
+    ],
+    "source": "https://www.fishbase.se/summary/Odonus-niger.html"
+  },
+  {
+    "id": "sp_hexagrammos_otakii",
+    "name": "大泷六线鱼",
+    "latin": "Hexagrammos otakii",
+    "aliases": "fat greenling",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "近岸的岩礁区，常聚集在人工鱼礁周围。",
+    "feature": "体侧有多条平行的侧线，是六线鱼类的共同特征。体色黄褐，带有不规则的暗色斑块。",
+    "diet": "捕食甲壳动物、多毛类和小鱼。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲈形目",
+      "六线鱼科",
+      "六线鱼属",
+      "大泷六线鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Hexagrammos-otakii.html"
+  },
+  {
+    "id": "sp_anoplopoma_fimbria",
+    "name": "裸盖鱼",
+    "latin": "Anoplopoma fimbria",
+    "aliases": "sablefish 银鳕 黑鳕",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "成鱼栖息在泥质海底，水深约305至2740米；当年幼鱼在表层和近岸。",
+    "feature": "身体呈深灰至黑色，有两个分开的背鳍。体长而侧扁，吻短，眼大。",
+    "diet": "取食甲壳动物、鱼类等。",
+    "myth": "“银鳕”并不是鳕科鱼类，与鳕鱼没有近亲关系。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲈形目",
+      "裸盖鱼科",
+      "裸盖鱼属",
+      "裸盖鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Anoplopoma-fimbria.html"
+  },
+  {
+    "id": "sp_orectolobus_maculatus",
+    "name": "斑纹须鲨",
+    "latin": "Orectolobus maculatus",
+    "aliases": "spotted wobbegong",
+    "group": "软骨鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "大陆架上从潮间带到至少110米深，多见于珊瑚礁、岩礁、码头下和沙底。",
+    "feature": "身体扁平，皮肤上有精细的斑纹和圆形的鞍状斑。口周围有分枝状的皮须。",
+    "diet": "埋伏捕食鱼类、章鱼和甲壳动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "板鳃纲",
+      "须鲨目",
+      "须鲨科",
+      "须鲨属",
+      "斑纹须鲨"
+    ],
+    "source": "https://www.fishbase.se/summary/Orectolobus-maculatus.html"
+  },
+  {
+    "id": "sp_aulostomus_chinensis",
+    "name": "中华管口鱼",
+    "latin": "Aulostomus chinensis",
+    "aliases": "Chinese trumpetfish 中华烟管鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "清澈浅水中的岩礁和珊瑚区。",
+    "feature": "身体细长似烟管，吻部很长，口在吻的末端。下颌有一条短须，体色可变化。",
+    "diet": "捕食小鱼和虾。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "海龙目",
+      "管口鱼科",
+      "管口鱼属",
+      "中华管口鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Aulostomus-chinensis.html"
+  },
+  {
+    "id": "sp_glaucostegus_typus",
+    "name": "蓝吻犁头鳐",
+    "latin": "Glaucostegus typus",
+    "aliases": "giant guitarfish 巨犁头鳐",
+    "group": "软骨鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "近岸到近海，从潮间带到大陆架；幼鱼在沙滩、红树林和河口。",
+    "feature": "前半身扁平似鳐，后半身粗壮如鲨，吻长而钝尖。两个背鳍位置靠后，鳃孔在腹面。",
+    "diet": "取食甲壳动物、软体动物和小型鱼类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "板鳃纲",
+      "犁头鳐目",
+      "蓝吻犁头鳐科",
+      "蓝吻犁头鳐属",
+      "蓝吻犁头鳐"
+    ],
+    "source": "https://www.fishbase.se/summary/Glaucostegus-typus.html"
+  },
+  {
+    "id": "sp_callorhinchus_milii",
+    "name": "澳洲叶吻银鲛",
+    "latin": "Callorhinchus milii",
+    "aliases": "elephant fish 澳洲象鲛 鬼鲨",
+    "group": "软骨鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "大陆架，水深至少到200米；春季会进入大型河口和近岸海湾繁殖。",
+    "feature": "吻部长出一个向下弯曲的肉质突起。身体光滑，鳃孔外有皮膜覆盖，只露出一个鳃裂。",
+    "diet": "主要取食软体动物（贝类）。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "全头纲",
+      "银鲛目",
+      "叶吻银鲛科",
+      "叶吻银鲛属",
+      "澳洲叶吻银鲛"
+    ],
+    "source": "https://www.fishbase.se/summary/Callorhinchus-milii.html"
+  },
+  {
+    "id": "sp_potamotrygon_motoro",
+    "name": "珍珠魟",
+    "latin": "Potamotrygon motoro",
+    "aliases": "ocellate river stingray 眼斑江魟",
+    "group": "软骨鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "南美洲的河流，多在水流较缓的底部。",
+    "feature": "身体呈圆盘形，背部灰褐，布满带深色边缘的橙色圆斑。尾部有毒刺。",
+    "diet": "取食水生无脊椎动物和小鱼。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "板鳃纲",
+      "鲼形目",
+      "江魟科",
+      "江魟属",
+      "珍珠魟"
+    ],
+    "source": "https://www.fishbase.se/summary/Potamotrygon-motoro.html"
+  },
+  {
+    "id": "sp_hexanchus_griseus",
+    "name": "灰六鳃鲨",
+    "latin": "Hexanchus griseus",
+    "aliases": "bluntnose sixgill shark",
+    "group": "软骨鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "外大陆架和上陆坡、岛屿、海山和洋中脊的深水区。",
+    "feature": "每侧有六个鳃裂（多数鲨类只有五个）。只有一个背鳍，位置靠后，体色灰褐。",
+    "diet": "取食硬骨鱼、鲨鳐、甲壳动物和头足类等。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "板鳃纲",
+      "六鳃鲨目",
+      "六鳃鲨科",
+      "六鳃鲨属",
+      "灰六鳃鲨"
+    ],
+    "source": "https://www.fishbase.se/summary/Hexanchus-griseus.html"
+  },
+  {
+    "id": "sp_somniosus_microcephalus",
+    "name": "格陵兰睡鲨",
+    "latin": "Somniosus microcephalus",
+    "aliases": "Greenland shark 小头睡鲨",
+    "group": "软骨鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "大陆架和上陆坡，常在200到600米；在北极和北大西洋的近岸浅湾也会出现。",
+    "feature": "体型粗壮，吻短而圆钝，背鳍小，没有臀鳍。体色灰褐，眼睛常有寄生桡足类附着。",
+    "diet": "取食鱼类，也吃海洋哺乳动物的遗体。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "板鳃纲",
+      "角鲨目",
+      "睡鲨科",
+      "睡鲨属",
+      "格陵兰睡鲨"
+    ],
+    "source": "https://www.fishbase.se/summary/Somniosus-microcephalus.html"
+  },
+  {
+    "id": "sp_chlamydoselachus_anguineus",
+    "name": "皱鳃鲨",
+    "latin": "Chlamydoselachus anguineus",
+    "aliases": "frilled shark",
+    "group": "软骨鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "外大陆架和上陆坡，通常在120到1280米深处。",
+    "feature": "身体细长如鳗，有六对鳃裂，第一对在喉部相连。口位于吻端，牙齿呈三叉形。",
+    "diet": "取食其他鲨类、鱿鱼和硬骨鱼。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "板鳃纲",
+      "六鳃鲨目",
+      "皱鳃鲨科",
+      "皱鳃鲨属",
+      "皱鳃鲨"
+    ],
+    "source": "https://www.fishbase.se/summary/Chlamydoselachus-anguineus.html"
+  },
+  {
+    "id": "sp_acipenser_baerii",
+    "name": "西伯利亚鲟",
+    "latin": "Acipenser baerii",
+    "aliases": "Siberian sturgeon",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "河流的深浅处，水流中等到较快，常在1至8米深。",
+    "feature": "体侧有五行骨板，吻短而钝。口在腹面，吻下方有四条须。",
+    "diet": "取食底栖无脊椎动物，如昆虫幼虫、甲壳动物和软体动物，也吃鱼。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "软骨硬鳞鱼纲",
+      "鲟形目",
+      "鲟科",
+      "鲟属",
+      "西伯利亚鲟"
+    ],
+    "source": "https://www.fishbase.se/summary/Acipenser-baerii.html"
+  },
+  {
+    "id": "sp_lepisosteus_oculatus",
+    "name": "斑点雀鳝",
+    "latin": "Lepisosteus oculatus",
+    "aliases": "spotted gar 斑纹雀鳝",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "低地溪流、河流、牛轭湖和沼泽中安静而清澈的水域。",
+    "feature": "长吻似鳄，头部和吻端有深色圆点。身体覆盖菱形的硬鳞，体表有深色斑点。",
+    "diet": "凶猛的捕食者，取食各种鱼类和甲壳动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "全骨鱼纲",
+      "雀鳝目",
+      "雀鳝科",
+      "雀鳝属",
+      "斑点雀鳝"
+    ],
+    "source": "https://www.fishbase.se/summary/Lepisosteus-oculatus.html"
+  },
+  {
+    "id": "sp_scaphirhynchus_platorynchus",
+    "name": "铲鼻鲟",
+    "latin": "Scaphirhynchus platorynchus",
+    "aliases": "shovelnose sturgeon 铲鲟",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "大型浑浊河流的主河道和河湾，多为砂、砾与泥混合的底质。",
+    "feature": "吻部宽扁，像一把铲子。尾柄细长，覆有骨板。",
+    "diet": "主要取食水生昆虫幼虫，尤其是蜉蝣、石蛾和摇蚊。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "软骨硬鳞鱼纲",
+      "鲟形目",
+      "鲟科",
+      "铲鲟属",
+      "铲鼻鲟"
+    ],
+    "source": "https://www.fishbase.se/summary/Scaphirhynchus-platorynchus.html"
+  },
+  {
+    "id": "sp_gnathonemus_petersii",
+    "name": "彼得斯象鼻鱼",
+    "latin": "Gnathonemus petersii",
+    "aliases": "elephantnose fish 彼氏锥颌象鼻鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "水底附近，用长吻探寻食物；水温偏暖。",
+    "feature": "下颌向前延伸成象鼻状的肉质突起。体色深褐，体后部常有浅色环带。",
+    "diet": "夜间取食蠕虫和昆虫幼虫等底栖小动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "骨舌鱼目",
+      "象鼻鱼科",
+      "锥颌象鼻鱼属",
+      "彼得斯象鼻鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Gnathonemus-petersii.html"
+  },
+  {
+    "id": "sp_pantodon_buchholzi",
+    "name": "齿蝶鱼",
+    "latin": "Pantodon buchholzi",
+    "aliases": "African butterflyfish 非洲蝴蝶鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "静水沼泽、小溪与河流缓慢处的水面附近。",
+    "feature": "胸鳍宽大，展开像翅膀；背鳍位置靠后。口上位，吻部扁平，常浮在水面。",
+    "diet": "取食落在水面的昆虫和其他小动物。",
+    "myth": "虽然叫“蝴蝶鱼”，它与海洋中的蝴蝶鱼科没有亲缘关系。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "骨舌鱼目",
+      "齿蝶鱼科",
+      "齿蝶鱼属",
+      "齿蝶鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Pantodon-buchholzi.html"
+  },
+  {
+    "id": "sp_heteroconger_hassi",
+    "name": "哈氏异康吉鳗",
+    "latin": "Heteroconger hassi",
+    "aliases": "spotted garden eel 斑点园鳗",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "水深15米以下的沙质斜坡，躲在洞穴里。",
+    "feature": "身体细长，白底上有黑色斑点，像一根立在沙里的细管。头部圆润，眼大。",
+    "diet": "取食水流带来的浮游动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鳗鲡目",
+      "糯鳗科",
+      "异康吉鳗属",
+      "哈氏异康吉鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/Heteroconger-hassi.html"
+  },
+  {
+    "id": "sp_monocentris_japonica",
+    "name": "日本松球鱼",
+    "latin": "Monocentris japonica",
+    "aliases": "Japanese pineapplefish 松球鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "亚潮带，岩礁的悬岩和洞穴下方，水深1至300米。",
+    "feature": "体表覆盖大而坚硬的鳞片，排列像松球。下颌附近有发光器官。",
+    "diet": "夜间取食小型甲壳动物等。",
+    "myth": "松球鱼的“灯”是共生的发光细菌产生的。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "燧鲷目",
+      "松球鱼科",
+      "松球鱼属",
+      "日本松球鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Monocentris-japonica.html"
+  },
+  {
+    "id": "sp_oplegnathus_fasciatus",
+    "name": "条石鲷",
+    "latin": "Oplegnathus fasciatus",
+    "aliases": "barred knifejaw 石鲷",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "近岸的岩礁区，水深1至10米。",
+    "feature": "体侧有七条黑色宽横带，幼鱼最清晰。口小，牙齿愈合成鸟喙状。",
+    "diet": "取食贝类、甲壳动物和海胆等。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "太阳鱼目",
+      "石鲷科",
+      "石鲷属",
+      "条石鲷"
+    ],
+    "source": "https://www.fishbase.se/summary/Oplegnathus-fasciatus.html"
+  },
+  {
+    "id": "sp_sillago_sihama",
+    "name": "多鳞鱚",
+    "latin": "Sillago sihama",
+    "aliases": "silver sillago 白沙鮻",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "沙滩、沙洲、红树林河道和河口，常在2米以内的浅水。",
+    "feature": "体细长，近圆筒形，银白色，背部略带浅褐。吻尖，口小，有两个分开的背鳍。",
+    "diet": "取食多毛类、虾和端足类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "狼鲈目",
+      "鱚科",
+      "鱚属",
+      "多鳞鱚"
+    ],
+    "source": "https://www.fishbase.se/summary/Sillago-sihama.html"
+  },
+  {
+    "id": "sp_bolbometopon_muricatum",
+    "name": "隆头鹦嘴鱼",
+    "latin": "Bolbometopon muricatum",
+    "aliases": "green humphead parrotfish 隆头鹦哥鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "幼鱼在泻湖，成鱼在清澈的外泻湖和外礁，水深至少30米。",
+    "feature": "成鱼前额高高隆起，形成突出的“额头”。体大，体色蓝绿，口由愈合的牙板组成。",
+    "diet": "取食藻类、活珊瑚和贝类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "隆头鱼目",
+      "隆头鱼科",
+      "隆头鹦嘴鱼属",
+      "隆头鹦嘴鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Bolbometopon-muricatum.html"
+  },
+  {
+    "id": "sp_acanthopagrus_schlegelii",
+    "name": "黑棘鲷",
+    "latin": "Acanthopagrus schlegelii",
+    "aliases": "black sea bream 黑鲷",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "海湾、浅岩礁和半咸水域。",
+    "feature": "体色银灰偏黑，体高较大。背鳍连续，前部有强棘。",
+    "diet": "取食软体动物和多毛类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲷形目",
+      "鲷科",
+      "棘鲷属",
+      "黑棘鲷"
+    ],
+    "source": "https://www.fishbase.se/summary/Acanthopagrus-schlegelii.html"
+  },
+  {
+    "id": "sp_carassius_carassius",
+    "name": "黑鲫",
+    "latin": "Carassius carassius",
+    "aliases": "crucian carp 欧洲鲫",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "植被密集的浅水池塘、湖泊和低地河流的缓流河湾。",
+    "feature": "体高而侧扁，背部深橄榄色，体侧偏金黄。背鳍基部长，口角没有须。",
+    "diet": "杂食，取食浮游动物、底栖昆虫和植物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲤形目",
+      "鲤科",
+      "鲫属",
+      "黑鲫"
+    ],
+    "source": "https://www.fishbase.se/summary/Carassius-carassius.html"
+  },
+  {
+    "id": "sp_thymallus_arcticus",
+    "name": "北极茴鱼",
+    "latin": "Thymallus arcticus",
+    "aliases": "Arctic grayling",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "清澈寒冷的中大型河流与湖泊，溶氧高；繁殖时进入多石小溪。",
+    "feature": "背鳍高大呈旗帜状，带有紫蓝色的斑点。体呈银灰色，体侧有少量黑点。",
+    "diet": "幼鱼取食浮游动物；成鱼取食昆虫、小鱼和鱼卵。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲑形目",
+      "鲑科",
+      "茴鱼属",
+      "北极茴鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Thymallus-arcticus.html"
+  },
+  {
+    "id": "sp_coilia_nasus",
+    "name": "刀鲚",
+    "latin": "Coilia nasus",
+    "aliases": "Japanese grenadier anchovy 长江刀鱼 刀鱼 エツ",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "近海和河口，繁殖季节溯河而上，可沿长江上溯超过一千公里。",
+    "feature": "身体侧扁，向后逐渐变细，尾部延长成刀状。口大，上颌延伸到鳃盖之后，臀鳍很长并与尾鳍相连。",
+    "diet": "取食浮游动物、小型甲壳动物和小鱼。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲱形目",
+      "鳀科",
+      "鲚属",
+      "刀鲚"
+    ],
+    "source": "https://www.fishbase.se/summary/Coilia-nasus.html"
+  },
+  {
+    "id": "sp_cyclopterus_lumpus",
+    "name": "圆鳍鱼",
+    "latin": "Cyclopterus lumpus",
+    "aliases": "lumpfish 圆鳍鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-4",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "岩石底，也见于漂浮海藻间；会在深浅水之间做季节性迁移。",
+    "feature": "身体圆胖，腹鳍特化为吸盘。体表有排列的骨质疣突，体色灰绿至蓝灰。",
+    "diet": "取食水母、栉水母、浮游甲壳类和小鱼。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "真骨鱼纲",
+      "鲈形目",
+      "圆鳍鱼科",
+      "圆鳍鱼属",
+      "圆鳍鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/Cyclopterus-lumpus.html"
   }
 ];
