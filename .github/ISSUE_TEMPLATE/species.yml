@@ -1,0 +1,25 @@
+name: 物种与资料修正 / Species correction
+description: 修正鱼名、分类、分布、介绍或照片鉴定。
+title: '[Data] '
+body:
+  - type: input
+    id: species
+    attributes:
+      label: 物种 / Species
+      description: 请填写中文名、学名或页面链接。
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: 建议修正 / Suggested correction
+      description: 说明当前内容、建议修改和原因；有不确定性时请明确标注。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 可靠出处 / Supporting sources
+      description: 请附资料链接；图片问题请同时说明拍摄者、来源和许可。
+    validations:
+      required: true

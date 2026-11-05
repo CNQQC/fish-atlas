@@ -1,0 +1,151 @@
+.tv-root {
+  --tv-base: #102c35;
+  --tv-ink: #edf6f4;
+  --tv-mint: #83dec2;
+  width: 100%;
+  min-width: 0;
+  overflow: hidden;
+  color: var(--tv-ink);
+  background: var(--tv-base);
+  font-family: inherit;
+  text-align: left;
+  border: 1px solid #203f47;
+  border-radius: 13px;
+  isolation: isolate;
+  color-scheme: dark;
+}
+
+.tv-root *, .tv-root *::before, .tv-root *::after { box-sizing: border-box; }
+.tv-root button { font-family: inherit; cursor: pointer; }
+.tv-root button:focus-visible, .tv-viewport:focus-visible {
+  outline: 2px solid #ffe0a7;
+  outline-offset: 2px;
+  z-index: 4;
+}
+.tv-root button:disabled { opacity: .36; cursor: default; }
+.tv-plot {
+  display: grid;
+  grid-template-columns: 34px minmax(0, 1fr);
+  position: relative;
+  background: radial-gradient(ellipse at 50% 90%, #1b4347 0%, transparent 60%), var(--tv-base);
+}
+.tv-rail {
+  position: relative;
+  z-index: 2;
+  overflow: hidden;
+  background: #0f2932;
+  border-right: 1px solid #47616966;
+}
+.tv-rank {
+  display: grid;
+  place-items: center;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 22px;
+  transform: translateY(-50%);
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1;
+  color: #b2cdc9;
+}
+.tv-rank.tv-unused { opacity: .36; }
+.tv-viewport {
+  position: relative;
+  min-width: 0;
+  height: 435px;
+  overflow: auto;
+  overscroll-behavior-x: contain;
+  background-image: radial-gradient(circle, #a6c3be24 .7px, transparent .9px);
+  background-size: 17px 17px;
+  scrollbar-width: thin;
+  scrollbar-color: #587572 #102c35;
+  cursor: grab;
+}
+.tv-viewport.tv-grabbing { cursor: grabbing; user-select: none; }
+.tv-space { position: relative; min-width: 100%; min-height: 100%; }
+.tv-stage { position: absolute; top: 0; left: 0; transform-origin: 0 0; }
+.tv-wires { display: block; position: absolute; top: 0; left: 0; overflow: visible; pointer-events: none; }
+.tv-guide { fill: none; stroke: #9cb6b31b; stroke-width: 1; stroke-dasharray: 2 6; }
+.tv-wire { fill: none; stroke: #688982; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
+.tv-wire.tv-active { stroke: #8ae4c2; stroke-width: 2; }
+.tv-root .tv-node {
+  position: absolute;
+  min-width: 0;
+  margin: 0;
+  border: 1px solid #4a6769;
+  border-radius: 7px;
+  background: #19373e;
+  color: var(--tv-ink);
+  text-align: left;
+  box-shadow: 0 2px 5px #02131730;
+  transition: border-color .14s, background-color .14s, box-shadow .14s;
+}
+.tv-root .tv-node:hover { background-color: #23474c; border-color: #91bcb0; }
+.tv-root .tv-node.tv-active { border-color: #72bda6; background-color: #224640; }
+.tv-root .tv-taxon {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 5px;
+  height: 36px;
+  min-height: 0;
+  padding: 2px 8px 3px 9px;
+}
+.tv-taxon-copy { display: flex; flex-direction: column; min-width: 0; }
+.tv-node strong, .tv-node i { display: block; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.tv-node strong { font-size: 13px; line-height: 1.32; font-weight: 600; letter-spacing: .02em; }
+.tv-node i { font: italic 10.5px/1.15 Georgia, 'Times New Roman', serif; color: #b4c9c6; }
+.tv-active .tv-taxon-copy i { color: #b6d9cd; }
+.tv-count {
+  margin-left: auto;
+  font: 500 10px/1.2 ui-monospace, Consolas, monospace;
+  font-variant-numeric: tabular-nums;
+  color: #b6ceca;
+}
+.tv-chevron {
+  flex: 0 0 5px;
+  width: 5px;
+  height: 5px;
+  border: solid #a3bdb8;
+  border-width: 0 1.2px 1.2px 0;
+  transform: rotate(45deg) translateY(-1px);
+}
+.tv-folded .tv-chevron { transform: rotate(-45deg); }
+.tv-root .tv-leaf {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  height: 94px;
+  min-height: 0;
+  gap: 0;
+  padding: 0;
+  overflow: hidden;
+  border-color: #50696a;
+  border-radius: 8px;
+  background: #142f35;
+}
+.tv-root .tv-leaf.tv-active { border: 2px solid var(--tv-mint); background: #224640; box-shadow: 0 0 0 3px #6bcba221; }
+.tv-photo { width: 100%; height: 54px; min-height: 0; object-fit: cover; background: #2d4c50; }
+.tv-leaf-caption { display: flex; flex-direction: column; justify-content: center; align-items: flex-start; flex: 1; min-width: 0; padding: 3px 8px 5px; }
+.tv-leaf-caption strong { font-size: 13px; line-height: 1.4; }
+.tv-leaf-caption i { font-size: 10.5px; }
+.tv-check { display: none; position: absolute; top: 4px; right: 4px; place-items: center; width: 17px; height: 17px; color: #173a31; background: var(--tv-mint); font: bold 11px/1 system-ui, sans-serif; border-radius: 50%; }
+.tv-active .tv-check { display: grid; }
+.tv-footer { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 7px 14px; min-height: 43px; padding: 6px 13px; background: #0e2830; border-top: 1px solid #47616988; }
+.tv-legend { display: inline-flex; align-items: center; gap: 7px; color: #b3c7c4; font-size: 11px; }
+.tv-legend::before { content: ''; width: 17px; height: 2px; background: var(--tv-mint); }
+.tv-controls, .tv-zoom-group { display: flex; align-items: center; }
+.tv-controls { margin-left: auto; gap: 2px; }
+.tv-controls button { display: inline-grid; place-items: center; height: 28px; min-height: 0; margin: 0; padding: 0 6px; border: 0; border-radius: 4px; font-size: 12px; font-weight: 500; line-height: 1; color: #d4e5e1; background: transparent; }
+.tv-controls button:hover:not(:disabled) { color: #fff; background: #2d4c50; }
+.tv-divider { width: 1px; height: 15px; margin: 0 6px; background: #526d70; }
+.tv-zoom-group { padding: 1px; border: 1px solid #4b6468; border-radius: 5px; }
+.tv-controls .tv-zoom-step { width: 24px; height: 23px; font: 18px/1 system-ui, sans-serif; }
+.tv-controls .tv-percent { width: 42px; height: 23px; font: 11px/1.2 ui-monospace, Consolas, monospace; }
+.tv-controls .tv-fit { padding-inline: 9px; }
+.tv-empty { position: absolute; inset: 0; display: grid; place-items: center; font-size: 15px; color: #bcd0cb; background: var(--tv-base); }
+.tv-empty[hidden] { display: none; }
+.tv-no-data .tv-viewport { cursor: default; }
+@media (prefers-reduced-motion: reduce) { .tv-root .tv-node { transition: none; } }

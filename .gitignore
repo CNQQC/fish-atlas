@@ -1,0 +1,11 @@
+# Local development only; the static site in dist/ is intentionally tracked.
+.openai/
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="540" viewBox="0 0 1600 540" role="img" aria-labelledby="title desc">
+  <title id="title">鱼间 · Fish Atlas</title>
+  <desc id="desc">Every fish has a place. A digital field guide to 274 fish species, seven taxonomic ranks and 520 source references.</desc>
+  <defs>
+    <linearGradient id="sea" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#102f32"/><stop offset="1" stop-color="#174b46"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#c8dec6" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1600" height="540" rx="20" fill="url(#sea)"/>
+  <rect width="1600" height="540" rx="20" fill="url(#grid)"/>
+  <g fill="none" stroke="#c6dfbe" stroke-opacity=".12">
+    <circle cx="1240" cy="265" r="201"/><circle cx="1240" cy="265" r="167"/>
+    <path d="M1013 265h454M1240 38v454"/>
+  </g>
+  <g fill="#d2dec5" font-family="Arial, sans-serif" font-size="15" letter-spacing="3.5">
+    <text x="90" y="76">A DIGITAL FIELD GUIDE</text>
+    <text x="1510" y="76" text-anchor="end" fill="#b0c8b6">NATURAL HISTORY / VOL. 01</text>
+  </g>
+  <text x="84" y="227" fill="#f3f2dc" font-family="'Noto Serif SC','Songti SC','SimSun',serif" font-size="112" font-weight="600" letter-spacing="14">鱼间</text>
+  <text x="370" y="225" fill="#dce6c9" font-family="Georgia,serif" font-size="69" font-style="italic">Fish Atlas</text>
+  <text x="90" y="299" fill="#f1f1da" font-family="Georgia,serif" font-size="40">Every fish has a place.</text>
+  <text x="92" y="343" fill="#b3cbbb" font-family="'Microsoft YaHei',sans-serif" font-size="20" letter-spacing="2">从一条鱼，看见整个鱼类世界。</text>
+  <g transform="translate(1004 162)" fill="none" stroke="#d0dfba" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M28 111C77 43 179 29 267 72C300 88 327 109 342 118C307 129 289 144 266 159C176 213 82 185 28 111Z" fill="#9cc9a1" fill-opacity=".05"/>
+    <path d="M286 85L381 27L355 118L387 201L287 146M77 70C103 93 103 143 83 168M155 48L187 9L227 57M167 184L203 215L238 175"/>
+    <path d="M103 105C162 82 227 90 283 113M110 129C170 110 219 117 275 135" stroke-opacity=".32"/>
+    <path d="M141 93l31 21l-17 25M185 92l29 24l-17 28M229 102l23 24l-15 25" stroke-opacity=".24"/>
+    <circle cx="60" cy="105" r="5" fill="#d0dfba" stroke="none"/>
+    <path d="M29 113l17 6M111 151l35 16l-20-31M165 51l24-27M183 55l23-25M207 59l18-18" stroke-opacity=".65"/>
+    <path d="M15 248H404M15 243v10M404 243v10" stroke-opacity=".38"/>
+  </g>
+  <text x="1213" y="451" text-anchor="middle" fill="#b5c9b2" font-family="Georgia,serif" font-size="14" font-style="italic" letter-spacing="1.5">Observe. Compare. Discover.</text>
+  <path d="M90 401H827" stroke="#bfd1b5" stroke-opacity=".25"/>
+  <g font-family="Arial,sans-serif">
+    <g fill="#eff1d8" font-size="31"><text x="90" y="458">274</text><text x="317" y="458">7</text><text x="543" y="458">520</text></g>
+    <g fill="#a9c4b1" font-size="12" letter-spacing="2"><text x="90" y="487">FISH SPECIES</text><text x="317" y="487">TAXONOMIC RANKS</text><text x="543" y="487">SOURCE REFERENCES</text></g>
+  </g>
+</svg>

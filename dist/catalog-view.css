@@ -1,0 +1,220 @@
+.fish-catalog {
+  --fc-ink: #173735;
+  --fc-accent: #12625b;
+  --fc-muted: #506963;
+  --fc-rule: #d4ded7;
+  --fc-paper: #fffefa;
+  container: fish-catalog / inline-size;
+  color: var(--fc-ink);
+}
+
+.fish-catalog [hidden] { display: none !important; }
+
+.fish-catalog .fc-toolbar,
+.fish-catalog .fc-summary,
+.fish-catalog .fc-pager,
+.fish-catalog .fc-page-numbers {
+  display: flex;
+  align-items: center;
+}
+
+.fish-catalog .fc-toolbar {
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px 22px;
+  margin: 0 0 18px;
+}
+
+.fish-catalog .fc-summary { gap: 15px; }
+.fish-catalog .fc-total { font-size: 17px; font-weight: 650; }
+.fish-catalog .fc-range { color: var(--fc-muted); font-size: 13px; }
+.fish-catalog .fc-pager { gap: 9px; flex-wrap: wrap; max-width: 100%; }
+.fish-catalog .fc-page-numbers { gap: 2px; flex-wrap: wrap; }
+.fish-catalog .fc-page-gap { color: var(--fc-muted); padding: 0 3px; }
+.fish-catalog .fc-pager button {
+  font: inherit;
+  font-size: 13px;
+  min-width: 31px;
+  height: 34px;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  background: transparent;
+  color: var(--fc-muted);
+  cursor: pointer;
+  padding: 0 6px;
+}
+
+.fish-catalog .fc-pager .fc-page-turn {
+  background: var(--fc-paper);
+  border-color: var(--fc-rule);
+  padding-inline: 11px;
+}
+
+.fish-catalog .fc-pager button:hover:not(:disabled) {
+  color: var(--fc-accent);
+  background: #eaf1ea;
+}
+
+.fish-catalog .fc-page[aria-current="page"],
+.fish-catalog .fc-page[aria-current="page"]:hover {
+  background: var(--fc-ink);
+  color: #fffefa;
+  font-weight: 650;
+}
+
+.fish-catalog .fc-pager button:disabled { opacity: .42; cursor: default; }
+
+.fish-catalog .fc-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 20px;
+  align-items: stretch;
+}
+
+.fish-catalog .fc-card {
+  appearance: none;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  overflow: hidden;
+  padding: 0;
+  border: 1px solid var(--fc-rule);
+  border-radius: 10px;
+  text-align: left;
+  font: inherit;
+  color: var(--fc-ink);
+  background: var(--fc-paper);
+  box-shadow: 0 2px 5px #17373506;
+  cursor: pointer;
+  transition: border-color .18s ease, box-shadow .18s ease;
+}
+
+.fish-catalog .fc-card:hover {
+  border-color: #8cb2a8;
+  box-shadow: 0 8px 20px #143e3315;
+}
+
+.fish-catalog button:focus-visible { outline: 3px solid #aa803d; outline-offset: 3px; }
+
+.fish-catalog .fc-frame {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1.75;
+  overflow: hidden;
+  flex: none;
+  background: #e8eeea;
+}
+
+.fish-catalog .fc-photo {
+  display: block;
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  transition: transform .3s ease;
+}
+
+.fish-catalog .fc-card:hover .fc-photo { transform: scale(1.025); }
+
+.fish-catalog .fc-info {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding: 15px 17px 17px;
+}
+
+.fish-catalog .fc-classification {
+  color: var(--fc-accent);
+  font-size: 12px;
+  font-weight: 550;
+  line-height: 1.5;
+  margin-bottom: 5px;
+  overflow-wrap: anywhere;
+}
+
+.fish-catalog .fc-name-row { display: flex; align-items: center; justify-content: space-between; gap: 6px; }
+.fish-catalog .fc-name {
+  font-family: 'Songti SC', 'Noto Serif CJK SC', 'Source Han Serif SC', SimSun, serif;
+  font-size: 21px;
+  font-weight: 600;
+  line-height: 1.35;
+  overflow-wrap: anywhere;
+}
+
+.fish-catalog .fc-open {
+  display: grid;
+  place-items: center;
+  width: 24px;
+  height: 24px;
+  flex: none;
+  border-radius: 50%;
+  color: var(--fc-accent);
+  border: 1px solid var(--fc-rule);
+  font: 15px/1 system-ui, sans-serif;
+}
+
+.fish-catalog .fc-card:hover .fc-open { color: #fff; background: var(--fc-accent); border-color: var(--fc-accent); }
+.fish-catalog .fc-latin {
+  display: block;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.45;
+  color: var(--fc-muted);
+  overflow-wrap: anywhere;
+  margin-top: 1px;
+}
+
+.fish-catalog .fc-cue {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  font-size: 13px;
+  line-height: 1.6;
+  margin-top: 11px;
+  color: #405751;
+}
+
+.fish-catalog .fc-card-lead {
+  grid-column: span 2;
+  justify-content: end;
+  border-color: #19474c;
+  background: #103d45;
+  color: #fffefa;
+}
+
+.fish-catalog .fc-card-lead .fc-frame { position: absolute; inset: 0; height: 100%; aspect-ratio: auto; }
+.fish-catalog .fc-card-lead .fc-info {
+  isolation: isolate;
+  padding: 65px 23px 21px;
+  background: linear-gradient(0deg, #04242bf2, #03282ecf 42%, transparent 100%);
+}
+
+.fish-catalog .fc-card-lead .fc-name { font-size: 30px; }
+.fish-catalog .fc-card-lead .fc-classification { color: #d2ebe3; }
+.fish-catalog .fc-card-lead .fc-latin { color: #e8f1ef; font-size: 16px; }
+.fish-catalog .fc-card-lead .fc-cue { color: #f2f7f3; margin-top: 6px; }
+.fish-catalog .fc-card-lead .fc-open { color: #fff; border-color: #ffffff8c; width: 31px; height: 31px; }
+
+.fish-catalog .fc-empty { padding: 52px 28px; text-align: center; border: 1px solid var(--fc-rule); border-radius: 10px; }
+.fish-catalog .fc-empty h3 { margin: 0 0 8px; color: var(--fc-ink); font-size: 20px; }
+.fish-catalog .fc-empty p { margin: 0; color: var(--fc-muted); font-size: 14px; }
+
+@container fish-catalog (min-width: 1320px) {
+  .fish-catalog .fc-grid:not(.fc-with-lead) { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+}
+
+@container fish-catalog (max-width: 940px) {
+  .fish-catalog .fc-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 15px; }
+}
+
+@container fish-catalog (max-width: 680px) {
+  .fish-catalog .fc-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .fish-catalog .fc-card-lead { min-height: 245px; }
+  .fish-catalog .fc-name { font-size: 19px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fish-catalog .fc-photo, .fish-catalog .fc-card { transition: none; }
+}
