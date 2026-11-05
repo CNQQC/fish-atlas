@@ -65,7 +65,7 @@ body[data-view="tree"] .header-inner { width: calc(100% - 36px); max-width: none
 body[data-view="tree"] .workspace { width: 100%; max-width: none; }
 body[data-view="tree"] :is(.page-head,.site-footer) { display: none; }
 
-/* Tree view: the canvas fills the window; controls and the species card float above it.
+/* Tree view: the canvas fills the window; the branch bar and the species card float above it.
    The --tv-inset-* values tell the tree which edges those overlays cover. */
 #tree-screen {
   --tv-inset-top: 76px;
@@ -73,14 +73,14 @@ body[data-view="tree"] :is(.page-head,.site-footer) { display: none; }
   --tv-inset-bottom: 68px;
   --tv-inset-left: 0px;
   --dock-width: 340px;
-  --float-bg: #0b2128e0;
-  --float-line: #ffffff17;
+  --float-bg: #091a1fe6;
+  --float-line: #ffffff14;
   position: relative;
   height: calc(100vh - var(--header-h));
   height: calc(100dvh - var(--header-h));
   min-height: 520px;
   overflow: hidden;
-  background: #102c35;
+  background: #0a1b21;
 }
 #tree-screen.dock-collapsed { --tv-inset-right: 62px; }
 #atlas-tree { position: absolute; inset: 0; }
@@ -94,19 +94,10 @@ body[data-view="tree"] :is(.page-head,.site-footer) { display: none; }
   box-shadow: 0 10px 30px #00000045;
   color: #edf6f4;
 }
-.canvas-bar { position: absolute; top: 14px; left: 48px; z-index: 5; display: flex; align-items: center; gap: 12px; max-width: calc(100% - 48px - var(--tv-inset-right)); padding: 6px 6px 6px 16px; border-radius: 14px; }
+.canvas-bar { position: absolute; top: 14px; left: calc(var(--tv-rail, 52px) + 14px); z-index: 5; display: flex; align-items: center; gap: 12px; max-width: calc(100% - var(--tv-rail, 52px) - 28px - var(--tv-inset-right)); padding: 6px 6px 6px 16px; border-radius: 14px; }
 .branch-label { display: flex; align-items: baseline; gap: 8px; flex: none; }
 .branch-label h2 { margin: 0; font: 600 16px/1.3 var(--serif); letter-spacing: .03em; white-space: nowrap; }
 #branch-count { font-size: 12px; color: #9db7b2; white-space: nowrap; }
-.preset-strip { display: flex; gap: 6px; min-width: 0; padding-left: 12px; border-left: 1px solid #ffffff1c; overflow-x: auto; scrollbar-width: none; }
-.preset-strip::-webkit-scrollbar { display: none; }
-.preset { flex: none; display: inline-flex; align-items: center; gap: 7px; height: 34px; padding: 3px 12px 3px 3px; border: 1px solid #ffffff1a; border-radius: 99px; background: #ffffff0a; color: #d5e6e2; transition: border-color .16s,background-color .16s,color .16s; }
-.preset:hover { border-color: #ffffff38; background: #ffffff17; }
-.preset[aria-pressed="true"] { border-color: #83dec2; background: #83dec2; color: #0c2a2b; }
-.preset img { width: 26px; height: 26px; border-radius: 50%; object-fit: cover; }
-.preset strong { font-size: 13px; font-weight: 600; letter-spacing: .02em; }
-.preset small { font-size: 11px; opacity: .72; }
-.preset:focus-visible { outline-offset: -1px; }
 .branch-select { flex: none; }
 #scope { width: 150px; height: 34px; padding: 0 8px; border: 1px solid #ffffff24; border-radius: 9px; background: #ffffff0d; color: #e3efec; font-size: 13px; color-scheme: dark; }
 #scope:hover { background: #ffffff17; }
@@ -115,7 +106,7 @@ body[data-view="tree"] :is(.page-head,.site-footer) { display: none; }
 #specimen-panel { width: 100%; max-height: 100%; overflow-y: auto; border-radius: 16px; box-shadow: 0 20px 60px #00000059; scrollbar-width: thin; transition: visibility 0s; }
 #specimen-panel .sp-quick { border: 0; }
 .dock-toggle { position: absolute; top: 12px; right: 12px; z-index: 2; width: 32px; height: 32px; display: grid; place-items: center; padding: 0; border-radius: 50%; }
-.dock-toggle:hover { background: #18393f; }
+.dock-toggle:hover { background: #163239; }
 #tree-screen.dock-collapsed .specimen-dock { transform: translateX(calc(100% + 14px)); }
 #tree-screen.dock-collapsed #specimen-panel { visibility: hidden; transition-delay: .3s; }
 #tree-screen.dock-collapsed .dock-toggle { top: 0; right: calc(100% + 14px); width: 48px; height: 48px; border-radius: 14px; }
@@ -145,13 +136,13 @@ body[data-view="tree"] :is(.page-head,.site-footer) { display: none; }
   .view-nav button { padding-inline: 10px; }
   .search-wrap { order: 4; width: 100%; margin-left: 0; }
   .source-control { margin-left: auto; }
-  #tree-screen,#tree-screen.dock-collapsed { --tv-inset-top: 0px; --tv-inset-right: 0px; --tv-inset-bottom: 62px; height: auto; min-height: 0; overflow: visible; display: flex; flex-direction: column; }
+  #tree-screen,#tree-screen.dock-collapsed { --tv-rail: 36px; --tv-inset-top: 0px; --tv-inset-right: 0px; --tv-inset-bottom: 62px; height: auto; min-height: 0; overflow: visible; display: flex; flex-direction: column; }
   .canvas-bar { position: static; order: 1; max-width: none; flex-wrap: wrap; padding: 10px 12px; border-width: 0 0 1px; border-radius: 0; box-shadow: none; }
   .branch-label #branch-count { display: inline; }
   .branch-select { margin-left: auto; }
-  .preset-strip { order: 3; width: 100%; padding-left: 0; border-left: 0; }
   #atlas-tree { position: relative; inset: auto; order: 2; height: 68vh; height: 68dvh; min-height: 380px; }
-  #atlas-tree .tv-legend { display: none; }
+  #atlas-tree .tv-legend,#atlas-tree .tv-rank small { display: none; }
+  #atlas-tree .tv-controls { padding-left: 0; border-left: 0; }
   .specimen-dock,#tree-screen.dock-collapsed .specimen-dock { position: static; order: 3; width: auto; padding: 14px; transform: none; background: var(--paper); }
   #specimen-panel,#tree-screen.dock-collapsed #specimen-panel { visibility: visible; max-height: none; box-shadow: none; }
   #specimen-panel .sp-quick { border: 1px solid var(--line); }

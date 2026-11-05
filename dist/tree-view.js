@@ -4,10 +4,32 @@
 
   const ranks = ['kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species'];
   const rankLabels = ['界', '门', '纲', '目', '科', '属', '种'];
-  const centers = [31, 81, 133, 186, 239, 292, 377];
-  const diagramHeight = 434;
+  const rankNames = ['Kingdom', 'Phylum', 'Class', 'Order', 'Family', 'Genus', 'Species'];
+  // A taxon label hangs from its branch labelRise above the row center, and its
+  // children leave from the knot knotDrop below it. tree-view.css places the knot
+  // at the same offset (labelRise + knotDrop).
+  const labelRise = 21;
+  const knotDrop = 25;
+  const leafHeight = 112;
+  const centers = [44, 122, 200, 278, 356, 434, 551];
+  const leafBottom = centers[6] + leafHeight / 2;
   const maxScale = 1.4;
   const svgNamespace = 'http://www.w3.org/2000/svg';
+  // Each class takes its lineage's hue, and every branch below it keeps that hue.
+  // The order follows the tree; neighbouring hues pass the palette CVD checks on the dark canvas.
+  const neutralHue = '#a6bbb6';
+  const lineages = [
+    { label: '无颌类', color: '#9085e9', classes: ['Myxini', 'Petromyzonti'] },
+    { label: '软骨鱼', color: '#dc6a43', classes: ['Elasmobranchii', 'Holocephali'] },
+    { label: '真骨鱼', color: '#1da48a', classes: ['Teleostei'] },
+    { label: '肉鳍鱼', color: '#c28410', classes: ['Actinistia', 'Dipnoi'] },
+    { label: '原始辐鳍鱼', color: '#3d8ee6', classes: ['Cladistii', 'Chondrostei', 'Holostei'] }
+  ];
+  const lineageByClass = new Map(lineages.flatMap(lineage => lineage.classes.map(name => [name, lineage])));
+
+  const rowTop = depth => centers[depth] - (depth === 6 ? leafHeight / 2 : labelRise);
+  // Faint guides run between rows, halfway from one row's knots to the next row's tops.
+  const bands = centers.slice(1).map((_, i) => (centers[i] + knotDrop + rowTop(i + 1)) / 2);
 
   function element(tag, className, text) {
     const node = document.createElement(tag);
@@ -35,6 +57,7 @@
     const byFish = new Map();
     for (const specimen of fish) {
       const record = window.FISH_TAXONOMY[specimen.id];
+      const lineage = lineageByClass.get(record.class.latin) || null;
       let parent = null;
       let siblings = roots;
       ranks.forEach((rank, depth) => {
@@ -42,7 +65,7 @@
         const key = `${parent?.key || ''}/${rank}:${data.latin}`;
         let node = siblings.get(key);
         if (!node) {
-          node = { key, depth, parent, data, children: new Map(), count: 0 };
+          node = { key, depth, parent, data, children: new Map(), count: 0, lineage: depth >= 2 ? lineage : null };
           siblings.set(key, node);
           byKey.set(key, node);
         }
@@ -58,17 +81,37 @@
     return { roots, byKey, byFish };
   }
 
+  function hue(node) { return node.lineage?.color || neutralHue; }
+
+  function nodeTop(node) { return node.fish ? node.y - leafHeight / 2 : node.y - labelRise; }
+
+  // Close children hang from S-curves; far ones lean toward their child from the
+  // knot, so a wide fan spreads out instead of stacking into one horizontal bar.
+  function branch(parent, child) {
+    const startY = parent.y + knotDrop;
+    const endY = nodeTop(child);
+    const mid = (startY + endY) / 2;
+    const reach = child.x - parent.x;
+    const drop = endY - startY;
+    const lean = Math.min(.5, Math.max(0, (Math.abs(reach) - 2 * drop) / (8 * drop)));
+    return `M ${parent.x} ${startY} C ${parent.x + reach * lean} ${mid} ${child.x} ${mid} ${child.x} ${endY}`;
+  }
+
   function createAtlasTree(container, options = {}) {
     const displayName = options.name || (fish => fish.name);
     const root = element('div', 'tv-root');
     const plot = element('div', 'tv-plot');
     const rail = element('div', 'tv-rail');
     rail.setAttribute('aria-hidden', 'true');
-    const rankTags = rankLabels.map(label => {
-      const tag = element('span', 'tv-rank', label);
+    const rankTags = rankLabels.map((label, i) => {
+      const tag = element('span', 'tv-rank');
+      tag.append(element('b', '', label), element('small', '', rankNames[i]));
       rail.append(tag);
       return tag;
     });
+    const guides = element('div', 'tv-guides');
+    guides.setAttribute('aria-hidden', 'true');
+    const guideLines = bands.map(() => guides.appendChild(element('span', 'tv-guide')));
     const viewport = element('div', 'tv-viewport');
     viewport.tabIndex = 0;
     viewport.setAttribute('role', 'region');
@@ -79,10 +122,10 @@
     empty.hidden = true;
     space.append(stage);
     viewport.append(space);
-    plot.append(rail, viewport, empty);
+    plot.append(rail, guides, viewport, empty);
 
     const footer = element('div', 'tv-footer');
-    const legend = element('span', 'tv-legend', '选中鱼种的分类路径');
+    const legend = element('div', 'tv-legend');
     const controls = element('div', 'tv-controls');
     const collapseButton = button('tv-text-action', '收起', overview);
     collapseButton.title = '收起到纲，选择分支继续展开';
@@ -109,7 +152,10 @@
     let selected = '';
     let folded = new Set();
     let visible = [];
+    let shown = new Set();
     let width = 1;
+    let height = leafBottom;
+    let unit = 124;
     let scale = 1;
     let offsetX = 0;
     let offsetY = 0;
@@ -119,6 +165,8 @@
     let lastContainerWidth = 0;
     let autoScale = true;
     let resizeFrame = 0;
+    let halos = svgElement('g', {});
+    let flows = svgElement('g', {});
     const buttons = new Map();
     const wires = new Map();
 
@@ -148,20 +196,27 @@
       return result;
     }
 
+    // The selected path is redrawn brighter, over a soft halo, with light flowing toward the species.
     function markSelection() {
       const active = activePath();
+      halos.replaceChildren();
+      flows.replaceChildren();
       for (const node of visible) {
         const control = buttons.get(node.key);
         const isActive = active.has(node.key);
         control.classList.toggle('tv-active', isActive);
         if (node.fish) control.setAttribute('aria-pressed', String(isActive));
         const wire = wires.get(node.key);
-        if (wire) {
-          wire.classList.toggle('tv-active', isActive);
-          if (isActive) wire.parentNode.append(wire);
-        }
+        if (!wire) continue;
+        wire.classList.toggle('tv-active', isActive);
+        if (!isActive) continue;
+        flows.before(wire);
+        const d = wire.getAttribute('d');
+        const halo = svgElement('path', { d, class: 'tv-halo', 'stroke-width': Number(wire.getAttribute('stroke-width')) + 7 });
+        halo.style.setProperty('--hue', hue(node));
+        halos.append(halo);
+        flows.append(svgElement('path', { d, class: 'tv-flow' }));
       }
-      legend.style.visibility = active.size ? 'visible' : 'hidden';
     }
 
     function weigh(node) {
@@ -186,7 +241,7 @@
 
     function fittedScale(limit) {
       const { width: roomWidth, height: roomHeight } = room();
-      return Math.min(limit, roomWidth / width, roomHeight / diagramHeight);
+      return Math.min(limit, roomWidth / width, roomHeight / height);
     }
 
     function layout() {
@@ -194,7 +249,7 @@
       const roots = [...tree.roots.values()];
       const slots = roots.reduce((total, node) => total + weigh(node), 0);
       const available = room().width || 640;
-      const unit = Math.min(166, Math.max(124, (available - 30) / Math.max(slots, 1)));
+      unit = Math.min(166, Math.max(128, (available - 30) / Math.max(slots, 1)));
       nodeWidth = Math.min(146, unit - 14);
       width = slots * unit + 30;
       function position(node, start) {
@@ -209,27 +264,21 @@
       }
       let start = 0;
       roots.forEach(node => { position(node, start); start += node.weight; });
-    }
-
-    function nodeHeight(node) { return node.fish ? 94 : 36; }
-
-    function elbow(parent, child) {
-      const startY = parent.y + nodeHeight(parent) / 2;
-      const endY = child.y - nodeHeight(child) / 2;
-      const mid = (startY + endY) / 2;
-      const radius = Math.min(4, Math.abs(parent.x - child.x) / 2, (endY - startY) / 2);
-      if (radius < 1) return `M ${parent.x} ${startY} V ${endY}`;
-      const direction = child.x > parent.x ? 1 : -1;
-      return `M ${parent.x} ${startY} V ${mid-radius} Q ${parent.x} ${mid} ${parent.x+direction*radius} ${mid} H ${child.x-direction*radius} Q ${child.x} ${mid} ${child.x} ${mid+radius} V ${endY}`;
+      // The canvas ends below the deepest open rank, so a folded overview sits centered.
+      const deepest = Math.max(0, ...visible.map(node => node.depth));
+      height = (deepest === 6 ? leafBottom : centers[deepest] + knotDrop + 12) + 26;
     }
 
     function createNode(node) {
       const isLeaf = Boolean(node.fish);
       const control = button(`tv-node ${isLeaf ? 'tv-leaf' : 'tv-taxon'}`, '');
       control.dataset.treeKey = node.key;
-      control.style.left = `${node.x - nodeWidth / 2}px`;
-      control.style.top = `${node.y - nodeHeight(node) / 2}px`;
-      control.style.width = `${nodeWidth}px`;
+      control.style.top = `${nodeTop(node)}px`;
+      // Higher taxa may use the room their whole branch spans below them.
+      const span = isLeaf ? nodeWidth : Math.min(220, node.weight * unit - 14);
+      control.style.left = `${node.x - span / 2}px`;
+      control.style.width = `${span}px`;
+      control.style.setProperty('--hue', hue(node));
       const title = isLeaf ? displayName(node.fish) : node.data.name;
       control.title = `${rankLabels[node.depth]} · ${title} · ${node.data.latin}`;
       if (isLeaf) {
@@ -239,6 +288,7 @@
         picture.src = metadata.file.startsWith('assets/') ? metadata.file : `assets/${metadata.file}`;
         picture.alt = `${metadata.photoSpecies || title} 真实照片`;
         picture.decoding = 'async';
+        picture.loading = 'lazy';
         const caption = element('span', 'tv-leaf-caption');
         caption.append(element('strong', '', title), element('i', '', node.data.latin));
         const chosen = element('span', 'tv-check', '✓');
@@ -246,31 +296,33 @@
         control.append(picture, caption, chosen);
         control.setAttribute('aria-label', `查看${title}，${node.data.latin}`);
       } else {
-        const label = element('span', 'tv-taxon-copy');
-        label.append(element('strong', '', title), element('i', '', node.data.latin));
+        const name = element('span', 'tv-name');
         const count = element('span', 'tv-count', String(node.count));
         count.setAttribute('aria-hidden', 'true');
+        name.append(element('strong', '', title), count);
+        const label = element('span', 'tv-taxon-copy');
+        label.append(name, element('i', '', node.data.latin));
+        const knot = element('span', 'tv-knot');
+        knot.setAttribute('aria-hidden', 'true');
         const closed = folded.has(node.key);
-        const indicator = element('span', 'tv-chevron');
-        indicator.setAttribute('aria-hidden', 'true');
         control.classList.toggle('tv-folded', closed);
         control.setAttribute('aria-expanded', String(!closed));
         control.setAttribute('aria-label', `${rankLabels[node.depth]}，${title}，图中${node.count}种，${closed ? '展开' : '收起'}分支`);
-        control.append(label, count, indicator);
+        control.append(label, knot);
       }
       buttons.set(node.key, control);
       return control;
     }
 
     function alignRanks() {
-      rankTags.forEach((tag, i) => {
-        tag.style.top = `${offsetY + centers[i] * scale - viewport.scrollTop}px`;
-      });
+      const shift = offsetY - viewport.scrollTop;
+      rankTags.forEach((tag, i) => { tag.style.top = `${shift + centers[i] * scale}px`; });
+      guideLines.forEach((line, i) => { line.style.top = `${shift + bands[i] * scale}px`; });
     }
 
     function sizeCanvas() {
       const scaledWidth = width * scale;
-      const scaledHeight = diagramHeight * scale;
+      const scaledHeight = height * scale;
       const outerWidth = Math.max(viewport.clientWidth, scaledWidth + inset.left + inset.right);
       const outerHeight = Math.max(viewport.clientHeight, scaledHeight + inset.top + inset.bottom);
       offsetX = inset.left + (outerWidth - inset.left - inset.right - scaledWidth) / 2;
@@ -278,10 +330,21 @@
       space.style.width = `${outerWidth}px`;
       space.style.height = `${outerHeight}px`;
       stage.style.width = `${width}px`;
-      stage.style.height = `${diagramHeight}px`;
+      stage.style.height = `${height}px`;
       stage.style.transform = `translate(${offsetX}px,${offsetY}px) scale(${scale})`;
       percent.textContent = `${Math.round(scale * 100)}%`;
       alignRanks();
+    }
+
+    function paintLegend() {
+      const present = new Set([...tree.byKey.values()].map(node => node.lineage));
+      const keys = lineages.filter(lineage => present.has(lineage)).map(lineage => {
+        const key = element('span', 'tv-key', lineage.label);
+        key.style.setProperty('--hue', lineage.color);
+        return key;
+      });
+      legend.replaceChildren(...keys);
+      legend.hidden = keys.length < 2;
     }
 
     function paint({ reset = false, anchor } = {}) {
@@ -292,26 +355,41 @@
       layout();
       buttons.clear();
       wires.clear();
+      // Nodes appearing for the first time grow in, one rank after another.
+      const fresh = new Set(visible.filter(node => !shown.has(node.key)));
+      const firstDepth = Math.min(...[...fresh].map(node => node.depth));
+      shown = new Set(visible.map(node => node.key));
+      function enter(target, node, lag) {
+        if (!fresh.has(node)) return;
+        target.classList.add('tv-enter');
+        target.style.setProperty('--delay', `${(node.depth - firstDepth) * 70 + lag}ms`);
+      }
       const content = document.createDocumentFragment();
-      const svg = svgElement('svg', { width, height: diagramHeight, 'aria-hidden': 'true', class: 'tv-wires' });
+      const svg = svgElement('svg', { width, height, 'aria-hidden': 'true', class: 'tv-wires' });
       const usedRanks = new Set(visible.map(node => node.depth));
-      rankTags.forEach((tag, i) => {
-        tag.classList.toggle('tv-unused', !usedRanks.has(i));
-        const guide = svgElement('line', { x1: 0, y1: centers[i], x2: width, y2: centers[i], class: 'tv-guide' });
-        svg.append(guide);
-      });
-      const active = activePath();
-      const onPath = [];
+      rankTags.forEach((tag, i) => tag.classList.toggle('tv-unused', !usedRanks.has(i)));
+      halos = svgElement('g', { class: 'tv-halos' });
+      flows = svgElement('g', { class: 'tv-flows' });
+      svg.append(halos);
+      const total = visible.reduce((sum, node) => sum + (node.parent ? 0 : node.count), 0) || 1;
       visible.forEach(node => {
         if (!node.parent) return;
-        const path = svgElement('path', { d: elbow(node.parent, node), class: 'tv-wire' });
-        wires.set(node.key, path);
-        if (active.has(node.key)) onPath.push(path); else svg.append(path);
+        const thickness = 1 + 2.4 * Math.sqrt(node.count / total);
+        const wire = svgElement('path', { d: branch(node.parent, node), class: 'tv-wire', pathLength: 1, 'stroke-width': thickness.toFixed(2) });
+        wire.style.setProperty('--hue', hue(node));
+        enter(wire, node, 0);
+        wires.set(node.key, wire);
+        svg.append(wire);
       });
-      svg.append(...onPath);
+      svg.append(flows);
       content.append(svg);
-      visible.forEach(node => content.append(createNode(node)));
+      visible.forEach(node => {
+        const control = createNode(node);
+        enter(control, node, 120);
+        content.append(control);
+      });
       stage.replaceChildren(content);
+      paintLegend();
       root.classList.toggle('tv-no-data', visible.length === 0);
       empty.hidden = visible.length > 0;
       if (reset) {
@@ -338,6 +416,7 @@
       selected = nextSelected || '';
       if (signature === fishIds && !reset && visible.length) { markSelection(); return; }
       if (signature !== fishIds || reset) {
+        if (signature !== fishIds) shown = new Set();
         tree = makeTaxonomy(fish);
         fishIds = signature;
         if (fish.length > 12) foldBelowClass(true); else folded.clear();
