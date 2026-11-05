@@ -6,6 +6,7 @@
   const rankLabels = ['界', '门', '纲', '目', '科', '属', '种'];
   const centers = [31, 81, 133, 186, 239, 292, 377];
   const diagramHeight = 434;
+  const maxScale = 1.4;
   const svgNamespace = 'http://www.w3.org/2000/svg';
 
   function element(tag, className, text) {
@@ -113,6 +114,7 @@
     let offsetX = 0;
     let offsetY = 0;
     let nodeWidth = 120;
+    let inset = { top: 0, right: 0, bottom: 0, left: 0 };
     let lastViewportWidth = 0;
     let lastContainerWidth = 0;
     let autoScale = true;
@@ -168,11 +170,30 @@
       return node.weight;
     }
 
+    // Overlays above the canvas reserve its edges through --tv-inset-* properties.
+    function readInsets() {
+      const style = getComputedStyle(viewport);
+      const read = side => parseFloat(style.getPropertyValue(`--tv-inset-${side}`)) || 0;
+      inset = { top: read('top'), right: read('right'), bottom: read('bottom'), left: read('left') };
+    }
+
+    function room() {
+      return {
+        width: Math.max(0, viewport.clientWidth - inset.left - inset.right),
+        height: Math.max(0, viewport.clientHeight - inset.top - inset.bottom)
+      };
+    }
+
+    function fittedScale(limit) {
+      const { width: roomWidth, height: roomHeight } = room();
+      return Math.min(limit, roomWidth / width, roomHeight / diagramHeight);
+    }
+
     function layout() {
       visible = [];
       const roots = [...tree.roots.values()];
       const slots = roots.reduce((total, node) => total + weigh(node), 0);
-      const available = viewport.clientWidth || 640;
+      const available = room().width || 640;
       const unit = Math.min(166, Math.max(124, (available - 30) / Math.max(slots, 1)));
       nodeWidth = Math.min(146, unit - 14);
       width = slots * unit + 30;
@@ -250,10 +271,10 @@
     function sizeCanvas() {
       const scaledWidth = width * scale;
       const scaledHeight = diagramHeight * scale;
-      const outerWidth = Math.max(viewport.clientWidth, scaledWidth);
-      const outerHeight = Math.max(viewport.clientHeight, scaledHeight);
-      offsetX = Math.max(0, (outerWidth - scaledWidth) / 2);
-      offsetY = Math.max(0, (outerHeight - scaledHeight) / 2);
+      const outerWidth = Math.max(viewport.clientWidth, scaledWidth + inset.left + inset.right);
+      const outerHeight = Math.max(viewport.clientHeight, scaledHeight + inset.top + inset.bottom);
+      offsetX = inset.left + (outerWidth - inset.left - inset.right - scaledWidth) / 2;
+      offsetY = inset.top + (outerHeight - inset.top - inset.bottom - scaledHeight) / 2;
       space.style.width = `${outerWidth}px`;
       space.style.height = `${outerHeight}px`;
       stage.style.width = `${width}px`;
@@ -267,6 +288,7 @@
       const focused = stage.contains(document.activeElement) ? document.activeElement?.dataset.treeKey : null;
       const before = anchor ? tree.byKey.get(anchor) : null;
       const anchorScreen = before ? offsetX + before.x * scale - viewport.scrollLeft : null;
+      readInsets();
       layout();
       buttons.clear();
       wires.clear();
@@ -294,13 +316,13 @@
       empty.hidden = visible.length > 0;
       if (reset) {
         autoScale = true;
-        scale = Math.max(.85, Math.min(1, viewport.clientWidth / width || 1));
+        scale = Math.max(.85, fittedScale(maxScale) || 1);
       }
       sizeCanvas();
       if (before && Number.isFinite(anchorScreen)) {
         viewport.scrollLeft = offsetX + before.x * scale - anchorScreen;
       } else if (reset) {
-        viewport.scrollLeft = Math.max(0, (space.offsetWidth - viewport.clientWidth) / 2);
+        viewport.scrollLeft = offsetX + width * scale / 2 - inset.left - room().width / 2;
         viewport.scrollTop = 0;
       }
       markSelection();
@@ -326,21 +348,24 @@
     function setScale(value) {
       if (!visible.length) return;
       autoScale = false;
-      const midX = (viewport.scrollLeft + viewport.clientWidth / 2 - offsetX) / scale;
-      const midY = (viewport.scrollTop + viewport.clientHeight / 2 - offsetY) / scale;
+      const centerX = inset.left + room().width / 2;
+      const centerY = inset.top + room().height / 2;
+      const midX = (viewport.scrollLeft + centerX - offsetX) / scale;
+      const midY = (viewport.scrollTop + centerY - offsetY) / scale;
       scale = Math.max(.01, Math.min(2.5, value));
       sizeCanvas();
-      viewport.scrollLeft = offsetX + midX * scale - viewport.clientWidth / 2;
-      viewport.scrollTop = offsetY + midY * scale - viewport.clientHeight / 2;
+      viewport.scrollLeft = offsetX + midX * scale - centerX;
+      viewport.scrollTop = offsetY + midY * scale - centerY;
     }
 
     function fit() {
       if (!visible.length) return;
-      setScale(Math.min(1.15, viewport.clientWidth / width, viewport.clientHeight / diagramHeight));
+      setScale(fittedScale(maxScale));
       viewport.scrollTo(0, 0);
     }
 
     function zoomBy(factor) { if (Number.isFinite(factor) && factor > 0) setScale(scale * factor); }
+    function refit() { paint({ reset: autoScale }); }
     function overview() { foldBelowClass(); paint({ reset: true }); }
     function expandAll() { folded.clear(); paint({ reset: true }); }
 
@@ -350,11 +375,11 @@
       selected = id;
       let parent = leaf.parent;
       while (parent) { folded.delete(parent.key); parent = parent.parent; }
-      scale = 1;
+      scale = Math.max(1, scale);
       autoScale = false;
       paint();
-      viewport.scrollLeft = offsetX + leaf.x * scale - viewport.clientWidth / 2;
-      viewport.scrollTop = offsetY + leaf.y * scale - viewport.clientHeight + 68;
+      viewport.scrollLeft = offsetX + leaf.x * scale - inset.left - room().width / 2;
+      viewport.scrollTop = offsetY + leaf.y * scale - viewport.clientHeight + inset.bottom + 68;
       return true;
     }
 
@@ -412,7 +437,7 @@
     });
     observer.observe(container);
     observer.observe(viewport);
-    return { update, fit, zoomBy, overview, expandAll, locate };
+    return { update, fit, zoomBy, overview, expandAll, locate, refit };
   }
 
   window.createAtlasTree = createAtlasTree;

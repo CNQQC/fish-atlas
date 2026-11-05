@@ -125,12 +125,10 @@
   function renderTree(reset = false) {
     const items = branchItems(state.scope);
     byId('branch-title').textContent = branchLabel(state.scope);
-    byId('branch-count').textContent = '当前分支收录 ' + items.length + ' 种';
+    byId('branch-count').textContent = items.length + ' 种';
     byId('scope').value = [...byId('scope').options].some(option => option.value === state.scope) ? state.scope : '';
     document.querySelectorAll('.preset').forEach(button => {
-      const active = button.dataset.scope === state.scope;
-      button.setAttribute('aria-pressed', String(active));
-      button.querySelector('.preset-state').textContent = active ? '✓' : '→';
+      button.setAttribute('aria-pressed', String(button.dataset.scope === state.scope));
     });
     tree.update({fish:items, selected:state.selected, reset});
     specimen.select(fishById.get(state.selected));
@@ -151,6 +149,7 @@
 
   function renderScreen() {
     const isTree = state.view === 'tree';
+    document.body.dataset.view = state.view;
     byId('tree-screen').hidden = !isTree;
     byId('catalog-screen').hidden = isTree;
     for (const [id, active] of [['nav-tree',isTree],['nav-catalog',!isTree]]) {
@@ -308,19 +307,13 @@
       button.type = 'button';
       button.className = 'preset';
       button.dataset.scope = preset.key;
+      button.title = preset.ids.length + ' 种代表鱼';
       const photo = new Image();
       photo.alt = '';
       photo.src = photograph(preset.image);
-      const label = document.createElement('span');
       const title = document.createElement('strong');
       title.textContent = preset.label;
-      const count = document.createElement('small');
-      count.textContent = preset.ids.length + ' 种代表鱼';
-      label.append(title,count);
-      const marker = document.createElement('span');
-      marker.className = 'preset-state';
-      marker.setAttribute('aria-hidden','true');
-      button.append(photo,label,marker);
+      button.append(photo,title);
       button.addEventListener('click',()=>changeBranch(preset.key));
       byId('presets').append(button);
     }
@@ -352,6 +345,14 @@
     byId('nav-catalog').addEventListener('click',()=>go('catalog'));
     document.querySelector('.brand').addEventListener('click',event=>{event.preventDefault();go('tree');});
     byId('sources-open').addEventListener('click',()=>specimen.sources());
+    byId('dock-toggle').addEventListener('click',event=>{
+      const collapsed = byId('tree-screen').classList.toggle('dock-collapsed');
+      const label = collapsed ? '展开物种卡片' : '收起物种卡片';
+      event.currentTarget.setAttribute('aria-expanded',String(!collapsed));
+      event.currentTarget.setAttribute('aria-label',label);
+      event.currentTarget.title = label;
+      tree.refit();
+    });
     byId('all-results').addEventListener('click',openSearchResults);
     byId('search-clear').addEventListener('click',()=>{input.value='';showSuggestions();input.focus();});
     input.addEventListener('input',showSuggestions);

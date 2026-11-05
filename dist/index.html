@@ -6,18 +6,18 @@
   <meta name="theme-color" content="#f5f6f2">
   <meta name="description" content="探索鱼类的七级分类树，查看真实照片、辨认特征与生活习性。">
   <title>鱼间 · 鱼类分类图谱</title>
-  <link rel="stylesheet" href="styles.css?v=20261105-1615">
-  <link rel="stylesheet" href="tree-view.css?v=20261105-1615">
-  <link rel="stylesheet" href="specimen-view.css?v=20261105-1615">
-  <link rel="stylesheet" href="catalog-view.css?v=20261105-1615">
-  <script defer src="data.js?v=20261105-1615"></script>
-  <script defer src="taxonomy.js?v=20261105-1615"></script>
-  <script defer src="profiles.js?v=20261105-1615"></script>
-  <script defer src="photos-data.js?v=20261105-1615"></script>
-  <script defer src="tree-view.js?v=20261105-1615"></script>
-  <script defer src="specimen-view.js?v=20261105-1615"></script>
-  <script defer src="catalog-view.js?v=20261105-1615"></script>
-  <script defer src="app.js?v=20261105-1615"></script>
+  <link rel="stylesheet" href="styles.css?v=20261105-1830">
+  <link rel="stylesheet" href="tree-view.css?v=20261105-1830">
+  <link rel="stylesheet" href="specimen-view.css?v=20261105-1830">
+  <link rel="stylesheet" href="catalog-view.css?v=20261105-1830">
+  <script defer src="data.js?v=20261105-1830"></script>
+  <script defer src="taxonomy.js?v=20261105-1830"></script>
+  <script defer src="profiles.js?v=20261105-1830"></script>
+  <script defer src="photos-data.js?v=20261105-1830"></script>
+  <script defer src="tree-view.js?v=20261105-1830"></script>
+  <script defer src="specimen-view.js?v=20261105-1830"></script>
+  <script defer src="catalog-view.js?v=20261105-1830"></script>
+  <script defer src="app.js?v=20261105-1830"></script>
 </head>
 <body id="graph">
 <svg class="symbols" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs>
@@ -26,6 +26,7 @@
   <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.7"/><path d="m15.5 15.5 5 5"/></symbol>
   <symbol id="i-book" viewBox="0 0 24 24"><path d="M12 6c-3-2-6-2-10-1v14c4-1 7-1 10 1 3-2 6-2 10-1V5c-4-1-7-1-10 1zm0 0v14"/></symbol>
   <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M4 12h15m-6-6 6 6-6 6"/></symbol>
+  <symbol id="i-chevron" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></symbol>
 </defs></svg>
 <a class="skip-link" href="#main">跳到浏览区</a>
 <header class="site-header">
@@ -38,27 +39,26 @@
       <button id="nav-tree" type="button"><svg class="icon"><use href="#i-tree"/></svg>分类树</button>
       <button id="nav-catalog" type="button"><svg class="icon"><use href="#i-grid"/></svg>照片图鉴</button>
     </nav>
-    <button id="sources-open" class="source-control" type="button"><svg class="icon"><use href="#i-book"/></svg>资料与图片来源</button>
-  </div>
-</header>
-<main id="main" class="workspace">
-  <div class="page-head">
-    <div><h1 id="page-title">鱼类分类图谱</h1><p id="page-lede">沿分支从界读到种，比较鱼类的分类位置。</p></div>
     <div class="search-wrap" id="search-wrap" role="search">
       <div class="search-field"><svg class="icon"><use href="#i-search"/></svg><input id="search" type="search" autocomplete="off" role="combobox" aria-label="搜索鱼的名称、学名、分类或分布" aria-controls="search-results" aria-expanded="false" aria-autocomplete="list" placeholder="搜鱼名、学名、分类或分布"><kbd id="search-shortcut">/</kbd><button id="search-clear" type="button" aria-label="清除搜索" hidden>×</button></div>
       <div id="search-popup" class="search-popup" hidden><div id="search-results" role="listbox" aria-label="物种匹配结果"></div><button id="all-results" type="button"></button></div>
     </div>
+    <button id="sources-open" class="source-control" type="button"><svg class="icon"><use href="#i-book"/></svg><span>资料与图片来源</span></button>
+  </div>
+</header>
+<main id="main" class="workspace">
+  <div class="page-head">
+    <h1 id="page-title">鱼类分类图谱</h1><p id="page-lede">沿分支从界读到种，比较鱼类的分类位置。</p>
   </div>
   <section id="tree-screen" aria-label="分类树浏览">
-    <div class="preset-strip" id="presets" aria-label="比较分支"></div>
-    <div class="explore-layout">
-      <section class="tree-paper" aria-labelledby="branch-title">
-        <div class="tree-toolbar">
-          <div class="branch-label"><span class="branch-icon"><svg class="icon"><use href="#i-tree"/></svg></span><div><h2 id="branch-title"></h2><span id="branch-count"></span></div></div>
-          <label class="branch-select"><span class="sr-only">切换分类分支</span><select id="scope" aria-label="切换分类分支"></select></label>
-        </div>
-        <div id="atlas-tree"></div>
-      </section>
+    <div id="atlas-tree"></div>
+    <div class="canvas-bar">
+      <div class="branch-label"><h2 id="branch-title"></h2><span id="branch-count"></span></div>
+      <div class="preset-strip" id="presets" role="group" aria-label="比较分支"></div>
+      <label class="branch-select"><span class="sr-only">切换分类分支</span><select id="scope" aria-label="切换分类分支"></select></label>
+    </div>
+    <div class="specimen-dock">
+      <button id="dock-toggle" class="dock-toggle" type="button" aria-controls="specimen-panel" aria-expanded="true" aria-label="收起物种卡片" title="收起物种卡片"><svg class="icon"><use href="#i-chevron"/></svg></button>
       <aside id="specimen-panel" aria-label="选中鱼种快览"></aside>
     </div>
   </section>
