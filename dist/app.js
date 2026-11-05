@@ -21,10 +21,10 @@
   const name = item => commonNames[item.id] || item.name;
   const photograph = id => 'assets/' + photos[id].file.replace(/^assets\//, '');
   const presets = [
-    { key:'compare', label:'鲨与鲤', image:'whale', ids:['whale','white','carp','crucian'] },
-    { key:'rays', label:'鲨与鳐', image:'manta', ids:['manta','white','aq_hammerhead','aq_tigershark'] },
-    { key:'salmonids', label:'鲑与鳟', image:'trout', ids:['trout','salmon','fw_sockeye','fw_brook'] },
-    { key:'starter', label:'常见鲤科鱼', image:'carp', ids:['carp','crucian','grass','silver','bighead','blackcarp','bream','zebra'] }
+    { key:'compare', label:'鲨与鲤', ids:['whale','white','carp','crucian'] },
+    { key:'rays', label:'鲨与鳐', ids:['manta','white','aq_hammerhead','aq_tigershark'] },
+    { key:'salmonids', label:'鲑与鳟', ids:['trout','salmon','fw_sockeye','fw_brook'] },
+    { key:'starter', label:'常见鲤科鱼', ids:['carp','crucian','grass','silver','bighead','blackcarp','bream','zebra'] }
   ];
   const waters = new Map([['all','全部水域'],['marine','海水'],['fresh','淡水'],['migrate','海淡水洄游']]);
   const latestCollection = fish.slice().reverse().find(item => item.collection)?.collection;
@@ -127,9 +127,6 @@
     byId('branch-title').textContent = branchLabel(state.scope);
     byId('branch-count').textContent = items.length + ' 种';
     byId('scope').value = [...byId('scope').options].some(option => option.value === state.scope) ? state.scope : '';
-    document.querySelectorAll('.preset').forEach(button => {
-      button.setAttribute('aria-pressed', String(button.dataset.scope === state.scope));
-    });
     tree.update({fish:items, selected:state.selected, reset});
     specimen.select(fishById.get(state.selected));
   }
@@ -302,23 +299,8 @@
   }
 
   function prepareControls() {
-    for (const preset of presets) {
-      const button = document.createElement('button');
-      button.type = 'button';
-      button.className = 'preset';
-      button.dataset.scope = preset.key;
-      button.title = preset.ids.length + ' 种代表鱼';
-      const photo = new Image();
-      photo.alt = '';
-      photo.src = photograph(preset.image);
-      const title = document.createElement('strong');
-      title.textContent = preset.label;
-      button.append(photo,title);
-      button.addEventListener('click',()=>changeBranch(preset.key));
-      byId('presets').append(button);
-    }
     const scope = byId('scope');
-    scope.add(new Option('更多分类分支',''));
+    scope.add(new Option('切换分类分支',''));
     scope.add(new Option('全部鱼类（' + fish.length + ' 种）','all'));
     scope.add(new Option('本次新增（' + addedFish.length + ' 种）','recent'));
     scope.add(new Option('鲤科全部代表种','family:Cyprinidae'));
