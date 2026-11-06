@@ -8,7 +8,7 @@ A quiet, visual way to explore fish — from a photograph to a species, from a s
 
 [**Explore the atlas →**](https://cnqqc.github.io/fish-atlas/) · [中文](README.md) · **English**
 
-**374 species** &nbsp; / &nbsp; **7 taxonomic ranks** &nbsp; / &nbsp; **620 source links** &nbsp; / &nbsp; **No framework. No build.**
+**574 species** &nbsp; / &nbsp; **7 taxonomic ranks** &nbsp; / &nbsp; **1047 source links** &nbsp; / &nbsp; **No framework. No build.**
 
 </div>
 
@@ -94,7 +94,7 @@ node scripts/verify.mjs
 
 ## A collection with a paper trail
 
-The current collection contains **374 fish**, spanning **10 classes, 66 orders, 154 families, and 287 genera**. Species profiles include **620 source links**; this is a count of links, not unique publications.
+The current collection contains **574 fish**, spanning **10 classes, 69 orders, 174 families, and 381 genera**. Species profiles include **1047 source links**; this is a count of links, not unique publications.
 
 Classification follows the WoRMS/FishBase records linked in each entry. The tree displays seven selected ranks — kingdom, phylum, class, order, family, genus, and species — and omits intermediate ranks. It presents taxonomic placement rather than a time-scaled evolutionary phylogeny.
 

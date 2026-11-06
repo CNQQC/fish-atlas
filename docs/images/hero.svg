@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="540" viewBox="0 0 1600 540" role="img" aria-labelledby="title desc">
   <title id="title">鱼间 · Fish Atlas</title>
-  <desc id="desc">Every fish has a place. A digital field guide to 274 fish species, seven taxonomic ranks and 520 source references.</desc>
+  <desc id="desc">Every fish has a place. A digital field guide to 574 fish species, seven taxonomic ranks and 1047 source references.</desc>
   <defs>
     <linearGradient id="sea" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#102f32"/><stop offset="1" stop-color="#174b46"/></linearGradient>
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#c8dec6" stroke-opacity=".055"/></pattern>
@@ -31,7 +31,7 @@
   <text x="1213" y="451" text-anchor="middle" fill="#b5c9b2" font-family="Georgia,serif" font-size="14" font-style="italic" letter-spacing="1.5">Observe. Compare. Discover.</text>
   <path d="M90 401H827" stroke="#bfd1b5" stroke-opacity=".25"/>
   <g font-family="Arial,sans-serif">
-    <g fill="#eff1d8" font-size="31"><text x="90" y="458">274</text><text x="317" y="458">7</text><text x="543" y="458">520</text></g>
+    <g fill="#eff1d8" font-size="31"><text x="90" y="458">574</text><text x="317" y="458">7</text><text x="543" y="458">1047</text></g>
     <g fill="#a9c4b1" font-size="12" letter-spacing="2"><text x="90" y="487">FISH SPECIES</text><text x="317" y="487">TAXONOMIC RANKS</text><text x="543" y="487">SOURCE REFERENCES</text></g>
   </g>
 </svg>

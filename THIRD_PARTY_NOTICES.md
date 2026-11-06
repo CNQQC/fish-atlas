@@ -6,7 +6,7 @@ The MIT grant covers original interface code and original documentation only. It
 
 ## 照片 / Photographs
 
-全部 374 条图片记录保存在 [`dist/photos-data.js`](dist/photos-data.js) 与 [`dist/assets/photos.json`](dist/assets/photos.json)。可阅读的完整清单见 [PHOTO_CREDITS.md](docs/PHOTO_CREDITS.md)。每条记录包含作者、原始页面、许可证及已知的修改说明。网页档案也展示这些信息。
+全部 574 条图片记录保存在 [`dist/photos-data.js`](dist/photos-data.js) 与 [`dist/assets/photos.json`](dist/assets/photos.json)。可阅读的完整清单见 [PHOTO_CREDITS.md](docs/PHOTO_CREDITS.md)。每条记录包含作者、原始页面、许可证及已知的修改说明。网页档案也展示这些信息。
 
 Each photograph retains its own license. Preserve the author, source, license link and modification notice when redistributing it. Some licenses require attribution or share-alike terms. Review the original image page for the governing terms and any updates.
 
@@ -31,6 +31,10 @@ Some image records use historical identifications, genus-level representatives o
 [`dist/data.js`](dist/data.js)、[`dist/taxonomy.js`](dist/taxonomy.js) 与 [`dist/profiles.js`](dist/profiles.js) 保留物种、分类与自然史资料的出处链接。本项目不对这些文件整体授予 MIT 或其他统一数据许可，也不重新授权链接来源中的文字、数据库或其他内容。重用来源资料时，请查阅对应提供方的条款。
 
 The species, taxonomy and profile files are a source-linked educational compilation. No blanket MIT or other dataset license is granted for those files or for linked source material. Follow the relevant provider's terms when reusing its material.
+
+本次新增的 200 篇中文档案参考了 R. Froese 与 D. Pauly 主编的 FishBase（2026 年 6 月版），并对形态、分布和生活习性作了中文摘编。体长数据注明测量方式，物种档案提供原始记录和相关文献。FishBase 资料采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)。参见 [FishBase 引用与使用说明](https://www.fishbase.se/summary/citation.php)。
+
+The 200 profiles in this addition summarize species facts from FishBase (Froese & Pauly, eds., June 2026) in Chinese. FishBase data carry CC BY-NC 4.0. Each profile links to its species record and the relevant references.
 
 七级树只展示选定分类阶元，不代表完整系统发育树、演化距离或演化年代。资料可能不完整或随分类研究更新，欢迎通过 Issues 提交有来源的修订。
 

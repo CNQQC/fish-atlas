@@ -7340,5 +7340,4313 @@ window.FISH_PROFILES = {
         "url": "https://www.fishbase.se/summary/Cyclopterus-lumpus.html"
       }
     ]
+  },
+  "sp_channa_striata": {
+    "range": "亚洲，自巴基斯坦向东延伸到泰国和华南。",
+    "size": "FishBase 收录的最大标准体长为 100 厘米，常见全长约 61 厘米。",
+    "recognition": [
+      "身体近圆筒形，头宽而扁，口裂深。",
+      "背部和两侧黑褐色斑纹间杂赭色，腹部白，尾鳍呈圆形。"
+    ],
+    "reproduction": "",
+    "behavior": "湄公河涨水时会进入被淹的平原，退水后返回常年有水的河道。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Channa striata",
+        "url": "https://www.fishbase.se/summary/343"
+      },
+      {
+        "label": "体型记录出处 · Davidson 1975 · Fish and fish dishes of Laos",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=2686"
+      }
+    ]
+  },
+  "sp_hemiculter_leucisculus": {
+    "range": "分布于东亚，北至黑龙江流域，南至红河流域。伊朗有引入记录。",
+    "size": "FishBase 收录的最大全长为 29 厘米，常见标准体长约 16.9 厘米。",
+    "recognition": [
+      "侧线在胸鳍附近突然下折，然后沿臀鳍上方向尾部升起。",
+      "鱼背灰绿，腹部白，侧线一直延伸到尾鳍中部。"
+    ],
+    "reproduction": "",
+    "behavior": "常成群在溪流、湖泊和水库的上层觅食。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Hemiculter leucisculus",
+        "url": "https://www.fishbase.se/summary/4755"
+      },
+      {
+        "label": "体型记录出处 · Wang et al. 2023 · Length-weight relationships of eight fish species in the world’s largest water diversion project",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=128900"
+      },
+      {
+        "label": "台湾大学数字典藏 · 餐条",
+        "url": "https://catalog.digitalarchives.tw/item/00/1d/65/8f.html"
+      }
+    ]
+  },
+  "sp_diodon_holocanthus": {
+    "range": "广布于热带三大洋，包括红海南部、夏威夷、加勒比海与加拉帕戈斯群岛。",
+    "size": "FishBase 收录的最大全长为 50 厘米，常见全长约 15 厘米。",
+    "recognition": [
+      "成鱼背部有成块深斑，斑块之间散布小点，各鳍无斑。",
+      "眼睛上下各有宽褐带，后脑还有一条横带。"
+    ],
+    "reproduction": "",
+    "behavior": "幼鱼可随漂浮的马尾藻生活，长大后转至近底水域。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Diodon holocanthus",
+        "url": "https://www.fishbase.se/summary/4659"
+      },
+      {
+        "label": "体型记录出处 · Robins et al. 1986 · A field guide to Atlantic coast fishes of North America",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=7251"
+      }
+    ]
+  },
+  "sp_oreochromis_mossambicus": {
+    "range": "原产非洲东南部，包括赞比西河下游和林波波河流域，已随养殖引入多地。",
+    "size": "FishBase 收录的最大标准体长为 39 厘米，常见全长约 35 厘米。",
+    "recognition": [
+      "成年雄鱼的上下颌延长，吻尖向前突出。",
+      "繁殖雄鱼体色转黑，下颌部白，背鳍和尾鳍边缘红。"
+    ],
+    "reproduction": "",
+    "behavior": "白天较活跃，有时结群，能在盐度变化很大的水域生活。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Oreochromis mossambicus",
+        "url": "https://www.fishbase.se/summary/3"
+      },
+      {
+        "label": "体型记录出处 · Wohlfarth et al. 1983 · Applied genetics of tilapias",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=21"
+      }
+    ]
+  },
+  "sp_terapon_jarbua": {
+    "range": "从红海和东非向东至萨摩亚，北达日本南部，南抵澳大利亚海域。",
+    "size": "FishBase 收录的最大全长为 36 厘米，常见标准体长约 25 厘米。",
+    "recognition": [
+      "银白体侧有三至四条向下弯曲的暗带，最下方一条延伸至尾鳍。",
+      "鳃盖下方有一根长棘，伸出鳃盖后缘。"
+    ],
+    "reproduction": "在海中产卵，雄鱼守卵并扇水。幼鱼会进入淡水。",
+    "behavior": "成鱼可松散聚集，幼鱼常留在潮间带的沙地或潮池。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Terapon jarbua",
+        "url": "https://www.fishbase.se/summary/4458"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_coptodon_zillii": {
+    "range": "原产非洲多条河流及约旦河水系，尼罗河、尼日尔河和乍得湖水系均有分布。",
+    "size": "FishBase 收录的最大标准体长为 40 厘米，常见标准体长约 30 厘米。",
+    "recognition": [
+      "腹面常呈鲜红色，体侧有明显的深色横带。",
+      "身体较高，头窄，口小而颌强健。"
+    ],
+    "reproduction": "成对繁殖，双亲会守护卵和仔鱼。",
+    "behavior": "主要在白天活动，偶尔成群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Coptodon zillii",
+        "url": "https://www.fishbase.se/summary/1390"
+      },
+      {
+        "label": "体型记录出处 · van Oijen 1995 · Appendix I. Key to Lake Victoria fishes other than haplochromine cichlids",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=34290"
+      }
+    ]
+  },
+  "sp_gymnothorax_eurostus": {
+    "range": "见于印度洋和太平洋。东太平洋在哥斯达黎加、复活节岛及智利有记录。",
+    "size": "FishBase 收录的最大全长为 60 厘米。",
+    "recognition": [
+      "体色深紫褐，散布小黄点，越接近尾端黄点越稀疏。",
+      "上颌牙齿排成内外两列，两列长度相近。"
+    ],
+    "reproduction": "",
+    "behavior": "活动集中在底层，常借礁缝隐蔽身体。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Gymnothorax eurostus",
+        "url": "https://www.fishbase.se/summary/6662"
+      },
+      {
+        "label": "体型记录出处 · Masuda et al. 1984 · The fishes of the Japanese Archipelago. Vol. 1",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=559"
+      }
+    ]
+  },
+  "sp_systomus_rubripinnis": {
+    "range": "分布于湄公河、湄南河等东南亚水系，马来半岛和印度尼西亚也有记录。",
+    "size": "FishBase 收录的最大标准体长为 25 厘米。",
+    "recognition": [
+      "口边有两对须，尾柄有一块醒目的黑斑。",
+      "尾鳍橙红，上、下叶的边缘各有宽黑带。"
+    ],
+    "reproduction": "在雨季初期繁殖。",
+    "behavior": "雨季进入被水淹没的区域，水退后成鱼离开泛滥平原。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Systomus rubripinnis",
+        "url": "https://www.fishbase.se/summary/4794"
+      },
+      {
+        "label": "体型记录出处 · Baird et al. 1999 · The fishes of southern Lao",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=30857"
+      }
+    ]
+  },
+  "sp_echidna_nebulosa": {
+    "range": "分布于红海、东非至太平洋诸岛，东太平洋从下加利福尼亚以南至哥伦比亚北部也有记录。",
+    "size": "FishBase 收录的最大全长为 100 厘米，常见全长约 50 厘米。",
+    "recognition": [
+      "浅色身体上有两列树枝状大黑斑，眼睛黄色。",
+      "颌上有钝圆的臼齿状牙，缺少突出的犬齿。"
+    ],
+    "reproduction": "",
+    "behavior": "通常独居，夜间活动。藏进礁缝时往往只露出头。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Echidna nebulosa",
+        "url": "https://www.fishbase.se/summary/5388"
+      },
+      {
+        "label": "体型记录出处 · Kuiter et al. 2001 · Pictorial guide to Indonesian reef fishes. Part 1. Eels- Snappers, Muraenidae - Lutjanidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=48635"
+      }
+    ]
+  },
+  "sp_abudefduf_sordidus": {
+    "range": "从红海、东非延伸至夏威夷和皮特凯恩群岛，北至日本，南至澳大利亚。",
+    "size": "FishBase 收录的最大全长为 24 厘米。",
+    "recognition": [
+      "浅色头部和体侧有六条宽灰带。",
+      "尾柄背面有一块醒目的鞍状黑斑。"
+    ],
+    "reproduction": "成对产卵，卵附在水底。雄鱼守卵并扇水。",
+    "behavior": "有明显的领域行为，偶尔也会聚群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Abudefduf sordidus",
+        "url": "https://www.fishbase.se/summary/5689"
+      },
+      {
+        "label": "体型记录出处 · Allen et al. 2012 · Reef fishes of the East Indies",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=90102"
+      }
+    ]
+  },
+  "sp_arothron_hispidus": {
+    "range": "分布于红海、东非、日本南部和中太平洋群岛，东太平洋在加利福尼亚湾至巴拿马也有记录。",
+    "size": "FishBase 收录的最大全长为 50 厘米。",
+    "recognition": [
+      "绿褐色背部、体侧和尾鳍密布白点，腹面则有白色条纹。",
+      "吻短而钝，每个鼻孔处可见两枚肉质突起。"
+    ],
+    "reproduction": "",
+    "behavior": "常单独在沙地和碎石底活动，并守卫自己的活动区域。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Arothron hispidus",
+        "url": "https://www.fishbase.se/summary/5425"
+      },
+      {
+        "label": "体型记录出处 · Allen et al. 1988 · Fishes of Christmas Island Indian Ocean",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=30874"
+      }
+    ]
+  },
+  "sp_ptereleotris_evides": {
+    "range": "从红海和东非向东至莱恩群岛、社会群岛，北到琉球和小笠原群岛，南至澳大利亚东岸。",
+    "size": "FishBase 收录的最大全长为 14 厘米。",
+    "recognition": [
+      "头和前半身呈浅蓝灰色，向尾部逐渐变黑。",
+      "胸鳍基部有橙红色短带并带蓝边，幼鱼的尾鳍下部基部另有大黑斑。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼常成对悬停在离底一两米处，幼鱼则常组成小群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Ptereleotris evides",
+        "url": "https://www.fishbase.se/summary/4375"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_barbodes_semifasciolatus": {
+    "range": "分布于红河流域和中国南部，海南也有记录。已作为观赏鱼被运往多地。",
+    "size": "FishBase 收录的最大全长为 7.57 厘米，常见标准体长约 3.5 厘米。",
+    "recognition": [
+      "底色淡黄，体侧四至七条细横带，有时断成一列列斑点。",
+      "侧线完整，背鳍最后一根不分枝鳍条的后缘有锯齿。"
+    ],
+    "reproduction": "",
+    "behavior": "常成群在浅水处和池边活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Barbodes semifasciolatus",
+        "url": "https://www.fishbase.se/summary/4677"
+      },
+      {
+        "label": "体型记录出处 · Nguyen et al. 2024 · Length-weight relationships for 11 freshwater fish species (Actinopterygii) from four protected areas, northern Vietnam",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=132332"
+      },
+      {
+        "label": "香港湿地公园 · 条纹小䰾",
+        "url": "https://sc.afcd.gov.hk/gb/wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/puntius-semifasciolatus"
+      }
+    ]
+  },
+  "sp_prionurus_scalprum": {
+    "range": "西北太平洋，自日本松岛湾以南至台湾。",
+    "size": "FishBase 收录的最大全长为 50 厘米。",
+    "recognition": [
+      "幼鱼轮廓近圆，长大后变为卵圆形，成鱼额头也无角状突起。",
+      "尾柄两侧各有四至五块骨板，后方骨板略隆起。"
+    ],
+    "reproduction": "",
+    "behavior": "常成群在受浪的岩岸一带活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Prionurus scalprum",
+        "url": "https://www.fishbase.se/summary/9231"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_sufflamen_chrysopterum": {
+    "range": "从东非经澳大利亚北部海域向东至萨摩亚，北至日本南部。",
+    "size": "FishBase 收录的最大全长为 30 厘米。",
+    "recognition": [
+      "成鱼胸鳍基部有一条黄色或黑色带。幼鱼上半身深褐、下半身白。",
+      "眼前有一道深沟，体侧有多列带细小棘突的纵脊。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼常独自活动，并占有固定地盘。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Sufflamen chrysopterum",
+        "url": "https://www.fishbase.se/summary/5842"
+      },
+      {
+        "label": "体型记录出处 · Sommer et al. 1996 · FAO species identification field guide for fishery purposes. The living marine resources of Somalia",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=30573"
+      }
+    ]
+  },
+  "sp_chaetodon_auripes": {
+    "range": "西太平洋日本至台湾沿岸有分布。",
+    "size": "FishBase 收录的最大全长为 20 厘米。",
+    "recognition": [
+      "金褐色体侧有暗褐纵纹，头部黑色眼带后紧邻一道宽白带。",
+      "尾鳍末缘透明，与深色体纹形成对照。"
+    ],
+    "reproduction": "成对产卵。",
+    "behavior": "平时可独游或成群，繁殖期成对活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Chaetodon auripes",
+        "url": "https://www.fishbase.se/summary/6648"
+      },
+      {
+        "label": "体型记录出处 · Allen 1985 · Butterfly and angelfishes of the world. Vol. 2",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=4858"
+      }
+    ]
+  },
+  "sp_halichoeres_hortulanus": {
+    "range": "分布于红海、南非至中太平洋群岛，北至日本南部，南至大堡礁南部。",
+    "size": "FishBase 收录的最大全长为 27 厘米。",
+    "recognition": [
+      "成鱼背上有一至两块黄色鞍斑，部分个体的尾柄上缘另有小黑点。",
+      "小幼鱼的花纹以黑白色为主，长大后才转为成鱼色型。"
+    ],
+    "reproduction": "",
+    "behavior": "幼鱼常在浪涌冲刷出的礁沟底部活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Halichoeres hortulanus",
+        "url": "https://www.fishbase.se/summary/12663"
+      },
+      {
+        "label": "体型记录出处 · Randall et al. 1990 · Fishes of the Great Barrier Reef and Coral Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=2334"
+      }
+    ]
+  },
+  "sp_parachromis_managuensis": {
+    "range": "原产中美洲大西洋一侧，从洪都拉斯乌卢阿河至哥斯达黎加马蒂纳河，其他地区有引入。",
+    "size": "FishBase 体长表收录的最大全长为 55 厘米，物种说明另载有 63 厘米的记录。",
+    "recognition": [
+      "口大，下颌向前突出，可见粗大的犬齿。",
+      "体侧中央有一列黑斑，尾鳍、背鳍和臀鳍也密布小黑点。"
+    ],
+    "reproduction": "分批产卵。",
+    "behavior": "在洪泛形成、温度高且溶氧低的湖泊中也能活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Parachromis managuensis",
+        "url": "https://www.fishbase.se/summary/4684"
+      },
+      {
+        "label": "体型记录出处 · IGFA 2001 · Database of IGFA angling records until 2001",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=40637"
+      }
+    ]
+  },
+  "sp_istiblennius_edentulus": {
+    "range": "从红海和东非沿岸延伸至中太平洋，北到日本南部，南达豪勋爵岛和拉帕岛。",
+    "size": "FishBase 收录的最大全长为 16 厘米。",
+    "recognition": [
+      "雄鱼体色较暗，有五至六对横带，头上长有冠状突起。",
+      "雌鱼体色较淡，靠近尾部的横带断成斑点，背鳍也有点斑。"
+    ],
+    "reproduction": "卵附在底质上，孵出的仔鱼在水中浮游。",
+    "behavior": "受惊时可跃出水面跳往另一处潮池，退潮时也能躲在湿岩或海藻下。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Istiblennius edentulus",
+        "url": "https://www.fishbase.se/summary/6049"
+      },
+      {
+        "label": "体型记录出处 · Kuiter et al. 2001 · Pictorial guide to Indonesian reef fishes. Part 2. Fusiliers - Dragonets, Caesionidae - Callionymidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=48636"
+      }
+    ]
+  },
+  "sp_thalassoma_amblycephalum": {
+    "range": "从东非到中太平洋群岛均有分布，北至日本南部，南到新西兰北部。",
+    "size": "FishBase 收录的最大标准体长为 16.5 厘米。",
+    "recognition": [
+      "初始色型有一条从吻端穿过眼睛、一直通到尾鳍基部的宽暗带。",
+      "雄鱼头部通常鲜绿，头后紧接一道黄带。幼鱼的吻端圆钝。"
+    ],
+    "reproduction": "黄昏时在礁区上方产卵。",
+    "behavior": "常有多尾在浅礁上方聚集。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Thalassoma amblycephalum",
+        "url": "https://www.fishbase.se/summary/5642"
+      },
+      {
+        "label": "体型记录出处 · Price et al. 2022 · FishShapes v1: Functionally relevant measurements of teleost shape and size on three dimensions",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=137577"
+      }
+    ]
+  },
+  "sp_chaetodon_lunulatus": {
+    "range": "广布太平洋，自日本、澳大利亚至夏威夷与土阿莫土群岛。",
+    "size": "FishBase 收录的最大全长为 26.7 厘米。",
+    "recognition": [
+      "体侧粉红渐变为淡黄，其上有细紫纹。黑色眼带镶黄边。",
+      "尾柄呈灰色，背鳍和臀鳍的外缘呈红色并镶黑边。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼常以固定配偶成对活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Chaetodon lunulatus",
+        "url": "https://www.fishbase.se/summary/14300"
+      },
+      {
+        "label": "体型记录出处 · Akiona et al. 2021 · Length-weight relationships for 18 coral reef fish species from the central Pacific",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=124696"
+      }
+    ]
+  },
+  "sp_cephalopholis_urodeta": {
+    "range": "太平洋向东至法属波利尼西亚和皮特凯恩群岛，印度洋东部的圣诞岛也有记录。",
+    "size": "FishBase 收录的最大全长为 28 厘米。",
+    "recognition": [
+      "前半身红褐色，向后逐渐变成深褐色。",
+      "圆形尾鳍上有两条白或浅蓝白带，向尾端收拢。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼多独居，偏好珊瑚生长良好的浅礁。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Cephalopholis urodeta",
+        "url": "https://www.fishbase.se/summary/6456"
+      },
+      {
+        "label": "体型记录出处 · Heemstra et al. 1993 · FAO Species Catalogue. Vol. 16. Groupers of the world (family Serranidae, subfamily Epinephelinae). An annotated and illustrated catalogue of the grouper, rockcod, hind, coral grouper and lyretail species known to date",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=5222"
+      }
+    ]
+  },
+  "sp_nemateleotris_magnifica": {
+    "range": "从东非到夏威夷及皮特凯恩群岛，北至琉球，南至新喀里多尼亚和南方群岛。",
+    "size": "FishBase 收录的最大全长为 9 厘米。",
+    "recognition": [
+      "第一背鳍特别高长，形似浅黄色的小旗。",
+      "吻部黄色，前半身灰白，后半身转红。"
+    ],
+    "reproduction": "",
+    "behavior": "常悬停在底质上方，反复摆动高起的第一背鳍。幼鱼可共用藏身洞。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Nemateleotris magnifica",
+        "url": "https://www.fishbase.se/summary/6629"
+      },
+      {
+        "label": "体型记录出处 · Burgess et al. 1990 · Dr. Burgess's Atlas der Meerwasser Aquarium Fische",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=2272"
+      }
+    ]
+  },
+  "sp_scarus_forsteni": {
+    "range": "从东印度洋圣诞岛向东分布至太平洋的皮特凯恩群岛。",
+    "size": "FishBase 收录的最大全长为 55 厘米。",
+    "recognition": [
+      "终期雄鱼以绿色为主，鳞片边缘粉红，口周的绿带向眼下延伸。",
+      "终期雄鱼尾鳍呈新月形，雌鱼尾鳍后缘仅浅凹。"
+    ],
+    "reproduction": "",
+    "behavior": "通常单独在珊瑚礁上活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Scarus forsteni",
+        "url": "https://www.fishbase.se/summary/5545"
+      },
+      {
+        "label": "体型记录出处 · Randall et al. 1990 · Fishes of the Great Barrier Reef and Coral Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=2334"
+      }
+    ]
+  },
+  "sp_thalassoma_lutescens": {
+    "range": "自斯里兰卡向东至迪西岛，北至日本南部与夏威夷，南到澳大利亚东南部及克马德克群岛。",
+    "size": "FishBase 收录的最大全长为 30 厘米。",
+    "recognition": [
+      "初始色型为黄底配细红横纹。终期个体粉绿相间的头后骤然转为蓝绿色。",
+      "胸鳍靠身体的一半黄色，外半段为蓝色至黑色。"
+    ],
+    "reproduction": "",
+    "behavior": "常成群穿行于珊瑚丛和邻近的开阔沙地。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Thalassoma lutescens",
+        "url": "https://www.fishbase.se/summary/5646"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_anguilla_marmorata": {
+    "range": "印度洋至太平洋许多汇入海洋的河流都有记录，包括马达加斯加、赞比西河下游、日本南部和法属波利尼西亚。",
+    "size": "FishBase 收录的最大全长为 200 厘米，常见全长约 26.3 厘米。",
+    "recognition": [
+      "成鱼背部灰黄，覆盖不规则的褐黑色大理石花纹，腹部浅色。",
+      "背鳍起点靠前，到鳃孔的距离小于到肛门的距离。"
+    ],
+    "reproduction": "成熟个体顺流入海，在海洋中繁殖。",
+    "behavior": "多在夜间外出觅食。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Anguilla marmorata",
+        "url": "https://www.fishbase.se/summary/1275"
+      },
+      {
+        "label": "体型记录出处 · Keith et al. 2006 · Atlas des poissons et des crustacés d'eau douce des Comores, Mascareignes et Seychelles",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=57749"
+      }
+    ]
+  },
+  "sp_abudefduf_septemfasciatus": {
+    "range": "东非至莱恩群岛与土阿莫土群岛，北至日本南部，南到大堡礁南部。",
+    "size": "FishBase 收录的最大全长为 23 厘米。",
+    "recognition": [
+      "头和躯干浅白，其上有五条边缘模糊的灰色横带。",
+      "前三条灰带靠背部较深，向腹侧逐渐变淡。"
+    ],
+    "reproduction": "繁殖时成对，雄鱼守护附在底质上的卵并扇水。",
+    "behavior": "在浅礁划定和守卫地盘。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Abudefduf septemfasciatus",
+        "url": "https://www.fishbase.se/summary/5687"
+      },
+      {
+        "label": "体型记录出处 · Allen 1986 · Pomacentridae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=4391"
+      }
+    ]
+  },
+  "sp_priacanthus_hamrur": {
+    "range": "分布于红海、非洲南部至法属波利尼西亚，北到日本南部，南达澳大利亚。",
+    "size": "FishBase 收录的最大全长为 45 厘米，常见全长约 40 厘米。",
+    "recognition": [
+      "体色可从通红迅速变成银色，体侧上部浮现数块红斑或红带。",
+      "背鳍后段比前面的棘部高，尾鳍后缘明显内凹。"
+    ],
+    "reproduction": "",
+    "behavior": "白天常在礁石突出部下方或珊瑚头旁悬停，有时小群聚集。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Priacanthus hamrur",
+        "url": "https://www.fishbase.se/summary/5791"
+      },
+      {
+        "label": "体型记录出处 · Heemstra 1986 · Priacanthidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=4328"
+      }
+    ]
+  },
+  "sp_chaetodon_speculum": {
+    "range": "主要见于印度尼西亚到日本一带，南至巴布亚新几内亚与大堡礁。",
+    "size": "FishBase 收录的最大全长为 18 厘米。",
+    "recognition": [
+      "通体亮黄至橙黄，身体后上方有一块大黑斑。",
+      "头部一道黑带自上而下穿过眼睛。"
+    ],
+    "reproduction": "",
+    "behavior": "平时多单独出现，繁殖期成对。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Chaetodon speculum",
+        "url": "https://www.fishbase.se/summary/5576"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_thalassoma_trilobatum": {
+    "range": "从东非至皮特凯恩群岛，北至琉球，南到汤加和拉帕岛。",
+    "size": "FishBase 收录的最大全长为 30 厘米。",
+    "recognition": [
+      "初始色型为灰绿至浅绿，背上有五至六块暗鞍斑，眼下有红纹。",
+      "终期雄鱼前半身偏橙红，两侧有两列长方形绿斑。"
+    ],
+    "reproduction": "",
+    "behavior": "在珊瑚与海藻混生的浅礁区，可独游也可成群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Thalassoma trilobatum",
+        "url": "https://www.fishbase.se/summary/5649"
+      },
+      {
+        "label": "体型记录出处 · Randall 1986 · Labridae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=4392"
+      }
+    ]
+  },
+  "sp_ostracion_meleagris": {
+    "range": "从东非跨过太平洋到墨西哥海域，北至日本南部和夏威夷，南至新喀里多尼亚。",
+    "size": "FishBase 收录的最大全长为 25 厘米。",
+    "recognition": [
+      "幼鱼和雌鱼呈褐或绿色，带白色小点。大型雄鱼体侧有橙色带斑。",
+      "骨质体甲的横断面近四边形，尾鳍圆。"
+    ],
+    "reproduction": "",
+    "behavior": "幼鱼常躲在石块和长棘海胆之间，雄鱼比雌鱼更常在开阔处游动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Ostracion meleagris",
+        "url": "https://www.fishbase.se/summary/6556"
+      },
+      {
+        "label": "体型记录出处 · Smith 1986 · Ostraciidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=3141"
+      }
+    ]
+  },
+  "sp_coris_gaimard": {
+    "range": "从印度洋东部的圣诞岛、科科斯群岛延伸至中太平洋，北至日本和夏威夷，南到澳大利亚。",
+    "size": "FishBase 收录的最大全长为 40 厘米，常见全长约 20 厘米。",
+    "recognition": [
+      "幼鱼为橙红色，背上有五块带黑边的白色鞍斑。",
+      "终期雄鱼躯干深褐，散布蓝色小点，尾鳍鲜黄。"
+    ],
+    "reproduction": "",
+    "behavior": "平时多独游，会翻动石块寻找藏在下面的猎物。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Coris gaimard",
+        "url": "https://www.fishbase.se/summary/5625"
+      },
+      {
+        "label": "体型记录出处 · Randall et al. 1990 · Fishes of the Great Barrier Reef and Coral Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=2334"
+      },
+      {
+        "label": "Fishes of Australia · Clown Wrasse",
+        "url": "https://fishesofaustralia.net.au/home/species/221"
+      }
+    ]
+  },
+  "sp_gomphosus_varius": {
+    "range": "从科科斯群岛至夏威夷、马克萨斯和土阿莫土群岛，北至日本南部，南至豪勋爵岛等地。",
+    "size": "FishBase 收录的最大标准体长为 30 厘米。",
+    "recognition": [
+      "成鱼的吻端拉长，尖细如鸟喙，幼鱼的吻还很短。",
+      "雄鱼多呈蓝绿色，头后有醒目的黄带。雌鱼前半身浅而后半身暗。"
+    ],
+    "reproduction": "",
+    "behavior": "常独游，用长吻从珊瑚或岩石缝隙中取食。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Gomphosus varius",
+        "url": "https://www.fishbase.se/summary/5626"
+      },
+      {
+        "label": "体型记录出处 · Westneat 2001 · Labridae. Wrasses, hogfishes, razorfishes, corises, tuskfishes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9823"
+      },
+      {
+        "label": "Fishes of Australia · Birdnose Wrasse",
+        "url": "https://fishesofaustralia.net.au/home/species/2288"
+      }
+    ]
+  },
+  "sp_paracirrhites_forsteri": {
+    "range": "分布于红海和东非至夏威夷、迪西岛，北达日本南部，南至新喀里多尼亚。",
+    "size": "FishBase 收录的最大全长为 22 厘米，常见全长约 18 厘米。",
+    "recognition": [
+      "头和躯干前部布满暗红色细点。",
+      "常见色型的黄褐色体侧上部有宽暗带，体色随年龄和个体而变。"
+    ],
+    "reproduction": "",
+    "behavior": "常停在珊瑚最外侧的枝梢上，守着自己的活动地盘。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Paracirrhites forsteri",
+        "url": "https://www.fishbase.se/summary/5952"
+      },
+      {
+        "label": "体型记录出处 · Sommer et al. 1996 · FAO species identification field guide for fishery purposes. The living marine resources of Somalia",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=30573"
+      },
+      {
+        "label": "台湾鱼类资料库 · 福氏副䱵",
+        "url": "https://fishdb.sinica.edu.tw/taxon/381635-fishdb"
+      }
+    ]
+  },
+  "sp_thalassoma_hardwicke": {
+    "range": "从东非延伸至莱恩群岛和土阿莫土群岛，北至日本南部，南到豪勋爵岛和南方群岛。",
+    "size": "FishBase 收录的最大全长为 25 厘米，常见全长约 15 厘米。",
+    "recognition": [
+      "浅绿色身体上有六道暗带，末两道在尾部形成鞍斑。",
+      "大型成鱼眼周有向外放射的粉红纹。"
+    ],
+    "reproduction": "",
+    "behavior": "常组成疏松的小群在礁面活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Thalassoma hardwicke",
+        "url": "https://www.fishbase.se/summary/5643"
+      },
+      {
+        "label": "体型记录出处 · Cowlishaw 2014 · Determinants of home range and territory size in coral reef fishes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=129178"
+      }
+    ]
+  },
+  "sp_chaetodon_citrinellus": {
+    "range": "分布于东非至夏威夷和中太平洋，北至日本南部，南到澳大利亚新南威尔士州。",
+    "size": "FishBase 收录的最大全长为 13 厘米。",
+    "recognition": [
+      "浅黄体侧密布许多暗色小点。",
+      "头上有黑色眼带，臀鳍的外缘也呈黑色。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼常成对。幼鱼有时与体型相近的其他蝴蝶鱼混群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Chaetodon citrinellus",
+        "url": "https://www.fishbase.se/summary/5561"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_parupeneus_multifasciatus": {
+    "range": "从印度洋东缘的圣诞岛至夏威夷及中太平洋群岛，北达日本南部，南至豪勋爵岛。",
+    "size": "FishBase 收录的最大全长为 35 厘米，常见全长约 20 厘米。",
+    "recognition": [
+      "下颌有一对长须，长度接近头长。",
+      "第二背鳍前段下方和尾柄各有一道宽黑带，两带之间的底色较浅。"
+    ],
+    "reproduction": "",
+    "behavior": "白天在海底找食，偶尔成群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Parupeneus multifasciatus",
+        "url": "https://www.fishbase.se/summary/5993"
+      },
+      {
+        "label": "体型记录出处 · Kuiter et al. 2001 · Pictorial guide to Indonesian reef fishes. Part 2. Fusiliers - Dragonets, Caesionidae - Callionymidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=48636"
+      }
+    ]
+  },
+  "sp_kuhlia_rupestris": {
+    "range": "从东非到萨摩亚，北至琉球，南至澳大利亚昆士兰和新喀里多尼亚。",
+    "size": "FishBase 收录的最大全长为 45 厘米，常见标准体长约 25 厘米。",
+    "recognition": [
+      "口较同属许多种大，上颌末端伸到眼后半部下方。",
+      "幼鱼两叶尾鳍各有镶白边的大黑斑，黑色区域随生长扩大。"
+    ],
+    "reproduction": "成熟后顺流而下，在河口或海中繁殖。",
+    "behavior": "主要在淡水生长，成鱼会向河口或海中移动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Kuhlia rupestris",
+        "url": "https://www.fishbase.se/summary/7715"
+      },
+      {
+        "label": "体型记录出处 · Smith 1986 · Kuhliidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=5329"
+      }
+    ]
+  },
+  "sp_scolopsis_lineata": {
+    "range": "分布于东南印度洋的科科斯群岛和澳大利亚西北岸，以及琉球至马绍尔群岛和瓦努阿图一带。",
+    "size": "FishBase 收录的最大全长为 25 厘米，常见标准体长约 13 厘米。",
+    "recognition": [
+      "背部橄榄褐色，腹面银白，头和躯干有三条黄白色纵纹。",
+      "腹鳍较长，末端越过肛门。幼鱼背鳍前三根棘之间有黑斑。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼常成群，幼鱼多独自在浅水珊瑚旁隐蔽。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Scolopsis lineata",
+        "url": "https://www.fishbase.se/summary/5877"
+      },
+      {
+        "label": "体型记录出处 · Allen et al. 2012 · Reef fishes of the East Indies",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=90102"
+      }
+    ]
+  },
+  "sp_scarus_rubroviolaceus": {
+    "range": "分布于东非至中太平洋，东太平洋的加利福尼亚湾至加拉帕戈斯群岛也有记录。",
+    "size": "FishBase 收录的最大全长为 70 厘米。",
+    "recognition": [
+      "终期雄鱼颜色前深后浅，头和前半身棕绿，后半身浅绿。",
+      "终期雄鱼的尾鳍两叶延长成新月形，雌鱼尾缘仅稍微内凹。"
+    ],
+    "reproduction": "属于雌性先熟的鱼类，部分个体能转为雄性。",
+    "behavior": "可独游或成对活动，在临海峭壁下的乱石坡也能结成大群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Scarus rubroviolaceus",
+        "url": "https://www.fishbase.se/summary/5555"
+      },
+      {
+        "label": "体型记录出处 · Randall et al. 1990 · Fishes of the Great Barrier Reef and Coral Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=2334"
+      }
+    ]
+  },
+  "sp_anampses_caeruleopunctatus": {
+    "range": "红海、南非至复活节岛，北至日本，南至澳大利亚。",
+    "size": "FishBase 收录的最大全长为 42 厘米。",
+    "recognition": [
+      "初始色型的每枚褐色体鳞上有一个镶深边的浅蓝点。",
+      "同一色型的头部为红褐至橙褐色，有多道狭窄蓝带。"
+    ],
+    "reproduction": "繁殖时成对产卵。",
+    "behavior": "小幼鱼会头朝下摆动身体，宛如随流漂荡的叶片。夜间藏入底质。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Anampses caeruleopunctatus",
+        "url": "https://www.fishbase.se/summary/4888"
+      },
+      {
+        "label": "体型记录出处 · Sommer et al. 1996 · FAO species identification field guide for fishery purposes. The living marine resources of Somalia",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=30573"
+      }
+    ]
+  },
+  "sp_bodianus_mesothorax": {
+    "range": "从安达曼海边缘、马来西亚和印度尼西亚至西太平洋，北达日本，南抵悉尼，东至斐济。",
+    "size": "FishBase 收录的最大全长为 25 厘米。",
+    "recognition": [
+      "成鱼身体前后深浅两区之间有一条边缘分明的黑带。",
+      "幼鱼身上有黄色斑点，长到约五六厘米时转为成鱼色型。"
+    ],
+    "reproduction": "繁殖时成对产卵。",
+    "behavior": "幼鱼常隐身洞内，成鱼多贴近海底游动，也会替大鱼清除体表寄生物。",
+    "lookalike": "外形与腋斑普提鱼（Bodianus axillaris）相似，幼鱼斑点为黄色，后者为白色。",
+    "sources": [
+      {
+        "label": "FishBase · Bodianus mesothorax",
+        "url": "https://www.fishbase.se/summary/5501"
+      },
+      {
+        "label": "体型记录出处 · Allen et al. 1988 · Fishes of Christmas Island Indian Ocean",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=30874"
+      }
+    ]
+  },
+  "sp_halichoeres_nebulosus": {
+    "range": "分布于印度洋热带和亚热带海域，包括红海。",
+    "size": "FishBase 收录的最大全长为 12 厘米。",
+    "recognition": [
+      "雄鱼眼下有一道倾斜的粉红带。",
+      "雌鱼腹部可见较亮的粉红斑，可辅助与相似种区分。"
+    ],
+    "reproduction": "",
+    "behavior": "常在近岸藻类覆盖处成群活动。",
+    "lookalike": "与虹彩海猪鱼（Halichoeres margaritaceus）相比，本种雌鱼腹部的粉红斑更鲜明。",
+    "sources": [
+      {
+        "label": "FishBase · Halichoeres nebulosus",
+        "url": "https://www.fishbase.se/summary/6663"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_oxycheilinus_bimaculatus": {
+    "range": "东非至夏威夷和马克萨斯群岛，北至日本南部，南达瓦努阿图。",
+    "size": "FishBase 收录的最大全长为 16.4 厘米。",
+    "recognition": [
+      "幼鱼体侧的宽暗带在成鱼身上断成暗斑，最大的一块位于胸鳍末端上方。",
+      "眼后有小暗点，终期雄鱼尾鳍中央较长，轮廓呈菱形。"
+    ],
+    "reproduction": "",
+    "behavior": "多贴近底层活动，在避风的河口与港湾也有记录。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Oxycheilinus bimaculatus",
+        "url": "https://www.fishbase.se/summary/5596"
+      },
+      {
+        "label": "体型记录出处 · Merella et al. 1997 · Length-weight relationship of fishes and cephalopods from the Balearic Islands (western Mediterranean)",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=26178"
+      }
+    ]
+  },
+  "sp_scarus_schlegeli": {
+    "range": "从东印度洋科科斯群岛和圣诞岛延伸至中太平洋，北到琉球，南至澳大利亚及拉帕岛。",
+    "size": "FishBase 收录的最大全长为 40 厘米。",
+    "recognition": [
+      "唇部遮住大部分齿板，颊上大鳞排成两行。",
+      "初始色型体侧有不规则暗色人字纹，深色个体上较难看清。"
+    ],
+    "reproduction": "",
+    "behavior": "雌鱼可与其他种类一同在碎石礁坡觅食，雄鱼较常单独活动并守卫地盘。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Scarus schlegeli",
+        "url": "https://www.fishbase.se/summary/4975"
+      },
+      {
+        "label": "体型记录出处 · Masuda et al. 1993 · Meeresfische der Welt - Groß-Indopazifische Region",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9137"
+      }
+    ]
+  },
+  "sp_gymnothorax_meleagris": {
+    "range": "分布于东非至马克萨斯群岛，北至琉球和夏威夷，南至豪勋爵岛，在南非亦有记录。",
+    "size": "FishBase 收录的最大全长为 120 厘米，常见全长约 80 厘米。",
+    "recognition": [
+      "深色体表密布细小白点，张口时可见鲜明的白色口腔。",
+      "背鳍起点约在鳃孔与嘴角之间的中点。"
+    ],
+    "reproduction": "",
+    "behavior": "低潮时仍会在部分露出水面的浅礁间狩猎。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Gymnothorax meleagris",
+        "url": "https://www.fishbase.se/summary/5394"
+      },
+      {
+        "label": "体型记录出处 · Myers 1991 · Micronesian reef fishes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=1602"
+      }
+    ]
+  },
+  "sp_cirrhitichthys_falco": {
+    "range": "从马尔代夫向东到萨摩亚，北至琉球，南到大堡礁南部与新喀里多尼亚。",
+    "size": "FishBase 收录的最大全长为 8 厘米。",
+    "recognition": [
+      "白色身体上有红褐鞍斑，眼下有一对红纹。",
+      "每根背鳍棘尖端带一簇短丝，胸鳍下部的鳍条粗而长。"
+    ],
+    "reproduction": "有在夜间产卵的观察记录。",
+    "behavior": "可单独停在礁上，有时也成对出现。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Cirrhitichthys falco",
+        "url": "https://www.fishbase.se/summary/5445"
+      },
+      {
+        "label": "体型记录出处 · Letourneur et al. 1998 · Length-weight relationships of fish from coral reefs and lagoons of New Caledonia, southwestern Pacific Ocean: an update",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=26587"
+      },
+      {
+        "label": "东沙环礁国家公园鱼类资源调查",
+        "url": "https://www.marine.gov.tw/filesys/107/107%E6%9D%B1%E6%B2%99%E7%92%B0%E7%A4%81%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92%E9%AD%9A%E9%A1%9E%E8%B3%87%E6%BA%90%E8%AA%BF%E6%9F%A5.pdf"
+      }
+    ]
+  },
+  "sp_scolopsis_monogramma": {
+    "range": "分布于安达曼海、澳大利亚西北部至巴布亚新几内亚，北达琉球，南达澳大利亚东北部。",
+    "size": "FishBase 收录的最大全长为 38 厘米，常见标准体长约 18 厘米。",
+    "recognition": [
+      "吻部有三道蓝纹，最高的一道经过鼻孔上方，连向两眼。",
+      "另有一道蓝纹从眼下折向鳃盖，再向下转到胸鳍基部。"
+    ],
+    "reproduction": "",
+    "behavior": "可单独游动，也可组成小群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Scolopsis monogramma",
+        "url": "https://www.fishbase.se/summary/5879"
+      },
+      {
+        "label": "体型记录出处 · Allen et al. 2012 · Reef fishes of the East Indies",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=90102"
+      }
+    ]
+  },
+  "sp_istigobius_ornatus": {
+    "range": "分布于红海、东非至斐济，北至台湾南部，南到新喀里多尼亚，汤加也有记录。",
+    "size": "FishBase 收录的最大全长为 11 厘米。",
+    "recognition": [
+      "浅灰色身体，鳃盖上有数个蓝点，与红褐小斑交错。",
+      "第一背鳍前端鲜黄，胸鳍上可见数列白色小点。"
+    ],
+    "reproduction": "",
+    "behavior": "即使小片水域中有多尾，各个体通常也分散停留。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Istigobius ornatus",
+        "url": "https://www.fishbase.se/summary/4322"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_paracirrhites_arcatus": {
+    "range": "印度—太平洋，东非至夏威夷、莱恩及曼加雷瓦群岛，北至日本南部，南至澳大利亚和拉帕岛。",
+    "size": "FishBase 收录的最大全长为 20 厘米。",
+    "recognition": [
+      "眼后有橙黑色弧形斑环绕延伸，是醒目的识别特征。",
+      "体褐色，体侧有宽白带。鳃盖下缘有三道橙色短纹，胸鳍上下缘多根鳍条不分枝。"
+    ],
+    "reproduction": "",
+    "behavior": "底栖，通常独居。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Paracirrhites arcatus",
+        "url": "https://www.fishbase.se/summary/5835"
+      },
+      {
+        "label": "体型记录出处 · Kuiter et al. 2001 · Pictorial guide to Indonesian reef fishes. Part 2. Fusiliers - Dragonets, Caesionidae - Callionymidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=48636"
+      },
+      {
+        "label": "东沙环礁国家公园鱼类资源调查",
+        "url": "https://www.marine.gov.tw/filesys/107/107%E6%9D%B1%E6%B2%99%E7%92%B0%E7%A4%81%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92%E9%AD%9A%E9%A1%9E%E8%B3%87%E6%BA%90%E8%AA%BF%E6%9F%A5.pdf"
+      }
+    ]
+  },
+  "sp_macropharyngodon_meleagris": {
+    "range": "印度—太平洋，从东印度洋的科科斯—基林群岛，经西太平洋至大洋洲岛屿。",
+    "size": "FishBase 收录的最大标准体长为 15 厘米。",
+    "recognition": [
+      "雌鱼和幼鱼体色白至绿，布有不规则黑斑。雄鱼橙红色，带蓝黑边缘的黄绿色斑点。",
+      "头部有斑点及条纹。腹鳍较短，不延伸至肛门。"
+    ],
+    "reproduction": "",
+    "behavior": "在礁坪的沙砾和珊瑚之间寻找螺类等带壳猎物。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Macropharyngodon meleagris",
+        "url": "https://www.fishbase.se/summary/4984"
+      },
+      {
+        "label": "体型记录出处 · Westneat 2001 · Labridae. Wrasses, hogfishes, razorfishes, corises, tuskfishes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9823"
+      }
+    ]
+  },
+  "sp_centropyge_vrolikii": {
+    "range": "西太平洋，从东印度洋圣诞岛、峇里至马绍尔群岛和瓦努阿图，北至日本南部，南至豪勋爵岛。另有汤加记录。",
+    "size": "FishBase 收录的最大全长为 12 厘米。",
+    "recognition": [
+      "体前段浅褐至淡棕，后段约三分之一连同邻近鳍转为黑色。",
+      "浅色鳞片中央泛白。鳃裂边缘及胸鳍基部橙色，背鳍后部、臀鳍和尾鳍具细蓝边。"
+    ],
+    "reproduction": "卵生。",
+    "behavior": "成鱼常成对活动，活动范围重叠而不积极守卫排他领地。幼鱼可能被其他鱼类拟态。",
+    "lookalike": "幼鱼可被刺尾鱼 Acanthurus pyroferus 模仿。在重叠分布区也会与近似刺尻鱼杂交。",
+    "sources": [
+      {
+        "label": "FishBase · Centropyge vrolikii",
+        "url": "https://www.fishbase.se/summary/5447"
+      },
+      {
+        "label": "体型记录出处 · Kuiter et al. 2001 · Pictorial guide to Indonesian reef fishes. Part 2. Fusiliers - Dragonets, Caesionidae - Callionymidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=48636"
+      }
+    ]
+  },
+  "sp_cheilinus_chlorourus": {
+    "range": "印度—太平洋，东非至马贵斯和土阿莫土群岛，北至琉球群岛，南至新喀里多尼亚和拉帕岛。",
+    "size": "FishBase 收录的最大全长为 45 厘米。",
+    "recognition": [
+      "背鳍有10根硬棘，是该属资料中用于区分本种的特征。",
+      "臀鳍、尾鳍及腹鳍有黑白斑点。与相似的 C. trilobatus 不同，后者体侧鳞片有红白黑色纵纹。"
+    ],
+    "reproduction": "卵生。繁殖期间可观察到配对。",
+    "behavior": "沿沙、碎石与珊瑚相间的海底寻找猎物，繁殖时成对活动。",
+    "lookalike": "与 Cheilinus trilobatus 颜色相近。可观察体侧鳞片的纵向色纹及各鳍斑点来区分。",
+    "sources": [
+      {
+        "label": "FishBase · Cheilinus chlorourus",
+        "url": "https://www.fishbase.se/summary/5598"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_coris_aygula": {
+    "range": "印度—太平洋，红海及东非至莱恩、杜西群岛，北至日本南部，南至豪勋爵岛和拉帕岛。",
+    "size": "FishBase 收录的最大全长为 120 厘米。",
+    "recognition": [
+      "大型雄鱼额部隆起，第一背鳍棘延长，体色转为均匀深绿。",
+      "雌鱼尾鳍略圆，雄鱼尾鳍截形并带丝状鳍条。雄鱼腹鳍较长，幼鱼有被橙色衬托的假眼斑。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼通常独居。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Coris aygula",
+        "url": "https://www.fishbase.se/summary/5624"
+      },
+      {
+        "label": "体型记录出处 · Fischer et al. 1990 · Fichas FAO de identificaçao de espécies para actividades de pesca. Guia de campo das espécies comerciais marinhas e de águas salobras de Moçambique",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=5213"
+      }
+    ]
+  },
+  "sp_epinephelus_hexagonatus": {
+    "range": "印度—西太平洋岛屿海域较常见。非洲海岸记录极少，红海和波斯湾未见。",
+    "size": "FishBase 收录的最大全长为 27.5 厘米。",
+    "recognition": [
+      "头部和身体布满多边形褐斑，斑块相连后在多边形角落留下明显白色三角点。",
+      "尾鳍圆。背鳍第5至第9硬棘长度相近，胸鳍有17至19根鳍条。"
+    ],
+    "reproduction": "",
+    "behavior": "体色具有伪装效果，通常独居。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Epinephelus hexagonatus",
+        "url": "https://www.fishbase.se/summary/6660"
+      },
+      {
+        "label": "体型记录出处 · Murty 2002 · Marine ornamental fish resources of Lakshadweep",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=48600"
+      }
+    ]
+  },
+  "sp_halichoeres_trimaculatus": {
+    "range": "印度—太平洋，从东印度洋圣诞岛和罗利浅滩，向东至莱恩和杜西群岛，北至日本南部，南至豪勋爵岛。",
+    "size": "FishBase 收录的最大全长为 27 厘米。",
+    "recognition": [
+      "背部浅绿至黄，腹面发白，鳞片边缘带粉色至黑色。",
+      "胸鳍基部上方和尾柄上方各有一枚黑斑，后者大小约与眼径相当。"
+    ],
+    "reproduction": "",
+    "behavior": "会跟随扰动沙底的鱼类，截食被惊起的猎物。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Halichoeres trimaculatus",
+        "url": "https://www.fishbase.se/summary/5634"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_lutjanus_fulvus": {
+    "range": "印度—太平洋，东非至马贵斯和莱恩群岛，北至日本南部，南至澳大利亚。红海和波斯湾的记录被资料视为分布范围以外。",
+    "size": "FishBase 收录的最大全长为 40 厘米，常见全长约 25 厘米。",
+    "recognition": [
+      "体背和体侧呈褐、灰或棕褐色，侧面通常有细窄黄或金褐色纵纹。",
+      "尾鳍近黑，背鳍和尾鳍边缘有窄白边。胸鳍、腹鳍和臀鳍偏黄，眼后有宽黄缘。"
+    ],
+    "reproduction": "",
+    "behavior": "底中层活动，单独或松散聚集。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Lutjanus fulvus",
+        "url": "https://www.fishbase.se/summary/262"
+      },
+      {
+        "label": "体型记录出处 · Allen 1985 · FAO Species Catalogue. Vol. 6. Snappers of the world. An annotated and illustrated catalogue of lutjanid species known to date",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=55"
+      }
+    ]
+  },
+  "sp_gymnothorax_flavimarginatus": {
+    "range": "分布跨东南大西洋、印度—太平洋及东太平洋，从南非、红海延至太平洋岛屿，东至哥斯达黎加、巴拿马和加拉帕戈斯群岛。",
+    "size": "FishBase 收录的最大全长为 240 厘米。",
+    "recognition": [
+      "体色黄，密布深褐色斑驳。头前部紫灰色，鳍后缘黄绿色。",
+      "鳃孔处有黑斑，眼偏红。幼鱼有时呈鲜黄色并带褐斑。"
+    ],
+    "reproduction": "",
+    "behavior": "通常独处且好奇，日间常将头伸出藏身处。受伤或受刺激的鱼可能吸引其靠近。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Gymnothorax flavimarginatus",
+        "url": "https://www.fishbase.se/summary/5392"
+      },
+      {
+        "label": "体型记录出处 · Kuiter et al. 2001 · Pictorial guide to Indonesian reef fishes. Part 1. Eels- Snappers, Muraenidae - Lutjanidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=48635"
+      }
+    ]
+  },
+  "sp_acanthurus_pyroferus": {
+    "range": "印度—太平洋，塞舌尔至马贵斯和土阿莫土群岛，北至日本南部，南至大堡礁和新喀里多尼亚。马尔代夫至峇里一带由近缘种取代。",
+    "size": "FishBase 收录的最大全长为 29 厘米。",
+    "recognition": [
+      "体色紫黑，鳃裂边缘、胸鳍基部上方有橙色晕斑。鳃盖至喉部有宽黑带。",
+      "幼鱼可能呈现三种刺尻鱼属的拟态色型，尾鳍较圆。成鱼尾棘长度约为头长的四分之一至五分之二。"
+    ],
+    "reproduction": "",
+    "behavior": "通常单独活动。幼鱼会拟态刺尻鱼属物种，具体模仿对象随地点而异。",
+    "lookalike": "幼鱼模仿 Centropyge 属刺尻鱼。关岛记录模仿 C. flavissimus，帕劳记录则模仿 C. vrolikii。",
+    "sources": [
+      {
+        "label": "FishBase · Acanthurus pyroferus",
+        "url": "https://www.fishbase.se/summary/4742"
+      },
+      {
+        "label": "体型记录出处 · Allen et al. 2012 · Reef fishes of the East Indies",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=90102"
+      }
+    ]
+  },
+  "sp_barbonymus_gonionotus": {
+    "range": "亚洲，湄公河、昭披耶河流域，以及马来半岛、苏门答腊和爪哇。",
+    "size": "FishBase 收录的最大全长为 43 厘米。",
+    "recognition": [
+      "身体侧扁而背部隆起，头较小、吻尖，口位于端部。",
+      "须很细小或退化，有时几乎看不见。鲜鱼体银白，偶带金色，臀鳍和腹鳍浅橙至红。"
+    ],
+    "reproduction": "",
+    "behavior": "属局部洄游鱼，雨季随水位上涨进入支流、沟渠和淹水区，退水时返回。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Barbonymus gonionotus",
+        "url": "https://www.fishbase.se/summary/286"
+      },
+      {
+        "label": "体型记录出处 · Sidthimunk... 1973 · Length-weight relationships of freshwater fishes of Thailand",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=118477"
+      }
+    ]
+  },
+  "sp_istiblennius_dussumieri": {
+    "range": "印度—西太平洋，东非至斐济，北至台湾，南至诺福克岛。",
+    "size": "FishBase 收录的最大全长为 12 厘米。",
+    "recognition": [
+      "第一与第二背鳍棘之间的鳍膜末端有深色斑。",
+      "雄鱼体侧约有六条暗带。雌鱼的暗带较容易排列成竖向斑点，背鳍和尾鳍也有暗点。"
+    ],
+    "reproduction": "卵生。卵沉于底部并以黏附结构固定，幼体浮游，常见于浅沿岸水域。",
+    "behavior": "成鱼在岸边取食藻类，仔鱼则在近岸浅水中浮游。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Istiblennius dussumieri",
+        "url": "https://www.fishbase.se/summary/7562"
+      },
+      {
+        "label": "体型记录出处 · Randall et al. 1990 · Fishes of the Great Barrier Reef and Coral Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=2334"
+      }
+    ]
+  },
+  "sp_valenciennea_immaculata": {
+    "range": "西太平洋，台湾、澳门、香港、菲律宾及澳大利亚西部至新南威尔士。另有汤加新记录。",
+    "size": "FishBase 收录的最大全长为 13 厘米。",
+    "recognition": [
+      "体色黄白至浅紫，脸颊有蓝边橙纹并沿体侧延伸至尾柄。",
+      "背部有两条橙褐色纵纹。尾鳍菱形，具深色边缘和白色次缘带，幼鱼体侧黄纹、背部有两条暗纹。"
+    ],
+    "reproduction": "",
+    "behavior": "常成对活动，会大口吸入沙并挖掘自己的洞穴。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Valenciennea immaculata",
+        "url": "https://www.fishbase.se/summary/12614"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_abudefduf_sexfasciatus": {
+    "range": "印度—太平洋，红海至莫桑比克彭达及土阿莫土群岛，北至日本南部，南至豪勋爵岛和拉帕岛。未记录于夏威夷。",
+    "size": "FishBase 收录的最大全长为 19 厘米。",
+    "recognition": [
+      "头部和身体白色，体侧有五条宽深色竖带。",
+      "尾鳍上下叶各有一条深色纵带。"
+    ],
+    "reproduction": "卵生。卵黏附于底物，雄鱼守护并搧动卵。",
+    "behavior": "常成群在中层水域觅食，或在岩石、珊瑚岩架旁照看巢区。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Abudefduf sexfasciatus",
+        "url": "https://www.fishbase.se/summary/5688"
+      },
+      {
+        "label": "体型记录出处 · Allen et al. 2012 · Reef fishes of the East Indies",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=90102"
+      }
+    ]
+  },
+  "sp_zebrasoma_scopas": {
+    "range": "印度—太平洋，东非（含马斯克林群岛）至土阿莫土群岛，北至日本南部，南至豪勋爵岛和拉帕岛。",
+    "size": "FishBase 收录的最大标准体长为 40 厘米。",
+    "recognition": [
+      "成鱼深褐色，体侧细密浅蓝绿色纵线顺鳞列延伸，往头部逐渐呈点状。",
+      "尾柄两侧各有可收缩尾棘，尾棘前有刷状黑色刚毛斑。小幼鱼的黄带和黄点较明显。"
+    ],
+    "reproduction": "单配制。观察到成对及群体产卵。",
+    "behavior": "成鱼可成小群或群游，常见约20尾。成熟个体会聚集产卵，记录有配对和群体产卵。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Zebrasoma scopas",
+        "url": "https://www.fishbase.se/summary/5951"
+      },
+      {
+        "label": "体型记录出处 · Kuiter et al. 2001 · Pictorial guide to Indonesian reef fishes. Part 3. Jawfishes - Sunfishes, Opistognathidae - Molidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=48637"
+      }
+    ]
+  },
+  "sp_kyphosus_cinerascens": {
+    "range": "印度—太平洋，红海和东非至夏威夷、莱恩及土阿莫土群岛，北至日本南部，南至澳大利亚。",
+    "size": "FishBase 收录的最大叉长为 53 厘米，常见全长约 45 厘米。",
+    "recognition": [
+      "灰色体表配暗色鱼鳍。幼鱼或亚成鱼的鳞片中央较浅，沿鳞列形成横向线纹。",
+      "背鳍和臀鳍的软条前段较长，使鳍后缘近乎垂直。吻部较其他近似种更向下倾。"
+    ],
+    "reproduction": "",
+    "behavior": "常成群活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Kyphosus cinerascens",
+        "url": "https://www.fishbase.se/summary/5805"
+      },
+      {
+        "label": "体型记录出处 · Matthews et al. 2019 · Length-weight relationships for 71 reef and bottomfish species from Tutuila and Aunu'u, American Samoa",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=125599"
+      }
+    ]
+  },
+  "sp_melichthys_vidua": {
+    "range": "印度—太平洋，东非经澳大利亚北部至夏威夷和土阿莫土群岛，北至日本南部。",
+    "size": "FishBase 收录的最大全长为 40 厘米。",
+    "recognition": [
+      "体色深褐，吻部及胸鳍偏黄。背鳍和臀鳍白色并带黑边，尾鳍粉色且基部白。",
+      "眼前有深沟，尾柄鳞片没有明显纵向脊。幼鱼眼周、臀鳍和背鳍软条上有暗线。"
+    ],
+    "reproduction": "卵生。",
+    "behavior": "底中层活动，常以小而松散的群体出现。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Melichthys vidua",
+        "url": "https://www.fishbase.se/summary/5838"
+      },
+      {
+        "label": "体型记录出处 · Sommer et al. 1996 · FAO species identification field guide for fishery purposes. The living marine resources of Somalia",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=30573"
+      }
+    ]
+  },
+  "sp_cirrhitus_pinnulatus": {
+    "range": "印度—太平洋，红海和东非至马贵斯、曼加雷瓦群岛，北至日本南部和夏威夷，南至克马德克及拉帕群岛。",
+    "size": "FishBase 收录的最大全长为 30 厘米，常见全长约 23 厘米。",
+    "recognition": [
+      "体浅褐、腹部发白，并有白色和深褐色斑点。",
+      "胸鳍下方七根鳍条不分枝，腭骨有齿，前鳃盖骨后缘具细锯齿。"
+    ],
+    "reproduction": "",
+    "behavior": "底栖。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Cirrhitus pinnulatus",
+        "url": "https://www.fishbase.se/summary/5831"
+      },
+      {
+        "label": "体型记录出处 · Randall 1997 · Mullidae, goatfishes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9947"
+      },
+      {
+        "label": "东沙环礁国家公园鱼类资源调查",
+        "url": "https://www.marine.gov.tw/filesys/107/107%E6%9D%B1%E6%B2%99%E7%92%B0%E7%A4%81%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92%E9%AD%9A%E9%A1%9E%E8%B3%87%E6%BA%90%E8%AA%BF%E6%9F%A5.pdf"
+      }
+    ]
+  },
+  "sp_balistapus_undulatus": {
+    "range": "印度—太平洋，红海向南至南非纳塔尔，向东至莱恩、马贵斯和土阿莫土群岛，北至日本南部，南至大堡礁南部和新喀里多尼亚。",
+    "size": "FishBase 收录的最大全长为 30 厘米，常见全长约 26 厘米。",
+    "recognition": [
+      "头和身体呈绿至褐色，带弯曲橙线。尾鳍基部有覆盖大部分区域的圆形黑斑。",
+      "尾柄鳞片有两列向前突出的棘。胸鳍基部上方及鳃孔后方的鳞片扩大，形成可活动的鼓膜状结构。"
+    ],
+    "reproduction": "卵产在沙地或碎石上的浅坑中，形成一团。",
+    "behavior": "成鱼具有领地性。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Balistapus undulatus",
+        "url": "https://www.fishbase.se/summary/6025"
+      },
+      {
+        "label": "体型记录出处 · Randall et al. 1990 · Fishes of the Great Barrier Reef and Coral Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=2334"
+      }
+    ]
+  },
+  "sp_lutjanus_russellii": {
+    "range": "西太平洋。印度洋记录目前暂按近似种 L. indicus 处理，资料指出本种仍需进一步分类评估。",
+    "size": "FishBase 收录的最大全长为 50 厘米，常见全长约 30 厘米。",
+    "recognition": [
+      "体形中等深至稍纤细，体色粉红至发白并带银光。背鳍软条前下方、侧线上方常有黑斑。",
+      "幼鱼体侧有黑色纵纹，体背上方多有浅色边缘的圆黑斑。印度洋成鱼通常还有7至8条窄金褐纹。"
+    ],
+    "reproduction": "",
+    "behavior": "幼鱼常进入红树林河口和溪流下游，长大后多在水较深的沿岸或外海礁区活动。",
+    "lookalike": "印度洋旧记录可能与 L. indicus 混淆。来源建议以遗传分析进一步复核。",
+    "sources": [
+      {
+        "label": "FishBase · Lutjanus russellii",
+        "url": "https://www.fishbase.se/summary/176"
+      },
+      {
+        "label": "体型记录出处 · Allen et al. 1985 · Review of the snappers of the genus Lutjanus (Pisces Lutjanidae) from the Indo-Pacific with the description of a new species",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=469"
+      }
+    ]
+  },
+  "sp_apolemichthys_trimaculatus": {
+    "range": "印度—西太平洋，东非南至南纬28度，向东至萨摩亚，北至日本南部，南至澳大利亚。",
+    "size": "FishBase 收录的最大全长为 26 厘米。",
+    "recognition": [
+      "身体短而高、侧扁，整体鲜黄。臀鳍边缘有宽黑带，其上方有宽白区。",
+      "额部有黑斑，头后另有眼斑状暗斑，唇蓝色。幼鱼背鳍软条基部有假眼斑，头上有穿过眼部的细黑线。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼常在中等水深处松散成群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Apolemichthys trimaculatus",
+        "url": "https://www.fishbase.se/summary/6525"
+      },
+      {
+        "label": "体型记录出处 · Kuiter et al. 2001 · Pictorial guide to Indonesian reef fishes. Part 2. Fusiliers - Dragonets, Caesionidae - Callionymidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=48636"
+      }
+    ]
+  },
+  "sp_bathygobius_fuscus": {
+    "range": "印度—太平洋，红海向南至莫桑比克巴扎鲁托，向东至莱恩和土阿莫土群岛，北至韩国和日本南部，南至大堡礁南部。不见于夏威夷。",
+    "size": "FishBase 收录的最大全长为 12 厘米。",
+    "recognition": [
+      "体浅黄褐，身上有大型不规则深褐斑。体侧鳞片各有淡蓝小点，排列成纵行。",
+      "背鳍外缘宽黄，背鳍和尾鳍有蓝点。头部扁而宽，身体尾部圆。"
+    ],
+    "reproduction": "",
+    "behavior": "潮池中的雄鱼会占据并守卫岩穴或石缝作为产卵巢，守巢雄鱼在巢内与雌鱼产卵，并会驱赶潜入的竞争雄鱼。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Bathygobius fuscus",
+        "url": "https://www.fishbase.se/summary/7201"
+      },
+      {
+        "label": "体型记录出处 · Maugé 1986 · Gobiidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=4343"
+      },
+      {
+        "label": "东沙环礁国家公园鱼类资源调查",
+        "url": "https://www.marine.gov.tw/filesys/107/107%E6%9D%B1%E6%B2%99%E7%92%B0%E7%A4%81%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92%E9%AD%9A%E9%A1%9E%E8%B3%87%E6%BA%90%E8%AA%BF%E6%9F%A5.pdf"
+      },
+      {
+        "label": "Taru等：Bathygobius fuscus替代交配策略研究",
+        "url": "https://doi.org/10.1007/s10164-001-0054-6"
+      },
+      {
+        "label": "Kong与Chen 2013：台湾基隆潮池种群繁殖生物学",
+        "url": "https://jmstt.ntou.edu.tw/journal/vol21/iss7/27/"
+      },
+      {
+        "label": "Kanatani等：巢守雄鱼驱除竞争雄鱼精子的行为研究",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7661297/"
+      }
+    ]
+  },
+  "sp_cephalopholis_boenak": {
+    "range": "印度—西太平洋，肯尼亚至莫桑比克南部并向东延伸至西太平洋。见于阿拉弗拉海。红海、波斯湾及密克罗尼西亚多数岛屿未见。",
+    "size": "FishBase 收录的最大全长为 30 厘米。",
+    "recognition": [
+      "身体褐至绿灰色，体侧有暗色竖带。中间各鳍具白边及黑色次缘。",
+      "尾鳍圆，前鳃盖骨圆且锯齿细。身体包括腹部覆有栉鳞。"
+    ],
+    "reproduction": "观察到求偶及成对产卵。为雌性先熟的雌雄同体类型。",
+    "behavior": "较隐蔽。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Cephalopholis boenak",
+        "url": "https://www.fishbase.se/summary/6444"
+      },
+      {
+        "label": "体型记录出处 · Kuiter et al. 2001 · Pictorial guide to Indonesian reef fishes. Part 1. Eels- Snappers, Muraenidae - Lutjanidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=48635"
+      }
+    ]
+  },
+  "sp_channa_micropeltes": {
+    "range": "亚洲，湄公河和昭披耶河流域、马来半岛，以及苏门答腊和婆罗洲。",
+    "size": "FishBase 收录的最大标准体长为 130 厘米，常见标准体长约 50 厘米。",
+    "recognition": [
+      "成鱼体侧有宽阔深色纵带。",
+      "幼鱼有两条黑色纵带，中间夹着鲜橙色区域。"
+    ],
+    "reproduction": "在水草茂密的小溪中产卵。",
+    "behavior": "幼鱼常聚成一群，生长到较晚的幼鱼阶段会集群捕食。",
+    "lookalike": "印度所报的部分标本实际属于另一种鱼，不能仅凭本种记录外推到印度。",
+    "sources": [
+      {
+        "label": "FishBase · Channa micropeltes",
+        "url": "https://www.fishbase.se/summary/344"
+      },
+      {
+        "label": "体型记录出处 · Baird et al. 1999 · The fishes of southern Lao",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=30857"
+      },
+      {
+        "label": "美国地质调查局：Snakeheads（幼鱼群游及巨型蛇头晚期幼鱼成群摄食）",
+        "url": "https://pubs.usgs.gov/circ/2004/1251/report.pdf"
+      },
+      {
+        "label": "Weijola 2022：蛇头鱼亲代照护综述",
+        "url": "https://doi.org/10.1080/00222933.2022.2037775"
+      }
+    ]
+  },
+  "sp_cheilio_inermis": {
+    "range": "印度—太平洋，红海和东非至夏威夷及复活节岛，北至日本南部，南至豪勋爵岛。",
+    "size": "FishBase 收录的最大标准体长为 50 厘米，常见全长约 35 厘米。",
+    "recognition": [
+      "体色变化大，可呈绿、褐、橙褐或黄。常有断续的黑色体侧纵纹。",
+      "大型雄鱼体侧胸鳍后方可出现明亮黄、橙、黑、白或多色斑块，黑色纵纹也可能消失。"
+    ],
+    "reproduction": "卵生，繁殖时可见明确配对。",
+    "behavior": "通常独居。成鱼也可松散聚集，偶尔为产卵形成大群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Cheilio inermis",
+        "url": "https://www.fishbase.se/summary/5623"
+      },
+      {
+        "label": "体型记录出处 · Westneat 2001 · Labridae. Wrasses, hogfishes, razorfishes, corises, tuskfishes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9823"
+      }
+    ]
+  },
+  "sp_choerodon_schoenleinii": {
+    "range": "印度—西太平洋，琉球群岛以南至澳大利亚和印度尼西亚。毛里求斯有记录。",
+    "size": "FishBase 收录的最大全长为 100 厘米。",
+    "recognition": [
+      "大型个体在水下呈蓝色，背鳍基部通常有小黑斑。幼鱼在该斑后方另有大型白色鞍斑。",
+      "体侧每片鳞中央呈蓝色并形成横向斑列。成鱼下颌前方第二枚犬齿明显短于第一枚。"
+    ],
+    "reproduction": "",
+    "behavior": "通常单独出现。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Choerodon schoenleinii",
+        "url": "https://www.fishbase.se/summary/6433"
+      },
+      {
+        "label": "体型记录出处 · Burgess et al. 1990 · Dr. Burgess's Atlas der Meerwasser Aquarium Fische",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=2272"
+      }
+    ]
+  },
+  "sp_halichoeres_margaritaceus": {
+    "range": "印度—太平洋，东印度洋科科斯岛至莱恩和土阿莫土群岛，北至日本南部，南至新南威尔士和豪勋爵岛。西印度洋由 H. nebulosus 取代。",
+    "size": "FishBase 收录的最大标准体长为 12.5 厘米。",
+    "recognition": [
+      "雌鱼背部橄榄色、腹面较浅，体侧有大小不一的白斑，腹后部有大片粉色区域。",
+      "雄鱼呈绿色并有橙红斑，部分连成不规则图案。眼下有近水平粉色带。"
+    ],
+    "reproduction": "",
+    "behavior": "在浪涌冲刷的浅礁捕食底栖小动物，也取食鱼卵。",
+    "lookalike": "雌鱼和幼鱼阶段与若干近缘种外观相似，需结合成鱼的颊部纹样等特征辨别。",
+    "sources": [
+      {
+        "label": "FishBase · Halichoeres margaritaceus",
+        "url": "https://www.fishbase.se/summary/5630"
+      },
+      {
+        "label": "体型记录出处 · Westneat 2001 · Labridae. Wrasses, hogfishes, razorfishes, corises, tuskfishes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9823"
+      }
+    ]
+  },
+  "sp_hemigymnus_melapterus": {
+    "range": "印度—西太平洋，红海、东非至萨摩亚，北至琉球群岛，南至澳大利亚。",
+    "size": "FishBase 的体长表列出全长 39.6 厘米。其物种说明同时指出，超过 45 厘米的记录有待核实。",
+    "recognition": [
+      "体色和斑纹随成长变化，小幼鱼深褐，吻部和眼间区带绿。较大幼鱼出现从背部向腹部延伸的白带。",
+      "成鱼头部及身体前段灰绿、后段黑。尾柄后部和尾鳍偏黄，部分个体可见中央黑点。"
+    ],
+    "reproduction": "",
+    "behavior": "幼鱼常在分枝珊瑚间活动，成鱼转向沙地、碎石与珊瑚相间的礁面。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Hemigymnus melapterus",
+        "url": "https://www.fishbase.se/summary/5636"
+      },
+      {
+        "label": "体型记录出处 · Matthews et al. 2019 · Length-weight relationships for 83 reef and bottomfish species from the commonwealth of the Northern Mariana Islands",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=125598"
+      }
+    ]
+  },
+  "sp_oxycheilinus_unifasciatus": {
+    "range": "东印度洋和太平洋，圣诞岛至夏威夷、马贵斯和土阿莫土群岛，北至琉球群岛，南至澳大利亚西北部罗利浅滩、新喀里多尼亚和拉帕岛。",
+    "size": "FishBase 收录的最大全长为 46 厘米。",
+    "recognition": [
+      "成鱼背鳍和臀鳍后部有醒目的黑斑，尾部上方有亮白横带。",
+      "尾柄常有白色横斑但变化较大。红色细纹从眼后向后延伸并穿过鳃盖至其后缘。"
+    ],
+    "reproduction": "",
+    "behavior": "底中层活动。资料指出可能具有雪卡毒风险。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Oxycheilinus unifasciatus",
+        "url": "https://www.fishbase.se/summary/5605"
+      },
+      {
+        "label": "体型记录出处 · Randall et al. 1990 · Fishes of the Great Barrier Reef and Coral Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=2334"
+      }
+    ]
+  },
+  "sp_monotaxis_grandoculis": {
+    "range": "印度—太平洋，红海和东非至夏威夷及大洋洲东南部，北至日本，南至澳大利亚。",
+    "size": "FishBase 收录的最大全长为 60 厘米，常见全长约 40 厘米。",
+    "recognition": [
+      "眼较大，头前缘在眼前明显凸起，吻部向前下方倾斜。",
+      "成鱼银灰色，鳞缘较深，胸鳍腋部有大片黑斑。受惊时体侧可显出四条宽暗带。"
+    ],
+    "reproduction": "",
+    "behavior": "底中层活动，夜间觅食。个体可独处或成群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Monotaxis grandoculis",
+        "url": "https://www.fishbase.se/summary/1869"
+      },
+      {
+        "label": "体型记录出处 · Carpenter et al. 1989 · FAO Species Catalogue. Vol. 9. Emperor fishes and large-eye breams of the world (family Lethrinidae). An annotated and illustrated catalogue of lethrinid species known to date",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=2295"
+      }
+    ]
+  },
+  "sp_gymnothorax_fimbriatus": {
+    "range": "印度—太平洋，马达加斯加至社会群岛，北至日本南部，南至澳大利亚昆士兰。遍及密克罗尼西亚。",
+    "size": "FishBase 收录的最大全长为 93.4 厘米。",
+    "recognition": [
+      "体色浅，头部有小黑点。幼鱼的黑点相对更大。",
+      "体侧和鳍上深褐至黑色斑点、断续横斑分布变化很大，头部常带黄色调。上下颌较窄。"
+    ],
+    "reproduction": "可能为雌性先熟的雌雄同体。资料对此仅作推测。",
+    "behavior": "可能主要夜间活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Gymnothorax fimbriatus",
+        "url": "https://www.fishbase.se/summary/6495"
+      },
+      {
+        "label": "体型记录出处 · Loh et al. 2011 · Length-weight relationships for 39 species of moray eel from the waters around Taiwan",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=121652"
+      }
+    ]
+  },
+  "sp_mulloidichthys_vanicolensis": {
+    "range": "印度—太平洋，红海、东非、科摩罗和马斯克林群岛，向东至夏威夷、莱恩及皮特凯恩群岛，北至日本南部，南至澳大利亚东部、新西兰北面的岛群及汤加、甘比尔群岛。复活节岛有记录。",
+    "size": "FishBase 收录的最大叉长为 39.8 厘米，常见全长约 25 厘米。",
+    "recognition": [
+      "背部红橙色，体侧和腹部发白，身体有黄色纵带。各鳍均为黄色。",
+      "第一背鳍下方没有暗斑。体形较深，口边一对触须较长。"
+    ],
+    "reproduction": "",
+    "behavior": "有时成群。白天形成大型静止群，夜间散开到沙地觅食。偶与蓝纹笛鲷混群并呈现蓝纹。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Mulloidichthys vanicolensis",
+        "url": "https://www.fishbase.se/summary/5984"
+      },
+      {
+        "label": "体型记录出处 · Matthews et al. 2019 · Length-weight relationships for 71 reef and bottomfish species from Tutuila and Aunu'u, American Samoa",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=125599"
+      }
+    ]
+  },
+  "sp_diagramma_pictum": {
+    "range": "印度—西太平洋，阿拉伯海及莫桑比克海峡向东至巴布亚新几内亚，北至日本，南至新喀里多尼亚。",
+    "size": "FishBase 收录的最大叉长为 100 厘米，常见全长约 55 厘米。",
+    "recognition": [
+      "幼鱼斑纹随成长明显改变，小幼鱼有黑色背鳍棘部及体侧黑带，大幼鱼出现宽黑色横带。",
+      "亚成鱼头、体及中间各鳍有棕橙斑。成鱼逐渐转为素灰或带斑。"
+    ],
+    "reproduction": "",
+    "behavior": "可独处或成群。常见于水体较浑浊处。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Diagramma pictum",
+        "url": "https://www.fishbase.se/summary/4465"
+      },
+      {
+        "label": "体型记录出处 · Torres 1991 · Tabular data on marine fishes from Southern Africa, Part I. Length-weight relationships",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=3678"
+      }
+    ]
+  },
+  "sp_ecsenius_namiyei": {
+    "range": "西太平洋，台湾至所罗门群岛。",
+    "size": "FishBase 收录的最大全长为 11 厘米。",
+    "recognition": [
+      "印度尼西亚成鱼呈蓝黑色，尾部浅蓝灰。",
+      "展示时蓝色涂画状纹和斑点会间歇显现。"
+    ],
+    "reproduction": "卵生。卵沉底并黏附于基质，幼体浮游，常见于浅沿岸水域。",
+    "behavior": "较隐蔽。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Ecsenius namiyei",
+        "url": "https://www.fishbase.se/summary/7664"
+      },
+      {
+        "label": "体型记录出处 · Kuiter et al. 2001 · Pictorial guide to Indonesian reef fishes. Part 2. Fusiliers - Dragonets, Caesionidae - Callionymidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=48636"
+      }
+    ]
+  },
+  "sp_lutjanus_gibbus": {
+    "range": "印度—太平洋，红海和东非至莱恩及社会群岛，北至日本南部，南至澳大利亚。",
+    "size": "FishBase 收录的最大叉长为 56.8 厘米，常见全长约 45 厘米。",
+    "recognition": [
+      "体色红至灰，鳃盖下缘和胸鳍腋部带橙色。尾鳍明显分叉且叶端圆。",
+      "背鳍软部、臀鳍和尾鳍有窄白缘。幼鱼尾鳍基部有大型圆黑斑。"
+    ],
+    "reproduction": "",
+    "behavior": "底中层活动。成鱼可大量聚集，白天常相对静止。亚成鱼也形成大型缓慢移动群体。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Lutjanus gibbus",
+        "url": "https://www.fishbase.se/summary/265"
+      },
+      {
+        "label": "体型记录出处 · Matthews et al. 2019 · Length-weight relationships for 71 reef and bottomfish species from Tutuila and Aunu'u, American Samoa",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=125599"
+      }
+    ]
+  },
+  "sp_acanthurus_japonicus": {
+    "range": "印度—西太平洋，印度尼西亚苏拉威西至菲律宾和琉球群岛。",
+    "size": "FishBase 收录的最大全长为 23 厘米。",
+    "recognition": [
+      "眼下缘至上唇有宽白带。",
+      "背鳍软条部外侧有亮橙带。尾柄黄色并向前不远处渐转黑，胸鳍基部黄色。"
+    ],
+    "reproduction": "",
+    "behavior": "可单独活动，也会形成从小群到较大聚集的群体。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Acanthurus japonicus",
+        "url": "https://www.fishbase.se/summary/23375"
+      },
+      {
+        "label": "体型记录出处 · Meerwasser... 2017 · Acanthurus japonicus",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=130604"
+      }
+    ]
+  },
+  "sp_ctenochaetus_binotatus": {
+    "range": "印度—太平洋，东非至土阿莫土群岛，北至日本南部，南至新南威尔士中部和新喀里多尼亚。未见于红海、阿曼湾、波斯湾、夏威夷、马贵斯、拉帕、皮特凯恩及复活节岛。",
+    "size": "FishBase 收录的最大全长为 22 厘米。",
+    "recognition": [
+      "背鳍和臀鳍后部基底各有明显黑斑。成鱼眼周有蓝色环。",
+      "成鱼体橙褐，头部和胸部有浅色点，体侧有浅色纵线。幼鱼深褐，头胸蓝点明显、尾部黄色。"
+    ],
+    "reproduction": "",
+    "behavior": "通常独处并在底物表面啃食。摄入的某些甲藻可能参与雪卡毒食物链。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Ctenochaetus binotatus",
+        "url": "https://www.fishbase.se/summary/6012"
+      },
+      {
+        "label": "体型记录出处 · Fischer et al. 1990 · Fichas FAO de identificaçao de espécies para actividades de pesca. Guia de campo das espécies comerciais marinhas e de águas salobras de Moçambique",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=5213"
+      }
+    ]
+  },
+  "sp_abudefduf_saxatilis": {
+    "range": "大西洋种，西大西洋从加拿大至乌拉圭，另见于中大西洋岛屿、佛得角及西非热带海岸至安哥拉。印度—太平洋由近缘种 A. vaigiensis 取代。",
+    "size": "FishBase 收录的最大全长为 22.9 厘米，常见标准体长约 15 厘米。",
+    "recognition": [
+      "背部黄绿、腹部发白，体侧有五条明显黑色竖带，向腹侧变窄。",
+      "胸鳍基部上方有黑点。尾柄后方有时还能见到较淡的第六条带。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼常形成大型觅食群。幼鱼也可能与刺尾鱼一起组成清洁站，为海龟啄食脱落皮肤和寄生物。",
+    "lookalike": "与印度—太平洋近缘种 A. vaigiensis 相近。来源将两者区分为大西洋与印度—太平洋分布。",
+    "sources": [
+      {
+        "label": "FishBase · Abudefduf saxatilis",
+        "url": "https://www.fishbase.se/summary/1119"
+      },
+      {
+        "label": "体型记录出处 · Claro 1994 · Características generales de la ictiofauna",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=26340"
+      }
+    ]
+  },
+  "sp_semotilus_atromaculatus": {
+    "range": "北美，美国东部和加拿大东南部的大西洋、大湖、哈德逊湾、密西西比及墨西哥湾流域，最西至萨斯喀彻温、怀俄明和德州布拉索斯河。佛罗里达及乔治亚南部缺席。新墨西哥有隔离种群，另被引入美国其他地区。",
+    "size": "FishBase 收录的最大全长为 30.3 厘米，常见全长约 19.1 厘米。",
+    "recognition": [
+      "背鳍基部前方有大型黑斑。尾部也有黑斑，但大型个体不明显。",
+      "吻端尖，口端位且大型，可延伸超过眼前缘。背部有深色纵纹，幼鱼体侧可见人字纹。"
+    ],
+    "reproduction": "",
+    "behavior": "繁殖期雄鱼用口搬运石子，在浅坑上游堆成砾石脊筑巢，并守卫巢区。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Semotilus atromaculatus",
+        "url": "https://www.fishbase.se/summary/2952"
+      },
+      {
+        "label": "体型记录出处 · Etnier et al. 1993 · The fishes of Tennessee",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=10294"
+      },
+      {
+        "label": "Fishes of Texas：Creek Chub繁殖与筑巢行为",
+        "url": "https://fishesoftexas.org/taxa/semotilus-atromaculatus/"
+      },
+      {
+        "label": "密苏里州自然保护部：Creek Chub",
+        "url": "https://mdc.mo.gov/discover-nature/field-guide/creek-chub"
+      }
+    ]
+  },
+  "sp_sparisoma_viride": {
+    "range": "西大西洋，美国佛罗里达、百慕大、巴哈马及加勒比海至巴西。",
+    "size": "FishBase 收录的最大全长为 64 厘米，常见全长约 38 厘米。",
+    "recognition": [
+      "体色与纹样随性别和阶段变化，雌鱼及初始阶段头部褐色，上体鳞片浅色中央配深边，腹部和鳍常鲜红。",
+      "终末阶段雄鱼呈绿色，头部上半有三条斜橙带。鳃盖上缘有亮黄斑，尾柄基部有黄色横带。"
+    ],
+    "reproduction": "雌性先熟，之后可转为雄性。",
+    "behavior": "严格日行，夜间卧底休息。单独或小群活动。其啃食会造成可观的珊瑚礁沉积物。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Sparisoma viride",
+        "url": "https://www.fishbase.se/summary/1161"
+      },
+      {
+        "label": "体型记录出处 · Randall 1978 · Scaridae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=3802"
+      }
+    ]
+  },
+  "sp_sarpa_salpa": {
+    "range": "东大西洋，比斯开湾和直布罗陀海峡至塞拉利昂，包括马德拉、加那利和佛得角。另从刚果至南非，并见于地中海。",
+    "size": "FishBase 收录的最大标准体长为 51 厘米，常见标准体长约 30 厘米。",
+    "recognition": [
+      "身体较纤细，体侧有十条金色纵纹。",
+      "胸鳍基部有黑斑。"
+    ],
+    "reproduction": "雄性先熟，之后可转为雌性。",
+    "behavior": "群游，有时形成较大鱼群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Sarpa salpa",
+        "url": "https://www.fishbase.se/summary/204"
+      },
+      {
+        "label": "体型记录出处 · Bauchot 1987 · Poissons osseux",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=3397"
+      }
+    ]
+  },
+  "sp_diplodus_sargus": {
+    "range": "东大西洋，法国布列塔尼至直布罗陀及马德拉。另见于地中海、西南黑海及南非。",
+    "size": "FishBase 收录的最大全长为 45 厘米，常见全长约 22 厘米。",
+    "recognition": [
+      "体侧有五条黑色竖带，与四条灰色竖带交替。",
+      "吻部长度超过眼径。"
+    ],
+    "reproduction": "",
+    "behavior": "活动性较强，常在近岸浪区活动，尤其晨间。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Diplodus sargus",
+        "url": "https://www.fishbase.se/summary/1753"
+      },
+      {
+        "label": "体型记录出处 · Bauchot 1987 · Poissons osseux",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=3397"
+      }
+    ]
+  },
+  "sp_haemulon_flavolineatum": {
+    "range": "西大西洋，百慕大、美国南卡罗来纳及墨西哥湾北部至巴西，遍及西印度群岛和中美洲海岸。",
+    "size": "FishBase 收录的最大全长为 30 厘米，常见全长约 17 厘米。",
+    "recognition": [
+      "体色大多为黄色，腹侧较浅。",
+      "侧线下方的鳞片排列成斜行，且明显大于侧线上方的鳞片。资料指出这是其他石鲈类没有的特征。"
+    ],
+    "reproduction": "",
+    "behavior": "常群游。",
+    "lookalike": "可用侧线下方显著放大的斜列鳞片与其他石鲈类区分。",
+    "sources": [
+      {
+        "label": "FishBase · Haemulon flavolineatum",
+        "url": "https://www.fishbase.se/summary/1135"
+      },
+      {
+        "label": "体型记录出处 · Robins et al. 1986 · A field guide to Atlantic coast fishes of North America",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=7251"
+      }
+    ]
+  },
+  "sp_lutjanus_apodus": {
+    "range": "西大西洋，美国马萨诸塞州至特立尼达和巴西北部。佛罗里达较少见。",
+    "size": "FishBase 收录的最大叉长为 79.1 厘米，常见全长约 35 厘米。",
+    "recognition": [
+      "吻部细长而尖，口大。上颌一对犬齿明显较大，即使闭口也可能看见。",
+      "体背和侧面橄榄灰至褐色，常有八条浅色窄竖带。眼下有蓝线，可能随成长消失。"
+    ],
+    "reproduction": "",
+    "behavior": "有时白天形成休息群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Lutjanus apodus",
+        "url": "https://www.fishbase.se/summary/1404"
+      }
+    ]
+  },
+  "sp_oligocottus_maculosus": {
+    "range": "北太平洋，从鄂霍次克海和白令海至美国洛杉矶县。阿拉斯加湾以西的记录存疑。",
+    "size": "FishBase 收录的最大全长为 8.9 厘米。",
+    "recognition": [
+      "体侧有五个不规则暗斑，尾鳍基部有一块明显的白斑。",
+      "头上散生丝状突起，尾鳍后缘圆。"
+    ],
+    "reproduction": "",
+    "behavior": "有回到原居潮池的倾向。当池内水况不适时可离开水池，并能在离水时呼吸空气。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Oligocottus maculosus",
+        "url": "https://www.fishbase.se/summary/4128"
+      },
+      {
+        "label": "体型记录出处 · Eschmeyer et al. 1983 · A field guide to Pacific coast fishes of North America",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=2850"
+      },
+      {
+        "label": "加拿大渔业与海洋部 · Fishes of the Pacific Coast of Canada，第 301 页",
+        "url": "https://waves-vagues.dfo-mpo.gc.ca/Library/39032_P2.pdf"
+      }
+    ]
+  },
+  "sp_coris_julis": {
+    "range": "主要分布于地中海，在直布罗陀海峡附近的大西洋水域也有记录。",
+    "size": "FishBase 收录的最大标准体长为 30 厘米，常见标准体长约 20 厘米。",
+    "recognition": [
+      "初始色型背部褐色，从吻端到尾鳍基部有一条较深的紫褐色纵带。",
+      "终期雄鱼体侧橙色纵带呈锯齿状，其下方还有一道从胸鳍后方向后延伸的黑色楔形斑。"
+    ],
+    "reproduction": "雌性先熟并可转为雄性。卵为浮性。资料记载约一岁性成熟。",
+    "behavior": "受惊或夜间会钻入沙中。有时单独栖于岩石间。",
+    "lookalike": "近缘的 Coris melanura 也会在西地中海出现。辨认终期雄鱼时，可对照本种贯穿体侧的锯齿状橙带和橙黄尾鳍。",
+    "sources": [
+      {
+        "label": "FishBase · Coris julis",
+        "url": "https://www.fishbase.se/summary/58"
+      },
+      {
+        "label": "体型记录出处 · Schneider 1990 · FAO species identification sheets for fishery purposes. Field guide to the commercial marine resources of the Gulf of Guinea. Prepared and published with the support of the FAO Regional Office for Africa",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=2683"
+      },
+      {
+        "label": "Ramírez-Amaro 等（2021）· 带纹盔鱼及其近缘种的重新鉴别",
+        "url": "https://doi.org/10.3389/fmars.2021.744639"
+      }
+    ]
+  },
+  "sp_arothron_meleagris": {
+    "range": "印度—太平洋，东非南至南非德班，向东至巴拿马，北至琉球群岛，南至豪勋爵岛和复活节岛。东太平洋从墨西哥瓜伊马斯至厄瓜多尔。",
+    "size": "FishBase 收录的最大全长为 50 厘米。",
+    "recognition": [
+      "身体黑色，头、躯干和各鳍布满小白点。",
+      "头和身体有小棘，但口周、尾柄及背部一部分区域缺棘。吻短，尾鳍短而圆。"
+    ],
+    "reproduction": "",
+    "behavior": "通常单独活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Arothron meleagris",
+        "url": "https://www.fishbase.se/summary/6401"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_acanthurus_tractus": {
+    "range": "西大西洋，从马萨诸塞与百慕大延至特立尼达和多巴哥，分布于墨西哥湾及加勒比海。",
+    "size": "FishBase 收录的最大标准体长为 38.1 厘米，常见全长约 25 厘米。",
+    "recognition": [
+      "体色黄褐至灰褐，体侧没有深色竖带。",
+      "眼后有放射状黄色细线。尾柄基部带浅色斑，尾鳍深叉呈新月形。"
+    ],
+    "reproduction": "",
+    "behavior": "多只成群活动，白天觅食。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Acanthurus tractus",
+        "url": "https://www.fishbase.se/summary/942"
+      },
+      {
+        "label": "体型记录出处 · Humann 1994 · Reef fish identification: Florida, Caribbean, Bahamas",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9761"
+      }
+    ]
+  },
+  "sp_ctenochaetus_striatus": {
+    "range": "印度—太平洋广布，夏威夷、马克萨斯群岛与复活节岛等地缺少分布记录。",
+    "size": "FishBase 收录的最大全长为 26 厘米，常见全长约 18 厘米。",
+    "recognition": [
+      "成鱼上下颌有许多可活动的细长梳齿。",
+      "橄榄褐至黄褐体色上有蓝色纵线，头和颈背散布橙色小点。"
+    ],
+    "reproduction": "",
+    "behavior": "可单独活动，也会加入小群至大型混种鱼群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Ctenochaetus striatus",
+        "url": "https://www.fishbase.se/summary/1262"
+      },
+      {
+        "label": "体型记录出处 · Randall et al. 1990 · Fishes of the Great Barrier Reef and Coral Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=2334"
+      }
+    ]
+  },
+  "sp_dorosoma_cepedianum": {
+    "range": "北美五大湖、密西西比河水系及墨西哥湾流域，南至墨西哥帕努科河。",
+    "size": "FishBase 收录的最大叉长为 57 厘米，常见标准体长约 35 厘米。",
+    "recognition": [
+      "身体侧扁而较高，腹缘有一列棱鳞。",
+      "背鳍末端有一根明显延长的鳍条，鳃盖后方有暗斑。"
+    ],
+    "reproduction": "在淡水中从冬末至夏季繁殖。具黏性的卵下沉。",
+    "behavior": "幼鱼常在河流上游大量出现。幼体浮游阶段在昼夜都可见于水面层。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Dorosoma cepedianum",
+        "url": "https://www.fishbase.se/summary/1604"
+      },
+      {
+        "label": "体型记录出处 · IGFA 2001 · Database of IGFA angling records until 2001",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=40637"
+      }
+    ]
+  },
+  "sp_forsterygion_lapillum": {
+    "range": "新西兰各地均有记录。查塔姆群岛的记录尚未确认。",
+    "size": "FishBase 收录的最大标准体长为 6.69 厘米。",
+    "recognition": [
+      "吻部轮廓陡斜，侧面看头部前缘较直。",
+      "背鳍分为三段，第一段有5–8根棘，第二段有19–23根棘。"
+    ],
+    "reproduction": "卵呈半球形，表面有黏丝，可固定在产卵处的藻体上。幼鱼在近岸浅水浮游。",
+    "behavior": "繁殖时雄鱼会留守岩石或砾石上的卵团。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Forsterygion lapillum",
+        "url": "https://www.fishbase.se/summary/12940"
+      },
+      {
+        "label": "体型记录出处 · Fricke 1994 · Tripterygiid fishes of Australia, New Zealand and the southwest Pacific Ocean (Teleostei)",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=13227"
+      },
+      {
+        "label": "Marine Life Database：Common Triplefin（引Te Papa出版物）",
+        "url": "https://www.marinelife.ac.nz/species/827"
+      },
+      {
+        "label": "Moginie & Shima 2018：Common triplefin雄鱼巢护与繁殖成功",
+        "url": "https://doi.org/10.3354/meps12506"
+      }
+    ]
+  },
+  "sp_caranx_melampygus": {
+    "range": "印度—太平洋，从红海和东非延至杜西群岛，北达琉球群岛，南至新喀里多尼亚。东太平洋见于墨西哥至巴拿马。",
+    "size": "FishBase 收录的最大叉长为 117 厘米，常见全长约 60 厘米。",
+    "recognition": [
+      "成鱼背部呈黄铜色并泛蓝，体侧有许多蓝黑小点。",
+      "尾柄侧扁处有一列强壮棱鳞，尾鳍深叉。"
+    ],
+    "reproduction": "",
+    "behavior": "常单独活动，偶尔成群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Caranx melampygus",
+        "url": "https://www.fishbase.se/summary/1906"
+      },
+      {
+        "label": "体型记录出处 · IGFA 2001 · Database of IGFA angling records until 2001",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=40637"
+      }
+    ]
+  },
+  "sp_aulostomus_maculatus": {
+    "range": "西大西洋，从美国佛罗里达和百慕大延至南美洲北部，东至圣保罗岩。",
+    "size": "FishBase 收录的最大全长为 100 厘米，常见全长约 60 厘米。",
+    "recognition": [
+      "下颌前端有明显触须。",
+      "背鳍前方有8–13根彼此分开的游离棘。"
+    ],
+    "reproduction": "",
+    "behavior": "多单独伏击，常头朝下藏在柳珊瑚间。也会跟随大型植食鱼靠近猎物。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Aulostomus maculatus",
+        "url": "https://www.fishbase.se/summary/964"
+      },
+      {
+        "label": "体型记录出处 · Claro 1994 · Características generales de la ictiofauna",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=26340"
+      }
+    ]
+  },
+  "sp_haemulon_sciurus": {
+    "range": "西大西洋，从美国佛罗里达至巴西，包括墨西哥湾和加勒比海。",
+    "size": "FishBase 收录的最大全长为 46 厘米，常见全长约 25 厘米。",
+    "recognition": [
+      "身体黄色，体侧有细蓝线纵向延伸。",
+      "眼下蓝线呈明显弧形。背鳍棘部黄色，软背鳍和尾鳍偏黑。"
+    ],
+    "reproduction": "",
+    "behavior": "常以小群在礁区活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Haemulon sciurus",
+        "url": "https://www.fishbase.se/summary/1141"
+      },
+      {
+        "label": "体型记录出处 · Claro 1994 · Características generales de la ictiofauna",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=26340"
+      }
+    ]
+  },
+  "sp_mulloidichthys_flavolineatus": {
+    "range": "印度—太平洋，从红海、东非延至夏威夷及皮特凯恩群岛，北达日本南部，南至澳大利亚和新喀里多尼亚。",
+    "size": "FishBase 收录的最大全长为 43 厘米，常见全长约 25 厘米。",
+    "recognition": [
+      "眼后至尾部有一条黄色体侧纵带，背部灰色至橄榄色、腹部浅色。",
+      "第一背鳍下方有暗斑，体侧另可见一条黄色纵线。"
+    ],
+    "reproduction": "",
+    "behavior": "偶尔结群。大个体在沙地觅食时，其他鱼会跟随取食被扰动的猎物。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Mulloidichthys flavolineatus",
+        "url": "https://www.fishbase.se/summary/5983"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_scarus_iseri": {
+    "range": "西大西洋，从百慕大、佛罗里达和巴哈马延至南美洲北部，广见于加勒比海。",
+    "size": "FishBase 收录的最大全长为 35 厘米，常见全长约 18 厘米。",
+    "recognition": [
+      "上方白色条纹位于较深色条纹之上，并止于鳃盖后缘。",
+      "尾鳍上下缘颜色较浅。终端期雄鱼呈蓝绿与橙色，头胸部带粉色。"
+    ],
+    "reproduction": "雌鱼可转变为雄鱼。终端期雄鱼与条纹期个体配对产卵，也有群体产卵记录。",
+    "behavior": "会成群活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Scarus iseri",
+        "url": "https://www.fishbase.se/summary/1154"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_bodianus_diplotaenia": {
+    "range": "东太平洋，从瓜达卢佩岛和加利福尼亚湾延至智利，包括科科斯、马尔佩洛、雷维亚希赫多和加拉帕戈斯群岛。",
+    "size": "FishBase 收录的最大全长为 76 厘米，常见全长约 45 厘米。",
+    "recognition": [
+      "头部较大而尖，前部上下颌各有两对较大、略弯的犬齿。",
+      "背鳍有12根棘。幼鱼偏红褐，雌鱼有两条纵向黑纹。"
+    ],
+    "reproduction": "雌鱼可转变为雄鱼。繁殖时有明确配对，雄鱼占据临时繁殖场。",
+    "behavior": "多单独活动或聚成小群。雄鱼会守卫临时繁殖领地。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Bodianus diplotaenia",
+        "url": "https://www.fishbase.se/summary/8270"
+      },
+      {
+        "label": "体型记录出处 · Thomson 1987 · Reef fishes of the Sea of Cortez. The rocky-shore fishes of the Gulf of California",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=5592"
+      }
+    ]
+  },
+  "sp_hippocampus_histrix": {
+    "range": "印度—太平洋，从南非至法属波利尼西亚，北至日本、南至澳大利亚。",
+    "size": "FishBase 收录的最大全长为 17 厘米。",
+    "recognition": [
+      "冠突有四至五根细长而尖锐的棘，吻部很长，超过头长一半。",
+      "体色可为粉、黄或绿，棘端常较深。吻部没有条纹。"
+    ],
+    "reproduction": "雄鱼在尾下方的育儿囊中携卵。",
+    "behavior": "常以固定配偶成对活动，不守卫排他领地。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Hippocampus histrix",
+        "url": "https://www.fishbase.se/summary/5954"
+      },
+      {
+        "label": "体型记录出处 · Randall 1995 · Coastal fishes of Oman",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=11441"
+      }
+    ]
+  },
+  "sp_scolopsis_bilineata": {
+    "range": "印度—西太平洋，从马尔代夫和拉克沙群岛至斐济，北至日本南部，南至豪勋爵岛。",
+    "size": "FishBase 收录的最大全长为 25 厘米，常见标准体长约 13 厘米。",
+    "recognition": [
+      "头和背部深灰，斜向黑边白带将深色上半身与偏白下半身分开。",
+      "头顶有三条黄色线。幼鱼上半身黑黄相间，外观模仿毒牙鳚 Meiacanthus grammistes。"
+    ],
+    "reproduction": "雌鱼可转变为雄鱼。",
+    "behavior": "常单独或小群活动，成鱼通常成对。",
+    "lookalike": "幼鱼会拟态毒牙鳚 Meiacanthus grammistes。",
+    "sources": [
+      {
+        "label": "FishBase · Scolopsis bilineata",
+        "url": "https://www.fishbase.se/summary/5885"
+      },
+      {
+        "label": "体型记录出处 · Allen et al. 2012 · Reef fishes of the East Indies",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=90102"
+      }
+    ]
+  },
+  "sp_lipophrys_pholis": {
+    "range": "东大西洋，从挪威南部至摩洛哥和马德拉，也见于地中海及巴利阿里群岛。",
+    "size": "FishBase 收录的最大全长为 17 厘米。",
+    "recognition": [
+      "皮肤裸露而黏滑，头部没有触须。",
+      "背鳍中段下凹，体色变化较大。"
+    ],
+    "reproduction": "卵具黏性并沉于底部，繁殖期约为4月至8月。",
+    "behavior": "有回到固定栖处的习性。涨潮白天较活跃，离水时可呼吸空气。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Lipophrys pholis",
+        "url": "https://www.fishbase.se/summary/9200"
+      },
+      {
+        "label": "体型记录出处 · Qasim 1957 · The biology of Blennius pholis L. (Teleostei)",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=747"
+      }
+    ]
+  },
+  "sp_acanthurus_nigrofuscus": {
+    "range": "印度—太平洋，从红海和南非东岸延至夏威夷与土阿莫土群岛，北至日本南部，南至大堡礁、新喀里多尼亚和拉帕岛。",
+    "size": "FishBase 收录的最大全长为 21 厘米。",
+    "recognition": [
+      "背鳍基部有大于半个眼径的黑斑，臀鳍基部另有较小黑斑。",
+      "尾柄棘沟外缘有窄黑边，身体可带细蓝灰纵线。"
+    ],
+    "reproduction": "会形成繁殖群。",
+    "behavior": "成鱼多小群，部分海域会组成大群。也会形成繁殖群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Acanthurus nigrofuscus",
+        "url": "https://www.fishbase.se/summary/4739"
+      },
+      {
+        "label": "体型记录出处 · Sommer et al. 1996 · FAO species identification field guide for fishery purposes. The living marine resources of Somalia",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=30573"
+      }
+    ]
+  },
+  "sp_microspathodon_chrysurus": {
+    "range": "西大西洋，从美国佛罗里达和百慕大经加勒比海至巴西。",
+    "size": "FishBase 收录的最大全长为 21 厘米，常见全长约 15 厘米。",
+    "recognition": [
+      "尾鳍鲜黄色。",
+      "幼鱼深蓝色，体侧有亮蓝点。成鱼深黄褐色，鳞片边缘较深。"
+    ],
+    "reproduction": "成对繁殖。卵沉于底部并黏附基质，雄鱼守护并扇动卵。",
+    "behavior": "具明显领地性。幼鱼偶尔替其他鱼清除寄生虫。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Microspathodon chrysurus",
+        "url": "https://www.fishbase.se/summary/1122"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_balistoides_viridescens": {
+    "range": "印度—太平洋，从红海和东非经北澳大利亚延至莱恩群岛、土阿莫土群岛，北至日本南部。",
+    "size": "FishBase 收录的最大全长为 75 厘米。",
+    "recognition": [
+      "灰绿身体的鳞片边缘浅色，形成网格状纹理。脸颊大部有黄绿色斑。",
+      "尾柄白色，尾鳍圆形。眼前有深沟。"
+    ],
+    "reproduction": "卵生。雌鱼会守护巢卵。",
+    "behavior": "成鱼常单独或成对。护卵时可能主动攻击靠近的潜水者。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Balistoides viridescens",
+        "url": "https://www.fishbase.se/summary/6026"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_rhinecanthus_aculeatus": {
+    "range": "印度—太平洋，从东非经北澳大利亚延至夏威夷、马克萨斯和土阿莫土群岛，北至日本南部。",
+    "size": "FishBase 收录的最大全长为 30 厘米，常见全长约 15 厘米。",
+    "recognition": [
+      "浅色身体上有黄色吻部带，并与穿过眼部的深色横带相交。",
+      "身体中段有深褐色区，连接臀鳍上方的斜带。尾柄有三列小棘。"
+    ],
+    "reproduction": "卵生。",
+    "behavior": "成鱼较开放地游动但通常胆怯，具领地性。受惊会发出嗡鸣声，睡觉时侧卧。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Rhinecanthus aculeatus",
+        "url": "https://www.fishbase.se/summary/5839"
+      },
+      {
+        "label": "体型记录出处 · Smith et al. 1986 · Balistidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=4420"
+      }
+    ]
+  },
+  "sp_lactophrys_triqueter": {
+    "range": "西大西洋，从加拿大和美国马萨诸塞至巴西，包括百慕大、墨西哥湾和加勒比海。",
+    "size": "FishBase 收录的最大全长为 47 厘米，常见全长约 20 厘米。",
+    "recognition": [
+      "骨板甲壳和尾柄呈黑色或黑褐色，布满细小白点。",
+      "嘴唇及各鳍基部偏黑，尾鳍末端窄白缘内侧有黑带。"
+    ],
+    "reproduction": "",
+    "behavior": "通常单独或小群活动，较容易接近。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Lactophrys triqueter",
+        "url": "https://www.fishbase.se/summary/1109"
+      },
+      {
+        "label": "体型记录出处 · Robins et al. 1986 · A field guide to Atlantic coast fishes of North America",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=7251"
+      }
+    ]
+  },
+  "sp_neogobius_melanostomus": {
+    "range": "原生于亚速海、黑海和里海流域。也被船舶压舱水带入北美。",
+    "size": "FishBase 收录的最大全长为 35 厘米。",
+    "recognition": [
+      "第一背鳍后部有一块明显黑斑。",
+      "第二背鳍第一分枝鳍条与倒数第二根近等长，颈背中线无鳞。"
+    ],
+    "reproduction": "4月至9月繁殖。雌鱼一季可每隔约18–20天重复产卵，雄鱼守卵至孵化。",
+    "behavior": "繁殖期雄鱼全身变黑并守护附着在石头、贝壳或水草上的卵。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Neogobius melanostomus",
+        "url": "https://www.fishbase.se/summary/12019"
+      },
+      {
+        "label": "体型记录出处 · Orhan et al. 2009 · Length-weight relationship for 16 fish species from the Eastern Black Sea, Türkiye",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=88073"
+      }
+    ]
+  },
+  "sp_stegastes_partitus": {
+    "range": "西大西洋，包括美国佛罗里达南部、巴哈马和加勒比海，分布可能延至巴西。",
+    "size": "FishBase 收录的最大全长为 10 厘米。",
+    "recognition": [
+      "身体前半部较暗，至最后一根背鳍棘与臀鳍起点之间突然转为黄色。",
+      "体色会随地理区域变化。"
+    ],
+    "reproduction": "成对繁殖。卵沉底并黏附基质，雄鱼守护和扇动卵。",
+    "behavior": "会强势守卫一小块领地。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Stegastes partitus",
+        "url": "https://www.fishbase.se/summary/3652"
+      },
+      {
+        "label": "体型记录出处 · Claro 1994 · Características generales de la ictiofauna",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=26340"
+      }
+    ]
+  },
+  "sp_lepisosteus_platyrhincus": {
+    "range": "美国乔治亚州萨凡纳河流域至佛罗里达、乔治亚州奥克洛克尼河流域，遍布佛罗里达半岛。",
+    "size": "FishBase 收录的最大全长为 132 厘米，常见全长约 59.5 厘米。",
+    "recognition": [
+      "身体前部和头部有许多深色斑点。",
+      "吻部和下颌较宽，喉峡腹面没有骨板。"
+    ],
+    "reproduction": "",
+    "behavior": "佛罗里达雀鳝会缓慢潜近猎物后伏击，并可吞咽空气，借助与咽部相连的高度血管化鳔在缺氧水中呼吸。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Lepisosteus platyrhincus",
+        "url": "https://www.fishbase.se/summary/2598"
+      },
+      {
+        "label": "体型记录出处 · Page et al. 1991 · A field guide to freshwater fishes of North America north of Mexico",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=5723"
+      },
+      {
+        "label": "佛罗里达自然历史博物馆：Florida Gar",
+        "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/florida-gar/"
+      },
+      {
+        "label": "Animal Diversity Web：Florida Gar（摄食动作与空气呼吸）",
+        "url": "https://animaldiversity.org/accounts/Lepisosteus_platyrhincus/"
+      }
+    ]
+  },
+  "sp_azurina_multilineata": {
+    "range": "西大西洋从佛罗里达、得克萨斯经加勒比海至巴西。东大西洋见于圣赫勒拿、阿森松和圣多美岛。",
+    "size": "FishBase 收录的最大全长为 20 厘米，常见全长约 12 厘米。",
+    "recognition": [
+      "胸鳍基部有显眼黑斑，柔软背鳍基部后方有白斑。",
+      "背部灰褐、体侧银灰。背鳍宽黄边，尾鳍上下缘也带窄黄边。"
+    ],
+    "reproduction": "成对繁殖。卵沉底并黏附基质，雄鱼守护和扇动卵。",
+    "behavior": "日行，常组成中等规模摄食群并离底上游。常与 Chromis cyanea 同域。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Azurina multilineata",
+        "url": "https://www.fishbase.se/summary/1121"
+      },
+      {
+        "label": "体型记录出处 · Emery 1978 · Pomacentridae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=3139"
+      }
+    ]
+  },
+  "sp_cephalopholis_cruentata": {
+    "range": "西大西洋中部，从美国北卡罗来纳至佛罗里达南部、百慕大、墨西哥湾、巴哈马和加勒比海。",
+    "size": "FishBase 收录的最大全长为 42.6 厘米，常见全长约 20 厘米。",
+    "recognition": [
+      "鳃盖有三根扁棘，中间一根最大。",
+      "背鳍基部下方体侧有四个黑色或白色对比斑。"
+    ],
+    "reproduction": "雌鱼可转变为雄鱼。",
+    "behavior": "通常独居而隐蔽，白天待在藏身处附近。活动范围较小。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Cephalopholis cruentata",
+        "url": "https://www.fishbase.se/summary/12"
+      },
+      {
+        "label": "体型记录出处 · IGFA 2001 · Database of IGFA angling records until 2001",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=40637"
+      }
+    ]
+  },
+  "sp_melichthys_niger": {
+    "range": "环全球分布，多数地区不常见，但孤立海洋岛屿周边较多。",
+    "size": "FishBase 收录的最大全长为 50 厘米，常见全长约 30 厘米。",
+    "recognition": [
+      "鳞片上的黑点排列成线，身体后部鳞列具明显纵向棱脊。",
+      "尾鳍后缘前有一道窄白带，尾鳍略圆或略凹。"
+    ],
+    "reproduction": "",
+    "behavior": "常松散成小群，也可单独活动。有时升至底质上方摄食。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Melichthys niger",
+        "url": "https://www.fishbase.se/summary/966"
+      },
+      {
+        "label": "体型记录出处 · Cervigón et al. 1992 · Fichas FAO de identificación de especies para los fines de la pesca. Guía de campo de las especies comerciales marinas y de aquas salobres de la costa septentrional de Sur América",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=5217"
+      }
+    ]
+  },
+  "sp_carassius_gibelio": {
+    "range": "见于欧洲和亚洲。欧洲原生范围因引入、与金鱼混淆及繁殖方式复杂而难以确定。",
+    "size": "FishBase 收录的最大全长为 46.6 厘米，常见全长约 20 厘米。",
+    "recognition": [
+      "体色银褐，腹膜为黑色。",
+      "背鳍和臀鳍末端不分枝鳍条强锯齿状，侧线鳞约29–33枚。"
+    ],
+    "reproduction": "可通过未受精卵的雌核发育繁殖。在温暖浅岸水域、沉水植物上产卵。",
+    "behavior": "耐低氧和污染。冬季湖泊个体会移向河口避开缺氧水域。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Carassius gibelio",
+        "url": "https://www.fishbase.se/summary/6376"
+      },
+      {
+        "label": "体型记录出处 · Verreycken et al. 2011 · Length-weight relationships of 40 freshwater fish species from two decades of monitoring in Flanders (Belgium)",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=88166"
+      }
+    ]
+  },
+  "sp_mulloidichthys_martinicus": {
+    "range": "西大西洋从百慕大和美国佛罗里达至巴西，包括墨西哥湾和加勒比海。东大西洋有佛得角记录。",
+    "size": "FishBase 收录的最大全长为 44.8 厘米，常见全长约 28 厘米。",
+    "recognition": [
+      "浅褐色身体有一条从眼部延至尾鳍基部的黄色纵带。",
+      "尾鳍黄色。与近似种相比，体侧仅有一条黄色纵带。"
+    ],
+    "reproduction": "",
+    "behavior": "常成群，与小口石鲈 Haemulon chrysargyreum 混群，被认为具有社会性保护拟态。",
+    "lookalike": "与小口石鲈 Haemulon chrysargyreum 混群，形成社会性保护拟态。",
+    "sources": [
+      {
+        "label": "FishBase · Mulloidichthys martinicus",
+        "url": "https://www.fishbase.se/summary/1092"
+      },
+      {
+        "label": "体型记录出处 · Oliveira et al. 2015 · Weight-length and length-length relationships for reef fish species from the Cape Verde archipelago (tropical north-eastern Atlantic)",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=104752"
+      }
+    ]
+  },
+  "sp_ocyurus_chrysurus": {
+    "range": "西大西洋，从美国马萨诸塞和百慕大延至巴西东南部，包括墨西哥湾及安的列斯群岛。",
+    "size": "FishBase 收录的最大全长为 86.3 厘米，常见全长约 40 厘米。",
+    "recognition": [
+      "体侧有一条醒目的黄色中侧带，从吻部延至尾柄。",
+      "背部和上侧蓝紫色并散布黄点。背鳍和尾鳍黄色，腹侧偏白。"
+    ],
+    "reproduction": "全年可产卵，不同地区的高峰期各异。",
+    "behavior": "常在离底水层成群活动。夜间觅食更明显。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Ocyurus chrysurus",
+        "url": "https://www.fishbase.se/summary/188"
+      },
+      {
+        "label": "体型记录出处 · Cervigón 1993 · Los peces marinos de Venezuela. Volume 2",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9626"
+      }
+    ]
+  },
+  "sp_canthigaster_rostrata": {
+    "range": "西大西洋中部，从美国南卡罗来纳和百慕大至多巴哥及小安的列斯群岛。",
+    "size": "FishBase 收录的最大全长为 12 厘米。",
+    "recognition": [
+      "尾鳍背缘起有一条短而深色的纵带，延至背鳍基部垂直线附近。",
+      "体侧和背部只有少量斑点，吻部有横带。尾鳍没有明显竖带。"
+    ],
+    "reproduction": "",
+    "behavior": "成对生活。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Canthigaster rostrata",
+        "url": "https://www.fishbase.se/summary/4291"
+      },
+      {
+        "label": "体型记录出处 · Claro 1994 · Características generales de la ictiofauna",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=26340"
+      }
+    ]
+  },
+  "sp_pomacentrus_moluccensis": {
+    "range": "西太平洋，从安达曼海及罗利浅滩至斐济，北至琉球群岛，南至豪勋爵岛。",
+    "size": "FishBase 收录的最大全长为 9 厘米。",
+    "recognition": [
+      "身体整体呈均匀黄色。",
+      "胸鳍基部有小橙斑，但菲律宾个体未必有此斑。"
+    ],
+    "reproduction": "成对繁殖。卵沉底并黏附基质，雄鱼守护和扇动卵。",
+    "behavior": "日行，常组成小群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Pomacentrus moluccensis",
+        "url": "https://www.fishbase.se/summary/5724"
+      },
+      {
+        "label": "体型记录出处 · Kuiter et al. 2001 · Pictorial guide to Indonesian reef fishes. Part 2. Fusiliers - Dragonets, Caesionidae - Callionymidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=48636"
+      }
+    ]
+  },
+  "sp_epinephelus_marginatus": {
+    "range": "东大西洋、地中海和西南大西洋。从比斯开湾南部沿岸至非洲南端，也见于巴西东南部、乌拉圭、阿根廷及西印度洋西部。",
+    "size": "FishBase 收录的最大全长为 150 厘米。",
+    "recognition": [
+      "体背深红褐或灰，腹侧常呈金黄色，头和体侧有不规则浅色斑块。",
+      "中鳍多为深褐色，臀鳍和尾鳍边缘常有窄白边。"
+    ],
+    "reproduction": "雌雄同体，成熟个体会形成繁殖群。",
+    "behavior": "成鱼独居并守卫领地。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Epinephelus marginatus",
+        "url": "https://www.fishbase.se/summary/6470"
+      },
+      {
+        "label": "体型记录出处 · Göthel 1992 · Fauna marina del Mediterráneo",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=12382"
+      }
+    ]
+  },
+  "sp_chlorurus_sordidus": {
+    "range": "印度洋。",
+    "size": "FishBase 收录的最大全长为 40 厘米。",
+    "recognition": [
+      "吻部圆钝。初始色型变化很大，可从深褐到浅灰。",
+      "尾柄可有中央深色的浅斑。终端色型有时在体侧或尾柄出现大片淡褐色区域。"
+    ],
+    "reproduction": "雌鱼可转变为雄鱼。",
+    "behavior": "幼鱼及初始色型个体会组成大群，在觅食区与夜间栖息地之间长距离移动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Chlorurus sordidus",
+        "url": "https://www.fishbase.se/summary/5556"
+      },
+      {
+        "label": "体型记录出处 · Randall et al. 1990 · Fishes of the Great Barrier Reef and Coral Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=2334"
+      }
+    ]
+  },
+  "sp_dascyllus_reticulatus": {
+    "range": "印度洋中东部至西太平洋，从科科斯群岛至萨摩亚和莱恩群岛，北至日本南部，南至罗利浅滩和豪勋爵岛。",
+    "size": "FishBase 收录的最大全长为 9 厘米。",
+    "recognition": [
+      "身体通常发白，吻部、两眼间及额部带绿调。",
+      "体前部有黑色横带，后部常有较淡横带。腹鳍多为黑色。"
+    ],
+    "reproduction": "雄鱼会清理岩石或珊瑚表面作巢，雌鱼将卵附着其上。成对繁殖。",
+    "behavior": "会成群活动，常见于略浑浊的生境。日行。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Dascyllus reticulatus",
+        "url": "https://www.fishbase.se/summary/5113"
+      },
+      {
+        "label": "体型记录出处 · Allen et al. 1988 · Fishes of Christmas Island Indian Ocean",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=30874"
+      }
+    ]
+  },
+  "sp_azurina_cyanea": {
+    "range": "西大西洋，包括百慕大、美国佛罗里达南部和加勒比海。",
+    "size": "FishBase 收录的最大全长为 15 厘米。",
+    "recognition": [
+      "身体鲜蓝色，腹侧颜色稍浅并带黑色纵线。",
+      "背鳍棘部边缘、尾鳍上下叶和臀鳍前缘为黑色。胸鳍基部没有黑斑。"
+    ],
+    "reproduction": "成对繁殖。卵沉底并黏附基质，雄鱼守护和扇动卵。",
+    "behavior": "受惊时会退入珊瑚缝隙，常与海礁隆头鱼同域。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Azurina cyanea",
+        "url": "https://www.fishbase.se/summary/3642"
+      },
+      {
+        "label": "体型记录出处 · Reiner 1996 · Catálogo dos peixes do arquipélago de Cabo Verde",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=27000"
+      }
+    ]
+  },
+  "sp_stegastes_planifrons": {
+    "range": "西大西洋，包括美国佛罗里达南部、巴哈马及加勒比海。",
+    "size": "FishBase 收录的最大全长为 13 厘米。",
+    "recognition": [
+      "成鱼灰褐色略带黄调，鳞列形成暗色纵线，胸鳍基部有大块黑斑。",
+      "幼鱼鲜黄色，背鳍交界、尾柄背侧和胸鳍上缘各有黑斑。"
+    ],
+    "reproduction": "成对繁殖。卵沉底并黏附基质，雄鱼守护和扇动卵。",
+    "behavior": "成鱼强势守卫大块领地，会驱赶靠近的鱼甚至潜水者。幼鱼也会取食其他鱼体表寄生物。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Stegastes planifrons",
+        "url": "https://www.fishbase.se/summary/3653"
+      },
+      {
+        "label": "体型记录出处 · Claro 1994 · Características generales de la ictiofauna",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=26340"
+      }
+    ]
+  },
+  "sp_holocentrus_rufus": {
+    "range": "西大西洋，从百慕大和美国佛罗里达南部至南美洲北部和巴西，遍布西印度群岛。",
+    "size": "FishBase 收录的最大全长为 35 厘米，常见全长约 25 厘米。",
+    "recognition": [
+      "身体鲜红或具红色条纹，体形较修长。",
+      "每根背鳍棘尖后方都有醒目的白斑。"
+    ],
+    "reproduction": "",
+    "behavior": "夜行。",
+    "lookalike": "外观近似 Holocentrus ascensionis，但本种背鳍每个棘间膜靠边缘处都有白斑。",
+    "sources": [
+      {
+        "label": "FishBase · Holocentrus rufus",
+        "url": "https://www.fishbase.se/summary/1062"
+      },
+      {
+        "label": "体型记录出处 · Cervigón et al. 1992 · Fichas FAO de identificación de especies para los fines de la pesca. Guía de campo de las especies comerciales marinas y de aquas salobres de la costa septentrional de Sur América",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=5217"
+      }
+    ]
+  },
+  "sp_rhinichthys_atratulus": {
+    "range": "北美大西洋、五大湖、哈德逊湾、密西西比河及莫比尔湾上游流域，从加拿大新斯科舍至曼尼托巴，南至美国乔治亚北部和阿拉巴马北部。",
+    "size": "FishBase 收录的最大全长为 12.4 厘米，常见全长约 5.7 厘米。",
+    "recognition": [
+      "身体纺锤状，背部和体侧布满褐黑小点，口角有触须。",
+      "眼部至吻端有黑色纵带。幼鱼连续，成鱼较呈斑块状，背鳍基部附近有黑斑和银斑。"
+    ],
+    "reproduction": "",
+    "behavior": "黑鼻雅罗鱼主要在水底取食水生昆虫幼虫，常见食物包括摇蚊、黑蝇和蜉蝣幼虫。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Rhinichthys atratulus",
+        "url": "https://www.fishbase.se/summary/2943"
+      },
+      {
+        "label": "体型记录出处 · Etnier et al. 1993 · The fishes of Tennessee",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=10294"
+      },
+      {
+        "label": "美国国家海洋和大气管理局：Blacknose Dace物种资料",
+        "url": "https://repository.library.noaa.gov/view/noaa/44471/noaa_44471_DS1.pdf"
+      },
+      {
+        "label": "安大略淡水鱼类生活史数据库：Blacknose Dace",
+        "url": "https://www.ontariofishes.ca/fish_detail.php?FID=69"
+      }
+    ]
+  },
+  "sp_johnrandallia_nigrirostris": {
+    "range": "东太平洋，从加利福尼亚湾至巴拿马，包括科科斯、马尔佩洛和加拉帕戈斯群岛。",
+    "size": "FishBase 收录的最大全长为 20 厘米，常见全长约 14 厘米。",
+    "recognition": [
+      "身体高而侧扁，整体偏黄，吻部有深色斑，眼周有黑边。",
+      "鳃盖后缘、胸鳍基部、颈背及背鳍基部上方带黑色。"
+    ],
+    "reproduction": "繁殖时成对。",
+    "behavior": "常组成大群。会啄食较大鱼类体表的寄生虫。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Johnrandallia nigrirostris",
+        "url": "https://www.fishbase.se/summary/12310"
+      },
+      {
+        "label": "体型记录出处 · Schneider 1995 · Chaetodontidae. Peces mariposa",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9286"
+      }
+    ]
+  },
+  "sp_gerres_cinereus": {
+    "range": "西大西洋，从百慕大、美国佛罗里达和墨西哥湾经加勒比海至巴西里约热内卢。",
+    "size": "FishBase 收录的最大全长为 41 厘米，常见全长约 30 厘米。",
+    "recognition": [
+      "身体银色，体侧有约七条淡粉色竖带。",
+      "腹鳍黄色。"
+    ],
+    "reproduction": "",
+    "behavior": "可小群活动。常把吻部伸入沙地觅食，再从鳃孔排出沙粒。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Gerres cinereus",
+        "url": "https://www.fishbase.se/summary/1054"
+      },
+      {
+        "label": "体型记录出处 · Robins et al. 1986 · A field guide to Atlantic coast fishes of North America",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=7251"
+      }
+    ]
+  },
+  "sp_cirrhitichthys_oxycephalus": {
+    "range": "印度—太平洋，从红海和南非东伦敦至马克萨斯群岛，北至马里亚纳群岛，南至新喀里多尼亚。东太平洋见于加利福尼亚湾至哥伦比亚及加拉帕戈斯。",
+    "size": "FishBase 收录的最大标准体长为 15.16 厘米。",
+    "recognition": [
+      "体色变化大，可呈浅色配灰黑斑或粉红色配鲜红斑。",
+      "体侧常有横向排列的方形深褐斑，侧线处夹有较小斑点，头部也散布小褐点。"
+    ],
+    "reproduction": "",
+    "behavior": "雄鱼有领地性，实行一雄多雌的繁殖群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Cirrhitichthys oxycephalus",
+        "url": "https://www.fishbase.se/summary/5830"
+      },
+      {
+        "label": "体型记录出处 · Price et al. 2022 · FishShapes v1: Functionally relevant measurements of teleost shape and size on three dimensions",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=137577"
+      },
+      {
+        "label": "东沙环礁国家公园鱼类资源调查",
+        "url": "https://www.marine.gov.tw/filesys/107/107%E6%9D%B1%E6%B2%99%E7%92%B0%E7%A4%81%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92%E9%AD%9A%E9%A1%9E%E8%B3%87%E6%BA%90%E8%AA%BF%E6%9F%A5.pdf"
+      }
+    ]
+  },
+  "sp_cephalopholis_miniata": {
+    "range": "印度—太平洋，从红海和南非德班至莱恩群岛，分布于印度洋及西中太平洋多数岛屿。",
+    "size": "FishBase 收录的最大全长为 50 厘米。",
+    "recognition": [
+      "橙红至红褐色，头、身体和中间各鳍布满小于瞳孔的亮蓝点。",
+      "尾鳍末缘常有窄蓝边，内侧带黑色细线。幼鱼可呈黄色并有稀疏蓝点。"
+    ],
+    "reproduction": "",
+    "behavior": "组成一雄多雌的群体，群体领地可细分为雌鱼各自守卫的区域。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Cephalopholis miniata",
+        "url": "https://www.fishbase.se/summary/6450"
+      },
+      {
+        "label": "体型记录出处 · Allen et al. 2012 · Reef fishes of the East Indies",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=90102"
+      }
+    ]
+  },
+  "sp_culaea_inconstans": {
+    "range": "北美，从加拿大新斯科舍至西北地区和不列颠哥伦比亚。美国五大湖—密西西比河流域南至俄亥俄南部、内布拉斯加及蒙大拿。",
+    "size": "FishBase 收录的最大全长为 8.7 厘米，常见全长约 5 厘米。",
+    "recognition": [
+      "背部有4–6根短棘，方向不偏向左右。",
+      "橄榄绿身体侧面有许多浅色斑点或波状横纹，尾柄侧面没有龙骨。"
+    ],
+    "reproduction": "雄鱼筑巢，并守护、扇动巢中的卵。",
+    "behavior": "雄鱼筑巢，并守护、搧动巢中的卵。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Culaea inconstans",
+        "url": "https://www.fishbase.se/summary/3271"
+      },
+      {
+        "label": "体型记录出处 · Page et al. 1991 · A field guide to freshwater fishes of North America north of Mexico",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=5723"
+      }
+    ]
+  },
+  "sp_ophioblennius_steindachneri": {
+    "range": "东太平洋，从墨西哥巴哈塞巴斯蒂安维斯卡伊诺湾及加利福尼亚湾北部至秘鲁，包括加拉帕戈斯群岛。",
+    "size": "FishBase 收录的最大标准体长为 18 厘米，常见全长约 12 厘米。",
+    "recognition": [
+      "圆筒形身体，眼上、颈背及前鼻孔后缘有皮质触须。",
+      "上下颌各有一列切缘状牙齿。背鳍和臀鳍较长。"
+    ],
+    "reproduction": "卵沉底并具黏性，以丝状黏垫固定在基质上。幼鱼在近岸水域浮游。",
+    "behavior": "日间觅食，会冲出藏身处防守领地。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Ophioblennius steindachneri",
+        "url": "https://www.fishbase.se/summary/8300"
+      },
+      {
+        "label": "体型记录出处 · Grove et al. 1997 · The fishes of the Galápagos Islands",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=28023"
+      }
+    ]
+  },
+  "sp_amphiprion_perideraion": {
+    "range": "西太平洋，从泰国湾及东印度洋科科斯群岛至萨摩亚、汤加，北至琉球群岛，南至大堡礁和新喀里多尼亚。",
+    "size": "FishBase 收录的最大全长为 10 厘米。",
+    "recognition": [
+      "橙色身体，鳍透明。",
+      "一条白纹沿背部轮廓从吻部延至尾柄，另有一条白色竖带位于头与躯干交界。"
+    ],
+    "reproduction": "雌性可先成熟、之后转变为雄性。成对产卵，卵黏附基质，由雄鱼守护和扇动。",
+    "behavior": "主要日行，不掘洞，常成对并保持单配偶关系。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Amphiprion perideraion",
+        "url": "https://www.fishbase.se/summary/2024"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_pimephales_promelas": {
+    "range": "北美广布，从加拿大魁北克及西北地区、不列颠哥伦比亚至美国阿拉巴马、得克萨斯和墨西哥。多个地区有引入记录。",
+    "size": "FishBase 收录的最大全长为 10.1 厘米，常见全长约 7.25 厘米。",
+    "recognition": [
+      "雄鱼颈背有明显海绵状组织垫。",
+      "侧线不完整，通常未延至背鳍起点。身体侧面中线较淡。"
+    ],
+    "reproduction": "在岸边静水区域产卵。",
+    "behavior": "在冬季缺氧中存活的个体解冻后可快速生长。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Pimephales promelas",
+        "url": "https://www.fishbase.se/summary/4785"
+      },
+      {
+        "label": "体型记录出处 · Etnier et al. 1993 · The fishes of Tennessee",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=10294"
+      }
+    ]
+  },
+  "sp_myripristis_jacobus": {
+    "range": "西大西洋，从美国北卡罗来纳、巴哈马和墨西哥湾北部至巴西，遍布西印度群岛和加勒比海。东大西洋见于圣保罗岩、佛得角及若干岛屿。",
+    "size": "FishBase 收录的最大全长为 25 厘米，常见全长约 20 厘米。",
+    "recognition": [
+      "鳃裂后缘有一条深褐色竖带延至胸鳍。",
+      "身体深而侧扁，上部红色、腹侧渐转银白。各鳍边缘为白色。"
+    ],
+    "reproduction": "",
+    "behavior": "夜行，常在礁区附近聚集。偶尔倒游。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Myripristis jacobus",
+        "url": "https://www.fishbase.se/summary/1063"
+      },
+      {
+        "label": "体型记录出处 · Cervigón et al. 1992 · Fichas FAO de identificación de especies para los fines de la pesca. Guía de campo de las especies comerciales marinas y de aquas salobres de la costa septentrional de Sur América",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=5217"
+      }
+    ]
+  },
+  "sp_amblyglyphidodon_curacao": {
+    "range": "西太平洋，从东印度洋罗利浅滩及马来西亚至萨摩亚、汤加，北至琉球群岛，南至大堡礁。",
+    "size": "FishBase 收录的最大全长为 11 厘米。",
+    "recognition": [
+      "体色有明显地理变异，印尼成鱼可呈绿色并带暗色横带。",
+      "身体较高，体深约为标准体长的1.6–1.7倍。"
+    ],
+    "reproduction": "成对繁殖，死珊瑚枝可作巢。卵沉底并黏附基质，由雄鱼守护和扇动。",
+    "behavior": "常在鹿角珊瑚上方形成摄食群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Amblyglyphidodon curacao",
+        "url": "https://www.fishbase.se/summary/5477"
+      },
+      {
+        "label": "体型记录出处 · Kuiter et al. 2001 · Pictorial guide to Indonesian reef fishes. Part 2. Fusiliers - Dragonets, Caesionidae - Callionymidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=48636"
+      }
+    ]
+  },
+  "sp_bodianus_rufus": {
+    "range": "西大西洋，从百慕大、美国佛罗里达南部经墨西哥湾和加勒比海至巴西南部。",
+    "size": "FishBase 收录的最大全长为 40 厘米，常见全长约 28 厘米。",
+    "recognition": [
+      "浅水个体头部、身体前上部和背鳍前段为蓝色。深水个体相应部位可呈红色。",
+      "身体其余部分及尾部黄色，背、臀和腹鳍多为蓝色或后段黄红色。"
+    ],
+    "reproduction": "雌鱼可转变为雄鱼。产卵时成对。",
+    "behavior": "幼鱼会为大型鱼清除寄生虫。",
+    "lookalike": "可能与 Bodianus pulchellus 杂交。",
+    "sources": [
+      {
+        "label": "FishBase · Bodianus rufus",
+        "url": "https://www.fishbase.se/summary/1067"
+      },
+      {
+        "label": "体型记录出处 · Cervigón 1993 · Los peces marinos de Venezuela. Volume 2",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9626"
+      }
+    ]
+  },
+  "sp_brevoortia_tyrannus": {
+    "range": "西大西洋，从纽芬兰和拉布拉多至加拿大新斯科舍，南达美国佛罗里达印第安河。",
+    "size": "FishBase 收录的最大全长为 50 厘米。",
+    "recognition": [
+      "上颌中央有缺刻，鳃盖后有黑斑，体侧沿线约有六列较小斑点。",
+      "身体银色、侧面带黄铜光泽，背部深蓝绿。"
+    ],
+    "reproduction": "全年可能都有产卵。河口为育幼场，幼体先在大陆架水域浮游，长大后进入河口。",
+    "behavior": "幼鱼和成鱼都形成紧密大群，并沿南北及海湾内外迁移。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Brevoortia tyrannus",
+        "url": "https://www.fishbase.se/summary/1592"
+      },
+      {
+        "label": "体型记录出处 · Whitehead 1985 · FAO Species Catalogue. Vol. 7. Clupeoid fishes of the world (suborder Clupeoidei). An annotated and illustrated catalogue of the herrings, sardines, pilchards, sprats, shads, anchovies and wolf-herrings",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=188"
+      }
+    ]
+  },
+  "sp_sparisoma_rubripinne": {
+    "range": "西大西洋和加勒比海。",
+    "size": "FishBase 收录的最大全长为 47.8 厘米。",
+    "recognition": [
+      "初始色型为浅灰褐色、腹侧近白，下巴有深浅相间横带，尾柄和尾鳍黄色。",
+      "臀鳍和腹鳍红色。终端期雄鱼呈暗绿或蓝绿色，胸鳍基部上半有大黑斑。"
+    ],
+    "reproduction": "多为同色型雄鱼与雌鱼群体产卵。雌鱼可转变为雄鱼。",
+    "behavior": "鱼停在底部时可迅速转为斑驳体色。",
+    "lookalike": "注意勿与东南大西洋的 Sparisoma axillare 或东大西洋的 S. chaoti 混淆。",
+    "sources": [
+      {
+        "label": "FishBase · Sparisoma rubripinne",
+        "url": "https://www.fishbase.se/summary/1160"
+      },
+      {
+        "label": "体型记录出处 · Cervigón 1994 · Los peces marinos de Venezuela. Volume 3",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=13628"
+      }
+    ]
+  },
+  "sp_anguilla_anguilla": {
+    "range": "东北大西洋沿岸，从斯堪的纳维亚至摩洛哥。也见于波罗的海、黑海、地中海及其相连河流。繁殖区位于西大西洋马尾藻海。",
+    "size": "FishBase 收录的最大全长为 133 厘米，常见全长约 35 厘米。",
+    "recognition": [
+      "身体细长，前段近圆筒形、后段侧扁。下颌略长于上颌。",
+      "背鳍、尾鳍和臀鳍连成一条连续鳍缘，腹鳍缺失。体色通常呈绿褐色。"
+    ],
+    "reproduction": "透明的叶状柳叶鳗随洋流向欧洲沿岸漂移，抵达后变态为玻璃鳗并进入河口。",
+    "behavior": "通常独居并具有领域性。成熟个体长距离迁往马尾藻海繁殖。",
+    "lookalike": "与美洲鳗鲡外形相似。本种分布于欧洲及地中海一带，美洲鳗鲡见于西大西洋。",
+    "sources": [
+      {
+        "label": "FishBase · Anguilla anguilla",
+        "url": "https://www.fishbase.se/summary/35"
+      },
+      {
+        "label": "体型记录出处 · Verreycken et al. 2011 · Length-weight relationships of 40 freshwater fish species from two decades of monitoring in Flanders (Belgium)",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=88166"
+      }
+    ]
+  },
+  "sp_rhinecanthus_rectangulus": {
+    "range": "印度—太平洋，从红海及东非经印度尼西亚、澳大利亚北部至夏威夷和皮特凯恩群岛，北达日本南部。",
+    "size": "FishBase 收录的最大全长为 30 厘米。",
+    "recognition": [
+      "头部和腹面白色，背部橙褐色。眼部有黑带，延伸至胸鳍与臀鳍基部之间的大黑区。",
+      "尾柄及后躯有醒目的黑色三角斑，圆形尾鳍。尾柄周围可见数列向前突出的细棘。"
+    ],
+    "reproduction": "卵生。",
+    "behavior": "具有领域性。",
+    "lookalike": "其眼部黑带与躯干黑区的连接方式，以及尾柄上的三角黑斑，有助于区别其他斜带鲀属鱼类。",
+    "sources": [
+      {
+        "label": "FishBase · Rhinecanthus rectangulus",
+        "url": "https://www.fishbase.se/summary/5840"
+      },
+      {
+        "label": "体型记录出处 · Sommer et al. 1996 · FAO species identification field guide for fishery purposes. The living marine resources of Somalia",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=30573"
+      }
+    ]
+  },
+  "sp_plotosus_lineatus": {
+    "range": "印度—太平洋，从红海和东非至萨摩亚，北至日本南部、朝鲜半岛南部，南至澳大利亚及豪勋爵岛。",
+    "size": "FishBase 收录的最大全长为 35.2 厘米，常见全长约 25 厘米。",
+    "recognition": [
+      "身体上部黑褐色、腹面白色，头至尾部有两条窄白纵纹。",
+      "口周有四对触须。第一背鳍及胸鳍各有一根具锯齿、带毒的硬棘。"
+    ],
+    "reproduction": "卵生，卵沉于底部，孵化出的幼体在浮游阶段生活。",
+    "behavior": "幼鱼常聚成约百尾的紧密球状群。成鱼多独游或小群活动，白天会躲在礁石悬檐下。",
+    "lookalike": "与其他条纹状海鲶相比，本种兼具四对口须和连续的背、臀、尾鳍缘。",
+    "sources": [
+      {
+        "label": "FishBase · Plotosus lineatus",
+        "url": "https://www.fishbase.se/summary/4706"
+      },
+      {
+        "label": "体型记录出处 · Ueng et al. 2022 · Sexual dimorphism, length-weight relationships, fecundity, and diet of the striped eel catfish Plotosus lineatus (Plotosidae) on Taiwan's southwest coast",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=127810"
+      }
+    ]
+  },
+  "sp_gobius_niger": {
+    "range": "东大西洋及地中海，从毛里塔尼亚北部沿非洲北岸和欧洲海岸至挪威特隆赫姆，并见于波罗的海和黑海。",
+    "size": "FishBase 收录的最大全长为 25.3 厘米。",
+    "recognition": [
+      "颈部有鳞。两枚背鳍的前端各有一枚黑斑。",
+      "身体略扁、近圆筒状，眼位于头部背侧两边。鳔退化。"
+    ],
+    "reproduction": "",
+    "behavior": "常贴近底部活动，能够在海草和藻丛间觅食。",
+    "lookalike": "可与其他虾虎鱼混淆。两枚背鳍前端各有黑斑、颈部有鳞是识别线索。",
+    "sources": [
+      {
+        "label": "FishBase · Gobius niger",
+        "url": "https://www.fishbase.se/summary/72"
+      },
+      {
+        "label": "体型记录出处 · Kalaycı et al. 2007 · Length-weight relationship of 10 fish species caught by bottom trawl and midwater trawl from the Middle Black Sea, Turkey",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=86715"
+      }
+    ]
+  },
+  "sp_parupeneus_barberinus": {
+    "range": "印度—太平洋，从亚丁湾、阿曼及非洲东岸至南非莫塞尔湾，向东至密克罗尼西亚、莱恩群岛、马克萨斯群岛和土阿莫土群岛。北至日本南部，南达澳大利亚和新喀里多尼亚。",
+    "size": "FishBase 收录的最大全长为 60 厘米，常见全长约 30 厘米。",
+    "recognition": [
+      "体侧有一条深褐至黑色纵带，从上唇经眼下延至第二背鳍下方。带上方偏黄，下方发白。",
+      "下颌有一对长触须。胸鳍通常有17根鳍条。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼通常独游或小群活动，觅食主要在白天进行。",
+    "lookalike": "与其他副绯鲤相比，贯穿头部和体侧的深色纵带及较长的颏须是主要辨识点。",
+    "sources": [
+      {
+        "label": "FishBase · Parupeneus barberinus",
+        "url": "https://www.fishbase.se/summary/5987"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_novaculichthys_taeniourus": {
+    "range": "印度—太平洋，从红海至南非及土阿莫土群岛，北至琉球和夏威夷，南至豪勋爵岛。东太平洋从加利福尼亚湾至巴拿马及加алап戈斯群岛。",
+    "size": "FishBase 收录的最大全长为 30 厘米。",
+    "recognition": [
+      "幼鱼背鳍前部有显著延长的鳍棘，外形像漂在海底的叶片。",
+      "成年个体体型较大，常成对活动。头部和口部适于翻动碎石或珊瑚残片。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼会用嘴或吻部翻转碎石和残骸以暴露猎物。幼鱼在浅处摆动身体，模拟随流漂叶。",
+    "lookalike": "幼鱼的长背鳍棘与叶片般游姿很醒目，但不应仅凭这种姿态将其误认为漂浮物。",
+    "sources": [
+      {
+        "label": "FishBase · Novaculichthys taeniourus",
+        "url": "https://www.fishbase.se/summary/5610"
+      },
+      {
+        "label": "体型记录出处 · Randall et al. 1990 · Fishes of the Great Barrier Reef and Coral Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=2334"
+      }
+    ]
+  },
+  "sp_anguilla_rostrata": {
+    "range": "西北大西洋，从格陵兰沿加拿大和美国大西洋沿岸南至巴拿马，并遍布西印度群岛，南达特立尼达。",
+    "size": "FishBase 收录的最大全长为 152 厘米，常见全长约 50 厘米。",
+    "recognition": [
+      "身体细长，下颌突出于上颌，嘴唇较厚。成鱼背部褐色至蓝黑色，腹面常呈浅色。",
+      "尾鳍圆，且与背鳍、臀鳍相连。胸鳍发达，鳃孔位于其前方。"
+    ],
+    "reproduction": "海中孵化的透明柳叶鳗向近岸漂移，随后变态为鳗线并进入河口。",
+    "behavior": "秋季离开淡水，迁往马尾藻海繁殖。在淡水中的成熟时间可从不足十年至数十年不等。",
+    "lookalike": "与欧洲鳗鲡相似，但本种为西大西洋分布。欧洲鳗鲡的主要分布区在东大西洋及欧洲内陆水系。",
+    "sources": [
+      {
+        "label": "FishBase · Anguilla rostrata",
+        "url": "https://www.fishbase.se/summary/296"
+      },
+      {
+        "label": "体型记录出处 · Smith 1997 · National Audubon Society field guide to tropical marine fishes of the Caribbean, the Gulf of Mexico, Florida, the Bahamas, and Bermuda",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=26938"
+      }
+    ]
+  },
+  "sp_gobiesox_maeandricus": {
+    "range": "东北太平洋，从阿拉斯加东南部至美国加利福尼亚南部，并见于墨西哥下加利福尼亚外海及雷维利亚希赫多群岛。",
+    "size": "FishBase 收录的最大全长为 16 厘米。",
+    "recognition": [
+      "腹面有发达的吸附盘，边缘具宽阔皮褶。腹鳍前部由乳突状膜连接。",
+      "体色可为浅橄榄褐至樱桃红，常有深色网纹。眼周深色放射纹可相连成网。"
+    ],
+    "reproduction": "",
+    "behavior": "离水后能在岩石或海藻下停留，并可在空气中呼吸。",
+    "lookalike": "其腹面吸盘状结构与多数底栖小鱼不同，是识别喉盘鱼类的关键。",
+    "sources": [
+      {
+        "label": "FishBase · Gobiesox maeandricus",
+        "url": "https://www.fishbase.se/summary/3075"
+      },
+      {
+        "label": "体型记录出处 · Eschmeyer et al. 1983 · A field guide to Pacific coast fishes of North America",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=2850"
+      }
+    ]
+  },
+  "sp_neoniphon_sammara": {
+    "range": "印度—太平洋，从红海及东非至马克萨斯和杜西群岛，北至日本南部、硫磺岛和夏威夷，南至澳大利亚北部及豪勋爵岛。",
+    "size": "FishBase 收录的最大全长为 32 厘米，常见全长约 23 厘米。",
+    "recognition": [
+      "体色上部粉银、腹面银白，鳞片常有深红至黑色斑点，侧线沿线带红色。",
+      "背鳍前部有大黑斑，背鳍棘端带白色并有三角形白记。胸鳍淡粉色，腹鳍白色。"
+    ],
+    "reproduction": "",
+    "behavior": "可成群活动，属于与底层相关的鱼类。前鳃盖角有具毒棘。",
+    "lookalike": "与其他新东洋鲈属鱼相比，背鳍前部黑斑及白色棘端、基部三角记号较醒目。",
+    "sources": [
+      {
+        "label": "FishBase · Neoniphon sammara",
+        "url": "https://www.fishbase.se/summary/4911"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_parablennius_marmoreus": {
+    "range": "西大西洋，从美国纽约州、百慕大和巴哈马，经墨西哥湾延至巴西南部。",
+    "size": "FishBase 收录的最大全长为 8.5 厘米。",
+    "recognition": [
+      "体表散布许多细小褐斑，背鳍前端有小黑斑，臀鳍边缘浅色。",
+      "眼上触须分枝，头顶没有中央一列触须。"
+    ],
+    "reproduction": "卵黏附于基底，借助丝状黏性垫或柄固定。幼体浮游，常见于浅海近岸。",
+    "behavior": "成鱼利用岩块凹处和海扇等结构隐蔽，幼鱼也可借漂浮马尾藻扩散。",
+    "lookalike": "与其他副鳚属鱼可依据头部触须区分，本种眼上触须分枝，鼻孔触须不成中央纵列。",
+    "sources": [
+      {
+        "label": "FishBase · Parablennius marmoreus",
+        "url": "https://www.fishbase.se/summary/3769"
+      },
+      {
+        "label": "体型记录出处 · Robins et al. 1986 · A field guide to Atlantic coast fishes of North America",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=7251"
+      }
+    ]
+  },
+  "sp_pachymetopon_blochii": {
+    "range": "东南大西洋，从安哥拉沿非洲西岸至南非。",
+    "size": "FishBase 收录的最大全长为 46 厘米，常见全长约 25 厘米。",
+    "recognition": [
+      "体色青铜褐，腹面较浅。",
+      "牙齿呈切缘状，适于啃取附着食物。"
+    ],
+    "reproduction": "",
+    "behavior": "在岩底觅食，食谱同时包括藻类和多类底栖动物。",
+    "lookalike": "可与其他切齿鲷区分时参考其青铜褐色体色及浅色腹面。单凭颜色仍需结合牙齿特征。",
+    "sources": [
+      {
+        "label": "FishBase · Pachymetopon blochii",
+        "url": "https://www.fishbase.se/summary/5505"
+      },
+      {
+        "label": "体型记录出处 · Smith et al. 1986 · Sparidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=3198"
+      }
+    ]
+  },
+  "sp_haemulon_plumierii": {
+    "range": "西大西洋，从美国切萨皮克湾经墨西哥湾和加勒比海延至巴西，包括安的列斯群岛。",
+    "size": "FishBase 收录的最大全长为 53 厘米，常见全长约 30 厘米。",
+    "recognition": [
+      "头侧有窄蓝色条纹，体色通常浅黄，但个体颜色有变化。",
+      "侧线上方的鳞片明显大于下方鳞片。侧线下方鳞列呈斜向排列。"
+    ],
+    "reproduction": "",
+    "behavior": "争夺地盘时会出现张口相顶的“亲吻”式展示，两鱼以嘴部互相推挤。",
+    "lookalike": "与其他石鲈类相比，头侧蓝色细纹和侧线上方较大的鳞片有助于识别。",
+    "sources": [
+      {
+        "label": "FishBase · Haemulon plumierii",
+        "url": "https://www.fishbase.se/summary/1140"
+      },
+      {
+        "label": "体型记录出处 · IGFA 2001 · Database of IGFA angling records until 2001",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=40637"
+      }
+    ]
+  },
+  "sp_parablennius_gattorugine": {
+    "range": "东北大西洋，从爱尔兰沿岸至摩洛哥，并见于地中海和马尔马拉海。仅确认分布于葡萄牙大陆沿岸。",
+    "size": "FishBase 收录的最大全长为 30 厘米，常见全长约 17.5 厘米。",
+    "recognition": [
+      "鼻孔和眼上均有触须。上颌没有犬齿。",
+      "繁殖雄鱼呈巧克力褐色，臀鳍棘条上可见球状腺体。"
+    ],
+    "reproduction": "通常在3至5月产卵。雄鱼守护来自多只雌鱼的卵，直至幼体约一个月后孵出。卵黏附于基底，幼体进入浮游阶段。",
+    "behavior": "活动高峰在黎明和黄昏。",
+    "lookalike": "旧文献中亚速尔和马德拉的记录被认为是近似种红副鳚的误鉴，不宜据此扩展本种分布。",
+    "sources": [
+      {
+        "label": "FishBase · Parablennius gattorugine",
+        "url": "https://www.fishbase.se/summary/48"
+      },
+      {
+        "label": "体型记录出处 · Bauchot 1987 · Poissons osseux",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=3397"
+      }
+    ]
+  },
+  "sp_anisotremus_virginicus": {
+    "range": "西大西洋，从美国佛罗里达和百慕大（引入种群）经墨西哥湾、加勒比海至巴西。",
+    "size": "FishBase 收录的最大全长为 40.6 厘米，常见全长约 25 厘米。",
+    "recognition": [
+      "体侧呈黄色与银蓝色条纹，鳍为黄色。",
+      "有两条醒目的黑色竖带，一条从颈背经眼到口，另一条从背鳍起点延至胸鳍基部。"
+    ],
+    "reproduction": "",
+    "behavior": "幼鱼会从较大鱼体表啄食寄生虫。",
+    "lookalike": "加勒比海仿石鲈中，本种两条黑色竖带与黄色纵纹的组合具有辨识度。",
+    "sources": [
+      {
+        "label": "FishBase · Anisotremus virginicus",
+        "url": "https://www.fishbase.se/summary/1124"
+      },
+      {
+        "label": "体型记录出处 · IGFA 2001 · Database of IGFA angling records until 2001",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=40637"
+      }
+    ]
+  },
+  "sp_rhinichthys_cataractae": {
+    "range": "北美洲北纬约40度以北横跨大陆，北至马更些河流域的北极圈附近。南至阿巴拉契亚山脉的乔治亚州北部及落基山脉的德克萨斯州、新墨西哥北部。",
+    "size": "FishBase 收录的最大全长为 22.5 厘米，常见全长约 9.45 厘米。",
+    "recognition": [
+      "吻部细长并突出于上唇，吻端与上唇之间没有沟槽。",
+      "口角有触须。"
+    ],
+    "reproduction": "在松散砾石底的浅坑上产卵。",
+    "behavior": "成鱼常成群活动。幼鱼在孵化后约四个月内可生活于水体开放层。",
+    "lookalike": "与其他北美小型鲤科鱼区分时，可检查吻部是否悬垂、口角触须及吻端无沟槽。",
+    "sources": [
+      {
+        "label": "FishBase · Rhinichthys cataractae",
+        "url": "https://www.fishbase.se/summary/2944"
+      },
+      {
+        "label": "体型记录出处 · Roberts et al. 2001 · Reproductive characteristics of female longnose dace in the Coweeta Creek drainage, North Carolina, USA",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=51971"
+      }
+    ]
+  },
+  "sp_scolopsis_margaritifera": {
+    "range": "西太平洋，从南海至瓦努阿图和澳大利亚西北部。",
+    "size": "FishBase 收录的最大全长为 28 厘米，常见标准体长约 15 厘米。",
+    "recognition": [
+      "吻部眼前有两条珍珠白色细纹，体上部橄榄色、腹面白色。尾鳍下叶带红色。",
+      "第一背鳍前四根棘之间有黑斑。腹鳍较长，可达臀鳍起点附近。"
+    ],
+    "reproduction": "",
+    "behavior": "幼鱼可能模仿毒牙鳚属小鱼的外观，从而获得类似有毒鱼类的保护。",
+    "lookalike": "幼鱼体侧中线黑带可能使其与毒牙鳚混淆。其眼前白色双纹、背鳍前部黑斑可用于复核。",
+    "sources": [
+      {
+        "label": "FishBase · Scolopsis margaritifera",
+        "url": "https://www.fishbase.se/summary/5878"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_plectorhinchus_chaetodonoides": {
+    "range": "印度—西太平洋，从马尔代夫和科科斯群岛，经苏门答腊至斐济和新喀里多尼亚，北至琉球群岛，南至罗利浅滩。",
+    "size": "FishBase 收录的最大全长为 72 厘米，常见标准体长约 60 厘米。",
+    "recognition": [
+      "成鱼身体布满通常大于瞳孔的深褐色斑点，厚唇随年龄增长更为明显。",
+      "幼鱼体呈褐色并有边界清楚的乳白色大斑块，斑块上后来逐渐出现褐点。幼鱼尾鳍深叉，成鱼则较浅叉至近平截。"
+    ],
+    "reproduction": "",
+    "behavior": "幼鱼可能模仿有毒扁形虫。成鱼白天躲藏、夜间觅食。",
+    "lookalike": "幼鱼的乳白色大斑块和成鱼遍布深褐斑点的体表，随成长变化显著，鉴别时需考虑年龄阶段。",
+    "sources": [
+      {
+        "label": "FishBase · Plectorhinchus chaetodonoides",
+        "url": "https://www.fishbase.se/summary/6364"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_echeneis_naucrates": {
+    "range": "环热带海域分布。",
+    "size": "FishBase 收录的最大全长为 110 厘米，常见标准体长约 66 厘米。",
+    "recognition": [
+      "身体灰色，体侧有深褐至黑色纵带，纵带上下各有一条窄白边，从眼后延至尾柄。",
+      "头顶有椭圆形横向吸盘，吸盘由多片横列薄板构成。成鱼尾鳍近截形，上下叶长于中部鳍条。"
+    ],
+    "reproduction": "",
+    "behavior": "可暂时吸附在鲨、鳐、大型硬骨鱼、海龟、鲸豚乃至船体上，也会跟随潜水者。幼鱼偶尔在礁区为鹦嘴鱼清洁。",
+    "lookalike": "纵向吸附盘是辨认印鱼的关键结构。体侧黑带及其上下白边可进一步区别近似种。",
+    "sources": [
+      {
+        "label": "FishBase · Echeneis naucrates",
+        "url": "https://www.fishbase.se/summary/2467"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_aetobatus_ocellatus": {
+    "range": "印度—西太平洋，东非、红海至夏威夷和法属波利尼西亚。",
+    "size": "FishBase 收录的最大体盘宽为 300 厘米，常见体盘宽约 180 厘米。",
+    "recognition": [
+      "背面深灰绿色，散布白色斑点，少数斑点呈眼状。",
+      "尾部细长，尾刺较长。下颌牙板排列成单列。"
+    ],
+    "reproduction": "卵胎生。每胎通常不超过4尾，最多可达10尾。",
+    "behavior": "可成群出现。尾巴很长，受捕捞影响较常见。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Aetobatus ocellatus",
+        "url": "https://www.fishbase.se/summary/12600"
+      },
+      {
+        "label": "体型记录出处 · Last et al. 2016 · Rays of the world",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=114953"
+      }
+    ]
+  },
+  "sp_bathytoshia_brevicaudata": {
+    "range": "印度—西太平洋，分布呈南北两段。南非至新西兰、日本及彼得大帝湾均有记录。",
+    "size": "FishBase 收录的最大全长为 430 厘米，常见全长约 125 厘米。",
+    "recognition": [
+      "体型庞大，盘体宽而厚，轮廓近菱形。",
+      "背面胸鳍有斜列白点。尾部短，向尾刺前明显收细。"
+    ],
+    "reproduction": "卵胎生，每胎至少4尾。",
+    "behavior": "可成群聚集。有季节性向较深水域移动的记录，受惊或靠近时会翘尾。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Bathytoshia brevicaudata",
+        "url": "https://www.fishbase.se/summary/6381"
+      },
+      {
+        "label": "体型记录出处 · Compagno et al. 1989 · Guide to the sharks and rays of southern Africa",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=5578"
+      }
+    ]
+  },
+  "sp_urobatis_jamaicensis": {
+    "range": "西大西洋，美国北卡罗来纳至南美洲北部，并见于巴哈马、尤卡坦和加勒比海。",
+    "size": "FishBase 收录的最大全长为 76 厘米。",
+    "recognition": [
+      "圆盘边缘平滑、没有尖角，背面黄褐色并有深色蜿蜒纹和斑点。",
+      "发达的尾鳍延伸至尾端附近，尾基部有一根双侧具锯齿的尾刺。"
+    ],
+    "reproduction": "胎生，每胎约3至4尾。",
+    "behavior": "会抬起盘体前缘，引诱躲藏在其下的猎物。通常容易接近。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Urobatis jamaicensis",
+        "url": "https://www.fishbase.se/summary/2581"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_haploblepharus_edwardsii": {
+    "range": "东南大西洋，南非厄加勒斯角至纳塔尔一带。",
+    "size": "FishBase 收录的最大全长为 60 厘米。",
+    "recognition": [
+      "黄褐色身体有约7条深褐至黑色鞍斑。",
+      "鞍斑之间及鳍上散布较大的浅色斑点，斑点没有黑边。"
+    ],
+    "reproduction": "卵生。",
+    "behavior": "属于害羞鲨类，常被岸钓捕获。",
+    "lookalike": "同属斑纹宽瓣鲨也有鞍斑。本种浅色斑较大且无黑色边缘。",
+    "sources": [
+      {
+        "label": "FishBase · Haploblepharus edwardsii",
+        "url": "https://www.fishbase.se/summary/825"
+      },
+      {
+        "label": "体型记录出处 · Compagno 1984 · FAO Species Catalogue. Vol. 4. Sharks of the world. An annotated and illustrated catalogue of shark species known to date. Part 2 - Carcharhiniformes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=244"
+      }
+    ]
+  },
+  "sp_heterodontus_portusjacksoni": {
+    "range": "西太平洋，澳大利亚南部，包括西澳大利亚。新西兰另有一笔记录。",
+    "size": "FishBase 收录的最大全长为 165 厘米，常见全长约 137 厘米。",
+    "recognition": [
+      "背部有狭窄深色条纹，连成近似马具的图案。",
+      "吻部短而钝，背鳍前缘各有一根硬棘。"
+    ],
+    "reproduction": "卵生，卵壳有螺旋状翼缘但没有卷须。",
+    "behavior": "夜行。白天躲在洞穴和岩石沟隙中。不同性别与成熟阶段常分开活动，并会每年迁往产卵地点。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Heterodontus portusjacksoni",
+        "url": "https://www.fishbase.se/summary/743"
+      },
+      {
+        "label": "体型记录出处 · Compagno 1984 · FAO Species Catalogue. Vol. 4. Sharks of the world. An annotated and illustrated catalogue of shark species known to date. Part 1 - Hexanchiformes to Lamniformes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=247"
+      },
+      {
+        "label": "维多利亚博物馆 · Port Jackson Shark",
+        "url": "https://collections.museumsvictoria.com.au/species/4241"
+      }
+    ]
+  },
+  "sp_carcharhinus_limbatus": {
+    "range": "广布于全球热带与温带海域。大西洋、印度洋及太平洋沿岸均有记录。",
+    "size": "FishBase 收录的最大全长为 286 厘米，常见全长约 150 厘米。",
+    "recognition": [
+      "吻部细长尖锐，鳃裂较长，第一背鳍高且直立。",
+      "体侧有向后延伸的深色带，幼鱼的腹鳍及其他鳍尖常带黑色，随成长变淡。"
+    ],
+    "reproduction": "胎生，每胎约1至10尾。",
+    "behavior": "在中层水域主动追猎。幼鱼常在海滩附近出现。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Carcharhinus limbatus",
+        "url": "https://www.fishbase.se/summary/874"
+      },
+      {
+        "label": "体型记录出处 · Weigmann 2016 · Annotated checklist of the living sharks, batoids and chimaeras (Chondrichthyes) of the world, with a focus on biogeographical diversity",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=106604"
+      }
+    ]
+  },
+  "sp_carcharhinus_perezii": {
+    "range": "西大西洋，美国佛罗里达到巴西南部，包括墨西哥湾北部和安的列斯群岛。",
+    "size": "FishBase 收录的最大全长为 300 厘米。",
+    "recognition": [
+      "体型较大、灰色，吻部短而钝。",
+      "有背间隆脊，第一背鳍较小，后端尖突短。"
+    ],
+    "reproduction": "胎生。出生时体长不足73厘米。",
+    "behavior": "有时会贴底休息。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Carcharhinus perezii",
+        "url": "https://www.fishbase.se/summary/879"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_hypanus_sabinus": {
+    "range": "西大西洋，美国切萨皮克湾至佛罗里达、墨西哥湾，并到哥伦比亚北部。",
+    "size": "FishBase 收录的最大体盘宽为 61 厘米，常见体盘宽约 27 厘米。",
+    "recognition": [
+      "吻部明显呈三角形，圆盘外侧角宽圆。",
+      "背面褐色或黄褐色，腹面白色。背部中线有棘刺，尾部棘刺较少。"
+    ],
+    "reproduction": "卵胎生。妊娠约4个月，每胎2至3尾，常在7至8月产仔。",
+    "behavior": "可由海岸进入淡水河段。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Hypanus sabinus",
+        "url": "https://www.fishbase.se/summary/2574"
+      },
+      {
+        "label": "体型记录出处 · Bigelow et al. 1953 · Sawfishes, guitarfishes, skates and rays",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=6902"
+      }
+    ]
+  },
+  "sp_haploblepharus_pictus": {
+    "range": "东南大西洋，纳米比亚至南非西南开普省。",
+    "size": "FishBase 收录的最大全长为 57 厘米。",
+    "recognition": [
+      "黄褐色身体及鳍上有大型浅色斑点，斑点没有黑边。",
+      "背部另有约7条深褐或近黑色鞍斑。"
+    ],
+    "reproduction": "卵生。",
+    "behavior": "较害羞，常被岸钓捕获。",
+    "lookalike": "同属的埃氏宽瓣鲨也有鞍斑。本种以大型浅斑和规则的七道背鞍斑较易辨认。",
+    "sources": [
+      {
+        "label": "FishBase · Haploblepharus pictus",
+        "url": "https://www.fishbase.se/summary/827"
+      },
+      {
+        "label": "体型记录出处 · Compagno et al. 1989 · Guide to the sharks and rays of southern Africa",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=5578"
+      }
+    ]
+  },
+  "sp_poroderma_africanum": {
+    "range": "东南大西洋，南非特有。马达加斯加和毛里求斯的旧记录尚待确认。",
+    "size": "FishBase 收录的最大全长为 101 厘米。",
+    "recognition": [
+      "身体粗壮，吻旁有短鼻须。",
+      "体侧有多条细长、近水平的黑色条纹。"
+    ],
+    "reproduction": "卵生。",
+    "behavior": "夜行，白天常藏在洞穴和岩缝中。可在人工环境饲养。",
+    "lookalike": "同属豹纹长须猫鲨也有鼻须。后者以斑点、环纹和横列线条为主，不是本种的长水平条纹。",
+    "sources": [
+      {
+        "label": "FishBase · Poroderma africanum",
+        "url": "https://www.fishbase.se/summary/835"
+      },
+      {
+        "label": "体型记录出处 · Compagno 1984 · FAO Species Catalogue. Vol. 4. Sharks of the world. An annotated and illustrated catalogue of shark species known to date. Part 2 - Carcharhiniformes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=244"
+      }
+    ]
+  },
+  "sp_taeniurops_meyeni": {
+    "range": "印度—西太平洋，波斯湾、红海和东非至日本南部、密克罗尼西亚、热带澳大利亚及豪勋爵岛。东太平洋岛屿也有记录。",
+    "size": "FishBase 收录的最大全长为 330 厘米。",
+    "recognition": [
+      "圆盘近圆形，背面呈黑白相间的斑驳色。",
+      "没有棘刺，尾部腹面的皮褶深而明显，延伸至尾端。"
+    ],
+    "reproduction": "卵胎生。",
+    "behavior": "可单独或成群出现，有时有鲹类和军曹鱼伴游。通常不主动攻击。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Taeniurops meyeni",
+        "url": "https://www.fishbase.se/summary/6482"
+      },
+      {
+        "label": "体型记录出处 · Sommer et al. 1996 · FAO species identification field guide for fishery purposes. The living marine resources of Somalia",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=30573"
+      }
+    ]
+  },
+  "sp_pateobatis_fai": {
+    "range": "印度—西太平洋，南非至中太平洋岛屿，北至日本冲绳。",
+    "size": "FishBase 收录的最大全长为 183 厘米。",
+    "recognition": [
+      "背面通常为均匀的褐色至粉褐色。",
+      "常在软底成群出现，圆盘宽大，尾部细长。"
+    ],
+    "reproduction": "卵胎生。出生时圆盘宽约55厘米。",
+    "behavior": "常形成较大的聚集群。",
+    "lookalike": "曾与詹氏窄尾魟混淆。本种背面通常均匀褐色，并常成群出现。",
+    "sources": [
+      {
+        "label": "FishBase · Pateobatis fai",
+        "url": "https://www.fishbase.se/summary/12587"
+      },
+      {
+        "label": "体型记录出处 · IGFA 2001 · Database of IGFA angling records until 2001",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=40637"
+      }
+    ]
+  },
+  "sp_poroderma_pantherinum": {
+    "range": "东南大西洋，南非萨尔达尼亚湾至纳塔尔中部。",
+    "size": "FishBase 收录的最大全长为 84 厘米。",
+    "recognition": [
+      "身体粗壮，吻旁有长鼻须。",
+      "灰白底色上有黑斑、环斑或横向条纹。不同个体的斑纹差异很大。"
+    ],
+    "reproduction": "卵生。可在人工环境饲养。",
+    "behavior": "夜行，白天常待在礁石间。",
+    "lookalike": "同属带纹长须猫鲨也有鼻须。本种斑纹呈斑点、环纹和横线的变异组合。",
+    "sources": [
+      {
+        "label": "FishBase · Poroderma pantherinum",
+        "url": "https://www.fishbase.se/summary/837"
+      },
+      {
+        "label": "体型记录出处 · Compagno 1984 · FAO Species Catalogue. Vol. 4. Sharks of the world. An annotated and illustrated catalogue of shark species known to date. Part 2 - Carcharhiniformes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=244"
+      }
+    ]
+  },
+  "sp_mustelus_canis": {
+    "range": "西大西洋，加拿大至美国佛罗里达、墨西哥湾、加勒比海及南美洲东岸。",
+    "size": "FishBase 收录的最大全长为 150 厘米，常见全长约 100 厘米。",
+    "recognition": [
+      "体型较小而细长，外形修长。",
+      "背鳍前缘有锯齿。第二背鳍接近第一背鳍大小。"
+    ],
+    "reproduction": "胎生并有卵黄囊胎盘，每胎约4至20尾。",
+    "behavior": "会成群游动。美国大西洋沿岸种群有迁徙现象。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Mustelus canis",
+        "url": "https://www.fishbase.se/summary/2539"
+      },
+      {
+        "label": "体型记录出处 · Compagno 1984 · FAO Species Catalogue. Vol. 4. Sharks of the world. An annotated and illustrated catalogue of shark species known to date. Part 2 - Carcharhiniformes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=244"
+      }
+    ]
+  },
+  "sp_nebrius_ferrugineus": {
+    "range": "印度—太平洋，波斯湾、红海、东非至土阿莫土群岛，北至日本南部、南至澳大利亚。",
+    "size": "FishBase 收录的最大全长为 320 厘米，常见全长约 250 厘米。",
+    "recognition": [
+      "体型大而粗壮，背部棕褐色、腹面较浅。",
+      "吻端呈楔形，鼻孔靠近吻端并有短鼻须。喷水孔明显小于眼。"
+    ],
+    "reproduction": "卵胎生，每胎至少4尾。",
+    "behavior": "主要夜间活动，也可能白天觅食。会在礁区聚集休息，有时层叠在一起。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Nebrius ferrugineus",
+        "url": "https://www.fishbase.se/summary/5895"
+      },
+      {
+        "label": "体型记录出处 · Compagno 1984 · FAO Species Catalogue. Vol. 4. Sharks of the world. An annotated and illustrated catalogue of shark species known to date. Part 1 - Hexanchiformes to Lamniformes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=247"
+      }
+    ]
+  },
+  "sp_trygonorrhina_fasciata": {
+    "range": "西南太平洋，澳大利亚东部特有。",
+    "size": "FishBase 收录的最大全长为 120 厘米。",
+    "recognition": [
+      "吻部短而宽圆，鼻孔部分被大型鼻瓣覆盖。",
+      "眼后有深色边缘的带纹，中央常见醒目的三角形或菱形斑。盘中线和肩部有尖棘。"
+    ],
+    "reproduction": "卵胎生。每胎约2至3尾。",
+    "behavior": "会主动搜寻食物，有时进入鱼笼并被盘体缠住。",
+    "lookalike": "同属黑体南犁头鳐眼后也有深色带纹，但缺少本种显著的三角形或菱形中央斑。",
+    "sources": [
+      {
+        "label": "FishBase · Trygonorrhina fasciata",
+        "url": "https://www.fishbase.se/summary/8733"
+      },
+      {
+        "label": "体型记录出处 · Last et al. 2016 · Rays of the world",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=114953"
+      }
+    ]
+  },
+  "sp_trygonorrhina_dumerilii": {
+    "range": "东印度洋，澳大利亚南部特有。",
+    "size": "FishBase 收录的最大全长为 146 厘米。",
+    "recognition": [
+      "体盘近椭圆形，吻短而宽圆，鼻孔部分被宽大的鼻瓣覆盖。",
+      "体盘中线及肩部有小刺列。两眼间后方具深色镶边带纹，不形成明显三角或菱形斑。"
+    ],
+    "reproduction": "胎生，每胎约产2–5尾。雄鱼约70厘米、雌鱼约89厘米时成熟，幼鱼出生时约21–25厘米。",
+    "behavior": "底栖，活动于大陆架海床。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Trygonorrhina dumerilii",
+        "url": "https://www.fishbase.se/summary/67698"
+      },
+      {
+        "label": "体型记录出处 · Last et al. 2016 · Rays of the world",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=114953"
+      }
+    ]
+  },
+  "sp_hemiscyllium_ocellatum": {
+    "range": "西太平洋，新几内亚及澳大利亚北部。马来西亚、苏门答腊和所罗门群岛也可能有分布。",
+    "size": "FishBase 收录的最大全长为 107 厘米。",
+    "recognition": [
+      "胸鳍基部的上后方有一块浅色镶边的大黑眼斑。",
+      "身体细长，躯干与尾部散布深色小点，尾鳍缺少显著的下叶。"
+    ],
+    "reproduction": "卵生。",
+    "behavior": "退潮时会弯动身体，交替撑动胸鳍和腹鳍，沿礁面在潮池之间爬行。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Hemiscyllium ocellatum",
+        "url": "https://www.fishbase.se/summary/5906"
+      },
+      {
+        "label": "体型记录出处 · Compagno 1984 · FAO Species Catalogue. Vol. 4. Sharks of the world. An annotated and illustrated catalogue of shark species known to date. Part 1 - Hexanchiformes to Lamniformes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=247"
+      },
+      {
+        "label": "澳大利亚博物馆 · Epaulette Shark",
+        "url": "https://australian.museum/learn/animals/fishes/epaulette-shark-hemiscyllium-ocellatum/"
+      },
+      {
+        "label": "Florida Museum · Epaulette Shark",
+        "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/epaulette-shark/"
+      }
+    ]
+  },
+  "sp_rhizoprionodon_terraenovae": {
+    "range": "西大西洋，加拿大新不伦瑞克至墨西哥湾。西南大西洋沿巴西海岸也有分布。",
+    "size": "FishBase 收录的最大全长为 110 厘米，常见全长约 70 厘米。",
+    "recognition": [
+      "体型较小、身形流线，通常灰色，吻部细长尖突。",
+      "臀鳍后缘平直或略凹。第二背鳍起点明显位于臀鳍起点之后。"
+    ],
+    "reproduction": "胎生，每胎1–7尾，出生时约29–37厘米。",
+    "behavior": "常在近岸浅海觅食，也会进入河口和港湾。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Rhizoprionodon terraenovae",
+        "url": "https://www.fishbase.se/summary/905"
+      },
+      {
+        "label": "体型记录出处 · Bowman et al. 2000 · Food of northwest Atlantic fishes and two common species of squid",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=37512"
+      }
+    ]
+  },
+  "sp_carcharhinus_galapagensis": {
+    "range": "环热带分布，常见于海洋岛屿周边。包括加拉帕戈斯群岛及印度洋、西太平洋和大西洋的多处岛礁。",
+    "size": "FishBase 收录的最大全长为 370 厘米，常见全长约 300 厘米。",
+    "recognition": [
+      "两背鳍之间有低矮的嵴。",
+      "背部深灰、腹部较浅，鳍通常无明显斑纹，鳍尖有时略暗。"
+    ],
+    "reproduction": "",
+    "behavior": "可在岛间穿越开阔海域，常形成松散聚集。觅食多靠近海底，也会到水面取食。遇潜水者时可能表现出弓背、抬头、垂鳍并扭转身体的警戒姿态。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Carcharhinus galapagensis",
+        "url": "https://www.fishbase.se/summary/870"
+      },
+      {
+        "label": "体型记录出处 · Myers 1991 · Micronesian reef fishes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=1602"
+      }
+    ]
+  },
+  "sp_myliobatis_aquila": {
+    "range": "东大西洋及地中海，从马德拉、摩洛哥和加那利群岛向北至爱尔兰、不列颠群岛和西南北海，向南至南非纳塔尔。",
+    "size": "FishBase 收录的最大体盘宽为 183 厘米。",
+    "recognition": [
+      "吻短而圆，体盘两侧角宽阔且呈钝角。",
+      "背面褐色至黑褐色、腹面白色，尾部没有尾鳍。"
+    ],
+    "reproduction": "卵胎生，妊娠约6–8个月，每胎产3–7尾。",
+    "behavior": "常成群活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Myliobatis aquila",
+        "url": "https://www.fishbase.se/summary/4330"
+      },
+      {
+        "label": "体型记录出处 · McEachran et al. 1990 · Myliobatididae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=4440"
+      }
+    ]
+  },
+  "sp_pseudobatos_productus": {
+    "range": "东太平洋特有，从美国旧金山至墨西哥加利福尼亚湾，可能延至马萨特兰。",
+    "size": "FishBase 收录的最大全长为 170 厘米。",
+    "recognition": [
+      "体盘宽而长，吻长尖、末端圆。背面较平滑，眼周至背部和尾部有一列刺。",
+      "齿小而圆钝如卵石。尾部粗壮，尾鳍较大且没有明显下叶。"
+    ],
+    "reproduction": "卵胎生，每胎约6–28尾。",
+    "behavior": "具有游动迁徙性，可单独或成群出现。白天常把身体埋在沙中。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Pseudobatos productus",
+        "url": "https://www.fishbase.se/summary/2549"
+      },
+      {
+        "label": "体型记录出处 · Ebert 2003 · Sharks, rays and chimaeras of California",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=48844"
+      }
+    ]
+  },
+  "sp_carcharhinus_plumbeus": {
+    "range": "广布于全球热带和暖温带海域。",
+    "size": "FishBase 收录的最大全长为 300 厘米，常见全长约 200 厘米。",
+    "recognition": [
+      "体格粗壮，吻中等长而圆。上颌齿高大三角形且具锯齿，两背鳍间有嵴。",
+      "第一背鳍特别高大直立。体色灰褐或青铜色、腹面白，身体没有醒目斑纹。"
+    ],
+    "reproduction": "胎生。",
+    "behavior": "部分区域会进行远距离季节迁徙。不同年龄阶段常分群活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Carcharhinus plumbeus",
+        "url": "https://www.fishbase.se/summary/880"
+      },
+      {
+        "label": "体型记录出处 · Tsikliras et al. 2021 · Filling in knowledge gaps: Length-weight relations of 46 uncommon sharks and rays (Elasmobranchii) in the Mediterranean Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=124786"
+      }
+    ]
+  },
+  "sp_negaprion_acutidens": {
+    "range": "印度—太平洋，红海及南非至菲律宾、越南，南至澳大利亚。也见于台湾及太平洋岛屿。",
+    "size": "FishBase 收录的最大全长为 380 厘米。",
+    "recognition": [
+      "体型大而粗壮，吻部宽钝。身体呈黄褐色，腹面较浅。",
+      "上下颌牙齿窄而表面平滑。两枚背鳍大小近似。"
+    ],
+    "reproduction": "胎生，每胎约1–11尾，幼鱼出生时约45厘米。",
+    "behavior": "幼鱼常局限于近岸浅水。受挑衅时可能具有危险性。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Negaprion acutidens",
+        "url": "https://www.fishbase.se/summary/896"
+      },
+      {
+        "label": "体型记录出处 · Fischer et al. 1990 · Fichas FAO de identificaçao de espécies para actividades de pesca. Guia de campo das espécies comerciais marinhas e de águas salobras de Moçambique",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=5213"
+      }
+    ]
+  },
+  "sp_parapercis_millepunctata": {
+    "range": "印度—太平洋，马尔代夫至皮特凯恩群岛，北至琉球和小笠原群岛，南至大堡礁南部及新喀里多尼亚。大洋洲多地有分布，夏威夷和复活节岛除外。",
+    "size": "FishBase 收录的最大全长为 18 厘米。",
+    "recognition": [
+      "背部布满密集斑驳，头顶眼后有紧排列的褐色至橙色斑块，尾部有一块白斑。",
+      "雄鱼鳃孔上端旁有带眼状纹的黑斑，雌鱼相应位置为较小的深褐斑。臀鳍外侧三分之一没有一列小黑点。"
+    ],
+    "reproduction": "",
+    "behavior": "可单独或小群活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Parapercis millepunctata",
+        "url": "https://www.fishbase.se/summary/6670"
+      },
+      {
+        "label": "体型记录出处 · Randall 2001 · Pinguipedidae (= Parapercidae, Mugiloididae). Sandperches",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=42740"
+      }
+    ]
+  },
+  "sp_petroscirtes_breviceps": {
+    "range": "印度—西太平洋，东非至巴布亚新几内亚，北至日本南部，南至新喀里多尼亚。",
+    "size": "FishBase 收录的最大标准体长为 11 厘米。",
+    "recognition": [
+      "从吻端经眼部向尾部延伸一条宽而深色的纵带，有时会断成数段。",
+      "体色变化很大，外形可模仿拟鳚属鱼类。身体细长，头部和吻部较短。"
+    ],
+    "reproduction": "卵生，雄鱼会利用贝壳等物筑巢。卵黏附在基底，幼体在近岸浅水漂游。",
+    "behavior": "会躲入窄口瓶、废弃虫管或贝壳中。受威胁时会用毒牙防御并咬人。",
+    "lookalike": "可模仿拟鳚属 Meiacanthus 鱼类。",
+    "sources": [
+      {
+        "label": "FishBase · Petroscirtes breviceps",
+        "url": "https://www.fishbase.se/summary/6073"
+      },
+      {
+        "label": "体型记录出处 · Myers 1991 · Micronesian reef fishes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=1602"
+      }
+    ]
+  },
+  "sp_sphyraena_obtusata": {
+    "range": "印度—太平洋，红海和东非至萨摩亚，北至琉球群岛，南至澳大利亚维多利亚州。经苏伊士运河进入东地中海。",
+    "size": "FishBase 收录的最大全长为 55 厘米，常见全长约 30 厘米。",
+    "recognition": [
+      "身体细长、近圆筒形，头长而尖。大口水平，闭口时下颌尖端突出。",
+      "背部呈绿色、腹部银白。眼较大，牙齿直立，胸鳍尖端略超过第一背鳍起点。"
+    ],
+    "reproduction": "",
+    "behavior": "日行性，常成群活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Sphyraena obtusata",
+        "url": "https://www.fishbase.se/summary/4493"
+      },
+      {
+        "label": "体型记录出处 · May et al. 1986 · Trawl fish from temperate waters of Australia",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9563"
+      }
+    ]
+  },
+  "sp_tylosurus_crocodilus": {
+    "range": "印度—西太平洋，红海、南非和波斯湾至法属波利尼西亚，北至日本，南至澳大利亚新南威尔士。另见于大西洋及地中海。",
+    "size": "FishBase 收录的最大全长为 150 厘米，常见标准体长约 90 厘米。",
+    "recognition": [
+      "身体细长、横截面近圆，双颌延长形成布满锐齿的长喙。",
+      "背部深蓝绿色、腹部银色。尾鳍深凹且下叶明显长于上叶，尾柄有黑色侧脊。幼鱼背鳍后部有突出的黑色叶状斑。"
+    ],
+    "reproduction": "卵生，卵表面有细丝，可附着在水中物体上。",
+    "behavior": "单独或小群活动。受惊或夜间受灯光吸引时可能跃出水面，长喙可造成刺伤。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Tylosurus crocodilus",
+        "url": "https://www.fishbase.se/summary/977"
+      },
+      {
+        "label": "体型记录出处 · Sommer et al. 1996 · FAO species identification field guide for fishery purposes. The living marine resources of Somalia",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=30573"
+      }
+    ]
+  },
+  "sp_caesio_teres": {
+    "range": "印度—西太平洋，东非至莱恩群岛。红海和波斯湾无分布记录。",
+    "size": "FishBase 收录的最大全长为 40 厘米，常见标准体长约 26.6 厘米。",
+    "recognition": [
+      "身体呈蓝色，尾鳍、尾柄及身体后段为鲜黄色。",
+      "黄色通常从背鳍起点前方延伸至尾柄下缘。大型个体，尤其西太平洋个体，黄色前缘可能后退。"
+    ],
+    "reproduction": "卵生，产大量小型浮性卵。",
+    "behavior": "常组成大型中层鱼群，也会与其他梅鲷科鱼类混群。随月相在退潮时迁往礁区深水道口近表层产卵。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Caesio teres",
+        "url": "https://www.fishbase.se/summary/923"
+      },
+      {
+        "label": "体型记录出处 · Heemstra 1995 · Additions and corrections for the 1995 impression",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=11228"
+      }
+    ]
+  },
+  "sp_naso_brevirostris": {
+    "range": "印度—太平洋，红海和东非至夏威夷、马贵斯群岛及杜西群岛，北至日本南部，南至豪勋爵岛。波斯湾和阿曼除外。东太平洋中部见于加拉帕戈斯群岛。",
+    "size": "FishBase 收录的最大全长为 60 厘米。",
+    "recognition": [
+      "成鱼吻端在眼下高度长出一根向前伸出的宽基角状突起，长度可超过半个头长。幼鱼约10厘米时额部先出现隆起。",
+      "身体侧扁而较高，背缘均匀隆起。尾鳍略圆，尾端没有丝状延长。"
+    ],
+    "reproduction": "观察到成对产卵。",
+    "behavior": "通常小群活动。在洋区或强流礁区可聚成大群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Naso brevirostris",
+        "url": "https://www.fishbase.se/summary/6021"
+      },
+      {
+        "label": "体型记录出处 · Randall 2001 · Acanthuridae. Surgeonfishes (tangs, unicornfishes)",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9808"
+      }
+    ]
+  },
+  "sp_cheilinus_trilobatus": {
+    "range": "印度—太平洋，东非至土阿莫土群岛和奥斯垂尔群岛，北至琉球群岛，南至新喀里多尼亚。",
+    "size": "FishBase 收录的最大全长为 45 厘米。",
+    "recognition": [
+      "成鱼尾鳍中央圆钝，上下缘鳍条延长，形成明显三叶状轮廓。",
+      "吻端尖，前方上下颌各有两枚强壮犬齿。腹鳍较长，小鱼可达肛门，成鱼延伸更远。"
+    ],
+    "reproduction": "卵生，繁殖期可见配对。",
+    "behavior": "通常独居，不易接近。幼鱼隐蔽于藻类礁区，常在刺胞水螅附近。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Cheilinus trilobatus",
+        "url": "https://www.fishbase.se/summary/5603"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_coradion_altivelis": {
+    "range": "印度—西太平洋，安达曼海和苏门答腊至印度尼西亚、巴布亚新几内亚，北至日本南部，南至澳大利亚西北部和大堡礁。",
+    "size": "FishBase 收录的最大全长为 18 厘米。",
+    "recognition": [
+      "身体白色，有三条金色或深褐色竖带，头后两条彼此靠近，尾前一条从背部贯穿至腹部。",
+      "眼部有斜向褐带，尾柄另有黑带。"
+    ],
+    "reproduction": "卵生，繁殖期间形成配对。",
+    "behavior": "繁殖期间形成配对。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Coradion altivelis",
+        "url": "https://www.fishbase.se/summary/11250"
+      },
+      {
+        "label": "体型记录出处 · Kuiter et al. 2001 · Pictorial guide to Indonesian reef fishes. Part 2. Fusiliers - Dragonets, Caesionidae - Callionymidae",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=48636"
+      }
+    ]
+  },
+  "sp_epinephelus_fasciatus": {
+    "range": "印度—太平洋，红海、南非至皮特凯恩群岛，北至日本和韩国，南至阿拉弗拉海、澳大利亚昆士兰南部及豪勋爵岛。",
+    "size": "FishBase 收录的最大全长为 52 厘米，常见全长约 22 厘米。",
+    "recognition": [
+      "体色变化较大，可呈浅绿灰至红褐色，体侧常见深色横带。尾鳍略圆至稍截形。",
+      "吻较短，眼间区较平，头背缘隆起。鳃盖后缘有锯齿，最下方锯齿略大。"
+    ],
+    "reproduction": "",
+    "behavior": "在马达加斯加海域，白天和夜间均有捕食记录。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Epinephelus fasciatus",
+        "url": "https://www.fishbase.se/summary/5348"
+      },
+      {
+        "label": "体型记录出处 · Rafail 1972 · A statistical study of length-weight relationship of eight Egyptian fishes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=1238"
+      }
+    ]
+  },
+  "sp_hemitaurichthys_polylepis": {
+    "range": "太平洋，从东印度洋圣诞岛及印度尼西亚至夏威夷、莱恩和皮特凯恩群岛，北至日本南部，南至罗利浅滩和新喀里多尼亚。印度洋由近似种取代。",
+    "size": "FishBase 收录的最大全长为 18 厘米。",
+    "recognition": [
+      "体色具有醒目的特殊图案，身体较高而侧扁。吻部相对短。",
+      "常见个体胸腹部较浅、背部较深，形成明显的双色对照。成群时色块在礁坡上方十分醒目。"
+    ],
+    "reproduction": "卵生，繁殖期间形成配对。",
+    "behavior": "常组成大型鱼群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Hemitaurichthys polylepis",
+        "url": "https://www.fishbase.se/summary/5586"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_heniochus_varius": {
+    "range": "太平洋，印度尼西亚至社会群岛，北至日本南部，南至罗利浅滩和新喀里多尼亚，密克罗尼西亚各地有分布。圣诞岛有记录。",
+    "size": "FishBase 收录的最大全长为 19 厘米。",
+    "recognition": [
+      "成鱼额部、眼睛上方有一对明显角状突起，前额另有隆起。",
+      "身体深褐至黑色，体侧有两条白带，分别从尾柄和胸部延至背鳍硬棘区两端。"
+    ],
+    "reproduction": "卵生，繁殖期间形成配对。",
+    "behavior": "单独或小群活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Heniochus varius",
+        "url": "https://www.fishbase.se/summary/5592"
+      },
+      {
+        "label": "体型记录出处 · Lieske et al. 1994 · Collins Pocket Guide. Coral reef fishes. Indo-Pacific & Caribbean including the Red Sea",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9710"
+      }
+    ]
+  },
+  "sp_oxycheilinus_digramma": {
+    "range": "印度—太平洋，红海和东非至马绍尔群岛及萨摩亚。",
+    "size": "FishBase 收录的最大标准体长为 40 厘米。",
+    "recognition": [
+      "与近似种相比，尾柄前方始终没有白色横带。",
+      "眼部至胸鳍轴线上方没有一片缺少红色条纹的区域。身体可见两道纵向红纹。"
+    ],
+    "reproduction": "",
+    "behavior": "曾观察到跟随一群羊鱼并改变体色伪装，随后冲出捕捉小鱼。会主动靠近潜水者。",
+    "lookalike": "与 Oxycheilinus unifasciatus 外形相似，可通过尾柄前无白带及眼后红纹分布区别。",
+    "sources": [
+      {
+        "label": "FishBase · Oxycheilinus digramma",
+        "url": "https://www.fishbase.se/summary/5599"
+      },
+      {
+        "label": "体型记录出处 · Westneat 2001 · Labridae. Wrasses, hogfishes, razorfishes, corises, tuskfishes",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=9823"
+      }
+    ]
+  },
+  "sp_suezichthys_gracilis": {
+    "range": "西太平洋，韩国、日本、台湾、越南、新喀里多尼亚及澳大利亚。印度洋仅有波斯湾记录。",
+    "size": "FishBase 收录的最大全长为 16 厘米。",
+    "recognition": [
+      "上唇经眼部至鳃盖上缘有一条深黄绿色纵带，脸颊和下颌呈黄色。",
+      "胸鳍和腹鳍半透明黄色。初始色型的背鳍前段无斑，终末色型则有斑，尾鳍没有深色斜带或斑点。"
+    ],
+    "reproduction": "",
+    "behavior": "常贴近海底，在沙地间的岩块和珊瑚附近活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Suezichthys gracilis",
+        "url": "https://www.fishbase.se/summary/4407"
+      },
+      {
+        "label": "体型记录出处 · Randall 1995 · Coastal fishes of Oman",
+        "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=11441"
+      }
+    ]
   }
 };
