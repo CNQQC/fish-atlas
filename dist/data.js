@@ -2486,7 +2486,7 @@ window.FISH_DATA = [
       "多鳍鱼纲",
       "多鳍鱼目",
       "多鳍鱼科",
-      "Polypterus属",
+      "多鳍鱼属",
       "塞内加尔多鳍鱼"
     ],
     "source": "https://www.fishbase.se/summary/Polypterus-senegalus.html"
@@ -2510,7 +2510,7 @@ window.FISH_DATA = [
       "多鳍鱼纲",
       "多鳍鱼目",
       "多鳍鱼科",
-      "Erpetoichthys属",
+      "芦苇鱼属",
       "芦苇多鳍鱼"
     ],
     "source": "https://www.fishbase.se/summary/Erpetoichthys_calabaricus.html"
@@ -14245,5 +14245,1330 @@ window.FISH_DATA = [
       "细长苏彝士隆头鱼"
     ],
     "source": "https://www.fishbase.se/summary/4407"
+  },
+  {
+    "id": "sp_eptatretus_stoutii",
+    "name": "太平洋黏盲鳗",
+    "latin": "Eptatretus stoutii",
+    "aliases": "Pacific hagfish 太平洋盲鳗",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "东北太平洋的软泥或黏土质海底，从浅水到近千米深处都有记录。",
+    "feature": "身体细长无鳞，没有上下颌，口周有须；体侧排列着一行黏液孔，受惊时能释放大量黏液。",
+    "diet": "常以死亡或受伤的鱼类为食，也会从口和肛门钻入大型鱼体内取食内脏和肌肉。",
+    "myth": "盲鳗不是鳗鲡，它们没有颌，属于圆口类。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "盲鳗纲",
+      "盲鳗目",
+      "盲鳗科",
+      "黏盲鳗属",
+      "太平洋黏盲鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/2512"
+  },
+  {
+    "id": "sp_eptatretus_burgeri",
+    "name": "蒲氏黏盲鳗",
+    "latin": "Eptatretus burgeri",
+    "aliases": "Inshore hagfish Broadgilled hagfish 日本盲鳗 黏盲鳗",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "西北太平洋的近岸浅海，常埋身于海底泥中。",
+    "feature": "身体细长似鳗，皮肤松软无鳞，六对鳃孔近似直线排列，口周有须。",
+    "diet": "主要取食死亡或衰弱的动物，也摄食底栖小型动物。",
+    "myth": "韩国市场上的“꼼장어”多半指它，但它并不是鳗鱼。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "盲鳗纲",
+      "盲鳗目",
+      "盲鳗科",
+      "黏盲鳗属",
+      "蒲氏黏盲鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/8712"
+  },
+  {
+    "id": "sp_eptatretus_cirrhatus",
+    "name": "新西兰黏盲鳗",
+    "latin": "Eptatretus cirrhatus",
+    "aliases": "Tasmanian hagfish Broadgilled hagfish 澳新盲鳗",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "澳大利亚和新西兰沿岸的大陆坡软底，也常在近岸礁区出现。",
+    "feature": "身体粗长无鳞，皮肤松软，体色多呈蓝灰到粉褐，口鼻周围有三对须。",
+    "diet": "取食死亡鱼类和底栖动物，是海底的清道夫。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "盲鳗纲",
+      "盲鳗目",
+      "盲鳗科",
+      "黏盲鳗属",
+      "新西兰黏盲鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/23878"
+  },
+  {
+    "id": "sp_eptatretus_hexatrema",
+    "name": "六鳃黏盲鳗",
+    "latin": "Eptatretus hexatrema",
+    "aliases": "Sixgill hagfish 南非盲鳗",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "南非和纳米比亚沿岸的软泥海底，多在浅水至数百米深处。",
+    "feature": "身体细长似鳗，无鳞，每侧约有六个鳃孔；体色多为蓝灰色，口周有须。",
+    "diet": "主要以死亡或受伤的鱼类为食。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "盲鳗纲",
+      "盲鳗目",
+      "盲鳗科",
+      "黏盲鳗属",
+      "六鳃黏盲鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/8713"
+  },
+  {
+    "id": "sp_eptatretus_okinoseanus",
+    "name": "紫黏盲鳗",
+    "latin": "Eptatretus okinoseanus",
+    "aliases": "Gulf hagfish 冲之濑盲鳗",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "台湾和日本南部较深的海底，水深记录约 300 至 1020 米。",
+    "feature": "身体细长无鳞，具有八对鳃囊和鳃孔，鳃孔沿体侧排成较松散的直线。",
+    "diet": "FishBase 没有详细食性记录；盲鳗类一般取食死亡动物和底栖无脊椎动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "盲鳗纲",
+      "盲鳗目",
+      "盲鳗科",
+      "黏盲鳗属",
+      "紫黏盲鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/17195"
+  },
+  {
+    "id": "sp_myxine_limosa",
+    "name": "泞盲鳗",
+    "latin": "Myxine limosa",
+    "aliases": "Atlantic hagfish Mud hagfish",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "西北大西洋的深水泥质海底，水深记录约 75 至 1006 米。",
+    "feature": "外形与盲鳗属其他种相近：身体细长无鳞，口周有须，没有上下颌。",
+    "diet": "盲鳗类一般取食死亡动物和底栖无脊椎动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "盲鳗纲",
+      "盲鳗目",
+      "盲鳗科",
+      "盲鳗属",
+      "泞盲鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/54790"
+  },
+  {
+    "id": "sp_lampetra_fluviatilis",
+    "name": "欧洲河七鳃鳗",
+    "latin": "Lampetra fluviatilis",
+    "aliases": "European river lamprey River lamprey 河七鳃鳗",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "欧洲沿海河口、河流和湖泊；成体在海中或河口生活，繁殖时洄游到河流中。",
+    "feature": "身体细长似鳗，没有成对的偶鳍；口是圆形吸盘，口内有角质齿，体侧有一排七个鳃孔。",
+    "diet": "成体吸附在鳕、鲱等较大鱼类身上，刮食其体液和肌肉；幼体滤食水底的有机碎屑。",
+    "myth": "七鳃鳗的“七鳃”其实是七个鳃孔，并不是七个鳃。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "七鳃鳗纲",
+      "七鳃鳗目",
+      "七鳃鳗科",
+      "七鳃鳗属",
+      "欧洲河七鳃鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/4480"
+  },
+  {
+    "id": "sp_lampetra_planeri",
+    "name": "欧洲溪七鳃鳗",
+    "latin": "Lampetra planeri",
+    "aliases": "European brook lamprey Brook lamprey 溪七鳃鳗",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "欧洲小溪和清澈河流的中上游，砂砾底、水质清洁含氧。",
+    "feature": "体型小而细长，成体口盘较小；与河七鳃鳗不同，它终生留在淡水，成体不进食。",
+    "diet": "幼体在泥沙中滤食有机碎屑和藻类；成体变态后不再摄食。",
+    "myth": "溪七鳃鳗不吸血：成体变态后消化道退化，不再进食。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "七鳃鳗纲",
+      "七鳃鳗目",
+      "七鳃鳗科",
+      "七鳃鳗属",
+      "欧洲溪七鳃鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/4481"
+  },
+  {
+    "id": "sp_lampetra_aepyptera",
+    "name": "陡鳍七鳃鳗",
+    "latin": "Lampetra aepyptera",
+    "aliases": "Least brook lamprey 小溪七鳃鳗",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "美国东部清澈小溪和小河的砾石浅滩，幼体居于泥沙底的静水处。",
+    "feature": "体型小，成体细长，两个背鳍相连较近；口盘小，体色为褐绿色。",
+    "diet": "幼体在泥沙中滤食碎屑和藻类；成体变态后不再摄食。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "七鳃鳗纲",
+      "七鳃鳗目",
+      "七鳃鳗科",
+      "七鳃鳗属",
+      "陡鳍七鳃鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/2520"
+  },
+  {
+    "id": "sp_lampetra_zanandreai",
+    "name": "赞氏七鳃鳗",
+    "latin": "Lampetra zanandreai",
+    "aliases": "Lombardy brook lamprey Po brook lamprey",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "意大利北部和邻近地区的清澈冷水溪流，多靠近泉水，底质为泥或沙。",
+    "feature": "小型细长的溪生七鳃鳗；成体全长约 12 至 16 厘米，成体不进食。",
+    "diet": "幼体滤食水底有机碎屑；成体变态后不再摄食。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "七鳃鳗纲",
+      "七鳃鳗目",
+      "七鳃鳗科",
+      "七鳃鳗属",
+      "赞氏七鳃鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/25867"
+  },
+  {
+    "id": "sp_occidentis_ayresii",
+    "name": "西部河七鳃鳗",
+    "latin": "Occidentis ayresii",
+    "aliases": "Western river lamprey River lamprey",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "北美西海岸的河口、近海和河流，成体在海中摄食，繁殖时回到溪流砾石浅滩。",
+    "feature": "细长似鳗，口盘圆形带角质齿；体侧有一行七个鳃孔，没有成对偶鳍。",
+    "diet": "成体吸附在鱼体上撕食皮肤和肌肉；幼体生活在泥中滤食。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "七鳃鳗纲",
+      "七鳃鳗目",
+      "七鳃鳗科",
+      "西七鳃鳗属",
+      "西部河七鳃鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/2522"
+  },
+  {
+    "id": "sp_lethenteron_camtschaticum",
+    "name": "日本七鳃鳗",
+    "latin": "Lethenteron camtschaticum",
+    "aliases": "Arctic lamprey Japanese lamprey 北极七鳃鳗 东亚叉牙七鳃鳗",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "北极、白令海和北太平洋沿岸及邻近河流；成体在河口、近海和湖中活动。",
+    "feature": "体细长似鳗，口盘圆形带角质齿，体侧有一排七个鳃孔；体型比溪生种大。",
+    "diet": "成体寄生性吸食鱼类，幼体滤食淤泥中的有机碎屑。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "七鳃鳗纲",
+      "七鳃鳗目",
+      "七鳃鳗科",
+      "叉牙七鳃鳗属",
+      "日本七鳃鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/2524"
+  },
+  {
+    "id": "sp_lethenteron_appendix",
+    "name": "美洲溪七鳃鳗",
+    "latin": "Lethenteron appendix",
+    "aliases": "American brook lamprey 溪七鳃鳗",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "北美东部的冷水溪流，沙砾底、水质清洁。",
+    "feature": "体型小而细长，口盘小，成体变态后不进食，体色以褐色为主。",
+    "diet": "幼体滤食水底有机碎屑；成体不进食。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "七鳃鳗纲",
+      "七鳃鳗目",
+      "七鳃鳗科",
+      "叉牙七鳃鳗属",
+      "美洲溪七鳃鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/2521"
+  },
+  {
+    "id": "sp_lethenteron_kessleri",
+    "name": "凯氏叉牙七鳃鳗",
+    "latin": "Lethenteron kessleri",
+    "aliases": "Siberian brook lamprey",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "西伯利亚的河流、湖泊和溪流上游，幼体生活在泥质底中。",
+    "feature": "小型溪生七鳃鳗，成体全长约 11 至 23 厘米，体细长，口盘较小。",
+    "diet": "幼体滤食碎屑、绿藻、硅藻和浮游动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "七鳃鳗纲",
+      "七鳃鳗目",
+      "七鳃鳗科",
+      "叉牙七鳃鳗属",
+      "凯氏叉牙七鳃鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/25874"
+  },
+  {
+    "id": "sp_entosphenus_tridentatus",
+    "name": "三齿楔齿七鳃鳗",
+    "latin": "Entosphenus tridentatus",
+    "aliases": "Pacific lamprey 太平洋七鳃鳗",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "北太平洋沿岸的河流与近海；成体在海洋中层水域摄食，繁殖时回到清澈的砾石溪流。",
+    "feature": "体细长似鳗，无偶鳍；圆形口盘内有排列成列的角质齿，口盘上有三枚较大的齿尖，体侧有七个鳃孔。",
+    "diet": "成体寄生性吸食鱼类的体液和肌肉；幼体在软泥中滤食碎屑。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "七鳃鳗纲",
+      "七鳃鳗目",
+      "七鳃鳗科",
+      "楔齿七鳃鳗属",
+      "三齿楔齿七鳃鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/2529"
+  },
+  {
+    "id": "sp_ichthyomyzon_unicuspis",
+    "name": "银色鱼吸鳗",
+    "latin": "Ichthyomyzon unicuspis",
+    "aliases": "Silver lamprey",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "北美五大湖和密西西比河等大型河流及湖泊，成体常见于大河干流。",
+    "feature": "身体细长，只有一个背鳍；口盘上有角质齿，体呈银灰色。",
+    "diet": "成体吸附在鱼体上摄取体液和肌肉；幼体生活在泥沙中。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "七鳃鳗纲",
+      "七鳃鳗目",
+      "七鳃鳗科",
+      "鱼吸鳗属",
+      "银色鱼吸鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/2519"
+  },
+  {
+    "id": "sp_ichthyomyzon_castaneus",
+    "name": "栗色鱼吸鳗",
+    "latin": "Ichthyomyzon castaneus",
+    "aliases": "Chestnut lamprey",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "北美淡水的湖泊和河流，水体可清可浊，常见于中大型河流。",
+    "feature": "身体细长，体色呈栗褐色，具有寄生性成体；口盘上有角质齿。",
+    "diet": "成体吸附鱼体，摄取其体液与肌肉。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "七鳃鳗纲",
+      "七鳃鳗目",
+      "七鳃鳗科",
+      "鱼吸鳗属",
+      "栗色鱼吸鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/2515"
+  },
+  {
+    "id": "sp_ichthyomyzon_fossor",
+    "name": "北方鱼吸鳗",
+    "latin": "Ichthyomyzon fossor",
+    "aliases": "Northern brook lamprey 北方溪七鳃鳗",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "北美北部的清澈溪流砾石浅滩，幼体居于静水的沙泥底。",
+    "feature": "体小细长，成体变态后不再进食，体色偏深。",
+    "diet": "幼体滤食水中有机物；成体不进食。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "七鳃鳗纲",
+      "七鳃鳗目",
+      "七鳃鳗科",
+      "鱼吸鳗属",
+      "北方鱼吸鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/2516"
+  },
+  {
+    "id": "sp_ichthyomyzon_bdellium",
+    "name": "俄亥俄鱼吸鳗",
+    "latin": "Ichthyomyzon bdellium",
+    "aliases": "Ohio lamprey",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "俄亥俄河流域的小型上游河流与溪流；摄食阶段的成体进入中大型河流。",
+    "feature": "体细长，成体口盘有角质齿。",
+    "diet": "成体寄生在鲤科吸口鱼类等鱼体上；幼体在泥沙中生活。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "七鳃鳗纲",
+      "七鳃鳗目",
+      "七鳃鳗科",
+      "鱼吸鳗属",
+      "俄亥俄鱼吸鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/2514"
+  },
+  {
+    "id": "sp_ichthyomyzon_gagei",
+    "name": "南方鱼吸鳗",
+    "latin": "Ichthyomyzon gagei",
+    "aliases": "Southern brook lamprey",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "美国东南部溪流和小河的砾石与沙质浅滩，幼体在沙洲和杂物附近的水流中生活。",
+    "feature": "小型非寄生七鳃鳗，体细长；成体全长一般不到 17 厘米。",
+    "diet": "幼体滤食水底有机物；成体不摄食。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "七鳃鳗纲",
+      "七鳃鳗目",
+      "七鳃鳗科",
+      "鱼吸鳗属",
+      "南方鱼吸鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/2517"
+  },
+  {
+    "id": "sp_ichthyomyzon_greeleyi",
+    "name": "格氏鱼吸鳗",
+    "latin": "Ichthyomyzon greeleyi",
+    "aliases": "Mountain brook lamprey",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "美国东部高落差、水清的溪流，砾石浅滩和沙质流水区。",
+    "feature": "小型溪生七鳃鳗，体细长，成体不进食。",
+    "diet": "幼体滤食水底有机物；成体不摄食。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "七鳃鳗纲",
+      "七鳃鳗目",
+      "七鳃鳗科",
+      "鱼吸鳗属",
+      "格氏鱼吸鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/2518"
+  },
+  {
+    "id": "sp_geotria_australis",
+    "name": "澳洲囊七鳃鳗",
+    "latin": "Geotria australis",
+    "aliases": "Pouched lamprey 澳洲七鳃鳗 南半球七鳃鳗",
+    "group": "圆口类",
+    "collection": "expansion-6",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "南半球温带沿岸河流与海洋；幼体生活在溪流上游的泥洞里，成体入海摄食后再溯河繁殖。",
+    "feature": "细长似鳗，口盘宽大；繁殖期的雄鱼喉部会长出明显的囊（喉囊），因此得名。",
+    "diet": "海中的成体寄生性吸食其他鱼类；幼体滤食水底有机物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "七鳃鳗纲",
+      "七鳃鳗目",
+      "囊七鳃鳗科",
+      "囊七鳃鳗属",
+      "澳洲囊七鳃鳗"
+    ],
+    "source": "https://www.fishbase.se/summary/6947"
+  },
+  {
+    "id": "sp_hydrolagus_colliei",
+    "name": "科氏兔银鲛",
+    "latin": "Hydrolagus colliei",
+    "aliases": "Spotted ratfish 斑点银鲛",
+    "group": "软骨鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "北美西岸从近岸到约 900 米深的底层，常见于 50 至 400 米的冷水区。",
+    "feature": "头部圆钝，眼大而绿，体侧有白斑，细长的尾部呈鞭状；第一背鳍前有硬棘。",
+    "diet": "取食软体动物、甲壳动物和鱼类，也吃棘皮动物和蠕虫。",
+    "myth": "银鲛看起来像一种怪鱼，其实是软骨鱼的另一支。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "全头纲",
+      "银鲛目",
+      "银鲛科",
+      "兔银鲛属",
+      "科氏兔银鲛"
+    ],
+    "source": "https://www.fishbase.se/summary/2589"
+  },
+  {
+    "id": "sp_hydrolagus_novaezealandiae",
+    "name": "新西兰兔银鲛",
+    "latin": "Hydrolagus novaezealandiae",
+    "aliases": "Dark ghost shark New Zealand chimaera",
+    "group": "软骨鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "新西兰外陆架和上陆坡，水深记录 25 至 950 米，常见于 100 至 600 米。",
+    "feature": "银鲛科鱼类，头大，尾部细长，体色较深；第一背鳍前有硬棘。",
+    "diet": "取食甲壳类、贝类、蠕虫和小鱼。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "全头纲",
+      "银鲛目",
+      "银鲛科",
+      "兔银鲛属",
+      "新西兰兔银鲛"
+    ],
+    "source": "https://www.fishbase.se/summary/13146"
+  },
+  {
+    "id": "sp_hydrolagus_trolli",
+    "name": "特氏兔银鲛",
+    "latin": "Hydrolagus trolli",
+    "aliases": "Pointynose blue chimaera 蓝灰兔银鲛",
+    "group": "软骨鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "新喀里多尼亚和新西兰海域的深水底层，水深约 612 至 1707 米。",
+    "feature": "体蓝灰色，尾部细长，头部较尖，第一背鳍前方有硬棘。",
+    "diet": "FishBase 没有详细食性记录。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "全头纲",
+      "银鲛目",
+      "银鲛科",
+      "兔银鲛属",
+      "特氏兔银鲛"
+    ],
+    "source": "https://www.fishbase.se/summary/60055"
+  },
+  {
+    "id": "sp_chimaera_jordani",
+    "name": "乔丹银鲛",
+    "latin": "Chimaera jordani",
+    "aliases": "Jordan's chimaera 喬氏銀鮫 黑翅沙",
+    "group": "软骨鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "西北太平洋相模湾及东大西洋的深水底层，水深约 750 至 1600 米。",
+    "feature": "银鲛科鱼类，体细长，尾部呈鞭状；第一背鳍前方有硬棘。",
+    "diet": "FishBase 没有详细食性记录。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "全头纲",
+      "银鲛目",
+      "银鲛科",
+      "银鲛属",
+      "乔丹银鲛"
+    ],
+    "source": "https://www.fishbase.se/summary/8993"
+  },
+  {
+    "id": "sp_latimeria_menadoensis",
+    "name": "印尼矛尾鱼",
+    "latin": "Latimeria menadoensis",
+    "aliases": "Indonesian coelacanth Manado coelacanth",
+    "group": "肉鳍支系",
+    "collection": "expansion-6",
+    "habitats": [
+      "marine"
+    ],
+    "habitat": "印度尼西亚苏拉威西岛北部的深水岩质斜坡和洞穴，水深约 150 至 200 米。",
+    "feature": "体粗壮，具有肉质叶状偶鳍和三叶尾；体色偏褐，是现生两种矛尾鱼之一。",
+    "diet": "FishBase 对该种食性没有详细记录。",
+    "myth": "曾被当作已灭绝化石类群，后来才发现它仍然活着。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "腔棘鱼纲",
+      "腔棘鱼目",
+      "矛尾鱼科",
+      "矛尾鱼属",
+      "印尼矛尾鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/53783"
+  },
+  {
+    "id": "sp_neoceratodus_forsteri",
+    "name": "澳洲肺鱼",
+    "latin": "Neoceratodus forsteri",
+    "aliases": "Australian lungfish Queensland lungfish",
+    "group": "肉鳍支系",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "澳大利亚昆士兰南部河流的深潭和缓流区，底质为泥、沙或砾石。",
+    "feature": "体粗长，鳞大，偶鳍为叶状肉质鳍；仅有一个肺，与非洲和美洲肺鱼不同。",
+    "diet": "取食蛙、蝌蚪、鱼、虾、蚯蚓、螺类和水生植物。",
+    "myth": "澳洲肺鱼不能像非洲肺鱼那样在干涸的泥中夏眠，如果被迫完全依赖空气呼吸，会死亡。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "肺鱼纲",
+      "角齿鱼目",
+      "澳洲肺鱼科",
+      "澳洲肺鱼属",
+      "澳洲肺鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/4512"
+  },
+  {
+    "id": "sp_protopterus_aethiopicus",
+    "name": "斑纹非洲肺鱼",
+    "latin": "Protopterus aethiopicus",
+    "aliases": "Marbled lungfish 维多利亚肺鱼",
+    "group": "肉鳍支系",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "东非和中非的湖泊边缘、沼泽、泛滥平原；幼鱼躲在纸莎草的根网中。",
+    "feature": "身体长似鳗，体表有大理石般的斑纹；偶鳍细长如丝，是非洲肺鱼中体型最大的种类。",
+    "diet": "FishBase 记录的食物以软体动物、甲壳动物和鱼类为主。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "肺鱼纲",
+      "角齿鱼目",
+      "非洲肺鱼科",
+      "非洲肺鱼属",
+      "斑纹非洲肺鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/8734"
+  },
+  {
+    "id": "sp_protopterus_dolloi",
+    "name": "细长非洲肺鱼",
+    "latin": "Protopterus dolloi",
+    "aliases": "Slender lungfish 长肺鱼",
+    "group": "肉鳍支系",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "刚果河中下游及奥果韦河等水系的沼泽和河流。",
+    "feature": "身体圆柱形，比其他非洲肺鱼更细长；体表带斑点，偶鳍细长。",
+    "diet": "食物为鱼类和昆虫。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "肺鱼纲",
+      "角齿鱼目",
+      "非洲肺鱼科",
+      "非洲肺鱼属",
+      "细长非洲肺鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/8736"
+  },
+  {
+    "id": "sp_lepidosiren_paradoxa",
+    "name": "美洲肺鱼",
+    "latin": "Lepidosiren paradoxa",
+    "aliases": "South American lungfish 南美肺鱼",
+    "group": "肉鳍支系",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "南美亚马孙、巴拉圭河和巴拉那河下游的静水和沼泽，多在缺氧的水域。",
+    "feature": "体长如鳗，具两个无支气管的肺；偶鳍退化为细长的丝状，鳞极小。",
+    "diet": "幼鱼取食昆虫幼虫和螺类；成鱼杂食，吃水生脊椎动物、螺、蚌、虾和藻类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "肺鱼纲",
+      "角齿鱼目",
+      "美洲肺鱼科",
+      "美洲肺鱼属",
+      "美洲肺鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/4511"
+  },
+  {
+    "id": "sp_lepisosteus_platostomus",
+    "name": "短吻雀鳝",
+    "latin": "Lepisosteus platostomus",
+    "aliases": "Shortnose gar",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "北美密西西比河流域的缓流深潭、回水、湖泊和沼泽，常靠近水草和沉木。",
+    "feature": "吻部比长吻雀鳝短而宽，体被菱形硬鳞；体色为橄榄褐色，背部较深。",
+    "diet": "捕食其他鱼类和昆虫。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "全骨鱼纲",
+      "雀鳝目",
+      "雀鳝科",
+      "雀鳝属",
+      "短吻雀鳝"
+    ],
+    "source": "https://www.fishbase.se/summary/2597"
+  },
+  {
+    "id": "sp_atractosteus_tropicus",
+    "name": "热带雀鳝",
+    "latin": "Atractosteus tropicus",
+    "aliases": "Pejelagarto Tropical gar",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "中美洲的低地河流和湖泊缓流区、温暖的静水，常漂浮在水面像浮木。",
+    "feature": "体长而粗壮，吻短而宽，体被坚硬菱形鳞，体表有深色斑点。",
+    "diet": "以鱼类等动物为食。",
+    "myth": "雀鳝的卵有毒，不能食用。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "全骨鱼纲",
+      "雀鳝目",
+      "雀鳝科",
+      "大雀鳝属",
+      "热带雀鳝"
+    ],
+    "source": "https://www.fishbase.se/summary/7326"
+  },
+  {
+    "id": "sp_acipenser_schrenckii",
+    "name": "史氏鲟",
+    "latin": "Acipenser schrenckii",
+    "aliases": "Amur sturgeon 黑龙江鲟 施氏鲟",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "黑龙江（阿穆尔河）流域，成鱼在沙砾质河段活动，也可进入河口。",
+    "feature": "体侧有五行骨板，吻较尖，口在腹面；有褐色和灰色两种体色型。",
+    "diet": "取食底栖生物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "软骨硬鳞鱼纲",
+      "鲟形目",
+      "鲟科",
+      "鲟属",
+      "史氏鲟"
+    ],
+    "source": "https://www.fishbase.se/summary/6085"
+  },
+  {
+    "id": "sp_acipenser_huso",
+    "name": "欧洲鳇",
+    "latin": "Acipenser huso",
+    "aliases": "Beluga Great sturgeon 鳇 Huso huso",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "里海、黑海、亚速海和亚得里亚海的沿岸与河口，繁殖时上溯大型深水河流。",
+    "feature": "体型庞大，吻短而钝，口大呈半月形，下唇中间断开；体侧骨板较小。",
+    "diet": "主要捕食海中的鱼类（如黑海牙鳕、鳀、比目鱼、虾虎鱼），也吃甲壳类、软体动物。",
+    "myth": "欧洲鳇和“白鲟”(中国白鲟)是两种不同的鱼。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "软骨硬鳞鱼纲",
+      "鲟形目",
+      "鲟科",
+      "鲟属",
+      "欧洲鳇"
+    ],
+    "source": "https://www.fishbase.se/summary/2067"
+  },
+  {
+    "id": "sp_acipenser_dauricus",
+    "name": "达氏鳇",
+    "latin": "Acipenser dauricus",
+    "aliases": "Kaluga Kaluga sturgeon River beluga 鳇鱼 Huso dauricus",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "黑龙江（阿穆尔河）流域的河流、湖泊及河口，也进入鄂霍次克海和日本海沿岸半咸水。",
+    "feature": "体型巨大，吻短而钝，口大呈半月形；是淡水中最大的鱼类之一。",
+    "diet": "第一年吃无脊椎动物，3 至 4 龄起改食幼鱼（如大麻哈鱼的幼鱼），成年后吃成鱼。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "软骨硬鳞鱼纲",
+      "鲟形目",
+      "鲟科",
+      "鲟属",
+      "达氏鳇"
+    ],
+    "source": "https://www.fishbase.se/summary/4633"
+  },
+  {
+    "id": "sp_acipenser_ruthenus",
+    "name": "小体鲟",
+    "latin": "Acipenser ruthenus",
+    "aliases": "Sterlet",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "黑海、亚速海、里海流域及西伯利亚额尔齐斯河和叶尼塞河等大河，多在水流较快的深水处。",
+    "feature": "体型较小，吻长而尖，口在腹面，吻下有须；体侧有五行骨板。",
+    "diet": "取食底栖无脊椎动物和小型鱼类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "软骨硬鳞鱼纲",
+      "鲟形目",
+      "鲟科",
+      "鲟属",
+      "小体鲟"
+    ],
+    "source": "https://www.fishbase.se/summary/4604"
+  },
+  {
+    "id": "sp_acipenser_gueldenstaedtii",
+    "name": "俄罗斯鲟",
+    "latin": "Acipenser gueldenstaedtii",
+    "aliases": "Russian sturgeon Danube sturgeon Diamond sturgeon",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "黑海和里海的沿岸与河口，也进入大型河流的深水河段。",
+    "feature": "体侧有五行骨板，吻短而钝；口在腹面，吻下有须。",
+    "diet": "取食底栖软体动物、甲壳类和小型鱼类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "软骨硬鳞鱼纲",
+      "鲟形目",
+      "鲟科",
+      "鲟属",
+      "俄罗斯鲟"
+    ],
+    "source": "https://www.fishbase.se/summary/4712"
+  },
+  {
+    "id": "sp_acipenser_stellatus",
+    "name": "闪光鲟",
+    "latin": "Acipenser stellatus",
+    "aliases": "Starry sturgeon Sevruga",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "里海、黑海、亚速海和爱琴海沿岸的河口与浅海，繁殖时上溯大河。",
+    "feature": "吻细长而尖，体侧有五行骨板，骨板之间散布星状小骨板；口在腹面。",
+    "diet": "主要吃鱼类，也吃软体动物、甲壳类和蠕虫。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "软骨硬鳞鱼纲",
+      "鲟形目",
+      "鲟科",
+      "鲟属",
+      "闪光鲟"
+    ],
+    "source": "https://www.fishbase.se/summary/2065"
+  },
+  {
+    "id": "sp_acipenser_nudiventris",
+    "name": "裸腹鲟",
+    "latin": "Acipenser nudiventris",
+    "aliases": "Fringebarbel sturgeon Ship sturgeon",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "黑海、亚速海、里海和咸海沿岸，以及多瑙河、伏尔加河、乌拉尔河等深水河段。",
+    "feature": "吻短而钝，吻下的须带有流苏状的细丝；体侧骨板较大。",
+    "diet": "取食软体动物、端足类和摇蚊幼虫。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "软骨硬鳞鱼纲",
+      "鲟形目",
+      "鲟科",
+      "鲟属",
+      "裸腹鲟"
+    ],
+    "source": "https://www.fishbase.se/summary/2505"
+  },
+  {
+    "id": "sp_acipenser_sturio",
+    "name": "欧洲鲟",
+    "latin": "Acipenser sturio",
+    "aliases": "European sea sturgeon Atlantic sturgeon Common sturgeon",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "曾遍布欧洲沿海、河口与大河；成鱼大部分时间在近岸海里，繁殖时溯河。",
+    "feature": "吻细长而尖，体侧有五行骨板，口在腹面。",
+    "diet": "取食底栖无脊椎动物和小型鱼类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "软骨硬鳞鱼纲",
+      "鲟形目",
+      "鲟科",
+      "鲟属",
+      "欧洲鲟"
+    ],
+    "source": "https://www.fishbase.se/summary/2066"
+  },
+  {
+    "id": "sp_acipenser_transmontanus",
+    "name": "高首鲟",
+    "latin": "Acipenser transmontanus",
+    "aliases": "White sturgeon Pacific sturgeon 太平洋鲟",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "北美太平洋沿岸的河口、近海和大河；哥伦比亚河等水系有陆封种群。",
+    "feature": "体侧有五行骨板，吻较短钝，口在腹面，吻下有须；体色灰白到灰褐，是北美最大的淡水鱼之一。",
+    "diet": "大于 48 厘米的个体主要吃鱼，较小的吃摇蚊幼虫、小甲壳类、昆虫和软体动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "软骨硬鳞鱼纲",
+      "鲟形目",
+      "鲟科",
+      "鲟属",
+      "高首鲟"
+    ],
+    "source": "https://www.fishbase.se/summary/2594"
+  },
+  {
+    "id": "sp_acipenser_fulvescens",
+    "name": "湖鲟",
+    "latin": "Acipenser fulvescens",
+    "aliases": "Lake sturgeon",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "北美五大湖、圣劳伦斯河、哈德孙湾和密西西比河流域的大湖与大河底层，水深常 5 至 9 米，泥沙砾石底。",
+    "feature": "体侧有五行骨板，吻较圆钝，口在腹面，吻下有四条须；体色灰褐。",
+    "diet": "杂食，靠须探测觅食，几乎任何能吸入口中的食物都会吞下。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "软骨硬鳞鱼纲",
+      "鲟形目",
+      "鲟科",
+      "鲟属",
+      "湖鲟"
+    ],
+    "source": "https://www.fishbase.se/summary/2591"
+  },
+  {
+    "id": "sp_acipenser_medirostris",
+    "name": "中吻鲟",
+    "latin": "Acipenser medirostris",
+    "aliases": "Green sturgeon",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "北美太平洋沿岸的河口、大河下游以及河口外的咸淡水区。",
+    "feature": "体侧有五行骨板，口在腹面；体色橄榄绿，吻下的须靠近口而不是吻端。",
+    "diet": "FishBase 没有给出详细食性。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "软骨硬鳞鱼纲",
+      "鲟形目",
+      "鲟科",
+      "鲟属",
+      "中吻鲟"
+    ],
+    "source": "https://www.fishbase.se/summary/2592"
+  },
+  {
+    "id": "sp_acipenser_persicus",
+    "name": "波斯鲟",
+    "latin": "Acipenser persicus",
+    "aliases": "Persian sturgeon",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "里海（以南部最多）和黑海东部沿岸的河口与近岸，繁殖时溯入水流较急的山地河流。",
+    "feature": "体侧有五行骨板，口在腹面，吻下有须。",
+    "diet": "FishBase 没有给出详细食性。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "软骨硬鳞鱼纲",
+      "鲟形目",
+      "鲟科",
+      "鲟属",
+      "波斯鲟"
+    ],
+    "source": "https://www.fishbase.se/summary/9763"
+  },
+  {
+    "id": "sp_acipenser_brevirostrum",
+    "name": "短吻鲟",
+    "latin": "Acipenser brevirostrum",
+    "aliases": "Shortnose sturgeon",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "migrate"
+    ],
+    "habitat": "北美东岸的河口、海湾和河流下游，偶尔进入开阔海域。",
+    "feature": "吻短而钝，口宽，体侧有五行骨板，是美国东岸体型较小的鲟。",
+    "diet": "夜间在软底觅食；幼鱼吃底栖甲壳类和昆虫，成鱼吃底栖甲壳类、昆虫和软体动物。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "软骨硬鳞鱼纲",
+      "鲟形目",
+      "鲟科",
+      "鲟属",
+      "短吻鲟"
+    ],
+    "source": "https://www.fishbase.se/summary/2590"
+  },
+  {
+    "id": "sp_scaphirhynchus_albus",
+    "name": "白铲鲟",
+    "latin": "Scaphirhynchus albus",
+    "aliases": "Pallid sturgeon 密苏里铲鲟",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "北美密苏里河和密西西比河下游的大型深水浑浊河道，多在强流中的硬沙或砾石底。",
+    "feature": "吻宽而扁，呈铲状；体色苍白，尾柄细长，体表有骨板。",
+    "diet": "吃水生昆虫幼虫（尤其是石蛾幼虫）和小型鱼类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "软骨硬鳞鱼纲",
+      "鲟形目",
+      "鲟科",
+      "铲鲟属",
+      "白铲鲟"
+    ],
+    "source": "https://www.fishbase.se/summary/2595"
+  },
+  {
+    "id": "sp_psephurus_gladius",
+    "name": "白鲟",
+    "latin": "Psephurus gladius",
+    "aliases": "Chinese paddlefish Chinese swordfish 中国剑鲟",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "长江干流宽阔水域，通常在水体中下层，偶尔游入大湖。",
+    "feature": "头部很长，吻极长而扁平如剑；体光滑，几乎无骨板，口大而位于吻腹面。",
+    "diet": "FishBase 没有给出详细食性。",
+    "myth": "白鲟与欧洲鳇不是同一种鱼，现已被宣布灭绝。",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "软骨硬鳞鱼纲",
+      "鲟形目",
+      "匙吻鲟科",
+      "白鲟属",
+      "白鲟"
+    ],
+    "source": "https://www.fishbase.se/summary/4513"
+  },
+  {
+    "id": "sp_polypterus_ornatipinnis",
+    "name": "饰翅多鳍鱼",
+    "latin": "Polypterus ornatipinnis",
+    "aliases": "Ornate bichir 花翅多鳍鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "非洲刚果河流域平静的沼泽和河流。",
+    "feature": "体呈亚圆筒形，背面有一列小背鳍；体色具大理石状斑纹，鳍上有花纹。",
+    "diet": "幼鱼吃蠕虫和昆虫幼虫，成鱼主要吃鱼类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "多鳍鱼纲",
+      "多鳍鱼目",
+      "多鳍鱼科",
+      "多鳍鱼属",
+      "饰翅多鳍鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/8115"
+  },
+  {
+    "id": "sp_polypterus_delhezi",
+    "name": "德氏多鳍鱼",
+    "latin": "Polypterus delhezi",
+    "aliases": "Barred bichir Delhez's bichir 带纹多鳍鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "非洲刚果河中游流域的溪流、湖泊和泛滥区。",
+    "feature": "体呈亚圆筒形，体侧有数条暗色横带；背鳍由 10 至 13 个小背鳍组成。",
+    "diet": "肉食性。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "多鳍鱼纲",
+      "多鳍鱼目",
+      "多鳍鱼科",
+      "多鳍鱼属",
+      "德氏多鳍鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/8116"
+  },
+  {
+    "id": "sp_polypterus_endlicherii",
+    "name": "恩氏多鳍鱼",
+    "latin": "Polypterus endlicherii",
+    "aliases": "Saddled bichir Endlicher's bichir 鞍斑多鳍鱼",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "非洲的沼泽和河流，从尼罗河到西非多条大河。",
+    "feature": "体粗壮，头大；体侧有暗色横带或鞍斑，背面有 11 至 14 个小背鳍。",
+    "diet": "主要吃鱼类，也吃螺和甲壳类。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "多鳍鱼纲",
+      "多鳍鱼目",
+      "多鳍鱼科",
+      "多鳍鱼属",
+      "恩氏多鳍鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/2385"
+  },
+  {
+    "id": "sp_polypterus_polli",
+    "name": "波氏多鳍鱼",
+    "latin": "Polypterus polli",
+    "aliases": "Poll's bichir",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "刚果河中下游流域的沼泽和泛滥区。",
+    "feature": "体细长呈圆筒形；背鳍由 5 至 7 个小背鳍组成，体色淡褐。",
+    "diet": "以昆虫等小型无脊椎动物为食。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "多鳍鱼纲",
+      "多鳍鱼目",
+      "多鳍鱼科",
+      "多鳍鱼属",
+      "波氏多鳍鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/51589"
+  },
+  {
+    "id": "sp_polypterus_weeksii",
+    "name": "维氏多鳍鱼",
+    "latin": "Polypterus weeksii",
+    "aliases": "Mottled bichir Weeks's bichir",
+    "group": "辐鳍鱼类",
+    "collection": "expansion-6",
+    "habitats": [
+      "fresh"
+    ],
+    "habitat": "非洲刚果河中游流域。",
+    "feature": "体略侧扁，体表布满斑驳的网状暗斑；背面有 9 至 11 个小背鳍。",
+    "diet": "FishBase 没有给出详细食性。",
+    "myth": "",
+    "path": [
+      "动物界",
+      "脊索动物门",
+      "多鳍鱼纲",
+      "多鳍鱼目",
+      "多鳍鱼科",
+      "多鳍鱼属",
+      "维氏多鳍鱼"
+    ],
+    "source": "https://www.fishbase.se/summary/8114"
   }
 ];

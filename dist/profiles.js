@@ -11648,5 +11648,1118 @@ window.FISH_PROFILES = {
         "url": "https://www.fishbase.se/references/FBRefSummary.php?ID=11441"
       }
     ]
+  },
+  "sp_eptatretus_stoutii": {
+    "range": "东太平洋，从美国阿拉斯加东南部到墨西哥下加利福尼亚中部。",
+    "size": "FishBase 收录的最大全长为 63.5 厘米。",
+    "recognition": [
+      "体细长无鳞，没有上下颌，口周有须。",
+      "体侧有成排黏液孔，受到刺激时会分泌大量黏液。"
+    ],
+    "reproduction": "",
+    "behavior": "多栖息在细泥和黏土质海底，会取食死鱼并受惊时分泌黏液；FishBase 记录它可能具有雌雄同体的现象。",
+    "lookalike": "与同属其他黏盲鳗外形相近，不能只靠体形判断，通常要比对鳃孔数和黏液孔排列。",
+    "sources": [
+      {
+        "label": "FishBase · Eptatretus stoutii",
+        "url": "https://www.fishbase.se/summary/2512"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=279298"
+      }
+    ]
+  },
+  "sp_eptatretus_burgeri": {
+    "range": "西北太平洋，从日本海、日本东部到台湾。",
+    "size": "FishBase 收录的最大全长为 60 厘米。",
+    "recognition": [
+      "六对鳃孔的排列很少变化，近似直线。",
+      "身体细长无鳞，口周有须，没有上下颌。"
+    ],
+    "reproduction": "FishBase 称它是该科中唯一具有季节性繁殖周期的盲鳗，会向更深的水域移动去产卵。",
+    "behavior": "常埋在海底泥中，在日本和韩国被作为食用鱼，皮可加工成“鳗鱼皮”革制品。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Eptatretus burgeri",
+        "url": "https://www.fishbase.se/summary/8712"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=279272"
+      }
+    ]
+  },
+  "sp_eptatretus_cirrhatus": {
+    "range": "西太平洋，澳大利亚南部和东部以及新西兰。",
+    "size": "FishBase 收录的最大全长为 97 厘米。",
+    "recognition": [
+      "身体粗壮，皮肤松软，没有鳞和上下颌。",
+      "口鼻周围有须，体侧有成行的黏液孔。"
+    ],
+    "reproduction": "",
+    "behavior": "可在局部形成密集种群，常与近岸礁区相关；栖息深度记录从水面附近到约 1100 米。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Eptatretus cirrhatus",
+        "url": "https://www.fishbase.se/summary/23878"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=279276"
+      }
+    ]
+  },
+  "sp_eptatretus_hexatrema": {
+    "range": "东南大西洋，从纳米比亚的沃尔维斯湾到南非德班。",
+    "size": "FishBase 收录的最大全长为 80 厘米。",
+    "recognition": [
+      "每侧鳃孔约有六个，体细长无鳞。",
+      "口周有须，没有上下颌。"
+    ],
+    "reproduction": "",
+    "behavior": "常在泥质海底挖洞藏身，主要靠食腐为生；体表可被单殖吸虫寄生。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Eptatretus hexatrema",
+        "url": "https://www.fishbase.se/summary/8713"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=221466"
+      }
+    ]
+  },
+  "sp_eptatretus_okinoseanus": {
+    "range": "西北太平洋，台湾和日本南部。",
+    "size": "FishBase 收录的最大全长为 80 厘米。",
+    "recognition": [
+      "有八对鳃囊，鳃孔排成松散的直线。",
+      "体细长无鳞，口周有须。"
+    ],
+    "reproduction": "",
+    "behavior": "生活在深水软底，水族馆里可见到它在低光环境中缓慢活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Eptatretus okinoseanus",
+        "url": "https://www.fishbase.se/summary/17195"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=279294"
+      }
+    ]
+  },
+  "sp_myxine_limosa": {
+    "range": "西大西洋，从戴维斯海峡南至佛罗里达，包括墨西哥湾的坎佩切湾。",
+    "size": "FishBase 收录的最大全长为 51 厘米。",
+    "recognition": [
+      "体细长无鳞，口周有须，没有上下颌。",
+      "盲鳗属成员在近缘种间很相似，需要比对鳃孔数量等细节。"
+    ],
+    "reproduction": "",
+    "behavior": "栖息在深水泥质底，常与大西洋盲鳗等近缘种混淆。",
+    "lookalike": "与大西洋盲鳗外形相近，分类上曾经长期被并入后者。",
+    "sources": [
+      {
+        "label": "FishBase · Myxine limosa",
+        "url": "https://www.fishbase.se/summary/54790"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=271309"
+      }
+    ]
+  },
+  "sp_lampetra_fluviatilis": {
+    "range": "欧洲，南挪威至法国，包括爱尔兰和不列颠群岛、波罗的海及地中海西北沿岸；有一些陆封种群。",
+    "size": "FishBase 收录的最大全长为 50 厘米；常见全长约 35 厘米。",
+    "recognition": [
+      "身体细长，口为圆形吸盘并带角质齿。",
+      "体侧有一排七个鳃孔，没有成对偶鳍。"
+    ],
+    "reproduction": "成体在秋春之间夜间溯河到河流产卵，幼体（沙隐虫期）埋在泥沙中生活数年后变态。",
+    "behavior": "多数个体在海中生活 1 至 2 年，部分种群（如苏格兰洛蒙德湖）为永久淡水居留。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Lampetra fluviatilis",
+        "url": "https://www.fishbase.se/summary/4480"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=101172"
+      }
+    ]
+  },
+  "sp_lampetra_planeri": {
+    "range": "欧洲，从大不列颠北部到斯堪的纳维亚南部，波罗的海流域，西至伊比利亚半岛及地中海西部的部分水系。",
+    "size": "FishBase 收录的最大全长为 20.5 厘米；常见全长约 16 厘米。",
+    "recognition": [
+      "体型小，成体全长多在 20 厘米以内。",
+      "口盘小，生活于清澈砾石溪流。"
+    ],
+    "reproduction": "成体在溪底筑巢，雌鱼用口盘吸附在石上，雄鱼缠绕雌鱼产卵受精后死亡。",
+    "behavior": "幼体可埋在底质中生活 5 至 6 年，变态后成体不进食；幼体可作为水质的指示生物。",
+    "lookalike": "与欧洲河七鳃鳗关系很近，后者体型更大、成体会洄游并寄生性吸食鱼类。",
+    "sources": [
+      {
+        "label": "FishBase · Lampetra planeri",
+        "url": "https://www.fishbase.se/summary/4481"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=148719"
+      }
+    ]
+  },
+  "sp_lampetra_aepyptera": {
+    "range": "北美，从美国宾夕法尼亚东南部的萨斯奎哈纳河流域到北卡罗来纳，以及密西西比河流域和莫比尔湾水系。",
+    "size": "FishBase 收录的最大全长为 18 厘米；常见全长约 12 厘米。",
+    "recognition": [
+      "体型很小，全长一般不超过 18 厘米。",
+      "细长无偶鳍，体侧有一排鳃孔。"
+    ],
+    "reproduction": "",
+    "behavior": "成体在清澈砾石浅滩繁殖；幼体生活在泉水补给的湿地和砂泥质溪流的静水处。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Lampetra aepyptera",
+        "url": "https://www.fishbase.se/summary/2520"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1026288"
+      }
+    ]
+  },
+  "sp_lampetra_zanandreai": {
+    "range": "欧洲，意大利北部波河至索查河流域、亚得里亚海沿岸中部的部分水系，及克罗地亚和波黑的内雷特瓦河等。",
+    "size": "FishBase 收录的最大全长为 26 厘米。",
+    "recognition": [
+      "小型溪生七鳃鳗，成体约 12 至 16 厘米。",
+      "口盘较小，身体细长无偶鳍。"
+    ],
+    "reproduction": "繁殖期约在 1 月至 6 月。",
+    "behavior": "幼体滤食底部有机物，约 4.5 年后变态；栖息地破坏和取水威胁其生存。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Lampetra zanandreai",
+        "url": "https://www.fishbase.se/summary/25867"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1528666"
+      }
+    ]
+  },
+  "sp_occidentis_ayresii": {
+    "range": "东太平洋，从阿拉斯加的蒂港到美国加州的萨克拉门托-圣华金流域；加拿大温哥华岛有淡水居留种群。",
+    "size": "FishBase 收录的最大全长为 28.1 厘米（雄鱼或未区分性别）。",
+    "recognition": [
+      "体长在 30 厘米以内的小型七鳃鳗。",
+      "口盘带角质齿，体侧有一排七个鳃孔。"
+    ],
+    "reproduction": "",
+    "behavior": "成体在春末夏初入海觅食，秋季回到河流；幼体埋在泥中，变态后才入海。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Occidentis ayresii",
+        "url": "https://www.fishbase.se/summary/2522"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1804785"
+      }
+    ]
+  },
+  "sp_lethenteron_camtschaticum": {
+    "range": "北极至西北太平洋：西伯利亚沿岸至加拿大安德森河，白令海南至日本和朝鲜半岛；欧洲的北冰洋、白海和巴伦支海流域也有分布。",
+    "size": "FishBase 收录的最大全长为 63 厘米。",
+    "recognition": [
+      "体型较大，体细长无偶鳍。",
+      "口盘圆形带角质齿，体侧有七个鳃孔。"
+    ],
+    "reproduction": "雌雄共同挖巢，雄鱼用口盘吸附雌鱼头部并缠绕其身，二者振动身体使卵和精子排出。",
+    "behavior": "多数洄游，也有淡水非洄游种群；幼体在河岸软泥中生活数年。",
+    "lookalike": "与溪生的雷氏七鳃鳗关系很近，后者是该种的淡水小型近亲。",
+    "sources": [
+      {
+        "label": "FishBase · Lethenteron camtschaticum",
+        "url": "https://www.fishbase.se/summary/2524"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=101173"
+      }
+    ]
+  },
+  "sp_lethenteron_appendix": {
+    "range": "北美，包括五大湖流域、密西西比河流域、圣劳伦斯河流域以及大西洋沿岸部分水系。",
+    "size": "FishBase 收录的最大全长为 35 厘米；常见全长约 15.6 厘米。",
+    "recognition": [
+      "全长一般不到 20 厘米，细长无偶鳍。",
+      "口盘小，体侧有一排鳃孔。"
+    ],
+    "reproduction": "一生只繁殖一次；雌鱼用口盘吸附在巢的上游端石头上，雄鱼缠绕其身产卵受精。",
+    "behavior": "幼体对水质要求较高，常出现在清澈、稳定的冷水溪流中。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Lethenteron appendix",
+        "url": "https://www.fishbase.se/summary/2521"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=845581"
+      }
+    ]
+  },
+  "sp_lethenteron_kessleri": {
+    "range": "亚洲，西伯利亚各地至阿纳德尔河和萨哈林岛。FishBase 指出，北极流域部分被鉴定为该种的标本实为雷氏叉牙七鳃鳗。",
+    "size": "FishBase 收录的最大全长为 26 厘米。",
+    "recognition": [
+      "体型小，成体约 11 至 23 厘米。",
+      "口盘小，细长无偶鳍。"
+    ],
+    "reproduction": "",
+    "behavior": "幼体生活期可达 6 年以上，变态在夏末至秋季完成。",
+    "lookalike": "种间鉴定需检查口盘齿式和形态测量，业余照片很难确认。",
+    "sources": [
+      {
+        "label": "FishBase · Lethenteron kessleri",
+        "url": "https://www.fishbase.se/summary/25874"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1018532"
+      }
+    ]
+  },
+  "sp_entosphenus_tridentatus": {
+    "range": "北太平洋，白令海沿岸经阿拉斯加南至日本北海道和墨西哥下加利福尼亚中部。",
+    "size": "FishBase 收录的最大全长为 76 厘米；常见全长约 41 厘米。",
+    "recognition": [
+      "体较大，细长无偶鳍，体侧有七个鳃孔。",
+      "口盘中有角质齿，上缘有三枚较大的齿尖。"
+    ],
+    "reproduction": "一生繁殖一次；洄游进入淡水后，雌雄共同挖巢，雌鱼吸附在石上，雄鱼用口盘吸住雌鱼头部并缠绕其身。",
+    "behavior": "大多数洄游，也有淡水居留种群；成体在海中可下潜到约 800 米，记录显示它们离岸可达 117 千米。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Entosphenus tridentatus",
+        "url": "https://www.fishbase.se/summary/2529"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=314348"
+      }
+    ]
+  },
+  "sp_ichthyomyzon_unicuspis": {
+    "range": "北美，圣劳伦斯河和五大湖流域，向南经密西西比河上游和俄亥俄河流域到田纳西。",
+    "size": "FishBase 收录的最大全长为 39.2 厘米；常见全长约 20 厘米。",
+    "recognition": [
+      "背鳍只有一个，与海七鳃鳗不同。",
+      "体呈银灰色，口盘上有角质齿。"
+    ],
+    "reproduction": "一生繁殖一次；溯河到砾石浅滩产卵。",
+    "behavior": "多栖息在温暖水体，对水流和温度变化有较高耐受性；幼体居于泥沙质的静水处。",
+    "lookalike": "FishBase 指出它的单个背鳍可与海七鳃鳗区分。",
+    "sources": [
+      {
+        "label": "FishBase · Ichthyomyzon unicuspis",
+        "url": "https://www.fishbase.se/summary/2519"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=158538"
+      }
+    ]
+  },
+  "sp_ichthyomyzon_castaneus": {
+    "range": "北美，哈德孙湾、五大湖和墨西哥湾流域。",
+    "size": "FishBase 收录的最大全长为 38 厘米；常见全长约 20.5 厘米。",
+    "recognition": [
+      "体细长呈栗褐色。",
+      "口盘带角质齿，体侧有一排七个鳃孔。"
+    ],
+    "reproduction": "一生繁殖一次；雌鱼用口盘吸附在巢上游端的石头上，雄鱼吸附在雌鱼头后。",
+    "behavior": "成体主要生活在大型河流和湖泊，水深一般不超过 20 米。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Ichthyomyzon castaneus",
+        "url": "https://www.fishbase.se/summary/2515"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1021311"
+      }
+    ]
+  },
+  "sp_ichthyomyzon_fossor": {
+    "range": "北美，圣劳伦斯河、五大湖和密西西比河北部，西至哈德孙湾流域的红河。",
+    "size": "FishBase 收录的最大全长为 17 厘米；常见全长约 13.4 厘米。",
+    "recognition": [
+      "全长一般不到 17 厘米。",
+      "非寄生性，成体不进食。"
+    ],
+    "reproduction": "",
+    "behavior": "幼体生活在静水中的沙、泥和杂物底，8 月底至 9 月在密歇根完成变态。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Ichthyomyzon fossor",
+        "url": "https://www.fishbase.se/summary/2516"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=590493"
+      }
+    ]
+  },
+  "sp_ichthyomyzon_bdellium": {
+    "range": "北美，美国俄亥俄河流域，从纽约西南部到印第安纳北部、伊利诺伊东部及阿拉巴马北部。",
+    "size": "FishBase 收录的最大全长为 30 厘米（雌鱼 30.5 厘米）。",
+    "recognition": [
+      "体细长，口盘有明显的角质齿。",
+      "成体寄生在鱼类身上，口盘内齿显著。"
+    ],
+    "reproduction": "",
+    "behavior": "已知会寄生在吸口鱼类身上；幼体常在泥质回水处靠近杂物生活。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Ichthyomyzon bdellium",
+        "url": "https://www.fishbase.se/summary/2514"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1019850"
+      }
+    ]
+  },
+  "sp_ichthyomyzon_gagei": {
+    "range": "北美，密西西比河流域、田纳西河流域及墨西哥湾沿岸，从佛罗里达的奥克洛克尼河到得克萨斯的加尔维斯顿湾。",
+    "size": "FishBase 收录的最大全长为 17 厘米；常见全长约 12 厘米。",
+    "recognition": [
+      "体型小，全长约 12 至 17 厘米。",
+      "非寄生，成体不进食。"
+    ],
+    "reproduction": "FishBase 记录不同产地的平均怀卵量在每尾 713 至 2448 枚之间。",
+    "behavior": "成体在砾石和沙质浅滩繁殖，幼体居于流水中的沙洲和杂物附近。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Ichthyomyzon gagei",
+        "url": "https://www.fishbase.se/summary/2517"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1015054"
+      }
+    ]
+  },
+  "sp_ichthyomyzon_greeleyi": {
+    "range": "北美，美国俄亥俄河流域，从纽约西南部到阿拉巴马北部。",
+    "size": "FishBase 收录的最大全长为 20 厘米；常见全长约 13 厘米。",
+    "recognition": [
+      "小型溪生种，全长不到 20 厘米。",
+      "体细长，非寄生。"
+    ],
+    "reproduction": "产卵期在宾夕法尼亚约为 5 月底，产在水流湍急、石块较大的溪流中。",
+    "behavior": "成体偶被泥螈捕食；幼体在池塘和回水处的沙、泥和杂物中生活。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Ichthyomyzon greeleyi",
+        "url": "https://www.fishbase.se/summary/2518"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1014132"
+      }
+    ]
+  },
+  "sp_geotria_australis": {
+    "range": "南太平洋和南大西洋，包括澳大利亚南部、新西兰南部、智利、阿根廷、福克兰群岛和南乔治亚岛。",
+    "size": "FishBase 收录的最大全长为 57 厘米。",
+    "recognition": [
+      "体细长无偶鳍，口盘宽大。",
+      "繁殖期雄鱼有明显喉囊。"
+    ],
+    "reproduction": "一生繁殖一次；溯河洄游可持续约 16 个月，在淡水中产卵。",
+    "behavior": "幼体前四年生活在溪流上游的泥洞里；溯河多在多雨、水位上涨的夜晚，可上行 60 公里以上。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Geotria australis",
+        "url": "https://www.fishbase.se/summary/6947"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=234686"
+      }
+    ]
+  },
+  "sp_hydrolagus_colliei": {
+    "range": "东北太平洋，从阿拉斯加西南部到墨西哥下加利福尼亚，包括加利福尼亚湾，南至哥斯达黎加。",
+    "size": "FishBase 收录的最大全长为 100 厘米。",
+    "recognition": [
+      "吻短而圆钝，眼大，体侧有白色斑点。",
+      "第一背鳍前方有硬棘，尾部细长如鞭。"
+    ],
+    "reproduction": "雌鱼一次排出两枚卵（各自包在卵鞘中），产完全部卵鞘最长可达约 30 小时。",
+    "behavior": "背棘可造成疼痛的伤口；肉可食用但口味平淡，肝脏曾被用作机械润滑油。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Hydrolagus colliei",
+        "url": "https://www.fishbase.se/summary/2589"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=271406"
+      }
+    ]
+  },
+  "sp_hydrolagus_novaezealandiae": {
+    "range": "西南太平洋，新西兰特有。",
+    "size": "FishBase 收录的最大全长为 96 厘米；常见全长约 55 厘米。",
+    "recognition": [
+      "体色较深，头大，尾部细长。",
+      "第一背鳍前方有硬棘。"
+    ],
+    "reproduction": "卵生；幼体孵出时全长约 9 至 12 厘米。",
+    "behavior": "栖息于外陆架和上陆坡；肉被作为鱼片出售。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Hydrolagus novaezealandiae",
+        "url": "https://www.fishbase.se/summary/13146"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=271415"
+      }
+    ]
+  },
+  "sp_hydrolagus_trolli": {
+    "range": "西太平洋，新喀里多尼亚和新西兰。",
+    "size": "FishBase 收录的最大全长为 112 厘米，雌鱼可达 120.4 厘米。",
+    "recognition": [
+      "体色蓝灰，吻较尖。",
+      "尾细长，第一背鳍前有硬棘。"
+    ],
+    "reproduction": "卵生，卵被包在角质卵鞘中。",
+    "behavior": "栖息于深水底层，资料有限。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Hydrolagus trolli",
+        "url": "https://www.fishbase.se/summary/60055"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=271418"
+      }
+    ]
+  },
+  "sp_chimaera_jordani": {
+    "range": "西北太平洋，仅知于相模湾模式产地；东大西洋从西撒哈拉到几内亚附近。西非标本的分类地位尚不确定。",
+    "size": "FishBase 收录的最大体长为 64 厘米（SL）。",
+    "recognition": [
+      "体细长，尾呈鞭状。",
+      "第一背鳍前有硬棘。"
+    ],
+    "reproduction": "卵生，卵被包在角质卵鞘中。",
+    "behavior": "深海底层种类，行为资料很少。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Chimaera jordani",
+        "url": "https://www.fishbase.se/summary/8993"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=271397"
+      }
+    ]
+  },
+  "sp_latimeria_menadoensis": {
+    "range": "西中太平洋，苏拉威西海，苏拉威西岛北部。",
+    "size": "FishBase 收录的最大全长为 140 厘米。",
+    "recognition": [
+      "具有肉质叶状偶鳍和三叶尾。",
+      "体型粗壮，鳞片厚。"
+    ],
+    "reproduction": "",
+    "behavior": "观察到两尾体长约 120 和 140 厘米的个体在水深约 155 米的碳酸盐洞穴中，水温约 17.8 至 20.1 °C。",
+    "lookalike": "与西印度洋的矛尾鱼外形相近，主要靠分布地和遗传差异区分。",
+    "sources": [
+      {
+        "label": "FishBase · Latimeria menadoensis",
+        "url": "https://www.fishbase.se/summary/53783"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=278146"
+      }
+    ]
+  },
+  "sp_neoceratodus_forsteri": {
+    "range": "大洋洲，昆士兰南部的伯内特河与玛丽河水系；曾被成功引入昆士兰东南部。",
+    "size": "FishBase 收录的最大全长为 170 厘米；常见全长约 100 厘米，最大记录体重 40 千克。",
+    "recognition": [
+      "偶鳍为粗壮的叶状肉质鳍。",
+      "体被大鳞，尾为单一的尖形。"
+    ],
+    "reproduction": "产卵期约在 8 月至 10 月，卵像透明的小葡萄，常附着在漂浮的水草上。",
+    "behavior": "喜静水或缓流深潭，夜间活动；水质恶化时可浮到水面呼吸，一小时一至两次。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Neoceratodus forsteri",
+        "url": "https://www.fishbase.se/summary/4512"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1421405"
+      }
+    ]
+  },
+  "sp_protopterus_aethiopicus": {
+    "range": "非洲，尼罗河流域及阿尔伯特湖、爱德华湖、维多利亚湖、坦噶尼喀湖、图尔卡纳湖等；亚种分布于刚果盆地。",
+    "size": "FishBase 收录的最大全长为 200 厘米，常见约 130 厘米，最大记录体重 17 千克。",
+    "recognition": [
+      "体长而粗，体表有大理石状斑纹。",
+      "偶鳍细长如鞭，不像叶状鳍。"
+    ],
+    "reproduction": "雄鱼挖坑筑巢，一个巢中可有多条雌鱼产卵；雌鱼产卵后离开，雄鱼守卫卵和幼体近八周，并不断为巢水增氧。",
+    "behavior": "专性空气呼吸；旱季可在干涸的沼泽里钻入泥中结茧夏眠，等待下一次雨季。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Protopterus aethiopicus",
+        "url": "https://www.fishbase.se/summary/8734"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1021560"
+      }
+    ]
+  },
+  "sp_protopterus_dolloi": {
+    "range": "非洲，刚果河中下游流域，也见于奥果韦河、基卢-尼亚里河和洛埃梅河。",
+    "size": "FishBase 收录的最大全长为 130 厘米，最大记录体重 11 千克。",
+    "recognition": [
+      "身体圆柱形，比同属其他种更细长。",
+      "偶鳍细长如丝，体表有斑点。"
+    ],
+    "reproduction": "巢期记录为 6 月至 10 月；雄鱼在沼泽泥中的巢里守护卵和幼鱼，雌鱼则在河流开阔水域活动。",
+    "behavior": "专性空气呼吸；它所在的栖息地不会完全干涸，因此旱季并不夏眠，挖的洞主要是繁殖时的保护室。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Protopterus dolloi",
+        "url": "https://www.fishbase.se/summary/8736"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1018957"
+      }
+    ]
+  },
+  "sp_lepidosiren_paradoxa": {
+    "range": "南美洲，亚马孙河、巴拉圭河和巴拉那河下游流域。",
+    "size": "FishBase 收录的最大全长为 125 厘米，最大记录年龄 8 年。",
+    "recognition": [
+      "身体长如鳗，偶鳍细长丝状。",
+      "鳞片小而埋于皮下。"
+    ],
+    "reproduction": "雨季繁殖；雄鱼会护卫并为孵出的幼鱼增氧，繁殖期间雄鱼偶鳍上会长出富含血管的丝状物。",
+    "behavior": "专性空气呼吸；旱季可在泥下 30 至 50 厘米处挖洞，用黏土封住入口、仅留 2 至 3 个通气孔，并降低代谢。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Lepidosiren paradoxa",
+        "url": "https://www.fishbase.se/summary/4511"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1019375"
+      }
+    ]
+  },
+  "sp_lepisosteus_platostomus": {
+    "range": "北美，密西西比河流域，从俄亥俄南部、印第安纳北部和威斯康星到蒙大拿，南至阿拉巴马北部和路易斯安那；密歇根湖流域及路易斯安那海岸的部分河流也有。",
+    "size": "FishBase 收录的最大全长为 88 厘米；常见全长约 62.5 厘米，最大记录体重 2.6 千克。",
+    "recognition": [
+      "吻较短而宽，不像长吻雀鳝那样细长。",
+      "体被菱形硬鳞，有时能看到一个鼻前小吻突。"
+    ],
+    "reproduction": "在水草或其他水下物体上产卵。",
+    "behavior": "兼性空气呼吸；在静水里常成群漂浮在水面附近。",
+    "lookalike": "与长吻雀鳝区分的关键是吻的长度和宽度。",
+    "sources": [
+      {
+        "label": "FishBase · Lepisosteus platostomus",
+        "url": "https://www.fishbase.se/summary/2597"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1017720"
+      }
+    ]
+  },
+  "sp_atractosteus_tropicus": {
+    "range": "中美洲，墨西哥南部和中美洲的加勒比海及太平洋斜坡水系。",
+    "size": "FishBase 收录的最大全长为 125 厘米，最大记录体重 2.9 千克。",
+    "recognition": [
+      "吻宽而短，体表有深色斑点。",
+      "体被菱形硬鳞，外形像浮木。"
+    ],
+    "reproduction": "旱季初进入浅湖产卵，雨季河水漫滩时也会繁殖；成群把大量卵产在浅水中的胶状团里。",
+    "behavior": "兼性空气呼吸，常在温暖的静水中漂浮于水面。",
+    "lookalike": "与鳄雀鳝同属，但体型较小、吻较短。",
+    "sources": [
+      {
+        "label": "FishBase · Atractosteus tropicus",
+        "url": "https://www.fishbase.se/summary/7326"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=293650"
+      }
+    ]
+  },
+  "sp_acipenser_schrenckii": {
+    "range": "亚洲，黑龙江（阿穆尔河）水系特有。",
+    "size": "FishBase 收录的最大全长为 300 厘米，最大记录体重 190 千克，最大记录年龄 65 年。",
+    "recognition": [
+      "体侧有五行骨板，口在腹面。",
+      "有褐色和灰色两种体色型。"
+    ],
+    "reproduction": "灰色型的雌鱼至少每四年繁殖一次。",
+    "behavior": "可进入河口，但主要生活在河流沙石底，是价值很高的经济鱼类。",
+    "lookalike": "与达氏鳇同在黑龙江流域，后者体型更大，口为月牙形。",
+    "sources": [
+      {
+        "label": "FishBase · Acipenser schrenckii",
+        "url": "https://www.fishbase.se/summary/6085"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=271698"
+      }
+    ]
+  },
+  "sp_acipenser_huso": {
+    "range": "欧亚大陆，里海、黑海、亚速海流域；亚得里亚海种群已灭绝。",
+    "size": "FishBase 收录的最大全长为 800 厘米，常见全长 215 厘米，最大记录体重 3.2 吨，最大记录年龄 118 年。",
+    "recognition": [
+      "体型极大，吻短钝。",
+      "口大而呈半月形，下唇中断。"
+    ],
+    "reproduction": "3 至 5 月（也有秋季）进入河流；雌鱼每五到七年才繁殖一次，每尾约产 36 万至 770 万枚卵；多靠人工繁殖维持种群。",
+    "behavior": "海中常随食物游动；产卵于水流强的大型深水河流中的石砾底。其鱼子酱最负盛名，也是渔业的主要价值所在。",
+    "lookalike": "与达氏鳇是近亲，后者分布在黑龙江流域。",
+    "sources": [
+      {
+        "label": "FishBase · Acipenser huso",
+        "url": "https://www.fishbase.se/summary/2067"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=299295"
+      }
+    ]
+  },
+  "sp_acipenser_dauricus": {
+    "range": "亚洲，黑龙江流域，向上游可至额尔古纳河、石勒喀河和鄂嫩河；也在乌苏里江和松花江。",
+    "size": "FishBase 收录的最大全长为 560 厘米，最大记录体重 1 吨，最大记录年龄 80 年。",
+    "recognition": [
+      "体型庞大，吻短钝。",
+      "口大而呈半月形，体侧骨板较小。"
+    ],
+    "reproduction": "雄鱼约每三至四年繁殖一次，雌鱼约每四至五年一次；暖年雌鱼会比冷年提前一年产卵。",
+    "behavior": "成鱼栖息于河流和湖泊，并不每年繁殖，随年龄增长繁殖间隔逐渐拉长。",
+    "lookalike": "与欧洲鳇相近，后者分布于里海、黑海等欧亚西部水域。",
+    "sources": [
+      {
+        "label": "FishBase · Acipenser dauricus",
+        "url": "https://www.fishbase.se/summary/4633"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=299284"
+      }
+    ]
+  },
+  "sp_acipenser_ruthenus": {
+    "range": "欧亚大陆，注入黑海、亚速海和里海的河流，以及西伯利亚鄂毕河至叶尼塞河；欧洲各地曾有引入，但没有形成自我维持的种群。",
+    "size": "FishBase 收录的最大全长为 125 厘米，常见全长约 40 厘米，最大记录体重 16 千克。",
+    "recognition": [
+      "吻长而尖，体型比其他鲟小。",
+      "口在腹面，吻下有须，体侧有骨板。"
+    ],
+    "reproduction": "冬季集群在河底深坑里不活动，春季融冰后上溯至水流强的砾石浅滩，把卵散布在石砾上。",
+    "behavior": "河流型鲟，并不进入海中；幼鱼第一个夏天留在河流浅处。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Acipenser ruthenus",
+        "url": "https://www.fishbase.se/summary/4604"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=233941"
+      }
+    ]
+  },
+  "sp_acipenser_gueldenstaedtii": {
+    "range": "欧亚大陆，黑海和里海。",
+    "size": "FishBase 收录的最大全长为 236 厘米，常见全长 145 厘米，最大记录体重 115 千克，最大记录年龄 46 年。",
+    "recognition": [
+      "吻短而钝，体侧有五行骨板。",
+      "口在腹面，吻下有须。"
+    ],
+    "reproduction": "4 至 6 月（偶尔秋季）进入河流，产卵于流速较快的大型深水河流石砾底，主要靠人工繁殖维持。",
+    "behavior": "一般独居，但在越冬或产卵洄游时成群；在海里多在近岸的沙泥底活动。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Acipenser gueldenstaedtii",
+        "url": "https://www.fishbase.se/summary/4712"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=126275"
+      }
+    ]
+  },
+  "sp_acipenser_stellatus": {
+    "range": "欧亚大陆，里海、黑海、亚速海和爱琴海；曾引入咸海。爱琴海及相关水系的种群可能已消失。",
+    "size": "FishBase 收录的最大全长为 250 厘米，常见全长 125 厘米，最大记录体重 80 千克，最大记录年龄 29 年。",
+    "recognition": [
+      "吻细长而尖。",
+      "骨板之间散布星状小骨板。"
+    ],
+    "reproduction": "在水流强的大河主河道的石砾或沙质底繁殖；幼鱼第一个夏天留在河流浅水区。",
+    "behavior": "白天停留在底层，夜间上升到水面觅食；鱼子酱以“sevruga”之名闻名。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Acipenser stellatus",
+        "url": "https://www.fishbase.se/summary/2065"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=126278"
+      }
+    ]
+  },
+  "sp_acipenser_nudiventris": {
+    "range": "欧洲和亚洲西部，黑海、亚速海、里海和咸海；在天然分布区已濒临灭绝。",
+    "size": "FishBase 收录的最大全长为 211 厘米，常见全长 132 厘米，最大记录体重 80 千克，最大记录年龄 30 年。",
+    "recognition": [
+      "吻下的须带有流苏状细丝。",
+      "口在腹面，体侧有大骨板。"
+    ],
+    "reproduction": "4 月底至 6 月在水流强的大河石砾底产卵；雌鱼每 2 至 3 年、雄鱼每 1 至 2 年繁殖一次。",
+    "behavior": "一般独居；多数幼鱼在第一个夏天入海，直到成熟；秋季进入河流越冬，待到次年春季产卵。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Acipenser nudiventris",
+        "url": "https://www.fishbase.se/summary/2505"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=126277"
+      }
+    ]
+  },
+  "sp_acipenser_sturio": {
+    "range": "曾分布于挪威至比斯开湾、北海、欧洲大西洋沿岸、地中海北部和黑海西南部；现仅在法国加龙河繁殖。",
+    "size": "FishBase 收录的最大全长为 600 厘米，常见全长 125 厘米，最大记录体重 400 千克，最大记录年龄约 100 年。",
+    "recognition": [
+      "吻细长而尖。",
+      "体侧有五行骨板，口在腹面。"
+    ],
+    "reproduction": "成鱼在春夏之间溯至大河中游，3 月至 8 月水温升到 20 °C 以上时，在水深 2 至 10 米、流速 1.5 至 2.0 米/秒的石底产卵。",
+    "behavior": "生长慢、寿命长；幼鱼通常在河口停留 2 至 3 年后入海。",
+    "lookalike": "与西北大西洋的大西洋鲟相近，后者曾被视为同种。",
+    "sources": [
+      {
+        "label": "FishBase · Acipenser sturio",
+        "url": "https://www.fishbase.se/summary/2066"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=126279"
+      }
+    ]
+  },
+  "sp_acipenser_transmontanus": {
+    "range": "东太平洋，从阿拉斯加湾到加州蒙特雷；哥伦比亚河流域有陆封种群，并有移入科罗拉多河下游的记录。",
+    "size": "FishBase 收录的最大全长为 610 厘米，最大记录体重 816 千克，最大记录年龄 104 年。",
+    "recognition": [
+      "吻短钝，口在腹面，吻下有须。",
+      "体侧有五行骨板，体型巨大。"
+    ],
+    "reproduction": "成鱼产卵后回到海里；年轻雌鱼约每 4 年繁殖一次，年老雌鱼则每 10 至 11 年一次。",
+    "behavior": "一生大部分时间在近岸海里，进入大河口并溯河到远处产卵；产卵前停止摄食。鱼卵被制成鱼子酱，过去的鱼鳔被制成鱼胶。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Acipenser transmontanus",
+        "url": "https://www.fishbase.se/summary/2594"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=238345"
+      }
+    ]
+  },
+  "sp_acipenser_fulvescens": {
+    "range": "北美，圣劳伦斯河-五大湖、哈德孙湾和密西西比河流域。",
+    "size": "FishBase 收录的最大全长为 274 厘米，常见全长约 97.5 厘米，最大记录体重 125 千克；据称 1952 年捕获的一尾为 152 岁。",
+    "recognition": [
+      "体侧有五行骨板，吻钝，口在腹面。",
+      "吻下有四条须。"
+    ],
+    "reproduction": "产卵场多是河流外弯处布满岩石和巨石的区域。",
+    "behavior": "贴近底层不断移动，用须探测食物；有时进入微咸水。19 世纪曾被大量捕捞。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Acipenser fulvescens",
+        "url": "https://www.fishbase.se/summary/2591"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=271694"
+      }
+    ]
+  },
+  "sp_acipenser_medirostris": {
+    "range": "北美，从阿留申群岛和阿拉斯加湾到墨西哥恩塞纳达；亚洲种群现被视为另一个种库页岛鲟（Acipenser mikadoi）。",
+    "size": "FishBase 收录的最大全长为 270 厘米，常见全长 130 厘米，最大记录体重 159 千克，最大记录年龄 60 年。",
+    "recognition": [
+      "体侧有五行骨板，体色橄榄绿。",
+      "吻下的须靠近口，口在腹面。"
+    ],
+    "reproduction": "成鱼可能在淡水中产卵。",
+    "behavior": "在海里可游相当远；肉可食用，但味道和气味不佳。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Acipenser medirostris",
+        "url": "https://www.fishbase.se/summary/2592"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=271695"
+      }
+    ]
+  },
+  "sp_acipenser_persicus": {
+    "range": "欧亚大陆，里海流域（南部最多），也见于黑海东部。",
+    "size": "FishBase 收录的最大全长为 255 厘米，最大记录体重 70 千克；雌鱼最大记录全长 176.1 厘米。",
+    "recognition": [
+      "体侧有五行骨板。",
+      "口在腹面，吻下有须。"
+    ],
+    "reproduction": "在水流强的大型深水河流的石砾底繁殖；幼鱼第一个夏天留在河流中。",
+    "behavior": "成鱼洄游繁殖，多选择短而急的山地河流。",
+    "lookalike": "与俄罗斯鲟相近，常需要对照骨板和吻形等细节才能区分。",
+    "sources": [
+      {
+        "label": "FishBase · Acipenser persicus",
+        "url": "https://www.fishbase.se/summary/9763"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=238344"
+      }
+    ]
+  },
+  "sp_acipenser_brevirostrum": {
+    "range": "北美，从加拿大圣约翰河到美国佛罗里达的圣约翰斯河。",
+    "size": "FishBase 收录的最大全长为 143 厘米，常见全长约 50 厘米，最大记录体重 23 千克，最大记录年龄 67 年（雌鱼）。",
+    "recognition": [
+      "吻短而钝。",
+      "口宽，体侧有五行骨板。"
+    ],
+    "reproduction": "",
+    "behavior": "雌鱼最高记录年龄 67 岁，雄鱼 30 岁；肉质好，卵可制成鱼子酱。",
+    "lookalike": "与大西洋鲟相比体型较小、吻更短。",
+    "sources": [
+      {
+        "label": "FishBase · Acipenser brevirostrum",
+        "url": "https://www.fishbase.se/summary/2590"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=157869"
+      }
+    ]
+  },
+  "sp_scaphirhynchus_albus": {
+    "range": "北美，几乎仅限于密苏里河和密西西比河下游的主河道，从蒙大拿到路易斯安那。",
+    "size": "FishBase 收录的最大全长为 200 厘米，常见全长约 81.7 厘米，最大记录体重 130 千克，最大记录年龄 41 年。",
+    "recognition": [
+      "吻宽扁如铲，体色苍白。",
+      "尾柄细长，体表有骨板。"
+    ],
+    "reproduction": "",
+    "behavior": "成鱼栖息在大型深水浑浊河道中；因过度捕捞和栖息地丧失而受到威胁。",
+    "lookalike": "与同属的铲鼻鲟（Scaphirhynchus platorynchus）相似，不易区分。",
+    "sources": [
+      {
+        "label": "FishBase · Scaphirhynchus albus",
+        "url": "https://www.fishbase.se/summary/2595"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1425016"
+      }
+    ]
+  },
+  "sp_psephurus_gladius": {
+    "range": "亚洲，中国长江及其支流特有。",
+    "size": "FishBase 收录的最大全长为 300 厘米，最大记录体重 300 千克；曾有的 7 米、500 千克记录存疑。",
+    "recognition": [
+      "吻极长，扁平如剑。",
+      "体表光滑，口大。"
+    ],
+    "reproduction": "产卵期为 3 至 4 月，产卵场在长江上游，也有报告在金沙江下游的水富到宜宾间。",
+    "behavior": "FishBase 记载它可能有部分生活史在海里，繁殖时溯江而上；已多年未见野外个体，2022 年被 IUCN 评估为灭绝。",
+    "lookalike": "同科的美国匙吻鲟吻也扁长，但分布在北美。",
+    "sources": [
+      {
+        "label": "FishBase · Psephurus gladius",
+        "url": "https://www.fishbase.se/summary/4513"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1021135"
+      }
+    ]
+  },
+  "sp_polypterus_ornatipinnis": {
+    "range": "非洲，喀麦隆、刚果民主共和国、安哥拉和刚果共和国的刚果河流域，也见于鲁克瓦湖和坦噶尼喀湖流域。",
+    "size": "FishBase 收录的最大全长为 60 厘米。",
+    "recognition": [
+      "背面有一列分离的小背鳍。",
+      "体表有大理石状斑纹，鳍具花纹。"
+    ],
+    "reproduction": "雄鱼先求偶，并用臀鳍做出杯状；雌鱼把卵产入杯中，之后雄鱼把卵撒开，使其附着在水草等物体上。",
+    "behavior": "兼性空气呼吸，多在夜间捕食，一般独居，不成群。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Polypterus ornatipinnis",
+        "url": "https://www.fishbase.se/summary/8115"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1018789"
+      }
+    ]
+  },
+  "sp_polypterus_delhezi": {
+    "range": "非洲，刚果河中游流域，包括刚果民主共和国和刚果共和国；乍得盆地的记录未获证实。",
+    "size": "FishBase 收录的最大全长为 44 厘米。",
+    "recognition": [
+      "体侧有暗色横带。",
+      "背面有 10 至 13 个小背鳍。"
+    ],
+    "reproduction": "繁殖和产卵发生在雨季。",
+    "behavior": "兼性空气呼吸；肉食性，生活在溪流、湖泊和泛滥区。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Polypterus delhezi",
+        "url": "https://www.fishbase.se/summary/8116"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1019029"
+      }
+    ]
+  },
+  "sp_polypterus_endlicherii": {
+    "range": "非洲，尼罗河、乍得盆地、尼日尔河、沃尔特河、巴恩达马河、科莫埃河和韦梅河。",
+    "size": "FishBase 收录的最大标准体长为 65.5 厘米，最大记录体重 3.4 千克。",
+    "recognition": [
+      "体粗壮、头大。",
+      "背面有 11 至 14 个小背鳍，体侧有鞍斑状横带。"
+    ],
+    "reproduction": "",
+    "behavior": "兼性空气呼吸，主要捕食鱼类，栖息于沼泽和河流。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Polypterus endlicherii",
+        "url": "https://www.fishbase.se/summary/2385"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1021926"
+      }
+    ]
+  },
+  "sp_polypterus_polli": {
+    "range": "非洲，喀麦隆、刚果共和国和刚果民主共和国的刚果河中下游流域。",
+    "size": "FishBase 收录的最大标准体长为 32.1 厘米。",
+    "recognition": [
+      "体细长呈圆筒形。",
+      "背面有 5 至 7 个小背鳍。"
+    ],
+    "reproduction": "",
+    "behavior": "兼性空气呼吸，以昆虫等为食，栖息于沼泽和泛滥区。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Polypterus polli",
+        "url": "https://www.fishbase.se/summary/51589"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1011752"
+      }
+    ]
+  },
+  "sp_polypterus_weeksii": {
+    "range": "非洲，刚果河中游流域，刚果共和国和刚果民主共和国。",
+    "size": "FishBase 收录的最大全长为 54 厘米。",
+    "recognition": [
+      "体表布满斑驳的暗斑。",
+      "背面有 9 至 11 个小背鳍。"
+    ],
+    "reproduction": "",
+    "behavior": "兼性空气呼吸；野外生态资料较少。",
+    "lookalike": "",
+    "sources": [
+      {
+        "label": "FishBase · Polypterus weeksii",
+        "url": "https://www.fishbase.se/summary/8114"
+      },
+      {
+        "label": "WoRMS 分类",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1019148"
+      }
+    ]
   }
 };

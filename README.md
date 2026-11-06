@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  <img alt="574 species" src="https://img.shields.io/badge/物种档案-574-14534c?style=flat-square">
+  <img alt="627 species" src="https://img.shields.io/badge/物种档案-627-14534c?style=flat-square">
   <img alt="7 taxonomic ranks" src="https://img.shields.io/badge/分类阶元-7-14534c?style=flat-square">
-  <img alt="1047 source references" src="https://img.shields.io/badge/资料引用-1047-14534c?style=flat-square">
+  <img alt="1153 source references" src="https://img.shields.io/badge/资料引用-1153-14534c?style=flat-square">
   <a href="https://github.com/CNQQC/fish-atlas/actions/workflows/check.yml"><img alt="Data checks" src="https://github.com/CNQQC/fish-atlas/actions/workflows/check.yml/badge.svg"></a>
   <a href="LICENSE"><img alt="Original code: MIT" src="https://img.shields.io/badge/原创代码-MIT-56675f?style=flat-square"></a>
 </p>
@@ -34,7 +34,7 @@
 
 **鱼间（Fish Atlas）**希望让这些问题变得看得见、点得开、查得到。沿分类树向下寻找，在照片之间辨认差异，再打开档案，读懂一条鱼的形态、分布与生活。
 
-它适合好奇的自然观察者，也适合课堂演示、亲子探索，以及想亲手扩充图鉴的开发者。当前收录 **574 种鱼类、10 纲、69 目、174 科、381 属**；这是一份持续整理的精选图鉴。
+它适合好奇的自然观察者，也适合课堂演示、亲子探索，以及想亲手扩充图鉴的开发者。当前收录 **627 种鱼类、10 纲、69 目、177 科、392 属**；这是一份持续整理的精选图鉴。
 
 ## 三种方式，游进鱼类世界
 
